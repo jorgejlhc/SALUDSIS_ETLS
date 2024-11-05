@@ -1,0 +1,116 @@
+{
+  "itemId" : "_M-u14K-_EeiBYNtwWhZd2Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Q-z_gBQtEemxScNjA2Z18A",
+    "parameterList" : [ {
+      "id" : "_V2OYR2SdEeufQf8lciHyPA",
+      "name" : "ANEXO_ID"
+    }, {
+      "id" : "_V2OYRWSdEeufQf8lciHyPA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_V2OYQWSdEeufQf8lciHyPA",
+      "name" : "FECHA"
+    }, {
+      "id" : "_V2OYSGSdEeufQf8lciHyPA",
+      "name" : "FECHA_CARGUE"
+    }, {
+      "id" : "_V2OYRmSdEeufQf8lciHyPA",
+      "name" : "MENSAJE"
+    }, {
+      "id" : "_V2OYQmSdEeufQf8lciHyPA",
+      "name" : "PERIODO"
+    }, {
+      "id" : "_V2OYRGSdEeufQf8lciHyPA",
+      "name" : "TIEMPOS_FECHA"
+    }, {
+      "id" : "_V2OYQ2SdEeufQf8lciHyPA",
+      "name" : "TIEMPOS_ID"
+    }, {
+      "id" : "_V2OYSWSdEeufQf8lciHyPA",
+      "name" : "ZERO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_V3LahGSdEeufQf8lciHyPA",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_V3LahmSdEeufQf8lciHyPA",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_V3LagWSdEeufQf8lciHyPA",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_V3LagmSdEeufQf8lciHyPA",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_V3Lah2SdEeufQf8lciHyPA",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_V3LahWSdEeufQf8lciHyPA",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_V3Lag2SdEeufQf8lciHyPA",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_V3rJxGSdEeufQf8lciHyPA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_V3rJxmSdEeufQf8lciHyPA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_V3rJwWSdEeufQf8lciHyPA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_V3rJwmSdEeufQf8lciHyPA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_V3rJx2SdEeufQf8lciHyPA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_V3rJxWSdEeufQf8lciHyPA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_V3rJw2SdEeufQf8lciHyPA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_V2sSVmSdEeufQf8lciHyPA",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_V2sSVGSdEeufQf8lciHyPA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_V2sSUmSdEeufQf8lciHyPA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_V2sSU2SdEeufQf8lciHyPA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_V2sSUWSdEeufQf8lciHyPA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_V2sSWWSdEeufQf8lciHyPA",
+      "name" : "JOB"
+    }, {
+      "id" : "_V2sSV2SdEeufQf8lciHyPA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_V2sSWGSdEeufQf8lciHyPA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_V2sSVWSdEeufQf8lciHyPA",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

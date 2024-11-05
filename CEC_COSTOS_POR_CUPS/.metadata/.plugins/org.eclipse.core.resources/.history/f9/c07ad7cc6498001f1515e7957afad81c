@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Q_J9xBQtEemxScNjA2Z18A" id="_Q-z_gBQtEemxScNjA2Z18A" label="CostosXCups" version="0.1" statusCode="" item="_Q_J9xhQtEemxScNjA2Z18A" displayName="CostosXCups">
+    <author href="../talend.project#_s6JikJhkEe-7vLFZQTsKpg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zNRGephkEe-7vLFZQTsKpg" path=""/>
+  <TalendProperties:ContextItem xmi:id="_Q_J9xhQtEemxScNjA2Z18A" property="_Q_J9xBQtEemxScNjA2Z18A" state="_zNRGephkEe-7vLFZQTsKpg" defaultContext="Default">
+    <context href="CostosXCups_0.1.item#_V2OYQGSdEeufQf8lciHyPA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_s46zgJhkEe-7vLFZQTsKpg" label="CEC_COSTOS_POR_CUPS" description="" language="java" technicalLabel="CEC_COSTOS_POR_CUPS" local="true" author="_s6JikJhkEe-7vLFZQTsKpg" productVersion="Talend Open Studio for ESB-8.8.8.20240722_1936-SNAPSHOT" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_s6mOgJhkEe-7vLFZQTsKpg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_s6JikJhkEe-7vLFZQTsKpg" login="jorgejlhc@gmail.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

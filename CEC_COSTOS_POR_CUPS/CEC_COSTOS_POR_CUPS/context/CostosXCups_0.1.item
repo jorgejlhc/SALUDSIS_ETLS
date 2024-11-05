@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_V2OYQGSdEeufQf8lciHyPA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_V2OYQWSdEeufQf8lciHyPA" comment="" name="FECHA" prompt="FECHA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2OYQmSdEeufQf8lciHyPA" comment="" name="PERIODO" prompt="PERIODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2OYQ2SdEeufQf8lciHyPA" comment="" name="TIEMPOS_ID" prompt="TIEMPOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_V2OYRGSdEeufQf8lciHyPA" comment="" name="TIEMPOS_FECHA" prompt="TIEMPOS_FECHA?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_V2OYRWSdEeufQf8lciHyPA" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_V2OYRmSdEeufQf8lciHyPA" comment="" name="MENSAJE" prompt="MENSAJE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2OYR2SdEeufQf8lciHyPA" comment="" name="ANEXO_ID" prompt="ANEXO_ID?" promptNeeded="false" type="id_BigDecimal" value="null"/>
+  <contextParameter xmi:id="_V2OYSGSdEeufQf8lciHyPA" comment="" name="FECHA_CARGUE" prompt="FECHA_CARGUE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2OYSWSdEeufQf8lciHyPA" comment="" name="ZERO" prompt="ZERO?" promptNeeded="false" type="id_BigDecimal" value="new BigDecimal(0)"/>
+</talendfile:ContextType>

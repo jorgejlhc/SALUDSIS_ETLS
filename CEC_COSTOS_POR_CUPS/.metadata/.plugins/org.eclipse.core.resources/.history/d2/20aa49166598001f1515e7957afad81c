@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_V2sSUGSdEeufQf8lciHyPA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_V2sSUWSdEeufQf8lciHyPA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2sSUmSdEeufQf8lciHyPA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2sSU2SdEeufQf8lciHyPA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2sSVGSdEeufQf8lciHyPA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_V2sSVWSdEeufQf8lciHyPA" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="../../../Connections.xml"/>
+  <contextParameter xmi:id="_V2sSVmSdEeufQf8lciHyPA" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="../../../DataWarehouse.xml"/>
+  <contextParameter xmi:id="_V2sSV2SdEeufQf8lciHyPA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_V2sSWGSdEeufQf8lciHyPA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_V2sSWWSdEeufQf8lciHyPA" comment="" name="JOB" prompt="JOB?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
