@@ -1,0 +1,56 @@
+[ {
+  "baseItem" : {
+    "id" : "_R3VLwAEkEeizrNoyqeqqPw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xmQMMI7SEeWTauwHhyrtXA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_NXu4UJUkEeW7DvD_0oYqHw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - GEN_SEXOS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - GEN_TDOCUMENTOS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - RIPS_ARCHIVOSJOBS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - RIPS_ESTADOS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - RIPS_TARCHIVOS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xLOfYBOgEeawAfp8SPJAtw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
