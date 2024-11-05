@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_dWwBMWWfEeucq692T6DK2w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_dWwBMmWfEeucq692T6DK2w" comment="" name="mail_To" prompt="mail_To?" promptNeeded="false" type="id_String" value="Roger&lt;rprieto@vertical.codaltec.com>,Camilo&lt;jcajamarca@vertical.codaltec.com>,Numa&lt;ncaicedo@vertical.codaltec.com>, Andrea&lt;acarrillo@vertical.codaltec.com>, JMelo &lt;jmelo@vertical.codaltec.com>"/>
+  <contextParameter xmi:id="_dWwBM2WfEeucq692T6DK2w" comment="" name="mail_Sendername" prompt="mail_Sendername?" promptNeeded="false" type="id_String" value="Soporte codaltec"/>
+  <contextParameter xmi:id="_dWwBNGWfEeucq692T6DK2w" comment="" name="mail_Subject" prompt="mail_Subject?" promptNeeded="false" type="id_String" value="Error al ejecutar Job"/>
+  <contextParameter xmi:id="_dWwBNWWfEeucq692T6DK2w" comment="" name="mail_Message" prompt="mail_Message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dWwBNmWfEeucq692T6DK2w" comment="" name="mail_SMTP_Host" prompt="mail_SMTP_Host?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+  <contextParameter xmi:id="_dWwBN2WfEeucq692T6DK2w" comment="" name="mail_SMTP_Port" prompt="mail_SMTP_Port?" promptNeeded="false" type="id_String" value="587"/>
+  <contextParameter xmi:id="_dWwBOGWfEeucq692T6DK2w" comment="" name="mail_User" prompt="mail_User?" promptNeeded="false" type="id_String" value="desarrolladores.codaltec@gmail.com"/>
+  <contextParameter xmi:id="_dWwBOWWfEeucq692T6DK2w" comment="" name="mail_Password" prompt="mail_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:2sZyyAnnRTRDeDAC4OSZEbGB3GC1207LIiF0X9LJkoT0t30iZmSJAjg="/>
+  <contextParameter xmi:id="_dWwBOmWfEeucq692T6DK2w" comment="" name="mail_From" prompt="mail_From?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dWwBO2WfEeucq692T6DK2w" comment="" name="mail_Content" prompt="mail_Content?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

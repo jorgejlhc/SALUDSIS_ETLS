@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_GbW24Ci9Eemi0ealXQ-6GA" id="_GbR-YCi9Eemi0ealXQ-6GA" label="ActualizarParametricas" description="Consultar el webservice de la secretaria de salud de bogotá con el fin de obtener la información de las tablas parámetricas homologadas en SALUD.SIS" version="0.1" statusCode="" item="_GbXd8Ci9Eemi0ealXQ-6GA" displayName="ActualizarParametricas">
+    <author href="../../talend.project#_PKLd4JgQEe-1JrZrtUUyiw"/>
+    <additionalProperties xmi:id="_xFmagJgQEe-1JrZrtUUyiw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_xFmagZgQEe-1JrZrtUUyiw" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_xFmagpgQEe-1JrZrtUUyiw" key="created_date" value="2024-11-01T00:18:45.288-0500"/>
+    <additionalProperties xmi:id="_xFmag5gQEe-1JrZrtUUyiw" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_xFmahJgQEe-1JrZrtUUyiw" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_xFmahZgQEe-1JrZrtUUyiw" key="modified_date" value="2024-11-01T00:20:25.731-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xExUEJgQEe-1JrZrtUUyiw" path="VAC" locked="true" lockDate="2024-11-01T00:20:06.227-0500">
+    <locker href="../../talend.project#_PKLd4JgQEe-1JrZrtUUyiw"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_GbXd8Ci9Eemi0ealXQ-6GA" property="_GbW24Ci9Eemi0ealXQ-6GA" state="_xExUEJgQEe-1JrZrtUUyiw">
+    <process href="ActualizarParametricas_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

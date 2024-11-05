@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_mAKKMV8EEeaD-8jq-bw5lQ" id="_mAKKMF8EEeaD-8jq-bw5lQ" label="Mail" version="1.3" statusCode="PROD" item="_mAKKM18EEeaD-8jq-bw5lQ" displayName="Mail">
+    <author href="../../../talend.project#_PKLd4JgQEe-1JrZrtUUyiw"/>
+    <additionalProperties xmi:id="_xBBcgJgQEe-1JrZrtUUyiw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_xBBcgZgQEe-1JrZrtUUyiw" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_xBBcgpgQEe-1JrZrtUUyiw" key="created_date" value="2024-11-01T00:18:44.808-0500"/>
+    <additionalProperties xmi:id="_xBBcg5gQEe-1JrZrtUUyiw" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_xBBchJgQEe-1JrZrtUUyiw" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_xBBchZgQEe-1JrZrtUUyiw" key="modified_date" value="2024-11-01T00:18:44.808-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xApCAJgQEe-1JrZrtUUyiw" path="Gen/Correo"/>
+  <TalendProperties:ProcessItem xmi:id="_mAKKM18EEeaD-8jq-bw5lQ" property="_mAKKMV8EEeaD-8jq-bw5lQ" state="_xApCAJgQEe-1JrZrtUUyiw">
+    <process href="Mail_1.3.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

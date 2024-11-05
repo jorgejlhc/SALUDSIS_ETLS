@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_dXfoEGWfEeucq692T6DK2w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_dXfoEWWfEeucq692T6DK2w" comment="Actualizar para salida productivo" name="UrlEndPoint" prompt="UrlEndPoint?" promptNeeded="false" type="id_String" value="http://190.25.230.147/WsPaiPruebas/Service.svc"/>
+  <contextParameter xmi:id="_dXfoEmWfEeucq692T6DK2w" comment="" name="UrlActionSoap" prompt="UrlActionSoap?" promptNeeded="false" type="id_String" value="http://Sds.SaludPublica/IpaiServicioSDS/seleccionarTablaDominio"/>
+  <contextParameter xmi:id="_dXfoE2WfEeucq692T6DK2w" comment="" name="IdTabla" prompt="IdTabla?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXfoFGWfEeucq692T6DK2w" comment="Errores de la transacción" name="ERRORES" prompt="ERRORES?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXfoFWWfEeucq692T6DK2w" comment="" name="RESULTADO" prompt="RESULTADO?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_dXfoFmWfEeucq692T6DK2w" comment="Url del WS para insertar una persona" name="UlrActionSoapInsertarPersona" prompt="UlrActionSoapInsertarPersona?" promptNeeded="false" type="id_String" value="http://Sds.SaludPublica/IpaiServicioSDS/InsertarPersona"/>
+  <contextParameter xmi:id="_dXfoF2WfEeucq692T6DK2w" comment="Url del WS para insertar una vacuna" name="UrlActionSoapInsertarVacuna" prompt="UrlActionSoapInsertarVacuna?" promptNeeded="false" type="id_String" value="http://Sds.SaludPublica/IpaiServicioSDS/insertarVacunaPersona"/>
+</talendfile:ContextType>

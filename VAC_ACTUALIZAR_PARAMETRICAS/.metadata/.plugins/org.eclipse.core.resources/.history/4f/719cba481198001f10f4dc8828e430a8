@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_dXGmgGWfEeucq692T6DK2w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_dXGmgWWfEeucq692T6DK2w" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXGmgmWfEeucq692T6DK2w" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXGmg2WfEeucq692T6DK2w" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXGmhGWfEeucq692T6DK2w" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXGmhWWfEeucq692T6DK2w" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dXGmhmWfEeucq692T6DK2w" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_dXGmh2WfEeucq692T6DK2w" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_dXGmiGWfEeucq692T6DK2w" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_dXGmiWWfEeucq692T6DK2w" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="../Connections.xml"/>
+  <contextParameter xmi:id="_dXGmimWfEeucq692T6DK2w" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="DataWarehouse.xml"/>
+  <contextParameter xmi:id="_dXGmi2WfEeucq692T6DK2w" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>
