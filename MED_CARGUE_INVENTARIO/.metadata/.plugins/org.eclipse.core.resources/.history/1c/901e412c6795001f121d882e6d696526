@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_W-9zACOkEeutYMi5Po4IXA" id="_n2f-YE5pEe-Fnt1InIBqKg" label="ServiceCargueInventario" version="0.2" statusCode="" item="_W-9zAiOkEeutYMi5Po4IXA" displayName="ServiceCargueInventario">
+    <author href="../../talend.project#_4IFVsJVmEe-R-8sZdLgjFA"/>
+    <additionalProperties xmi:id="_W_G88COkEeutYMi5Po4IXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G88SOkEeutYMi5Po4IXA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G88iOkEeutYMi5Po4IXA" key="created_date" value="2024-07-30T06:48:22.470-0500"/>
+    <additionalProperties xmi:id="_W_G88yOkEeutYMi5Po4IXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G89COkEeutYMi5Po4IXA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G89SOkEeutYMi5Po4IXA" key="modified_date" value="2024-07-30T07:45:02.486-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LD6tkJVnEe-R-8sZdLgjFA" path="Servicio"/>
+  <TalendProperties:ProcessItem xmi:id="_W-9zAiOkEeutYMi5Po4IXA" property="_W-9zACOkEeutYMi5Po4IXA" state="_LD6tkJVnEe-R-8sZdLgjFA">
+    <process href="ServiceCargueInventario_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

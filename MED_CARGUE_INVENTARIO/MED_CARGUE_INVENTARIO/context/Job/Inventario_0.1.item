@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_vmhlJk5pEe-Fnt1InIBqKg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_vmhlJ05pEe-Fnt1InIBqKg" comment="" name="carga_id" prompt="carga_id?" promptNeeded="true" type="id_BigDecimal" value="524"/>
+  <contextParameter xmi:id="_vmhlKE5pEe-Fnt1InIBqKg" comment="" name="Contenido" prompt="Contenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_vmhlKU5pEe-Fnt1InIBqKg" comment="" name="TContenido" prompt="TContenido?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_vmhlKk5pEe-Fnt1InIBqKg" comment="" name="Salida" prompt="Salida?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_vmhlK05pEe-Fnt1InIBqKg" comment="" name="result" prompt="result?" promptNeeded="false" type="id_String" value="0"/>
+  <contextParameter xmi:id="_vmhlLE5pEe-Fnt1InIBqKg" comment="" name="contrato_id" prompt="contrato_id?" promptNeeded="true" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_vmhlLU5pEe-Fnt1InIBqKg" comment="" name="usuario_id" prompt="usuario_id?" promptNeeded="true" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_vmhlLk5pEe-Fnt1InIBqKg" comment="" name="bodega_id" prompt="bodega_id?" promptNeeded="true" type="id_BigDecimal" value="42"/>
+  <contextParameter xmi:id="_vmhlL05pEe-Fnt1InIBqKg" comment="" name="movimiento_id" prompt="movimiento_id?" promptNeeded="false" type="id_BigDecimal" value="-1"/>
+  <contextParameter xmi:id="_vmhlME5pEe-Fnt1InIBqKg" comment="" name="tmovimiento_id" prompt="tmovimiento_id?" promptNeeded="false" type="id_BigDecimal" value="-1"/>
+  <contextParameter xmi:id="_vmhlMU5pEe-Fnt1InIBqKg" comment="" name="tvencimiento" prompt="tvencimiento?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_vmhlMk5pEe-Fnt1InIBqKg" comment="" name="IsValid" prompt="IsValid?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_vmhlM05pEe-Fnt1InIBqKg" comment="" name="nombre" prompt="nombre?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_vmhlNE5pEe-Fnt1InIBqKg" comment="" name="cantFilas" prompt="cantFilas?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

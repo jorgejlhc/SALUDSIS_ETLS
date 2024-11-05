@@ -1,0 +1,106 @@
+{
+  "itemId" : "_Bb7QkDmzEee1m_q2SEe_xA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_vlnmOk5pEe-Fnt1InIBqKg",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_vlnmO05pEe-Fnt1InIBqKg",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_vlnmPE5pEe-Fnt1InIBqKg",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_vlnmPk5pEe-Fnt1InIBqKg",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_vlnmPU5pEe-Fnt1InIBqKg",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_vlnmP05pEe-Fnt1InIBqKg",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_vlnmQE5pEe-Fnt1InIBqKg",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_vmX0IU5pEe-Fnt1InIBqKg",
+      "name" : "ERROR"
+    }, {
+      "id" : "_vmX0JU5pEe-Fnt1InIBqKg",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_vmX0KU5pEe-Fnt1InIBqKg",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_vmX0Ik5pEe-Fnt1InIBqKg",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_vmX0JE5pEe-Fnt1InIBqKg",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_vmX0I05pEe-Fnt1InIBqKg",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_vmX0Jk5pEe-Fnt1InIBqKg",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_vmX0J05pEe-Fnt1InIBqKg",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_vmX0KE5pEe-Fnt1InIBqKg",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_UNgBgFnNEeaB-tQc7V-sTQ",
+    "parameterList" : [ {
+      "id" : "_vmhlLk5pEe-Fnt1InIBqKg",
+      "name" : "bodega_id"
+    }, {
+      "id" : "_vmhlNE5pEe-Fnt1InIBqKg",
+      "name" : "cantFilas"
+    }, {
+      "id" : "_vmhlJ05pEe-Fnt1InIBqKg",
+      "name" : "carga_id"
+    }, {
+      "id" : "_vmhlKE5pEe-Fnt1InIBqKg",
+      "name" : "Contenido"
+    }, {
+      "id" : "_vmhlLE5pEe-Fnt1InIBqKg",
+      "name" : "contrato_id"
+    }, {
+      "id" : "_vmhlMk5pEe-Fnt1InIBqKg",
+      "name" : "IsValid"
+    }, {
+      "id" : "_vmhlL05pEe-Fnt1InIBqKg",
+      "name" : "movimiento_id"
+    }, {
+      "id" : "_vmhlM05pEe-Fnt1InIBqKg",
+      "name" : "nombre"
+    }, {
+      "id" : "_vmhlK05pEe-Fnt1InIBqKg",
+      "name" : "result"
+    }, {
+      "id" : "_vmhlKk5pEe-Fnt1InIBqKg",
+      "name" : "Salida"
+    }, {
+      "id" : "_vmhlKU5pEe-Fnt1InIBqKg",
+      "name" : "TContenido"
+    }, {
+      "id" : "_vmhlME5pEe-Fnt1InIBqKg",
+      "name" : "tmovimiento_id"
+    }, {
+      "id" : "_vmhlMU5pEe-Fnt1InIBqKg",
+      "name" : "tvencimiento"
+    }, {
+      "id" : "_vmhlLU5pEe-Fnt1InIBqKg",
+      "name" : "usuario_id"
+    } ]
+  } ]
+}
