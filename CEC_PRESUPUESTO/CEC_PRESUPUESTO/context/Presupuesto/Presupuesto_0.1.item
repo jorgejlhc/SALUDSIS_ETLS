@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_FVvwIWZsEeua6sSp4j14Fg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_FVvwImZsEeua6sSp4j14Fg" comment="" name="Cod_Esm" prompt="Cod_Esm?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwI2ZsEeua6sSp4j14Fg" comment="" name="Esm" prompt="Esm?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwJGZsEeua6sSp4j14Fg" comment="" name="Rubro" prompt="Rubro?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwJWZsEeua6sSp4j14Fg" comment="" name="Ejecucion" prompt="Ejecucion?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwJmZsEeua6sSp4j14Fg" comment="" name="Cta_Cont" prompt="Cta_Cont?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwJ2ZsEeua6sSp4j14Fg" comment="" name="Linea" prompt="Linea?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_FVvwKGZsEeua6sSp4j14Fg" comment="" name="Error_Cuenta" prompt="Error_Cuenta?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_FVvwKWZsEeua6sSp4j14Fg" comment="" name="LineaCuenta" prompt="LineaCuenta?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_FVvwKmZsEeua6sSp4j14Fg" comment="" name="Mensaje_1" prompt="Mensaje_1?" promptNeeded="false" type="id_String" value="&quot; no se encuentra parametrizada como elemento del costo en el sistema y sera ignorada de la carga del archivo de presupuesto&quot;"/>
+  <contextParameter xmi:id="_FVvwK2ZsEeua6sSp4j14Fg" comment="" name="ArchivoErrores" prompt="ArchivoErrores?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwLGZsEeua6sSp4j14Fg" comment="" name="CuentasIgnoradas" prompt="CuentasIgnoradas?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwLWZsEeua6sSp4j14Fg" comment="" name="AnexosId" prompt="AnexosId?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_FVvwLmZsEeua6sSp4j14Fg" comment="" name="GUID" prompt="GUID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FVvwL2ZsEeua6sSp4j14Fg" comment="" name="Mes" prompt="Mes?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_FVvwMGZsEeua6sSp4j14Fg" comment="" name="Ano" prompt="Ano?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_FVvwMWZsEeua6sSp4j14Fg" comment="" name="Periodo" prompt="Periodo?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_FVvwMmZsEeua6sSp4j14Fg" comment="" name="Cuenta_Ignorada" prompt="Cuenta_Ignorada?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

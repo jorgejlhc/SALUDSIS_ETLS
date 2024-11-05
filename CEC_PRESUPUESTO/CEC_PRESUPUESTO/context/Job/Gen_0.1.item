@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_FU7QwWZsEeua6sSp4j14Fg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_FU7QwmZsEeua6sSp4j14Fg" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FU7Qw2ZsEeua6sSp4j14Fg" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FU7QxGZsEeua6sSp4j14Fg" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FU7QxWZsEeua6sSp4j14Fg" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FU7QxmZsEeua6sSp4j14Fg" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FU7Qx2ZsEeua6sSp4j14Fg" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_FU7QyGZsEeua6sSp4j14Fg" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_FU7QyWZsEeua6sSp4j14Fg" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_FU7QymZsEeua6sSp4j14Fg" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="Connections.xml"/>
+  <contextParameter xmi:id="_FU7Qy2ZsEeua6sSp4j14Fg" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="DataWarehouse.xml"/>
+  <contextParameter xmi:id="_FU7QzGZsEeua6sSp4j14Fg" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>
