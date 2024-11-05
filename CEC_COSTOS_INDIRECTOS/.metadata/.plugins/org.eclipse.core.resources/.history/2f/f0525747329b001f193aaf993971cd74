@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_TH2KQELSEeaMX_aculPOTQ" id="_THoH0ELSEeaMX_aculPOTQ" label="Connection" version="0.1" statusCode="" item="_TH2KQkLSEeaMX_aculPOTQ" displayName="Connection">
+    <author href="../../../talend.project#_LDkIYJsyEe-gCOVcMY15OQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_R1Th-ZsyEe-gCOVcMY15OQ" path="Gen/Connection"/>
+  <TalendProperties:ContextItem xmi:id="_TH2KQkLSEeaMX_aculPOTQ" property="_TH2KQELSEeaMX_aculPOTQ" state="_R1Th-ZsyEe-gCOVcMY15OQ" defaultContext="Default">
+    <context href="Connection_0.1.item#_MLTvMGZrEeu3C4VE0D0_ng"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_MLn4QGZrEeu3C4VE0D0_ng" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_MLn4QWZrEeu3C4VE0D0_ng" comment="" name="db_destino_AdditionalParams" prompt="db_destino_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_MLn4QmZrEeu3C4VE0D0_ng" comment="" name="db_destino_Login" prompt="db_destino_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="REP_SALUDSIS"/>
+  <contextParameter xmi:id="_MLn4Q2ZrEeu3C4VE0D0_ng" comment="" name="db_destino_Password" prompt="db_destino_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:2+7mo3Ef1G+bhHqz3QVkrvJp5QZz+cJySp5fnXM3Twz+ZwCFHH8a"/>
+  <contextParameter xmi:id="_MLn4RGZrEeu3C4VE0D0_ng" comment="" name="db_destino_Schema" prompt="db_destino_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="REP_SALUDSIS"/>
+  <contextParameter xmi:id="_MLn4RWZrEeu3C4VE0D0_ng" comment="" name="db_destino_Port" prompt="db_destino_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_MLn4RmZrEeu3C4VE0D0_ng" comment="" name="db_destino_Server" prompt="db_destino_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.20.19.37"/>
+  <contextParameter xmi:id="_MLn4R2ZrEeu3C4VE0D0_ng" comment="" name="db_destino_ServiceName" prompt="db_destino_ServiceName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="PDBDEV"/>
+</talendfile:ContextType>

@@ -1,0 +1,241 @@
+{
+  "itemId" : "_3dirgMWaEeimhfSmKfzVwQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_MLTvMWZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_MLTvMmZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_MLTvM2ZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_MLTvNWZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_MLTvNGZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_MLTvNmZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_MLTvN2ZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_MLTvOGZrEeu3C4VE0D0_ng",
+      "name" : "PathStorage"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_xmQMMI7SEeWTauwHhyrtXA",
+    "parameterList" : [ {
+      "id" : "_MMwgs2ZrEeu3C4VE0D0_ng",
+      "name" : "CONTENIDO"
+    }, {
+      "id" : "_MMwgtmZrEeu3C4VE0D0_ng",
+      "name" : "Host"
+    }, {
+      "id" : "_MMwgsWZrEeu3C4VE0D0_ng",
+      "name" : "ID"
+    }, {
+      "id" : "_MMwgtWZrEeu3C4VE0D0_ng",
+      "name" : "IDARCHIVO"
+    }, {
+      "id" : "_MMwgtGZrEeu3C4VE0D0_ng",
+      "name" : "NOMBRE"
+    }, {
+      "id" : "_MMwgumZrEeu3C4VE0D0_ng",
+      "name" : "Password"
+    }, {
+      "id" : "_MMwgt2ZrEeu3C4VE0D0_ng",
+      "name" : "Port"
+    }, {
+      "id" : "_MMwguGZrEeu3C4VE0D0_ng",
+      "name" : "Sid"
+    }, {
+      "id" : "_MMwgsmZrEeu3C4VE0D0_ng",
+      "name" : "TCONTENIDO"
+    }, {
+      "id" : "_MMwguWZrEeu3C4VE0D0_ng",
+      "name" : "User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_MLn4QWZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_MLn4QmZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_MLn4Q2ZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_MLn4RWZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_MLn4RGZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_MLn4RmZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_MLn4R2ZrEeu3C4VE0D0_ng",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_MML4-2ZrEeu3C4VE0D0_ng",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_MML482ZrEeu3C4VE0D0_ng",
+      "name" : "ERROR"
+    }, {
+      "id" : "_MML492ZrEeu3C4VE0D0_ng",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_MML4_GZrEeu3C4VE0D0_ng",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_MML48mZrEeu3C4VE0D0_ng",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_MML49GZrEeu3C4VE0D0_ng",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_MML49mZrEeu3C4VE0D0_ng",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_MML49WZrEeu3C4VE0D0_ng",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_MML4-GZrEeu3C4VE0D0_ng",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_MML4-WZrEeu3C4VE0D0_ng",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_MML4-mZrEeu3C4VE0D0_ng",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_ML9PdWZrEeu3C4VE0D0_ng",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_ML9PeWZrEeu3C4VE0D0_ng",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_ML9Pc2ZrEeu3C4VE0D0_ng",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_ML9PdmZrEeu3C4VE0D0_ng",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_ML9Pd2ZrEeu3C4VE0D0_ng",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_ML9PdGZrEeu3C4VE0D0_ng",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_ML9PcmZrEeu3C4VE0D0_ng",
+      "name" : "mail_To"
+    }, {
+      "id" : "_ML9PeGZrEeu3C4VE0D0_ng",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_borYAMZLEeimhfSmKfzVwQ",
+    "parameterList" : [ {
+      "id" : "_MMdlwmZrEeu3C4VE0D0_ng",
+      "name" : "ANEXO_ID_CEC"
+    }, {
+      "id" : "_MMdlyWZrEeu3C4VE0D0_ng",
+      "name" : "ANIO"
+    }, {
+      "id" : "_MMdlx2ZrEeu3C4VE0D0_ng",
+      "name" : "ARCHIVO_SALIDAD_CEC"
+    }, {
+      "id" : "_MMdlzWZrEeu3C4VE0D0_ng",
+      "name" : "CECO"
+    }, {
+      "id" : "_MMdl2mZrEeu3C4VE0D0_ng",
+      "name" : "CECO_ID"
+    }, {
+      "id" : "_MMdlzmZrEeu3C4VE0D0_ng",
+      "name" : "COD_ESM"
+    }, {
+      "id" : "_MMdl0WZrEeu3C4VE0D0_ng",
+      "name" : "CTA_CONT"
+    }, {
+      "id" : "_MMdl2GZrEeu3C4VE0D0_ng",
+      "name" : "CUENTA_MENSAJE"
+    }, {
+      "id" : "_MMdl1GZrEeu3C4VE0D0_ng",
+      "name" : "CUENTAS_IGNORADAS"
+    }, {
+      "id" : "_MMdl1WZrEeu3C4VE0D0_ng",
+      "name" : "CUENTAS_NO_SUMAN"
+    }, {
+      "id" : "_MMdl22ZrEeu3C4VE0D0_ng",
+      "name" : "DEPRECIACION"
+    }, {
+      "id" : "_MMdly2ZrEeu3C4VE0D0_ng",
+      "name" : "ERROR_CUENTA"
+    }, {
+      "id" : "_MMdlzGZrEeu3C4VE0D0_ng",
+      "name" : "ERROR_MENSAJE"
+    }, {
+      "id" : "_MMdlw2ZrEeu3C4VE0D0_ng",
+      "name" : "FECHA"
+    }, {
+      "id" : "_MMdlxWZrEeu3C4VE0D0_ng",
+      "name" : "GUID"
+    }, {
+      "id" : "_MMdlymZrEeu3C4VE0D0_ng",
+      "name" : "LINEA_"
+    }, {
+      "id" : "_MMdl12ZrEeu3C4VE0D0_ng",
+      "name" : "LINEA_CUENTA"
+    }, {
+      "id" : "_MMdlyGZrEeu3C4VE0D0_ng",
+      "name" : "MES"
+    }, {
+      "id" : "_MMdl3GZrEeu3C4VE0D0_ng",
+      "name" : "NCUENTAS_IGNORADAS"
+    }, {
+      "id" : "_MMdl0GZrEeu3C4VE0D0_ng",
+      "name" : "NOM_CTA"
+    }, {
+      "id" : "_MMdlxmZrEeu3C4VE0D0_ng",
+      "name" : "PERIODO"
+    }, {
+      "id" : "_MMdl02ZrEeu3C4VE0D0_ng",
+      "name" : "SIGLA"
+    }, {
+      "id" : "_MMdl1mZrEeu3C4VE0D0_ng",
+      "name" : "SIGLA_ESM"
+    }, {
+      "id" : "_MMdlxGZrEeu3C4VE0D0_ng",
+      "name" : "TANEXOS_ID"
+    }, {
+      "id" : "_MMdl2WZrEeu3C4VE0D0_ng",
+      "name" : "TGASTOS_ID"
+    }, {
+      "id" : "_MMdl0mZrEeu3C4VE0D0_ng",
+      "name" : "UORG_ID"
+    }, {
+      "id" : "_MMdlz2ZrEeu3C4VE0D0_ng",
+      "name" : "VALOR"
+    } ]
+  } ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_MMdlwWZrEeu3C4VE0D0_ng" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_MMdlwmZrEeu3C4VE0D0_ng" comment="" name="ANEXO_ID_CEC" prompt="ANEXO_ID_CEC?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_MMdlw2ZrEeu3C4VE0D0_ng" comment="" name="FECHA" prompt="FECHA?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_MMdlxGZrEeu3C4VE0D0_ng" comment="" name="TANEXOS_ID" prompt="TANEXOS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_MMdlxWZrEeu3C4VE0D0_ng" comment="" name="GUID" prompt="GUID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdlxmZrEeu3C4VE0D0_ng" comment="" name="PERIODO" prompt="PERIODO?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_MMdlx2ZrEeu3C4VE0D0_ng" comment="" name="ARCHIVO_SALIDAD_CEC" prompt="ARCHIVO_SALIDAD_CEC?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdlyGZrEeu3C4VE0D0_ng" comment="" name="MES" prompt="MES?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_MMdlyWZrEeu3C4VE0D0_ng" comment="" name="ANIO" prompt="ANIO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_MMdlymZrEeu3C4VE0D0_ng" comment="" name="LINEA_" prompt="LINEA_?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_MMdly2ZrEeu3C4VE0D0_ng" comment="" name="ERROR_CUENTA" prompt="ERROR_CUENTA?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_MMdlzGZrEeu3C4VE0D0_ng" comment="" name="ERROR_MENSAJE" prompt="ERROR_MENSAJE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdlzWZrEeu3C4VE0D0_ng" comment="" name="CECO" prompt="CECO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdlzmZrEeu3C4VE0D0_ng" comment="" name="COD_ESM" prompt="COD_ESM?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdlz2ZrEeu3C4VE0D0_ng" comment="" name="VALOR" prompt="VALOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl0GZrEeu3C4VE0D0_ng" comment="" name="NOM_CTA" prompt="NOM_CTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl0WZrEeu3C4VE0D0_ng" comment="" name="CTA_CONT" prompt="CTA_CONT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl0mZrEeu3C4VE0D0_ng" comment="" name="UORG_ID" prompt="UORG_ID?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_MMdl02ZrEeu3C4VE0D0_ng" comment="" name="SIGLA" prompt="SIGLA?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl1GZrEeu3C4VE0D0_ng" comment="" name="CUENTAS_IGNORADAS" prompt="CUENTAS_IGNORADAS?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_MMdl1WZrEeu3C4VE0D0_ng" comment="" name="CUENTAS_NO_SUMAN" prompt="CUENTAS_NO_SUMAN?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl1mZrEeu3C4VE0D0_ng" comment="" name="SIGLA_ESM" prompt="SIGLA_ESM?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl12ZrEeu3C4VE0D0_ng" comment="" name="LINEA_CUENTA" prompt="LINEA_CUENTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl2GZrEeu3C4VE0D0_ng" comment="" name="CUENTA_MENSAJE" prompt="CUENTA_MENSAJE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MMdl2WZrEeu3C4VE0D0_ng" comment="" name="TGASTOS_ID" prompt="TGASTOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_MMdl2mZrEeu3C4VE0D0_ng" comment="" name="CECO_ID" prompt="CECO_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_MMdl22ZrEeu3C4VE0D0_ng" comment="" name="DEPRECIACION" prompt="DEPRECIACION?" promptNeeded="false" type="id_Double" value=""/>
+  <contextParameter xmi:id="_MMdl3GZrEeu3C4VE0D0_ng" comment="" name="NCUENTAS_IGNORADAS" prompt="NCUENTAS_IGNORADAS?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

@@ -1,0 +1,64 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_MLTvMWZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_MLTvMmZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_MLTvM2ZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_MLTvNWZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_MLTvNGZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_MLTvNmZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_MLTvN2ZrEeu3C4VE0D0_ng",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_MML4-mZrEeu3C4VE0D0_ng",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_ML9PdWZrEeu3C4VE0D0_ng",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_ML9PeWZrEeu3C4VE0D0_ng",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_ML9Pc2ZrEeu3C4VE0D0_ng",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_ML9PdmZrEeu3C4VE0D0_ng",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_ML9Pd2ZrEeu3C4VE0D0_ng",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_ML9PdGZrEeu3C4VE0D0_ng",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_ML9PcmZrEeu3C4VE0D0_ng",
+      "name" : "mail_To"
+    }, {
+      "id" : "_ML9PeGZrEeu3C4VE0D0_ng",
+      "name" : "mail_User"
+    } ]
+  } ]
+}
