@@ -1,0 +1,58 @@
+[ {
+  "baseItem" : {
+    "id" : "_ARvYUFMXEe-ahcxRgt3e4A",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_APORTES:_aB8s4OiaEeatJ_-pyNp6lQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C6lUoEOGEe-ao5IRmPQ3zQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_MASIVO:_8QYWQDjuEei2aKvKWxAb8A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_aB8s4OiaEeatJ_-pyNp6lQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_NXu4UJUkEeW7DvD_0oYqHw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - AFI_ARCHIVOS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kXEt0I4REeWMZsvuYSxo4A - REC_REGTIPO2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
