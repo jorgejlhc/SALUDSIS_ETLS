@@ -1,0 +1,50 @@
+{
+  "itemId" : "_ogs4cHxZEeuTJaMfqd1sFg",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_FTfgtJP7EeujoNBLrcnl0A",
+      "name" : "anno"
+    }, {
+      "id" : "_FTfgtZP7EeujoNBLrcnl0A",
+      "name" : "delimitador"
+    }, {
+      "id" : "_FTfgs5P7EeujoNBLrcnl0A",
+      "name" : "mes"
+    }, {
+      "id" : "_FTfgtpP7EeujoNBLrcnl0A",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_YgUNIIjSEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FTKJgZP7EeujoNBLrcnl0A",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_FTfgu5P7EeujoNBLrcnl0A",
+      "name" : "anno"
+    }, {
+      "id" : "_FTfgvJP7EeujoNBLrcnl0A",
+      "name" : "delimitador"
+    }, {
+      "id" : "_FTfgupP7EeujoNBLrcnl0A",
+      "name" : "mes"
+    }, {
+      "id" : "_FTfgvZP7EeujoNBLrcnl0A",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_YgUNIIjSEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FTKJgZP7EeujoNBLrcnl0A",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

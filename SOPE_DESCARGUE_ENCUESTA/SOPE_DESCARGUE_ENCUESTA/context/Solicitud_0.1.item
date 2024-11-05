@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_r99oUI2vEeySNvRKZ56XVg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_r9-PYI2vEeySNvRKZ56XVg" comment="" name="anno" prompt="anno?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_rprN8FA-Ee-WR_vsv5mHpg" comment="" name="mes" prompt="mes?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_rprN8VA-Ee-WR_vsv5mHpg" comment="" name="id_fuerza" prompt="id_fuerza?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_rprN8lA-Ee-WR_vsv5mHpg" comment="" name="codigo_patologia" prompt="codigo_patologia?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rprN81A-Ee-WR_vsv5mHpg" comment="" name="ProcesoID" prompt="ProcesoID?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+</talendfile:ContextType>
