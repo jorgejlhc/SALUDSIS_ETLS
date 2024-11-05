@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_9C9RIJHUEe6FWa4UvkjoSw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_9C9RIZHUEe6FWa4UvkjoSw" comment="" name="carga_id" prompt="carga_id?" promptNeeded="true" type="id_BigDecimal" value="942"/>
+  <contextParameter xmi:id="_9C9RIpHUEe6FWa4UvkjoSw" comment="" name="Contenido" prompt="Contenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_9C9RI5HUEe6FWa4UvkjoSw" comment="" name="TContenido" prompt="TContenido?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_9C9RJJHUEe6FWa4UvkjoSw" comment="" name="Salida" prompt="Salida?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_9C9RJZHUEe6FWa4UvkjoSw" comment="" name="result" prompt="result?" promptNeeded="false" type="id_String" value="0"/>
+  <contextParameter xmi:id="_9C9RJpHUEe6FWa4UvkjoSw" comment="" name="nombre" prompt="nombre?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_9C9RJ5HUEe6FWa4UvkjoSw" comment="" name="IsValid" prompt="IsValid?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

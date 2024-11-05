@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_r99oUI2vEeySNvRKZ56XVg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_r9-PYI2vEeySNvRKZ56XVg" comment="" name="carga_id" prompt="carga_id?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_1bdm8E5jEe-1vvYG7wvNvA" comment="" name="numeroContrato" prompt="numeroContrato?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_1bdm8U5jEe-1vvYG7wvNvA" comment="" name="userId" prompt="userId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_1bdm8k5jEe-1vvYG7wvNvA" comment="" name="Result" prompt="Result?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

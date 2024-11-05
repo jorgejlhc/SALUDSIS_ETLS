@@ -1,0 +1,85 @@
+{
+  "itemId" : "_25VfMJrkEeeIWpkSCl7c3Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_9CsLYJHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_9CsLYZHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_9CsLYpHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_9CsLZJHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_9CsLY5HUEe6FWa4UvkjoSw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_9CsLZZHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_9CsLZpHUEe6FWa4UvkjoSw",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_9C5mwZHUEe6FWa4UvkjoSw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_9C5mxZHUEe6FWa4UvkjoSw",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_9C5myZHUEe6FWa4UvkjoSw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_9C5mwpHUEe6FWa4UvkjoSw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_9C5mxJHUEe6FWa4UvkjoSw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_9C5mw5HUEe6FWa4UvkjoSw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_9C5mxpHUEe6FWa4UvkjoSw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_9C5mx5HUEe6FWa4UvkjoSw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_9C5myJHUEe6FWa4UvkjoSw",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8Ti1ACKxEeaIn-o98hTF4w",
+    "parameterList" : [ {
+      "id" : "_9C9RIZHUEe6FWa4UvkjoSw",
+      "name" : "carga_id"
+    }, {
+      "id" : "_9C9RIpHUEe6FWa4UvkjoSw",
+      "name" : "Contenido"
+    }, {
+      "id" : "_9C9RJ5HUEe6FWa4UvkjoSw",
+      "name" : "IsValid"
+    }, {
+      "id" : "_9C9RJpHUEe6FWa4UvkjoSw",
+      "name" : "nombre"
+    }, {
+      "id" : "_9C9RJZHUEe6FWa4UvkjoSw",
+      "name" : "result"
+    }, {
+      "id" : "_9C9RJJHUEe6FWa4UvkjoSw",
+      "name" : "Salida"
+    }, {
+      "id" : "_9C9RI5HUEe6FWa4UvkjoSw",
+      "name" : "TContenido"
+    } ]
+  } ]
+}
