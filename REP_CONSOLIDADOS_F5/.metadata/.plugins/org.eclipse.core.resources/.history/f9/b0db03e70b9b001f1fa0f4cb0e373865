@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_l8pskDXDEeebBNfaoZVT4A" id="_l8kNADXDEeebBNfaoZVT4A" label="DataWarehouse" version="0.1" statusCode="" item="_l8pskjXDEeebBNfaoZVT4A" displayName="DataWarehouse">
+    <author href="../../../talend.project#_x3YpEJsLEe-cnZp18rH7Yg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5wGRyJsLEe-cnZp18rH7Yg" path="Gen/Connection"/>
+  <TalendProperties:ContextItem xmi:id="_l8pskjXDEeebBNfaoZVT4A" property="_l8pskDXDEeebBNfaoZVT4A" state="_5wGRyJsLEe-cnZp18rH7Yg" defaultContext="Default">
+    <context href="DataWarehouse_0.1.item#_2bKUMH01Eeu1solFruWoVg"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

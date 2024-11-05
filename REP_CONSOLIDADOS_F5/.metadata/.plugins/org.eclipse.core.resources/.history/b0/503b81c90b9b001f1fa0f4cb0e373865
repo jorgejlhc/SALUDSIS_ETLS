@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_x2fRMZsLEe-cnZp18rH7Yg" label="REP_CONSOLIDADOS_F5" description="" language="java" technicalLabel="REP_CONSOLIDADOS_F5" local="true" author="_x3YpEJsLEe-cnZp18rH7Yg" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_x35mcJsLEe-cnZp18rH7Yg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_x3YpEJsLEe-cnZp18rH7Yg" login="jorgejlhc@gmail.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

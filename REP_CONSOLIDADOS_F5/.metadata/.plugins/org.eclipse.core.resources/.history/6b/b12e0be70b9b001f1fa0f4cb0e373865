@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_2bRB4H01Eeu1solFruWoVg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_2bRB4X01Eeu1solFruWoVg" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB4n01Eeu1solFruWoVg" comment="" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_2bRB4301Eeu1solFruWoVg" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB5H01Eeu1solFruWoVg" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB5X01Eeu1solFruWoVg" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB5n01Eeu1solFruWoVg" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB5301Eeu1solFruWoVg" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_2bRB6H01Eeu1solFruWoVg" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_2bRB6X01Eeu1solFruWoVg" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_2bRB6n01Eeu1solFruWoVg" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="../../../Connections.xml"/>
+  <contextParameter xmi:id="_2bRB6301Eeu1solFruWoVg" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="../../../DataWarehouse.xml"/>
+  <contextParameter xmi:id="_2bRB7H01Eeu1solFruWoVg" comment="" name="ID_SOLICITUD" prompt="ID_SOLICITUD?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_2bRB7X01Eeu1solFruWoVg" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_2bRB7n01Eeu1solFruWoVg" comment="" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_2bRB7301Eeu1solFruWoVg" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bRB8H01Eeu1solFruWoVg" comment="" name="PATH" prompt="PATH?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

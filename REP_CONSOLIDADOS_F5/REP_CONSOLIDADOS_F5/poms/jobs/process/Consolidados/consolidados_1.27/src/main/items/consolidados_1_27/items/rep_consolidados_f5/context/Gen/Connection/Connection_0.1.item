@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_2bC_cH01Eeu1solFruWoVg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_2bC_cX01Eeu1solFruWoVg" comment="" name="db_origen_Server" prompt="db_origen_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.20.19.37"/>
+  <contextParameter xmi:id="_2bC_cn01Eeu1solFruWoVg" comment="" name="db_origen_Password" prompt="db_origen_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:kvr5hm1espP3Ep6B8jei2YSgk3nyP3RDmfa8MS8lJnvdAfOb0KGZoOAx8A=="/>
+  <contextParameter xmi:id="_2bC_c301Eeu1solFruWoVg" comment="" name="db_origen_Login" prompt="db_origen_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_2bC_dH01Eeu1solFruWoVg" comment="" name="db_origen_Schema" prompt="db_origen_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_2bC_dX01Eeu1solFruWoVg" comment="" name="db_origen_ServiceName" prompt="db_origen_ServiceName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="PDBDEV"/>
+  <contextParameter xmi:id="_2bC_dn01Eeu1solFruWoVg" comment="" name="db_origen_AdditionalParams" prompt="db_origen_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bC_d301Eeu1solFruWoVg" comment="" name="db_origen_Port" prompt="db_origen_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1521"/>
+</talendfile:ContextType>

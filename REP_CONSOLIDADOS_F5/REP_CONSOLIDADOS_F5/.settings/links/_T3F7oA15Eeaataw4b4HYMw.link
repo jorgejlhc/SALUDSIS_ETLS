@@ -1,0 +1,29 @@
+{
+  "itemId" : "_T3F7oA15Eeaataw4b4HYMw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_2bC_cX01Eeu1solFruWoVg",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_2bC_cn01Eeu1solFruWoVg",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_2bC_c301Eeu1solFruWoVg",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_2bC_dH01Eeu1solFruWoVg",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_2bC_dX01Eeu1solFruWoVg",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_2bC_dn01Eeu1solFruWoVg",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_2bC_d301Eeu1solFruWoVg",
+      "name" : "db_origen_Port"
+    } ]
+  } ]
+}

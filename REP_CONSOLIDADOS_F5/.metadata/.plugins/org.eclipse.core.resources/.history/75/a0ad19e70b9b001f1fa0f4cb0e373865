@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_mJ8IAbRyEeefVYkdBqJUWA" id="_mJ8IALRyEeefVYkdBqJUWA" label="GenerarUUID" version="0.1" statusCode="" item="_mJ8IA7RyEeefVYkdBqJUWA" displayName="GenerarUUID">
+    <author href="../../../talend.project#_x3YpEJsLEe-cnZp18rH7Yg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5xc8oJsLEe-cnZp18rH7Yg" path="Utils"/>
+  <TalendProperties:RoutineItem xmi:id="_mJ8IA7RyEeefVYkdBqJUWA" property="_mJ8IAbRyEeefVYkdBqJUWA" state="_5xc8oJsLEe-cnZp18rH7Yg">
+    <content href="GenerarUUID_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>
