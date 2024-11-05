@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_CW9IcLtOEea9wbuVn4Fngg" id="_f1ZBADdQEeeFLt2J8PIEGQ" label="CargaAnexoTecnico" purpose="Carga de anexo tecnico y económico" description="comercial y productos por contrato" version="1.19" statusCode="" item="_CXG5cLtOEea9wbuVn4Fngg" displayName="CargaAnexoTecnico">
+    <author href="../../talend.project#_fexIgJVkEe-f1J38gHVARg"/>
+    <additionalProperties xmi:id="_kM6-sE5gEe-1vvYG7wvNvA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_kM6-sU5gEe-1vvYG7wvNvA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_kM6-sk5gEe-1vvYG7wvNvA" key="created_date" value="2024-07-30T05:43:32.507-0500"/>
+    <additionalProperties xmi:id="_kM6-s05gEe-1vvYG7wvNvA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_kM6-tE5gEe-1vvYG7wvNvA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_kM6-tU5gEe-1vvYG7wvNvA" key="modified_date" value="2024-07-30T06:37:55.255-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_tpeTsJVkEe-f1J38gHVARg" path="CargaMasiva"/>
+  <TalendProperties:ProcessItem xmi:id="_CXG5cLtOEea9wbuVn4Fngg" property="_CW9IcLtOEea9wbuVn4Fngg" state="_tpeTsJVkEe-f1J38gHVARg">
+    <process href="CargaAnexoTecnico_1.19.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

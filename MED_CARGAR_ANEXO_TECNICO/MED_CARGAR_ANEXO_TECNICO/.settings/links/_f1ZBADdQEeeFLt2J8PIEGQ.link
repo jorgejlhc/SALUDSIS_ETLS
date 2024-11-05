@@ -1,0 +1,94 @@
+{
+  "itemId" : "_f1ZBADdQEeeFLt2J8PIEGQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_zc_BMLzGEeaj2NM7QupI0A",
+    "parameterList" : [ {
+      "id" : "_wyL8OI6DEeibruLHEGZtig",
+      "name" : "cantFilas"
+    }, {
+      "id" : "_wyL8MY6DEeibruLHEGZtig",
+      "name" : "carga_id"
+    }, {
+      "id" : "_wyL8Mo6DEeibruLHEGZtig",
+      "name" : "Contenido"
+    }, {
+      "id" : "_wyL8N46DEeibruLHEGZtig",
+      "name" : "IsValid"
+    }, {
+      "id" : "_wyL8No6DEeibruLHEGZtig",
+      "name" : "nombre"
+    }, {
+      "id" : "_wyL8Oo6DEeibruLHEGZtig",
+      "name" : "numeroContrato"
+    }, {
+      "id" : "_wyL8NY6DEeibruLHEGZtig",
+      "name" : "result"
+    }, {
+      "id" : "_wyL8NI6DEeibruLHEGZtig",
+      "name" : "Salida"
+    }, {
+      "id" : "_wyL8M46DEeibruLHEGZtig",
+      "name" : "TContenido"
+    }, {
+      "id" : "_wyL8OY6DEeibruLHEGZtig",
+      "name" : "userId"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_wx5BQ46DEeibruLHEGZtig",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_wx5BRI6DEeibruLHEGZtig",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_wx5BRY6DEeibruLHEGZtig",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_wx5BR46DEeibruLHEGZtig",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_wx5BRo6DEeibruLHEGZtig",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_wx5BSI6DEeibruLHEGZtig",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_wx5BSY6DEeibruLHEGZtig",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_wyCLPI6DEeibruLHEGZtig",
+      "name" : "ERROR"
+    }, {
+      "id" : "_wyCLQI6DEeibruLHEGZtig",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_wyCLRI6DEeibruLHEGZtig",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_wyCLPY6DEeibruLHEGZtig",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_wyCLP46DEeibruLHEGZtig",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_wyCLPo6DEeibruLHEGZtig",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_wyCLQY6DEeibruLHEGZtig",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_wyCLQo6DEeibruLHEGZtig",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_wyCLQ46DEeibruLHEGZtig",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}
