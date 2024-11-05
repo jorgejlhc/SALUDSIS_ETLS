@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_tNQVgG_UEeukPobxuheeVA" id="_tNN5QG_UEeukPobxuheeVA" label="MANAGER_LOG" version="0.2" statusCode="" item="_tNQVgm_UEeukPobxuheeVA" displayName="MANAGER_LOG">
+    <author href="../talend.project#_aLgfQJsvEe-0zbCmxD9EJg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_lBkC0JsvEe-0zbCmxD9EJg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_tNQVgm_UEeukPobxuheeVA" property="_tNQVgG_UEeukPobxuheeVA" state="_lBkC0JsvEe-0zbCmxD9EJg">
+    <process href="MANAGER_LOG_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

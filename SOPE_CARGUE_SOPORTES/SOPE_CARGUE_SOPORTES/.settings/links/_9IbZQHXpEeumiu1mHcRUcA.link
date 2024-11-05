@@ -1,0 +1,38 @@
+{
+  "itemId" : "_9IbZQHXpEeumiu1mHcRUcA",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_jH1TNpP7EeugiYO4ukN9WQ",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_a8QOYHXqEeumiu1mHcRUcA",
+    "parameterList" : [ {
+      "id" : "_jICukZP7EeugiYO4ukN9WQ",
+      "name" : "path_soportes_entrada"
+    }, {
+      "id" : "_jICukpP7EeugiYO4ukN9WQ",
+      "name" : "path_soportes_salida"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_jH1TPZP7EeugiYO4ukN9WQ",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_a8QOYHXqEeumiu1mHcRUcA",
+    "parameterList" : [ {
+      "id" : "_jICukZP7EeugiYO4ukN9WQ",
+      "name" : "path_soportes_entrada"
+    }, {
+      "id" : "_jICukpP7EeugiYO4ukN9WQ",
+      "name" : "path_soportes_salida"
+    } ]
+  } ]
+}
