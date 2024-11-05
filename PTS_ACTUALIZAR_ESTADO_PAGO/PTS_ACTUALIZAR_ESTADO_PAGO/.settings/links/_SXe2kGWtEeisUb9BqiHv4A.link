@@ -1,0 +1,211 @@
+{
+  "itemId" : "_SXe2kGWtEeisUb9BqiHv4A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_QKNJkWWuEeum4YICxoeKbw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_QKNJkmWuEeum4YICxoeKbw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_QKNJk2WuEeum4YICxoeKbw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_QKNJlWWuEeum4YICxoeKbw",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_QKNJlGWuEeum4YICxoeKbw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_QKNJlmWuEeum4YICxoeKbw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_QKNJl2WuEeum4YICxoeKbw",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_QKe2YWWuEeum4YICxoeKbw",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_QKe2YmWuEeum4YICxoeKbw",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_QKe2Y2WuEeum4YICxoeKbw",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_QKe2ZWWuEeum4YICxoeKbw",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_QKe2ZGWuEeum4YICxoeKbw",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_QKe2ZmWuEeum4YICxoeKbw",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_QKe2Z2WuEeum4YICxoeKbw",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_QLyd-2WuEeum4YICxoeKbw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_QLyd82WuEeum4YICxoeKbw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_QLyd92WuEeum4YICxoeKbw",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_QLyd_GWuEeum4YICxoeKbw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_QLyd8mWuEeum4YICxoeKbw",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_QLyd9GWuEeum4YICxoeKbw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_QLyd9mWuEeum4YICxoeKbw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_QLyd9WWuEeum4YICxoeKbw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_QLyd-GWuEeum4YICxoeKbw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_QLyd-WWuEeum4YICxoeKbw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_QLyd-mWuEeum4YICxoeKbw",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_QLMBCmWuEeum4YICxoeKbw",
+      "name" : "mail_Content"
+    }, {
+      "id" : "_QLMBCWWuEeum4YICxoeKbw",
+      "name" : "mail_From"
+    }, {
+      "id" : "_QLMBBGWuEeum4YICxoeKbw",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_QLMBCGWuEeum4YICxoeKbw",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_QLMBAmWuEeum4YICxoeKbw",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_QLMBBWWuEeum4YICxoeKbw",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_QLMBBmWuEeum4YICxoeKbw",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_QLMBA2WuEeum4YICxoeKbw",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_QLMBAWWuEeum4YICxoeKbw",
+      "name" : "mail_To"
+    }, {
+      "id" : "_QLMBB2WuEeum4YICxoeKbw",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_tQjrkGj_Eeioyak2njiChA",
+    "parameterList" : [ {
+      "id" : "_QMVQhmWuEeum4YICxoeKbw",
+      "name" : "BankNameOut"
+    }, {
+      "id" : "_QMVQimWuEeum4YICxoeKbw",
+      "name" : "BankProcessDateOut"
+    }, {
+      "id" : "_QMVQhGWuEeum4YICxoeKbw",
+      "name" : "EntityCode"
+    }, {
+      "id" : "_QMVQgmWuEeum4YICxoeKbw",
+      "name" : "EstadoIn"
+    }, {
+      "id" : "_QMVQg2WuEeum4YICxoeKbw",
+      "name" : "EstadoOut"
+    }, {
+      "id" : "_QMVQhWWuEeum4YICxoeKbw",
+      "name" : "FechaIn"
+    }, {
+      "id" : "_QMVQi2WuEeum4YICxoeKbw",
+      "name" : "PaymentSystemOut"
+    }, {
+      "id" : "_QMVQj2WuEeum4YICxoeKbw",
+      "name" : "PaymentSystemOut1"
+    }, {
+      "id" : "_QMVQjmWuEeum4YICxoeKbw",
+      "name" : "SolicitudId"
+    }, {
+      "id" : "_QMVQgWWuEeum4YICxoeKbw",
+      "name" : "Ticketid"
+    }, {
+      "id" : "_QMVQiGWuEeum4YICxoeKbw",
+      "name" : "TransValueOut"
+    }, {
+      "id" : "_QMVQiWWuEeum4YICxoeKbw",
+      "name" : "TransVatValueOut"
+    }, {
+      "id" : "_QMVQh2WuEeum4YICxoeKbw",
+      "name" : "TrazabilityCodeOut"
+    }, {
+      "id" : "_QMVQjWWuEeum4YICxoeKbw",
+      "name" : "UrlActionSoap"
+    }, {
+      "id" : "_QMVQjGWuEeum4YICxoeKbw",
+      "name" : "UrlEndPoint"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_9GjLwOnTEeiTj80diY-Nog",
+    "parameterList" : [ {
+      "id" : "_QM_X2WWuEeum4YICxoeKbw",
+      "name" : "Codigo"
+    }, {
+      "id" : "_QM_X1mWuEeum4YICxoeKbw",
+      "name" : "Consecutivo"
+    }, {
+      "id" : "_QM_X1WWuEeum4YICxoeKbw",
+      "name" : "Email"
+    }, {
+      "id" : "_QM_X02WuEeum4YICxoeKbw",
+      "name" : "EstadoPago"
+    }, {
+      "id" : "_QM_X12WuEeum4YICxoeKbw",
+      "name" : "EstadoSolicitud"
+    }, {
+      "id" : "_QM_X1GWuEeum4YICxoeKbw",
+      "name" : "Fecha"
+    }, {
+      "id" : "_QM_X2mWuEeum4YICxoeKbw",
+      "name" : "FechaTransaccion"
+    }, {
+      "id" : "_QM_X0WWuEeum4YICxoeKbw",
+      "name" : "IdSolicitud"
+    }, {
+      "id" : "_QM_X22WuEeum4YICxoeKbw",
+      "name" : "Mensaje"
+    }, {
+      "id" : "_QM_X2GWuEeum4YICxoeKbw",
+      "name" : "MotivoEstado"
+    }, {
+      "id" : "_QM_X0mWuEeum4YICxoeKbw",
+      "name" : "SiglaEstSolicitud"
+    } ]
+  } ]
+}

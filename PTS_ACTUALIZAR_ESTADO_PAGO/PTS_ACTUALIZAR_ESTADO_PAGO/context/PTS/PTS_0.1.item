@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_QM_X0GWuEeum4YICxoeKbw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_QM_X0WWuEeum4YICxoeKbw" comment="" name="IdSolicitud" prompt="IdSolicitud?" promptNeeded="false" type="id_Long" value=""/>
+  <contextParameter xmi:id="_QM_X0mWuEeum4YICxoeKbw" comment="" name="SiglaEstSolicitud" prompt="SiglaEstSolicitud?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X02WuEeum4YICxoeKbw" comment="" name="EstadoPago" prompt="EstadoPago?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X1GWuEeum4YICxoeKbw" comment="" name="Fecha" prompt="Fecha?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_QM_X1WWuEeum4YICxoeKbw" comment="" name="Email" prompt="Email?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X1mWuEeum4YICxoeKbw" comment="" name="Consecutivo" prompt="Consecutivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X12WuEeum4YICxoeKbw" comment="" name="EstadoSolicitud" prompt="EstadoSolicitud?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X2GWuEeum4YICxoeKbw" comment="" name="MotivoEstado" prompt="MotivoEstado?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X2WWuEeum4YICxoeKbw" comment="" name="Codigo" prompt="Codigo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QM_X2mWuEeum4YICxoeKbw" comment="" name="FechaTransaccion" prompt="FechaTransaccion?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_QM_X22WuEeum4YICxoeKbw" comment="" name="Mensaje" prompt="Mensaje?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

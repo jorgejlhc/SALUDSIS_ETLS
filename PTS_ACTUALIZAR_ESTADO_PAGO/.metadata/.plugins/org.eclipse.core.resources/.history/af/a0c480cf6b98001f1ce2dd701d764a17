@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_9GwnK-nTEeiTj80diY-Nog" id="_9GjLwOnTEeiTj80diY-Nog" label="PTS" version="0.1" statusCode="" item="_9GwnLenTEeiTj80diY-Nog" displayName="PTS">
+    <author href="../../talend.project#_nvmFEJhrEe-b7fjObSxH0A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_z38-DJhrEe-b7fjObSxH0A" path="PTS"/>
+  <TalendProperties:ContextItem xmi:id="_9GwnLenTEeiTj80diY-Nog" property="_9GwnK-nTEeiTj80diY-Nog" state="_z38-DJhrEe-b7fjObSxH0A" defaultContext="Default">
+    <context href="PTS_0.1.item#_QM_X0GWuEeum4YICxoeKbw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

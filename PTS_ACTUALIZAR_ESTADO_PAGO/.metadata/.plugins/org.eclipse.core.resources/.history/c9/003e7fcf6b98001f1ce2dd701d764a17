@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_QMVQgGWuEeum4YICxoeKbw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_QMVQgWWuEeum4YICxoeKbw" comment="" name="Ticketid" prompt="Ticketid?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_QMVQgmWuEeum4YICxoeKbw" comment="" name="EstadoIn" prompt="EstadoIn?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQg2WuEeum4YICxoeKbw" comment="" name="EstadoOut" prompt="EstadoOut?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQhGWuEeum4YICxoeKbw" comment="" name="EntityCode" prompt="EntityCode?" promptNeeded="false" type="id_String" value="10554"/>
+  <contextParameter xmi:id="_QMVQhWWuEeum4YICxoeKbw" comment="" name="FechaIn" prompt="FechaIn?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_QMVQhmWuEeum4YICxoeKbw" comment="" name="BankNameOut" prompt="BankNameOut?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQh2WuEeum4YICxoeKbw" comment="" name="TrazabilityCodeOut" prompt="TrazabilityCodeOut?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQiGWuEeum4YICxoeKbw" comment="" name="TransValueOut" prompt="TransValueOut?" promptNeeded="false" type="id_Double" value=""/>
+  <contextParameter xmi:id="_QMVQiWWuEeum4YICxoeKbw" comment="" name="TransVatValueOut" prompt="TransVatValueOut?" promptNeeded="false" type="id_Double" value=""/>
+  <contextParameter xmi:id="_QMVQimWuEeum4YICxoeKbw" comment="" name="BankProcessDateOut" prompt="BankProcessDateOut?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQi2WuEeum4YICxoeKbw" comment="" name="PaymentSystemOut" prompt="PaymentSystemOut?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QMVQjGWuEeum4YICxoeKbw" comment="Actualizar para salida productivo" name="UrlEndPoint" prompt="UrlEndPoint?" promptNeeded="false" type="id_String" value="https://test1.e-collect.com/app_express/webservice/eCollectWebservicesv2.asmx"/>
+  <contextParameter xmi:id="_QMVQjWWuEeum4YICxoeKbw" comment="" name="UrlActionSoap" prompt="UrlActionSoap?" promptNeeded="false" type="id_String" value="http://www.avisortech.com/eCollectWebservices/getTransactionInformation"/>
+  <contextParameter xmi:id="_QMVQjmWuEeum4YICxoeKbw" comment="" name="SolicitudId" prompt="SolicitudId?" promptNeeded="false" type="id_Long" value=""/>
+  <contextParameter xmi:id="_QMVQj2WuEeum4YICxoeKbw" comment="" name="PaymentSystemOut1" prompt="PaymentSystemOut1?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
