@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_1eMGEPGQEei0RMbgbTsJ9g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_1eMGEfGQEei0RMbgbTsJ9g" comment="" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_1eMGEvGQEei0RMbgbTsJ9g" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1eMGE_GQEei0RMbgbTsJ9g" comment="" name="COND_MOVIMIENTOS" prompt="COND_MOVIMIENTOS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1eMGFPGQEei0RMbgbTsJ9g" comment="" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_1eMGFfGQEei0RMbgbTsJ9g" comment="" name="COND_HCL_FORMMEDICAS" prompt="COND_HCL_FORMMEDICAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1eMGFvGQEei0RMbgbTsJ9g" comment="" name="COND_PENDIENTES" prompt="COND_PENDIENTES?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

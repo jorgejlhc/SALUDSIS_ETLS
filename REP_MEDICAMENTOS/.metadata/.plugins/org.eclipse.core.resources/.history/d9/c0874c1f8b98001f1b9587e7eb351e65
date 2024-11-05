@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_JNeQwE-UEeaf4OejT0UKhQ" id="_JKAGAE-UEeaf4OejT0UKhQ" label="Medicamentos" version="0.1" statusCode="" item="_JNeQwk-UEeaf4OejT0UKhQ" displayName="Medicamentos">
+    <author href="../../talend.project#_3tU8AJiKEe-LiM0vXvzaXA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_H0tPR5iLEe-LiM0vXvzaXA" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_JNeQwk-UEeaf4OejT0UKhQ" property="_JNeQwE-UEeaf4OejT0UKhQ" state="_H0tPR5iLEe-LiM0vXvzaXA" defaultContext="Default">
+    <context href="Medicamentos_0.1.item#_1eMGEPGQEei0RMbgbTsJ9g"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

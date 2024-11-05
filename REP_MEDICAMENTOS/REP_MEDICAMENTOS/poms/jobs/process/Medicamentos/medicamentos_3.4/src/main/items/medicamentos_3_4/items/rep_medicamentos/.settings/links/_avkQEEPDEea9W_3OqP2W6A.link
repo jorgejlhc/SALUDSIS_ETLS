@@ -1,0 +1,153 @@
+{
+  "itemId" : "_avkQEEPDEea9W_3OqP2W6A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_1d2u7PGQEei0RMbgbTsJ9g",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_1d2u5PGQEei0RMbgbTsJ9g",
+      "name" : "ERROR"
+    }, {
+      "id" : "_1d2u6PGQEei0RMbgbTsJ9g",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_1d2u7vGQEei0RMbgbTsJ9g",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_1d2u5fGQEei0RMbgbTsJ9g",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_1d2u8PGQEei0RMbgbTsJ9g",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_1d2u5_GQEei0RMbgbTsJ9g",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_1d2u5vGQEei0RMbgbTsJ9g",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_1d2u7fGQEei0RMbgbTsJ9g",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_1d2u6fGQEei0RMbgbTsJ9g",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_1d2u6vGQEei0RMbgbTsJ9g",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_1d2u6_GQEei0RMbgbTsJ9g",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_1drIsvGQEei0RMbgbTsJ9g",
+      "name" : "mail_From"
+    }, {
+      "id" : "_1drItfGQEei0RMbgbTsJ9g",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_1drIufGQEei0RMbgbTsJ9g",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_1drIs_GQEei0RMbgbTsJ9g",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_1drItvGQEei0RMbgbTsJ9g",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_1drIt_GQEei0RMbgbTsJ9g",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_1drItPGQEei0RMbgbTsJ9g",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_1drIsfGQEei0RMbgbTsJ9g",
+      "name" : "mail_To"
+    }, {
+      "id" : "_1drIuPGQEei0RMbgbTsJ9g",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_JKAGAE-UEeaf4OejT0UKhQ",
+    "parameterList" : [ {
+      "id" : "_1eMGEfGQEei0RMbgbTsJ9g",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_1eMGFfGQEei0RMbgbTsJ9g",
+      "name" : "COND_HCL_FORMMEDICAS"
+    }, {
+      "id" : "_1eMGE_GQEei0RMbgbTsJ9g",
+      "name" : "COND_MOVIMIENTOS"
+    }, {
+      "id" : "_1eMGFvGQEei0RMbgbTsJ9g",
+      "name" : "COND_PENDIENTES"
+    }, {
+      "id" : "_1eMGEvGQEei0RMbgbTsJ9g",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_1eMGFPGQEei0RMbgbTsJ9g",
+      "name" : "LAST_DAYS"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_1c_zQfGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_1c_zQvGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_1c_zQ_GQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_1c_zRfGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_1c_zRPGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_1c_zRvGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_1c_zSPGQEei0RMbgbTsJ9g",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_1c_zR_GQEei0RMbgbTsJ9g",
+      "name" : "db_origen_Sid"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_1dIWIfGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_1dIWIvGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_1dIWI_GQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_1dIWJfGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_1dIWJPGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_1dIWJvGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_1dIWKPGQEei0RMbgbTsJ9g",
+      "name" : "db_destino_ServiceName"
+    }, {
+      "id" : "_1dIWJ_GQEei0RMbgbTsJ9g",
+      "name" : "db_destino_Sid"
+    } ]
+  } ]
+}
