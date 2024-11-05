@@ -1,0 +1,34 @@
+{
+  "itemId" : "__4heoEezEe-Zj8NxOuB9qg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "Usuario"
+    }, {
+      "id" : "_OL2sQEeyEe-Zj8NxOuB9qg",
+      "name" : "FECHA_INICIO"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "Usuario"
+    }, {
+      "id" : "_OL2sQEeyEe-Zj8NxOuB9qg",
+      "name" : "FECHA_INICIO"
+    } ]
+  }, {
+    "contextName" : "QABI",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "Usuario"
+    }, {
+      "id" : "_OL2sQEeyEe-Zj8NxOuB9qg",
+      "name" : "FECHA_INICIO"
+    } ]
+  } ]
+}

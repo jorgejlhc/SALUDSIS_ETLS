@@ -1,0 +1,66 @@
+[ {
+  "baseItem" : {
+    "id" : "_5BO_QDZcEee71Ndfm0RjbQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_PZTmsDmNEeeUg8m3V7Zq9w",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_UT7VUDmHEeeUg8m3V7Zq9w",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__4heoEezEe-Zj8NxOuB9qg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_NUEVAS_AFILIACIONES:_5BO_QDZcEee71Ndfm0RjbQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "1.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xLOfYBOgEeawAfp8SPJAtw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

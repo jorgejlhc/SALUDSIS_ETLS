@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_6e830MRfEe68Q8tD7WG_Xw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_6e830cRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_AdditionalParams" prompt="DB_origen_Connection_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_6e830sRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Server" prompt="DB_origen_Connection_Server?" promptNeeded="false" type="id_String" value="172.20.19.177"/>
+  <contextParameter xmi:id="_6e8308RfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Password" prompt="DB_origen_Connection_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:mfQSeZK2RKsf8wR5ZL3vGYUQhOQgHT1PrmoIt+q1vUcu5M0hqwNc1wCqEA=="/>
+  <contextParameter xmi:id="_6e831MRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Schema" prompt="DB_origen_Connection_Schema?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_6e831cRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Sid" prompt="DB_origen_Connection_Sid?" promptNeeded="false" type="id_String" value="orcl"/>
+  <contextParameter xmi:id="_6e831sRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Login" prompt="DB_origen_Connection_Login?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_6e8318RfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_Port" prompt="DB_origen_Connection_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_6e832MRfEe68Q8tD7WG_Xw" comment="" name="DB_origen_Connection_ServiceName" prompt="DB_origen_Connection_ServiceName?" promptNeeded="false" type="id_String" value="PDBDEVPRO"/>
+</talendfile:ContextType>

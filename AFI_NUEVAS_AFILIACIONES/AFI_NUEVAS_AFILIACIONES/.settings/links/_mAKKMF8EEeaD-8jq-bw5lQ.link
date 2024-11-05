@@ -1,0 +1,47 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_6fJsIsRfEe68Q8tD7WG_Xw",
+      "name" : "mail_From"
+    }, {
+      "id" : "_6fJsJcRfEe68Q8tD7WG_Xw",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_6fJsKcRfEe68Q8tD7WG_Xw",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_6fJsI8RfEe68Q8tD7WG_Xw",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_6fJsJsRfEe68Q8tD7WG_Xw",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_6fJsJ8RfEe68Q8tD7WG_Xw",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_6fJsJMRfEe68Q8tD7WG_Xw",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_6fJsIcRfEe68Q8tD7WG_Xw",
+      "name" : "mail_To"
+    }, {
+      "id" : "_6fJsKMRfEe68Q8tD7WG_Xw",
+      "name" : "mail_User"
+    }, {
+      "id" : "_6fJsLcRfEe68Q8tD7WG_Xw",
+      "name" : "PasswordMail"
+    }, {
+      "id" : "_6fJsKsRfEe68Q8tD7WG_Xw",
+      "name" : "SMTPHost"
+    }, {
+      "id" : "_6fJsK8RfEe68Q8tD7WG_Xw",
+      "name" : "SMTPPort"
+    }, {
+      "id" : "_6fJsLMRfEe68Q8tD7WG_Xw",
+      "name" : "UsernameMail"
+    } ]
+  } ]
+}
