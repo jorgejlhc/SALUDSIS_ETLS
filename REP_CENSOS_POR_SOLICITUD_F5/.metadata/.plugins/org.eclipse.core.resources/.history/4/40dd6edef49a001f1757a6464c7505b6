@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_o0Bokw15Eeaataw4b4HYMw" id="_T3F7oA15Eeaataw4b4HYMw" label="db_origen" version="0.1" statusCode="" item="_o0BolQ15Eeaataw4b4HYMw" displayName="db_origen">
+    <author href="../../talend.project#_r_NzQJr0Ee-c2IYn7Se5Cw"/>
+    <additionalProperties xmi:id="_3moiUJr0Ee-c2IYn7Se5Cw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_3moiUZr0Ee-c2IYn7Se5Cw" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_3moiUpr0Ee-c2IYn7Se5Cw" key="created_date" value="2024-11-04T16:36:36.597-0500"/>
+    <additionalProperties xmi:id="_3moiU5r0Ee-c2IYn7Se5Cw" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_3moiVJr0Ee-c2IYn7Se5Cw" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_3moiVZr0Ee-c2IYn7Se5Cw" key="modified_date" value="2024-11-04T16:36:36.597-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_3mexUJr0Ee-c2IYn7Se5Cw" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_o0BolQ15Eeaataw4b4HYMw" property="_o0Bokw15Eeaataw4b4HYMw" state="_3mexUJr0Ee-c2IYn7Se5Cw">
+    <connection href="db_origen_0.1.item#_o0BokA15Eeaataw4b4HYMw"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cCvzARpKEeeaHNmXoeyEOg" id="_G1Z3EMx5EeeSDZzJ6SsiMA" label="Consolidados" version="1.27" statusCode="DEV" item="_cCvzAxpKEeeaHNmXoeyEOg" displayName="Consolidados">
+    <author href="../../talend.project#_r_NzQJr0Ee-c2IYn7Se5Cw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_3LHrAJr0Ee-c2IYn7Se5Cw" path="Consolidados"/>
+  <TalendProperties:ProcessItem xmi:id="_cCvzAxpKEeeaHNmXoeyEOg" property="_cCvzARpKEeeaHNmXoeyEOg" state="_3LHrAJr0Ee-c2IYn7Se5Cw">
+    <process href="Consolidados_1.27.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

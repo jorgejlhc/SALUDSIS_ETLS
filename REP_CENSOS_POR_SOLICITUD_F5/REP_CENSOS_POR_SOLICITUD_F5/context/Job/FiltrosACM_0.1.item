@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_2bXIgH01Eeu1solFruWoVg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_2bXIgX01Eeu1solFruWoVg" comment="Periodo inicial" name="PER_INICIAL" prompt="PER_INICIAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIgn01Eeu1solFruWoVg" comment="Periodo final" name="PER_FINAL" prompt="PER_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIg301Eeu1solFruWoVg" comment="Nombre de la fuerza" name="FUERZA_NAME" prompt="FUERZA_NAME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIhH01Eeu1solFruWoVg" comment="Id de la fuerza" name="FUERZA_ID" prompt="FUERZA_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIhX01Eeu1solFruWoVg" comment="Id ESM filtro" name="UORG_ID" prompt="UORG_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIhn01Eeu1solFruWoVg" comment="Nombre ESM filtro" name="UORG_NAME" prompt="UORG_NAME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIh301Eeu1solFruWoVg" comment="Id ESM ingreso" name="UORG_ING_ID" prompt="UORG_ING_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIiH01Eeu1solFruWoVg" comment="Nombre ESM ingreso" name="UORG_ING_NAME" prompt="UORG_ING_NAME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIiX01Eeu1solFruWoVg" comment="Regional para ACM" name="REGIONAL_ACM" prompt="REGIONAL_ACM?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIin01Eeu1solFruWoVg" comment="Id del prestador" name="IPS_ID" prompt="IPS_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIi301Eeu1solFruWoVg" comment="Nombre del prestador" name="IPS_NAME" prompt="IPS_NAME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIjH01Eeu1solFruWoVg" comment="Id del tipo de pago" name="TPAGO_ID" prompt="TPAGO_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIjX01Eeu1solFruWoVg" comment="Nombre del tipo de pago" name="TPAGO" prompt="TPAGO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIjn01Eeu1solFruWoVg" comment="Número contrato" name="N_CONTRATO" prompt="N_CONTRATO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIj301Eeu1solFruWoVg" comment="Id del sexo" name="SEX_ID" prompt="SEX_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIkH01Eeu1solFruWoVg" comment="Nombre del sexo" name="SEX_NAME" prompt="SEX_NAME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIkX01Eeu1solFruWoVg" comment="Periodo del reporte" name="PERIODO" prompt="PERIODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIkn01Eeu1solFruWoVg" comment="Tipo periodo id" name="TPERIODO" prompt="TPERIODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIk301Eeu1solFruWoVg" comment="Nombre del tipo de periodo" name="TPERIODO_NOMBRE" prompt="TPERIODO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIlH01Eeu1solFruWoVg" comment="Condicion para los tipos de periodo" name="CONDICION_PERIODOS" prompt="CONDICION_PERIODOS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIlX01Eeu1solFruWoVg" comment="Id del contrato" name="CONTRATOS_ID" prompt="CONTRATOS_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIln01Eeu1solFruWoVg" comment="Número máximo de registros" name="MAX_ROWS" prompt="MAX_ROWS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIl301Eeu1solFruWoVg" comment="Id del diagnóstico" name="DIAGNOSTICO_ID" prompt="DIAGNOSTICO_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXImH01Eeu1solFruWoVg" comment="Código CIE10 del diagnóstico" name="CODIGO_DIAGNOSTICO" prompt="CODIGO_DIAGNOSTICO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXImX01Eeu1solFruWoVg" comment="Condición para traer el número de registros" name="CONDICION_LIMITE" prompt="CONDICION_LIMITE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXImn01Eeu1solFruWoVg" comment="Clase de contrato" name="CLASE" prompt="CLASE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXIm301Eeu1solFruWoVg" comment="Número de contrato" name="CONTRATO" prompt="CONTRATO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2bXInH01Eeu1solFruWoVg" comment="Nombre del usuario generador del reporte" name="USUARIO2" prompt="USUARIO2?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
