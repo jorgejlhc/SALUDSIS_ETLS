@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uNuxETEhEeyrD4OOxh2S7w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uNuxEjEhEeyrD4OOxh2S7w" comment="" name="TIEMPOS_ID" prompt="TIEMPOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uNuxEzEhEeyrD4OOxh2S7w" comment="" name="RANGO_FECHAS" prompt="RANGO_FECHAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uNuxFDEhEeyrD4OOxh2S7w" comment="" name="TIPO" prompt="TIPO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_uNuxFTEhEeyrD4OOxh2S7w" comment="" name="TIEMPOS_ID_SEMANA" prompt="TIEMPOS_ID_SEMANA?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uNuxFjEhEeyrD4OOxh2S7w" comment="" name="RANGO_FECHAS_SEMANA" prompt="RANGO_FECHAS_SEMANA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uNuxFzEhEeyrD4OOxh2S7w" comment="" name="FEJECUCION" prompt="FEJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uNuxGDEhEeyrD4OOxh2S7w" comment="" name="TIPO_SEMANA" prompt="TIPO_SEMANA?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

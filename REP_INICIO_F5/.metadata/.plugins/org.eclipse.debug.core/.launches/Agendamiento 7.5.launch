@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.talend.designer.runprocess.jobLaunchConfiguration">
+    <stringAttribute key="CURRENT_PROJECT_NAME" value="REP_INICIO_F5"/>
+    <stringAttribute key="JOB_PROJECT_TECH_LABEL" value="REP_INICIO_F5"/>
+    <stringAttribute key="TALEND_JOB_ID" value="_N7VZsGjpEeeLP4T8_qv1xA"/>
+    <stringAttribute key="TALEND_JOB_NAME" value="Agendamiento"/>
+    <stringAttribute key="TALEND_JOB_VERSION" value="7.5"/>
+</launchConfiguration>

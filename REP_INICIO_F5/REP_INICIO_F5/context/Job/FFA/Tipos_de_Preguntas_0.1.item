@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uN_PwDEhEeyrD4OOxh2S7w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uN_PwTEhEeyrD4OOxh2S7w" comment="" name="COMBO" prompt="COMBO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PwjEhEeyrD4OOxh2S7w" comment="" name="COMBO_COMBO" prompt="COMBO_COMBO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PwzEhEeyrD4OOxh2S7w" comment="" name="COMBO_TEXTO" prompt="COMBO_TEXTO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PxDEhEeyrD4OOxh2S7w" comment="" name="MULTISELECT" prompt="MULTISELECT?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PxTEhEeyrD4OOxh2S7w" comment="" name="COMBO_OTRO" prompt="COMBO_OTRO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PxjEhEeyrD4OOxh2S7w" comment="" name="RANGO_NUMERICO" prompt="RANGO_NUMERICO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PxzEhEeyrD4OOxh2S7w" comment="" name="COMBO_NUMERICO" prompt="COMBO_NUMERICO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PyDEhEeyrD4OOxh2S7w" comment="" name="FECHA_NORMAL" prompt="FECHA_NORMAL?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PyTEhEeyrD4OOxh2S7w" comment="" name="ABIERTA" prompt="ABIERTA?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PyjEhEeyrD4OOxh2S7w" comment="" name="COMBO_TEXTO_FIJO" prompt="COMBO_TEXTO_FIJO?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+  <contextParameter xmi:id="_uN_PyzEhEeyrD4OOxh2S7w" comment="" name="AREA" prompt="AREA?" promptNeeded="false" type="id_BigDecimal" value="1"/>
+</talendfile:ContextType>

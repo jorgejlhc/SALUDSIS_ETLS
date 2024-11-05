@@ -1,0 +1,47 @@
+{
+  "itemId" : "_ZMIQ4H_dEei43_VHGUHOaQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_uOJAwjEhEeyrD4OOxh2S7w",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_uOJAyzEhEeyrD4OOxh2S7w",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_uOJAwzEhEeyrD4OOxh2S7w",
+      "name" : "ERROR"
+    }, {
+      "id" : "_uOJAxzEhEeyrD4OOxh2S7w",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_uOJAwTEhEeyrD4OOxh2S7w",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_uOJAxDEhEeyrD4OOxh2S7w",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_uOJAxjEhEeyrD4OOxh2S7w",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_uOJAxTEhEeyrD4OOxh2S7w",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_uOJAzDEhEeyrD4OOxh2S7w",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_uOJAzjEhEeyrD4OOxh2S7w",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_uOJAyDEhEeyrD4OOxh2S7w",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_uOJAyTEhEeyrD4OOxh2S7w",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_uOJAyjEhEeyrD4OOxh2S7w",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

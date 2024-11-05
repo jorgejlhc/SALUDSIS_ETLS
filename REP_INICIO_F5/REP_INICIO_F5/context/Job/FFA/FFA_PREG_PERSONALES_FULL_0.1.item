@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uN4iEDEhEeyrD4OOxh2S7w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uN4iETEhEeyrD4OOxh2S7w" comment="" name="PER_PERSONA_ID" prompt="PER_PERSONA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iEjEhEeyrD4OOxh2S7w" comment="" name="PER_FICHA_ID" prompt="PER_FICHA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iEzEhEeyrD4OOxh2S7w" comment="" name="PER_TREGIMENSALUD_ID" prompt="PER_TREGIMENSALUD_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iFDEhEeyrD4OOxh2S7w" comment="" name="PER_EPS_ID" prompt="PER_EPS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iFTEhEeyrD4OOxh2S7w" comment="" name="PER_FREGISTRO" prompt="PER_FREGISTRO?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_uN4iFjEhEeyrD4OOxh2S7w" comment="" name="PER_TRESPUESTAS_ID" prompt="PER_TRESPUESTAS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iFzEhEeyrD4OOxh2S7w" comment="" name="PER_OPCION1" prompt="PER_OPCION1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uN4iGDEhEeyrD4OOxh2S7w" comment="" name="PER_OPCION2" prompt="PER_OPCION2?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_uN4iGTEhEeyrD4OOxh2S7w" comment="" name="PER_SIGLA" prompt="PER_SIGLA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uN4iGjEhEeyrD4OOxh2S7w" comment="" name="PER_TPREGUNTAS_ID" prompt="PER_TPREGUNTAS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_uN4iGzEhEeyrD4OOxh2S7w" comment="" name="PER_VPREDETERMINADO" prompt="PER_VPREDETERMINADO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uN4iHDEhEeyrD4OOxh2S7w" comment="" name="PER_RESPUESTA" prompt="PER_RESPUESTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uN4iHTEhEeyrD4OOxh2S7w" comment="" name="PER_RECOMENDACIONES" prompt="PER_RECOMENDACIONES?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

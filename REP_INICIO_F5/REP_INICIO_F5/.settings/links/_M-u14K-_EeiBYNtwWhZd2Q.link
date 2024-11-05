@@ -1,0 +1,141 @@
+{
+  "itemId" : "_M-u14K-_EeiBYNtwWhZd2Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ii48AL-cEemY3L5bxNIhWQ",
+    "parameterList" : [ {
+      "id" : "_uNMllTEhEeyrD4OOxh2S7w",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_uNMlkTEhEeyrD4OOxh2S7w",
+      "name" : "CONDICION"
+    }, {
+      "id" : "_uNMllzEhEeyrD4OOxh2S7w",
+      "name" : "CONDICION_AUDITORES"
+    }, {
+      "id" : "_uNMlmDEhEeyrD4OOxh2S7w",
+      "name" : "CONDICION_INDICADORES"
+    }, {
+      "id" : "_uNMlljEhEeyrD4OOxh2S7w",
+      "name" : "CONDICION2"
+    }, {
+      "id" : "_uNMlkzEhEeyrD4OOxh2S7w",
+      "name" : "DEJECUCION"
+    }, {
+      "id" : "_uNMllDEhEeyrD4OOxh2S7w",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_uNMlkjEhEeyrD4OOxh2S7w",
+      "name" : "FEJECUCION"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_uOY4ZDEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_uOY4ZjEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_uOY4YTEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_uOY4YjEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_uOY4ZzEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_uOY4ZTEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_uOY4YzEhEeyrD4OOxh2S7w",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_uOe_BDEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_uOe_BjEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_uOe_ATEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_uOe_AjEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_uOe_BzEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_uOe_BTEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_uOe_AzEhEeyrD4OOxh2S7w",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_uOJA0jEhEeyrD4OOxh2S7w",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_uOJA0zEhEeyrD4OOxh2S7w",
+      "name" : "CONDITION_PRINCIPAL"
+    }, {
+      "id" : "_uOJAwzEhEeyrD4OOxh2S7w",
+      "name" : "ERROR"
+    }, {
+      "id" : "_uOJAxzEhEeyrD4OOxh2S7w",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_uOJAzzEhEeyrD4OOxh2S7w",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_uOJAzDEhEeyrD4OOxh2S7w",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_uOJAzjEhEeyrD4OOxh2S7w",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_uOJA0DEhEeyrD4OOxh2S7w",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_uOJA0TEhEeyrD4OOxh2S7w",
+      "name" : "RutaSistema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_uNmONTEhEeyrD4OOxh2S7w",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_uNmOOTEhEeyrD4OOxh2S7w",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_uNmOMzEhEeyrD4OOxh2S7w",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_uNmONjEhEeyrD4OOxh2S7w",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_uNmONzEhEeyrD4OOxh2S7w",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_uNmONDEhEeyrD4OOxh2S7w",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_uNmOMjEhEeyrD4OOxh2S7w",
+      "name" : "mail_To"
+    }, {
+      "id" : "_uNmOODEhEeyrD4OOxh2S7w",
+      "name" : "mail_User"
+    } ]
+  } ]
+}
