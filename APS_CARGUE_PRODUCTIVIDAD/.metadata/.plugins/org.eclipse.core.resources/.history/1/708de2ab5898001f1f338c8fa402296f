@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_AwXIME3sEeauXo6wTxlmOg" id="_AwRBkE3sEeauXo6wTxlmOg" label="Inicio" purpose="define variables iniciales del job" version="0.1" statusCode="" item="_AwXIMk3sEeauXo6wTxlmOg" displayName="Inicio">
+    <author href="../../talend.project#_iIoMoJhXEe-x-dwS_Sqb4Q"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_q-AchJhYEe-x-dwS_Sqb4Q" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_AwXIMk3sEeauXo6wTxlmOg" property="_AwXIME3sEeauXo6wTxlmOg" state="_q-AchJhYEe-x-dwS_Sqb4Q" defaultContext="Default">
+    <context href="Inicio_0.1.item#_pIJ1YEKbEeyy2ZFNrgc9Zg"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>
