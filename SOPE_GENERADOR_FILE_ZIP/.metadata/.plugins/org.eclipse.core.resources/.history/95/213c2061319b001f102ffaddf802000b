@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__oTKYJP4EeuGeIPga-k5bg" confirmationNeeded="false" name="DEV">
+  <contextParameter xmi:id="__oTKYZP4EeuGeIPga-k5bg" comment="" name="DB_Login" prompt="DB_Login?" promptNeeded="false" type="id_String" value="devf6"/>
+  <contextParameter xmi:id="__oTKYpP4EeuGeIPga-k5bg" comment="" name="DB_Port" prompt="DB_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="__oTKY5P4EeuGeIPga-k5bg" comment="" name="DB_AdditionalParams" prompt="DB_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__oTKZJP4EeuGeIPga-k5bg" comment="" name="DB_Schema" prompt="DB_Schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__oTKZZP4EeuGeIPga-k5bg" comment="" name="DB_Password" prompt="DB_Password?" promptNeeded="false" type="id_Password" value="ptFFx1ffvKk="/>
+  <contextParameter xmi:id="__oTKZpP4EeuGeIPga-k5bg" comment="" name="DB_Server" prompt="DB_Server?" promptNeeded="false" type="id_String" value="172.17.1.81"/>
+  <contextParameter xmi:id="__oTKZ5P4EeuGeIPga-k5bg" comment="" name="DB_ServiceName" prompt="DB_ServiceName?" promptNeeded="false" type="id_String" value="PDBDEVF6"/>
+</talendfile:ContextType>

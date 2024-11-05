@@ -1,0 +1,17 @@
+{
+  "itemId" : "_S34GQI5qEeuUpI2TcsbWpw",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "__ojpFJP4EeuGeIPga-k5bg",
+      "name" : "anno"
+    }, {
+      "id" : "__ojpE5P4EeuGeIPga-k5bg",
+      "name" : "mes"
+    }, {
+      "id" : "__ojpEpP4EeuGeIPga-k5bg",
+      "name" : "path_files_log"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_kDE9kGr1EeuVeehGuegn9A",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_7OeDsIjREeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "__oTKYZP4EeuGeIPga-k5bg",
+      "name" : "DB_Login"
+    }, {
+      "id" : "__oTKYpP4EeuGeIPga-k5bg",
+      "name" : "DB_Port"
+    }, {
+      "id" : "__oTKY5P4EeuGeIPga-k5bg",
+      "name" : "DB_AdditionalParams"
+    }, {
+      "id" : "__oTKZJP4EeuGeIPga-k5bg",
+      "name" : "DB_Schema"
+    }, {
+      "id" : "__oTKZZP4EeuGeIPga-k5bg",
+      "name" : "DB_Password"
+    }, {
+      "id" : "__oTKZpP4EeuGeIPga-k5bg",
+      "name" : "DB_Server"
+    }, {
+      "id" : "__oTKZ5P4EeuGeIPga-k5bg",
+      "name" : "DB_ServiceName"
+    } ]
+  } ]
+}

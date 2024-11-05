@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="__ojpEJP4EeuGeIPga-k5bg" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="__ojpEZP4EeuGeIPga-k5bg" comment="" name="path_files_encuestas" prompt="path_files_encuestas?" promptNeeded="false" type="id_Directory" value="D:/Workdrive/Zoho WorkDrive (Piantic SAS)/My Folders/Ecanaveras/DocsW/GrowData/FilesEtlCsv/"/>
+    <contextParameter xmi:id="__ojpEpP4EeuGeIPga-k5bg" comment="" name="path_files_log" prompt="path_files_log?" promptNeeded="false" type="id_Directory" value="D:/Workdrive/Zoho WorkDrive (Piantic SAS)/My Folders/Ecanaveras/DocsW/GrowData/FilesEtlCsv/logs/"/>
+    <contextParameter xmi:id="__ojpE5P4EeuGeIPga-k5bg" comment="M" name="mes" prompt="mes?" promptNeeded="true" type="id_Integer" value="2"/>
+    <contextParameter xmi:id="__ojpFJP4EeuGeIPga-k5bg" comment="yyyy" name="anno" prompt="anno?" promptNeeded="true" type="id_Integer" value="2021"/>
+    <contextParameter xmi:id="__ojpFZP4EeuGeIPga-k5bg" comment="Delimitador de los datos" name="delimitador" prompt="delimitador?" promptNeeded="false" type="id_String" value="&quot;\t&quot;"/>
+    <contextParameter xmi:id="__ojpFpP4EeuGeIPga-k5bg" comment="Identifica el proceso en ejecución" name="ProcesoID" prompt="ProcesoID?" promptNeeded="false" type="id_Integer" value="99"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="__ojpF5P4EeuGeIPga-k5bg" confirmationNeeded="false" name="PRD">
+    <contextParameter xmi:id="__ojpGJP4EeuGeIPga-k5bg" comment="" name="path_files_encuestas" prompt="path_files_encuestas?" promptNeeded="false" type="id_Directory" value="D:/Workdrive/Zoho WorkDrive (Piantic SAS)/My Folders/Ecanaveras/DocsW/GrowData/FilesEtlCsv/"/>
+    <contextParameter xmi:id="__ojpGZP4EeuGeIPga-k5bg" comment="" name="path_files_log" prompt="path_files_log?" promptNeeded="false" type="id_Directory" value="D:/Workdrive/Zoho WorkDrive (Piantic SAS)/My Folders/Ecanaveras/DocsW/GrowData/FilesEtlCsv/logs/"/>
+    <contextParameter xmi:id="__ojpGpP4EeuGeIPga-k5bg" comment="M" name="mes" prompt="mes?" promptNeeded="false" type="id_Integer" value="2"/>
+    <contextParameter xmi:id="__ojpG5P4EeuGeIPga-k5bg" comment="yyyy" name="anno" prompt="anno?" promptNeeded="false" type="id_Integer" value="2021"/>
+    <contextParameter xmi:id="__ojpHJP4EeuGeIPga-k5bg" comment="Delimitador de los datos" name="delimitador" prompt="delimitador?" promptNeeded="false" type="id_String" value="&quot;\t&quot;"/>
+    <contextParameter xmi:id="__ojpHZP4EeuGeIPga-k5bg" comment="Identifica el proceso en ejecución" name="ProcesoID" prompt="ProcesoID?" promptNeeded="false" type="id_Integer" value="99"/>
+  </talendfile:ContextType>
+</xmi:XMI>
