@@ -1,0 +1,41 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --< org.example.afi_novedades_afiliado.service:ServiceNovedadesAfiliados >--
+[INFO] Building AFI_NOVEDADES_AFILIADO ServiceNovedadesAfiliados-0.2.0 (0.2,Job Designs) Bundle 0.2.0
+[INFO]   from pom.xml
+[INFO] -------------------------------[ bundle ]-------------------------------
+[WARNING] The POM for org.talend.components:talendcsv:jar:1.1.0 is missing, no dependency information available
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ ServiceNovedadesAfiliados ---
+[INFO] Copying 3 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ ServiceNovedadesAfiliados ---
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ ServiceNovedadesAfiliados ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ ServiceNovedadesAfiliados ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- surefire:2.22.2:test (default-test) @ ServiceNovedadesAfiliados ---
+[WARNING] Parameter 'localRepository' is deprecated core expression; Avoid use of ArtifactRepository type. If you need access to local repository, switch to '${repositorySystemSession}' expression and get LRM from it instead.
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- bundle:5.1.1:bundle (default-bundle) @ ServiceNovedadesAfiliados ---
+[WARNING] Parameter 'localRepository' is deprecated core expression; Avoid use of ArtifactRepository type. If you need access to local repository, switch to '${repositorySystemSession}' expression and get LRM from it instead.
+[WARNING] Bundle org.example.afi_novedades_afiliado.service:ServiceNovedadesAfiliados:bundle:0.2.0 : Invalid package name: '@BundleConfigExportPackage@' in Export-Package
+[WARNING] Bundle org.example.afi_novedades_afiliado.service:ServiceNovedadesAfiliados:bundle:0.2.0 : Invalid package name: '@BundleConfigImportPackage@' in Import-Package
+[INFO] 
+[INFO] --- assembly:3.6.0:single (default) @ ServiceNovedadesAfiliados ---
+[INFO] Reading assembly descriptor: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\AFI_NOVEDADES_AFILIADO\AFI_NOVEDADES_AFILIADO\poms\jobs\process\Servicio\servicenovedadesafiliados_0.2/src/main/assemblies/assembly.xml
+[WARNING] The following patterns were never triggered in this artifact inclusion filter:
+o  'org.example.afi_novedades_afiliado.service:ServiceNovedadesAfiliados:jar:0.2.0'
+
+[INFO] Building jar: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\AFI_NOVEDADES_AFILIADO\AFI_NOVEDADES_AFILIADO\poms\jobs\process\Servicio\servicenovedadesafiliados_0.2\target\ServiceNovedadesAfiliados-bundle-0.2.0.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.795 s
+[INFO] Finished at: 2024-10-28T11:19:56-05:00
+[INFO] ------------------------------------------------------------------------

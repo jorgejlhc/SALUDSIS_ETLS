@@ -1,0 +1,168 @@
+{
+  "itemId" : "_97Ia8G4WEeeazI7Gf728JQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_lG1xtH1XEeyGKoo_XVMwrw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_lG1xtn1XEeyGKoo_XVMwrw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_lG1xsX1XEeyGKoo_XVMwrw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_lG1xsn1XEeyGKoo_XVMwrw",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_lG1xt31XEeyGKoo_XVMwrw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_lG1xtX1XEeyGKoo_XVMwrw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_lG1xs31XEeyGKoo_XVMwrw",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_lHbnk31XEeyGKoo_XVMwrw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_lHbnmX1XEeyGKoo_XVMwrw",
+      "name" : "JOB"
+    }, {
+      "id" : "_lHbnl31XEeyGKoo_XVMwrw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_lHbnmH1XEeyGKoo_XVMwrw",
+      "name" : "LOGS_EXECUTION"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_PZTmsDmNEeeUg8m3V7Zq9w",
+    "parameterList" : [ {
+      "id" : "_lHn0131XEeyGKoo_XVMwrw",
+      "name" : "Area"
+    }, {
+      "id" : "_lHn00n1XEeyGKoo_XVMwrw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_lHn0031XEeyGKoo_XVMwrw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_lHn0231XEeyGKoo_XVMwrw",
+      "name" : "Estado"
+    }, {
+      "id" : "_lHn03X1XEeyGKoo_XVMwrw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_lHn04H1XEeyGKoo_XVMwrw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_lHn01H1XEeyGKoo_XVMwrw",
+      "name" : "FECHA_INICIO"
+    }, {
+      "id" : "_lHn0331XEeyGKoo_XVMwrw",
+      "name" : "HORA_FIN"
+    }, {
+      "id" : "_lHn03n1XEeyGKoo_XVMwrw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_lHn03H1XEeyGKoo_XVMwrw",
+      "name" : "IdProceso"
+    }, {
+      "id" : "_lHn04X1XEeyGKoo_XVMwrw",
+      "name" : "LOG_EJECUCION"
+    }, {
+      "id" : "_lHn01n1XEeyGKoo_XVMwrw",
+      "name" : "NombreArchivoSalida"
+    }, {
+      "id" : "_lHn00X1XEeyGKoo_XVMwrw",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_lHn01X1XEeyGKoo_XVMwrw",
+      "name" : "RutaSistema"
+    }, {
+      "id" : "_lHn02H1XEeyGKoo_XVMwrw",
+      "name" : "TipoArchivo"
+    }, {
+      "id" : "_lHn02n1XEeyGKoo_XVMwrw",
+      "name" : "TipoProceso"
+    }, {
+      "id" : "_lHn02X1XEeyGKoo_XVMwrw",
+      "name" : "Usuario"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_lHLv8n1XEeyGKoo_XVMwrw",
+      "name" : "mail_From"
+    }, {
+      "id" : "_lHLv9X1XEeyGKoo_XVMwrw",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_lHLv-X1XEeyGKoo_XVMwrw",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_lHLv831XEeyGKoo_XVMwrw",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_lHLv9n1XEeyGKoo_XVMwrw",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_lHLv931XEeyGKoo_XVMwrw",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_lHLv9H1XEeyGKoo_XVMwrw",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_lHLv8X1XEeyGKoo_XVMwrw",
+      "name" : "mail_To"
+    }, {
+      "id" : "_lHLv-H1XEeyGKoo_XVMwrw",
+      "name" : "mail_User"
+    }, {
+      "id" : "_lHLv_X1XEeyGKoo_XVMwrw",
+      "name" : "PasswordMail"
+    }, {
+      "id" : "_lHLv-n1XEeyGKoo_XVMwrw",
+      "name" : "SMTPHost"
+    }, {
+      "id" : "_lHLv-31XEeyGKoo_XVMwrw",
+      "name" : "SMTPPort"
+    }, {
+      "id" : "_lHLv_H1XEeyGKoo_XVMwrw",
+      "name" : "UsernameMail"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_t86tcEq5Eee9HJxx5HF3Bg",
+    "parameterList" : [ {
+      "id" : "_lH_BNn1XEeyGKoo_XVMwrw",
+      "name" : "DOCUMENTO_ACTUAL"
+    }, {
+      "id" : "_lH_BNX1XEeyGKoo_XVMwrw",
+      "name" : "DOCUMENTO_ANTERIOR"
+    }, {
+      "id" : "_lH_BMX1XEeyGKoo_XVMwrw",
+      "name" : "FILA"
+    }, {
+      "id" : "_lH_BN31XEeyGKoo_XVMwrw",
+      "name" : "NOVEDAD"
+    }, {
+      "id" : "_lH_BMn1XEeyGKoo_XVMwrw",
+      "name" : "SI_UPDATE"
+    }, {
+      "id" : "_lH_BNH1XEeyGKoo_XVMwrw",
+      "name" : "TDOCUMENTO_ACTUAL"
+    }, {
+      "id" : "_lH_BM31XEeyGKoo_XVMwrw",
+      "name" : "TDOCUMENTO_ANTERIOR"
+    } ]
+  } ]
+}

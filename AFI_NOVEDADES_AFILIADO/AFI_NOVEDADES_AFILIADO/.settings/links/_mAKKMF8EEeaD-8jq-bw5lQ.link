@@ -1,0 +1,47 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_lHLv8n1XEeyGKoo_XVMwrw",
+      "name" : "mail_From"
+    }, {
+      "id" : "_lHLv9X1XEeyGKoo_XVMwrw",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_lHLv-X1XEeyGKoo_XVMwrw",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_lHLv831XEeyGKoo_XVMwrw",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_lHLv9n1XEeyGKoo_XVMwrw",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_lHLv931XEeyGKoo_XVMwrw",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_lHLv9H1XEeyGKoo_XVMwrw",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_lHLv8X1XEeyGKoo_XVMwrw",
+      "name" : "mail_To"
+    }, {
+      "id" : "_lHLv-H1XEeyGKoo_XVMwrw",
+      "name" : "mail_User"
+    }, {
+      "id" : "_lHLv_X1XEeyGKoo_XVMwrw",
+      "name" : "PasswordMail"
+    }, {
+      "id" : "_lHLv-n1XEeyGKoo_XVMwrw",
+      "name" : "SMTPHost"
+    }, {
+      "id" : "_lHLv-31XEeyGKoo_XVMwrw",
+      "name" : "SMTPPort"
+    }, {
+      "id" : "_lHLv_H1XEeyGKoo_XVMwrw",
+      "name" : "UsernameMail"
+    } ]
+  } ]
+}

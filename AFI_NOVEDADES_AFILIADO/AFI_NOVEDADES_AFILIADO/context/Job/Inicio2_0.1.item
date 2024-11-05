@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lHn00H1XEeyGKoo_XVMwrw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_lHn00X1XEeyGKoo_XVMwrw" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_lHn00n1XEeyGKoo_XVMwrw" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_lHn0031XEeyGKoo_XVMwrw" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_lHn01H1XEeyGKoo_XVMwrw" comment="" name="FECHA_INICIO" prompt="FECHA_INICIO?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="'25/11/2019'"/>
+  <contextParameter xmi:id="_lHn01X1XEeyGKoo_XVMwrw" comment="" name="RutaSistema" prompt="RutaSistema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn01n1XEeyGKoo_XVMwrw" comment="" name="NombreArchivoSalida" prompt="NombreArchivoSalida?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn0131XEeyGKoo_XVMwrw" comment="" name="Area" prompt="Area?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="AFI"/>
+  <contextParameter xmi:id="_lHn02H1XEeyGKoo_XVMwrw" comment="" name="TipoArchivo" prompt="TipoArchivo?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_lHn02X1XEeyGKoo_XVMwrw" comment="" name="Usuario" prompt="Usuario?" promptNeeded="true" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_lHn02n1XEeyGKoo_XVMwrw" comment="" name="TipoProceso" prompt="TipoProceso?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_lHn0231XEeyGKoo_XVMwrw" comment="" name="Estado" prompt="Estado?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_lHn03H1XEeyGKoo_XVMwrw" comment="" name="IdProceso" prompt="IdProceso?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_lHn03X1XEeyGKoo_XVMwrw" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn03n1XEeyGKoo_XVMwrw" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn0331XEeyGKoo_XVMwrw" comment="" name="HORA_FIN" prompt="HORA_FIN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn04H1XEeyGKoo_XVMwrw" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lHn04X1XEeyGKoo_XVMwrw" comment="" name="LOG_EJECUCION" prompt="LOG_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+</talendfile:ContextType>

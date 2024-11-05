@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lH_BMH1XEeyGKoo_XVMwrw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_lH_BMX1XEeyGKoo_XVMwrw" comment="" name="FILA" prompt="FILA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BMn1XEeyGKoo_XVMwrw" comment="" name="SI_UPDATE" prompt="SI_UPDATE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BM31XEeyGKoo_XVMwrw" comment="" name="TDOCUMENTO_ANTERIOR" prompt="TDOCUMENTO_ANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BNH1XEeyGKoo_XVMwrw" comment="" name="TDOCUMENTO_ACTUAL" prompt="TDOCUMENTO_ACTUAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BNX1XEeyGKoo_XVMwrw" comment="" name="DOCUMENTO_ANTERIOR" prompt="DOCUMENTO_ANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BNn1XEeyGKoo_XVMwrw" comment="" name="DOCUMENTO_ACTUAL" prompt="DOCUMENTO_ACTUAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lH_BN31XEeyGKoo_XVMwrw" comment="" name="NOVEDAD" prompt="NOVEDAD?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+</talendfile:ContextType>

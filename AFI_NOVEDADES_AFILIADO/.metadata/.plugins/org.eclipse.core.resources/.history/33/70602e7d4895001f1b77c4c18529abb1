@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_W-9zACOkEeutYMi5Po4IXA" id="_bPa5AFMSEe-wOMJFqX_Q2Q" label="ServiceNovedadesAfiliados" version="0.2" statusCode="" item="_W-9zAiOkEeutYMi5Po4IXA" displayName="ServiceNovedadesAfiliados">
+    <author href="../../talend.project#_25nkoFMREe-wOMJFqX_Q2Q"/>
+    <additionalProperties xmi:id="_W_G88COkEeutYMi5Po4IXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G88SOkEeutYMi5Po4IXA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_W_G88iOkEeutYMi5Po4IXA" key="created_date" value="2024-08-05T05:06:47.481-0500"/>
+    <additionalProperties xmi:id="_W_G88yOkEeutYMi5Po4IXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G89COkEeutYMi5Po4IXA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_W_G89SOkEeutYMi5Po4IXA" key="modified_date" value="2024-10-28T11:17:57.256-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_bPsl0FMSEe-wOMJFqX_Q2Q" path="Servicio" locked="true" lockDate="2024-10-28T11:17:57.256-0500">
+    <locker href="../../talend.project#_25nkoFMREe-wOMJFqX_Q2Q"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_W-9zAiOkEeutYMi5Po4IXA" property="_W-9zACOkEeutYMi5Po4IXA" state="_bPsl0FMSEe-wOMJFqX_Q2Q">
+    <process href="ServiceNovedadesAfiliados_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
