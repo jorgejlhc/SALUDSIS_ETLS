@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_xMAMABV1EeykeudPtIFfVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_xMAMARV1EeykeudPtIFfVQ" comment="Periodo mensual (YYYY-MM)" name="PERIODO" prompt="PERIODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMAhV1EeykeudPtIFfVQ" comment="Id del establecimiento" name="UORG_ID" prompt="UORG_ID?" promptNeeded="true" type="id_String" value="200"/>
+  <contextParameter xmi:id="_xMAMAxV1EeykeudPtIFfVQ" comment="Id de la fuerza" name="FUERZA_ID" prompt="FUERZA_ID?" promptNeeded="true" type="id_String" value="1"/>
+  <contextParameter xmi:id="_xMAMBBV1EeykeudPtIFfVQ" comment="Código DIVIPOLA del departamento" name="DPTO_COD" prompt="DPTO_COD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMBRV1EeykeudPtIFfVQ" comment="Código DIVIPOLA del municipio" name="MCPIO_COD" prompt="MCPIO_COD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMBhV1EeykeudPtIFfVQ" comment="Tipo de esquema (&quot;PAI&quot; o &quot;NO PAI&quot;)" name="TESQUEMA" prompt="TESQUEMA?" promptNeeded="true" type="id_String" value="PAI"/>
+  <contextParameter xmi:id="_xMAMBxV1EeykeudPtIFfVQ" comment="Nombre del establecimiento" name="UORG_NOMBRE" prompt="UORG_NOMBRE?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMCBV1EeykeudPtIFfVQ" comment="Nombre de la fuerza" name="FUERZA_NOMBRE" prompt="FUERZA_NOMBRE?" promptNeeded="true" type="id_String" value="Ejercito Nacional de Colombia"/>
+  <contextParameter xmi:id="_xMAMCRV1EeykeudPtIFfVQ" comment="Nombre del departamento" name="DPTO_NOMBRE" prompt="DPTO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMChV1EeykeudPtIFfVQ" comment="Nombre del municipio" name="MCPIO_NOMBRE" prompt="MCPIO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMCxV1EeykeudPtIFfVQ" comment="Fecha inicial (YYYY-MM-DD)" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="true" type="id_String" value="01/01/2021"/>
+  <contextParameter xmi:id="_xMAMDBV1EeykeudPtIFfVQ" comment="Fecha final (YYYY-MM-DD)" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="true" type="id_String" value="14/09/2021"/>
+  <contextParameter xmi:id="_xMAMDRV1EeykeudPtIFfVQ" comment="1 = Actualización (Si), 2 = Aplicación (No)" name="ACTUALIZACION" prompt="ACTUALIZACION?" promptNeeded="true" type="id_String" value="2"/>
+  <contextParameter xmi:id="_xMAMDhV1EeykeudPtIFfVQ" comment="Id del biologico" name="BIOLOGICO_ID" prompt="BIOLOGICO_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMDxV1EeykeudPtIFfVQ" comment="Dosis de la aplicación de la vacuna" name="TDOSIS_ID" prompt="TDOSIS_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMEBV1EeykeudPtIFfVQ" comment="Nombre del biologico" name="BIOLOGICO_NOMBRE" prompt="BIOLOGICO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMERV1EeykeudPtIFfVQ" comment="Nombre de la dosis de aplicación de la vacuna" name="TDOSIS_NOMBRE" prompt="TDOSIS_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMEhV1EeykeudPtIFfVQ" comment="Periodo mensual inicial (YYYY-MM)" name="PERIODO_INICIAL" prompt="PERIODO_INICIAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_xMAMExV1EeykeudPtIFfVQ" comment="Periodo mensual final (YYYY-MM)" name="PERIODO_FINAL" prompt="PERIODO_FINAL?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

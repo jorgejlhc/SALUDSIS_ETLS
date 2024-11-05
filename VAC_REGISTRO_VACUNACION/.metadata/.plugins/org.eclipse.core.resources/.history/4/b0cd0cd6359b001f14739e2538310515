@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_jVWCgoMpEemat9g3OM4VCg" label="RegistroVacunacion" purpose="Registro de vacunación" description="Utilizado para obtener el registro de vacunación diario y por periodos" version="0.1" statusCode="" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="RegistroVacunacion">
+    <author href="../../talend.project#_APTNMJs1Ee-Vf6ADaUiL1g"/>
+    <additionalProperties xmi:id="_Kin3IJs1Ee-Vf6ADaUiL1g" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_Kin3IZs1Ee-Vf6ADaUiL1g" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_Kin3Ips1Ee-Vf6ADaUiL1g" key="created_date" value="2024-11-05T00:16:51.474-0500"/>
+    <additionalProperties xmi:id="_Kin3I5s1Ee-Vf6ADaUiL1g" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_Kin3JJs1Ee-Vf6ADaUiL1g" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_Kin3JZs1Ee-Vf6ADaUiL1g" key="modified_date" value="2024-11-05T00:19:24.442-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KhlVUZs1Ee-Vf6ADaUiL1g" path="Reportes" locked="true" lockDate="2024-11-05T00:17:28.011-0500">
+    <locker href="../../talend.project#_APTNMJs1Ee-Vf6ADaUiL1g"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_KhlVUZs1Ee-Vf6ADaUiL1g">
+    <process href="RegistroVacunacion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
