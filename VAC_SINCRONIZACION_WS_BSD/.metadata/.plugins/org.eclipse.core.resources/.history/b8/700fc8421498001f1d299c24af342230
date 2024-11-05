@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_o0Bokw15Eeaataw4b4HYMw" id="_PAN1oOdbEei418PHux65Yw" label="saludsis" version="0.1" statusCode="" item="_o0BolQ15Eeaataw4b4HYMw" displayName="saludsis">
+    <author href="../../talend.project#_KWNbwJgUEe-99KMlfFNxew"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_QsDjgJgUEe-99KMlfFNxew" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_o0BolQ15Eeaataw4b4HYMw" property="_o0Bokw15Eeaataw4b4HYMw" state="_QsDjgJgUEe-99KMlfFNxew">
+    <connection href="saludsis_0.1.item#_o0BokA15Eeaataw4b4HYMw"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

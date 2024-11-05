@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_MnAXUGWoEeukY7ecZgpDZg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_MnAXUWWoEeukY7ecZgpDZg" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MnAXUmWoEeukY7ecZgpDZg" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MnAXU2WoEeukY7ecZgpDZg" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MnAXVGWoEeukY7ecZgpDZg" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MnAXVWWoEeukY7ecZgpDZg" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MnAXVmWoEeukY7ecZgpDZg" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_MnAXV2WoEeukY7ecZgpDZg" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_MnA-YGWoEeukY7ecZgpDZg" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_MnA-YWWoEeukY7ecZgpDZg" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="../../../Connections.xml"/>
+  <contextParameter xmi:id="_MnA-YmWoEeukY7ecZgpDZg" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="DataWarehouse.xml"/>
+  <contextParameter xmi:id="_MnA-Y2WoEeukY7ecZgpDZg" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>

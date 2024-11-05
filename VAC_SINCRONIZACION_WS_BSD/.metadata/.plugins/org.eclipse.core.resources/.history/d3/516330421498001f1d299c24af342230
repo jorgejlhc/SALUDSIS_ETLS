@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Mom50GWoEeukY7ecZgpDZg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Mong4GWoEeukY7ecZgpDZg" comment="Código de la vacuna en PAI 2.0" name="VACUNAS_ID" prompt="VACUNAS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong4WWoEeukY7ecZgpDZg" comment="Código de la dosis en PAI 2.0" name="DOSIS_ID" prompt="DOSIS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong4mWoEeukY7ecZgpDZg" comment="Código de la presentación en PAI 2.0" name="PRESENTACION_ID" prompt="PRESENTACION_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong42WoEeukY7ecZgpDZg" comment="Código de la campaña" name="CAMPANIA_ID" prompt="CAMPANIA_ID?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_Mong5GWoEeukY7ecZgpDZg" comment="Fecha de la vacuna" name="FECHA_VACUNA" prompt="FECHA_VACUNA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Mong5WWoEeukY7ecZgpDZg" comment="Actualización o aplicación" name="ACTUALIZACION" prompt="ACTUALIZACION?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_Mong5mWoEeukY7ecZgpDZg" comment="Institución que aplica la vacuna" name="INSTITUCION" prompt="INSTITUCION?" promptNeeded="false" type="id_String" value="DIGSA"/>
+  <contextParameter xmi:id="_Mong52WoEeukY7ecZgpDZg" comment="Código de la presentación comercial en PAI 2.0" name="COMERCIAL_ID" prompt="COMERCIAL_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong6GWoEeukY7ecZgpDZg" comment="Número de lote" name="LOTE" prompt="LOTE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Mong6WWoEeukY7ecZgpDZg" comment="Edad en años" name="EDAD_ANIOS" prompt="EDAD_ANIOS?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong6mWoEeukY7ecZgpDZg" comment="Edad en meses" name="EDAD_MESES" prompt="EDAD_MESES?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong62WoEeukY7ecZgpDZg" comment="Edad en días" name="EDAD_DIAS" prompt="EDAD_DIAS?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong7GWoEeukY7ecZgpDZg" comment="Edad total en días" name="EDAD_TOTAL" prompt="EDAD_TOTAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong7WWoEeukY7ecZgpDZg" comment="Funcionario" name="FUNCIONARIO" prompt="FUNCIONARIO?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_Mong7mWoEeukY7ecZgpDZg" comment="Id del detalle de la aplicación" name="DAPLICADAS_ID" prompt="DAPLICADAS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Mong72WoEeukY7ecZgpDZg" comment="Id de la vacuna" name="BIOLOGICOS_ID" prompt="BIOLOGICOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Mong8GWoEeukY7ecZgpDZg" comment="Código del tipo de vacuna en PAI 2.0" name="TIPO_VACUNA" prompt="TIPO_VACUNA?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Mong8WWoEeukY7ecZgpDZg" comment="JSON para guardar la data de la vacunas" name="JSON_VACUNAS" prompt="JSON_VACUNAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Mong8mWoEeukY7ecZgpDZg" comment="Edad a la aplicación de la vacuna" name="FECHA_VACUNA_EDAD" prompt="FECHA_VACUNA_EDAD?" promptNeeded="false" type="id_Date" value=""/>
+</talendfile:ContextType>
