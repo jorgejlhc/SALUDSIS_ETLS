@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_TCT4cGSYEeu6vIY-hSga-g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_TCT4cWSYEeu6vIY-hSga-g" comment="" name="moment" prompt="moment?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4cmSYEeu6vIY-hSga-g" comment="" name="Project" prompt="Project?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4c2SYEeu6vIY-hSga-g" comment="" name="job" prompt="job?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4dGSYEeu6vIY-hSga-g" comment="" name="context" prompt="context?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4dWSYEeu6vIY-hSga-g" comment="" name="origen" prompt="origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4dmSYEeu6vIY-hSga-g" comment="" name="message" prompt="message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4d2SYEeu6vIY-hSga-g" comment="" name="server_origen" prompt="server_origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4eGSYEeu6vIY-hSga-g" comment="" name="service_name_origen" prompt="service_name_origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4eWSYEeu6vIY-hSga-g" comment="" name="user_origen" prompt="user_origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4emSYEeu6vIY-hSga-g" comment="" name="server_destino" prompt="server_destino?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4e2SYEeu6vIY-hSga-g" comment="" name="service_name_destino" prompt="service_name_destino?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_TCT4fGSYEeu6vIY-hSga-g" comment="" name="user_destino" prompt="user_destino?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

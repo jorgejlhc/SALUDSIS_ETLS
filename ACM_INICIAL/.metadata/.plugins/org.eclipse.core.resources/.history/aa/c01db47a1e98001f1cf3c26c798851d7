@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_M-u14K-_EeiBYNtwWhZd2Q" label="Inicial" purpose="Plantilla para inicial el desarrollo de un ETL" description="Para iniciar el desarrollo de un ETL con conexión de base de datos, log de errores y log de ejecución" version="0.1" statusCode="" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="Inicial">
+    <author href="../talend.project#_gWy54JgbEe-HFYouZdlOeA"/>
+    <additionalProperties xmi:id="_oYjw4JgbEe-HFYouZdlOeA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_oYjw4ZgbEe-HFYouZdlOeA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_oYjw4pgbEe-HFYouZdlOeA" key="created_date" value="2024-11-01T01:36:31.342-0500"/>
+    <additionalProperties xmi:id="_oYjw45gbEe-HFYouZdlOeA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_oYjw5JgbEe-HFYouZdlOeA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_oYjw5ZgbEe-HFYouZdlOeA" key="modified_date" value="2024-11-01T01:48:49.674-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_oXW3AJgbEe-HFYouZdlOeA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_oXW3AJgbEe-HFYouZdlOeA">
+    <process href="Inicial_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
