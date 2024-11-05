@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_DVo69KfkEemsXrG-rjgvMw" id="_DVfJ8KfkEemsXrG-rjgvMw" label="FileSystem" version="0.1" statusCode="" item="_DVo69qfkEemsXrG-rjgvMw" displayName="FileSystem">
+    <author href="../../talend.project#_k-CkEJgWEe-jGZp2xlJ9oA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ubt_dpgWEe-jGZp2xlJ9oA" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_DVo69qfkEemsXrG-rjgvMw" property="_DVo69KfkEemsXrG-rjgvMw" state="_ubt_dpgWEe-jGZp2xlJ9oA" defaultContext="Default">
+    <context href="FileSystem_0.1.item#_3g6OYGSWEeu5V4A3Ud398w"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

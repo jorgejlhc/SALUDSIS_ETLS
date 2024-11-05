@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_3fw-4WSWEeu5V4A3Ud398w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_3fw-4mSWEeu5V4A3Ud398w" comment="" name="mail_To" prompt="mail_To?" promptNeeded="false" type="id_String" value="Roger&lt;rprieto@vertical.codaltec.com>,Yenner&lt;yrobayo@codaltec.com>,Numa&lt;ncaicedo@vertical.codaltec.com>, Jose&lt;jramos@codaltec.com>,Alex&lt;acastano@cps.codaltec.com>"/>
+  <contextParameter xmi:id="_3fw-42SWEeu5V4A3Ud398w" comment="" name="mail_Sendername" prompt="mail_Sendername?" promptNeeded="false" type="id_String" value="Soporte ETL codaltec"/>
+  <contextParameter xmi:id="_3fw-5GSWEeu5V4A3Ud398w" comment="" name="mail_Subject" prompt="mail_Subject?" promptNeeded="false" type="id_String" value="Error al ejecutar Job"/>
+  <contextParameter xmi:id="_3fw-5WSWEeu5V4A3Ud398w" comment="" name="mail_Message" prompt="mail_Message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3fw-5mSWEeu5V4A3Ud398w" comment="" name="mail_SMTP_Host" prompt="mail_SMTP_Host?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+  <contextParameter xmi:id="_3fw-52SWEeu5V4A3Ud398w" comment="" name="mail_SMTP_Port" prompt="mail_SMTP_Port?" promptNeeded="false" type="id_String" value="587"/>
+  <contextParameter xmi:id="_3fw-6GSWEeu5V4A3Ud398w" comment="" name="mail_User" prompt="mail_User?" promptNeeded="false" type="id_String" value="desarrolladores.codaltec@gmail.com"/>
+  <contextParameter xmi:id="_3fw-6WSWEeu5V4A3Ud398w" comment="" name="mail_Password" prompt="mail_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:JxZtf/IiZ9sdTvP8YHqO/7CPowsF5KY5gFKQ65gh7Kh2mmjVC2EWSKs="/>
+</talendfile:ContextType>

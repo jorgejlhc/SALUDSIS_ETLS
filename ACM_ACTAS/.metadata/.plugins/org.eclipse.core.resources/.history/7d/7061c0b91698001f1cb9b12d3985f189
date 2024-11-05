@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_3hJe8GSWEeu5V4A3Ud398w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_3hJe8WSWEeu5V4A3Ud398w" comment="" name="JasperServer" prompt="JasperServer?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe8mSWEeu5V4A3Ud398w" comment="" name="JasperUser" prompt="JasperUser?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe82SWEeu5V4A3Ud398w" comment="" name="JasperPassword" prompt="JasperPassword?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe9GSWEeu5V4A3Ud398w" comment="" name="JasperModulo" prompt="JasperModulo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe9WSWEeu5V4A3Ud398w" comment="" name="JasperAmbiente" prompt="JasperAmbiente?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe9mSWEeu5V4A3Ud398w" comment="" name="JasperReporte" prompt="JasperReporte?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe92SWEeu5V4A3Ud398w" comment="" name="JasperURI" prompt="JasperURI?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hJe-GSWEeu5V4A3Ud398w" comment="" name="JasperParameters" prompt="JasperParameters?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

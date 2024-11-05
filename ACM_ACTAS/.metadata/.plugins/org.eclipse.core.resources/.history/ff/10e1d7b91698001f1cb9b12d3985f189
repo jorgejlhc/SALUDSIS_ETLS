@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_qFjuUL1OEemLEIlwYm11cw" id="_qFigML1OEemLEIlwYm11cw" label="Actas" version="0.1" statusCode="" item="_qFjuUr1OEemLEIlwYm11cw" displayName="Actas">
+    <author href="../../talend.project#_k-CkEJgWEe-jGZp2xlJ9oA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_uc5rMJgWEe-jGZp2xlJ9oA" path="Actas"/>
+  <TalendProperties:ProcessItem xmi:id="_qFjuUr1OEemLEIlwYm11cw" property="_qFjuUL1OEemLEIlwYm11cw" state="_uc5rMJgWEe-jGZp2xlJ9oA">
+    <process href="Actas_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

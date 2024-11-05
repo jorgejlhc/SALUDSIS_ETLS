@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_3gq90WSWEeu5V4A3Ud398w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_3gq90mSWEeu5V4A3Ud398w" comment="" name="RECEPCION_ID" prompt="RECEPCION_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq902SWEeu5V4A3Ud398w" comment="" name="HAUDITORIA_ID" prompt="HAUDITORIA_ID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq91GSWEeu5V4A3Ud398w" comment="" name="FACTURA_ID" prompt="FACTURA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_3gq91WSWEeu5V4A3Ud398w" comment="" name="DOCUMENTO" prompt="DOCUMENTO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq91mSWEeu5V4A3Ud398w" comment="" name="TDOCUMENTO" prompt="TDOCUMENTO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq912SWEeu5V4A3Ud398w" comment="" name="VFACTURADO" prompt="VFACTURADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq92GSWEeu5V4A3Ud398w" comment="" name="VGLOSADO" prompt="VGLOSADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq92WSWEeu5V4A3Ud398w" comment="" name="VCOBRADO" prompt="VCOBRADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq92mSWEeu5V4A3Ud398w" comment="" name="VNETO" prompt="VNETO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq922SWEeu5V4A3Ud398w" comment="" name="VACEPTADO" prompt="VACEPTADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq93GSWEeu5V4A3Ud398w" comment="" name="VSOPORTADO" prompt="VSOPORTADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq93WSWEeu5V4A3Ud398w" comment="" name="VRATIFICADA" prompt="VRATIFICADA?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq93mSWEeu5V4A3Ud398w" comment="" name="ID" prompt="ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_3gq932SWEeu5V4A3Ud398w" comment="" name="SIGLA" prompt="SIGLA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq94GSWEeu5V4A3Ud398w" comment="" name="NOMBRE_ACTA" prompt="NOMBRE_ACTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq94WSWEeu5V4A3Ud398w" comment="" name="USUARIO" prompt="USUARIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq94mSWEeu5V4A3Ud398w" comment="" name="ESTABLECIMIENTO" prompt="ESTABLECIMIENTO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq942SWEeu5V4A3Ud398w" comment="" name="ACTA_ID" prompt="ACTA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_3gq95GSWEeu5V4A3Ud398w" comment="" name="FECHA_HORA_INICIO_EJECUCION" prompt="FECHA_HORA_INICIO_EJECUCION?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_3gq95WSWEeu5V4A3Ud398w" comment="" name="FECHA_HORA_FIN_EJECUCION" prompt="FECHA_HORA_FIN_EJECUCION?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_3gq95mSWEeu5V4A3Ud398w" comment="" name="TACTA" prompt="TACTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq952SWEeu5V4A3Ud398w" comment="" name="CIUDAD" prompt="CIUDAD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_3gq96GSWEeu5V4A3Ud398w" comment="" name="SUMADOR_NETO" prompt="SUMADOR_NETO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_3gq96WSWEeu5V4A3Ud398w" comment="" name="CONTADOR" prompt="CONTADOR?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

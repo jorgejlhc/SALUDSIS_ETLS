@@ -1,0 +1,266 @@
+{
+  "itemId" : "_qFigML1OEemLEIlwYm11cw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_i2phEL3REemu7-8OSRriTg",
+    "parameterList" : [ {
+      "id" : "_3gq942SWEeu5V4A3Ud398w",
+      "name" : "ACTA_ID"
+    }, {
+      "id" : "_3gq952SWEeu5V4A3Ud398w",
+      "name" : "CIUDAD"
+    }, {
+      "id" : "_3gq96WSWEeu5V4A3Ud398w",
+      "name" : "CONTADOR"
+    }, {
+      "id" : "_3gq91WSWEeu5V4A3Ud398w",
+      "name" : "DOCUMENTO"
+    }, {
+      "id" : "_3gq94mSWEeu5V4A3Ud398w",
+      "name" : "ESTABLECIMIENTO"
+    }, {
+      "id" : "_3gq91GSWEeu5V4A3Ud398w",
+      "name" : "FACTURA_ID"
+    }, {
+      "id" : "_3gq95WSWEeu5V4A3Ud398w",
+      "name" : "FECHA_HORA_FIN_EJECUCION"
+    }, {
+      "id" : "_3gq95GSWEeu5V4A3Ud398w",
+      "name" : "FECHA_HORA_INICIO_EJECUCION"
+    }, {
+      "id" : "_3gq902SWEeu5V4A3Ud398w",
+      "name" : "HAUDITORIA_ID"
+    }, {
+      "id" : "_3gq93mSWEeu5V4A3Ud398w",
+      "name" : "ID"
+    }, {
+      "id" : "_3gq94GSWEeu5V4A3Ud398w",
+      "name" : "NOMBRE_ACTA"
+    }, {
+      "id" : "_3gq90mSWEeu5V4A3Ud398w",
+      "name" : "RECEPCION_ID"
+    }, {
+      "id" : "_3gq932SWEeu5V4A3Ud398w",
+      "name" : "SIGLA"
+    }, {
+      "id" : "_3gq96GSWEeu5V4A3Ud398w",
+      "name" : "SUMADOR_NETO"
+    }, {
+      "id" : "_3gq95mSWEeu5V4A3Ud398w",
+      "name" : "TACTA"
+    }, {
+      "id" : "_3gq91mSWEeu5V4A3Ud398w",
+      "name" : "TDOCUMENTO"
+    }, {
+      "id" : "_3gq94WSWEeu5V4A3Ud398w",
+      "name" : "USUARIO"
+    }, {
+      "id" : "_3gq922SWEeu5V4A3Ud398w",
+      "name" : "VACEPTADO"
+    }, {
+      "id" : "_3gq92WSWEeu5V4A3Ud398w",
+      "name" : "VCOBRADO"
+    }, {
+      "id" : "_3gq912SWEeu5V4A3Ud398w",
+      "name" : "VFACTURADO"
+    }, {
+      "id" : "_3gq92GSWEeu5V4A3Ud398w",
+      "name" : "VGLOSADO"
+    }, {
+      "id" : "_3gq92mSWEeu5V4A3Ud398w",
+      "name" : "VNETO"
+    }, {
+      "id" : "_3gq93WSWEeu5V4A3Ud398w",
+      "name" : "VRATIFICADA"
+    }, {
+      "id" : "_3gq93GSWEeu5V4A3Ud398w",
+      "name" : "VSOPORTADO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_3e3nCGSWEeu5V4A3Ud398w",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_3e3nBWSWEeu5V4A3Ud398w",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_3e3nBGSWEeu5V4A3Ud398w",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_3e3nCWSWEeu5V4A3Ud398w",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_3e3nBmSWEeu5V4A3Ud398w",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_3e3nA2SWEeu5V4A3Ud398w",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_3e3nB2SWEeu5V4A3Ud398w",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_3fTE12SWEeu5V4A3Ud398w",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_3fTE0mSWEeu5V4A3Ud398w",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_3fTE0WSWEeu5V4A3Ud398w",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_3fTE1mSWEeu5V4A3Ud398w",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_3fTE02SWEeu5V4A3Ud398w",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_3fTE1GSWEeu5V4A3Ud398w",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_3fTE1WSWEeu5V4A3Ud398w",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_DVfJ8KfkEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_3g6OY2SWEeu5V4A3Ud398w",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_3g6OYmSWEeu5V4A3Ud398w",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_3g6OYWSWEeu5V4A3Ud398w",
+      "name" : "fileSystem_Path"
+    }, {
+      "id" : "_3g6OZGSWEeu5V4A3Ud398w",
+      "name" : "fileSystem_Report"
+    }, {
+      "id" : "_3g6OZWSWEeu5V4A3Ud398w",
+      "name" : "fileSystem_URL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_3gL1omSWEeu5V4A3Ud398w",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_3gL1q2SWEeu5V4A3Ud398w",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_3gL1o2SWEeu5V4A3Ud398w",
+      "name" : "ERROR"
+    }, {
+      "id" : "_3gL1p2SWEeu5V4A3Ud398w",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_3gL1rWSWEeu5V4A3Ud398w",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_3gL1oWSWEeu5V4A3Ud398w",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_3gL1pGSWEeu5V4A3Ud398w",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_3gL1r2SWEeu5V4A3Ud398w",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_3gL1smSWEeu5V4A3Ud398w",
+      "name" : "HORA"
+    }, {
+      "id" : "_3gL1pmSWEeu5V4A3Ud398w",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_3gL1pWSWEeu5V4A3Ud398w",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_3gL1rGSWEeu5V4A3Ud398w",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_3gL1sWSWEeu5V4A3Ud398w",
+      "name" : "JOB"
+    }, {
+      "id" : "_3gL1rmSWEeu5V4A3Ud398w",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_3gL1qGSWEeu5V4A3Ud398w",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_3gL1qWSWEeu5V4A3Ud398w",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_3gL1s2SWEeu5V4A3Ud398w",
+      "name" : "MINUTOS"
+    }, {
+      "id" : "_3gL1qmSWEeu5V4A3Ud398w",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_3gL1sGSWEeu5V4A3Ud398w",
+      "name" : "PATH"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Iqg2QKfWEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_3hJe9WSWEeu5V4A3Ud398w",
+      "name" : "JasperAmbiente"
+    }, {
+      "id" : "_3hJe9GSWEeu5V4A3Ud398w",
+      "name" : "JasperModulo"
+    }, {
+      "id" : "_3hJe-GSWEeu5V4A3Ud398w",
+      "name" : "JasperParameters"
+    }, {
+      "id" : "_3hJe82SWEeu5V4A3Ud398w",
+      "name" : "JasperPassword"
+    }, {
+      "id" : "_3hJe9mSWEeu5V4A3Ud398w",
+      "name" : "JasperReporte"
+    }, {
+      "id" : "_3hJe8WSWEeu5V4A3Ud398w",
+      "name" : "JasperServer"
+    }, {
+      "id" : "_3hJe92SWEeu5V4A3Ud398w",
+      "name" : "JasperURI"
+    }, {
+      "id" : "_3hJe8mSWEeu5V4A3Ud398w",
+      "name" : "JasperUser"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_3fw-5WSWEeu5V4A3Ud398w",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_3fw-6WSWEeu5V4A3Ud398w",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_3fw-42SWEeu5V4A3Ud398w",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_3fw-5mSWEeu5V4A3Ud398w",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_3fw-52SWEeu5V4A3Ud398w",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_3fw-5GSWEeu5V4A3Ud398w",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_3fw-4mSWEeu5V4A3Ud398w",
+      "name" : "mail_To"
+    }, {
+      "id" : "_3fw-6GSWEeu5V4A3Ud398w",
+      "name" : "mail_User"
+    } ]
+  } ]
+}
