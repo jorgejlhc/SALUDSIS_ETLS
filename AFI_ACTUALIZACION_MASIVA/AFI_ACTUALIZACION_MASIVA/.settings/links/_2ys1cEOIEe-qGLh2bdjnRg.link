@@ -1,0 +1,25 @@
+{
+  "itemId" : "_2ys1cEOIEe-qGLh2bdjnRg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    } ]
+  }, {
+    "contextName" : "QABI",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    } ]
+  } ]
+}

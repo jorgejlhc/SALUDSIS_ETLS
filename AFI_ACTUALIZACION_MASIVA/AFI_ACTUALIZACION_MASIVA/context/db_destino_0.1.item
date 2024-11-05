@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_EsahoG7-Ee67X6CDxQoRjw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_EsahoW7-Ee67X6CDxQoRjw" comment="" name="db_destino_Password" prompt="db_destino_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:gQCI54+BAcZNE6Y1p96seKPenAqk5R2OeViFJc9jAv8djEkCNy52"/>
+  <contextParameter xmi:id="_Esahom7-Ee67X6CDxQoRjw" comment="" name="db_destino_Port" prompt="db_destino_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_Esaho27-Ee67X6CDxQoRjw" comment="" name="db_destino_ServiceName" prompt="db_destino_ServiceName?" promptNeeded="false" type="id_String" value="PDBDEV"/>
+  <contextParameter xmi:id="_EsahpG7-Ee67X6CDxQoRjw" comment="" name="db_destino_AdditionalParams" prompt="db_destino_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_EsahpW7-Ee67X6CDxQoRjw" comment="" name="db_destino_Server" prompt="db_destino_Server?" promptNeeded="false" type="id_String" value="129.150.101.156"/>
+  <contextParameter xmi:id="_Esahpm7-Ee67X6CDxQoRjw" comment="" name="db_destino_Login" prompt="db_destino_Login?" promptNeeded="false" type="id_String" value="REP_SALUDSIS"/>
+  <contextParameter xmi:id="_Esahp27-Ee67X6CDxQoRjw" comment="" name="db_destino_Schema" prompt="db_destino_Schema?" promptNeeded="false" type="id_String" value="REP_SALUDSIS"/>
+</talendfile:ContextType>

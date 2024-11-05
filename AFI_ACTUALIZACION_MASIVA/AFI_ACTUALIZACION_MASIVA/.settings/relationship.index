@@ -1,0 +1,90 @@
+[ {
+  "baseItem" : {
+    "id" : "_2ys1cEOIEe-qGLh2bdjnRg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_ACTUALIZACION_MASIVA:_M-u14K-_EeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LbzEsK_ZEeiBYNtwWhZd2Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-v_ZoLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_muHlMK-_EeiBYNtwWhZd2Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_M-u14K-_EeiBYNtwWhZd2Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-v_ZoLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_oZXCUB6JEembhdXxOmiqHQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_LbzEsK_ZEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_muHlMK-_EeiBYNtwWhZd2Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_sx33YK-_EeiBYNtwWhZd2Q - TST_ARCHIVO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

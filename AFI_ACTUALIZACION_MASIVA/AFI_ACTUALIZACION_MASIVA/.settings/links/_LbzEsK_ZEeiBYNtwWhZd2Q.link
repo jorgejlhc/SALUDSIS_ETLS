@@ -1,0 +1,153 @@
+{
+  "itemId" : "_LbzEsK_ZEeiBYNtwWhZd2Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_EsahpG7-Ee67X6CDxQoRjw",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_Esahpm7-Ee67X6CDxQoRjw",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_EsahoW7-Ee67X6CDxQoRjw",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_Esahom7-Ee67X6CDxQoRjw",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_Esahp27-Ee67X6CDxQoRjw",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_EsahpW7-Ee67X6CDxQoRjw",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_Esaho27-Ee67X6CDxQoRjw",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_EspyNG7-Ee67X6CDxQoRjw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_EspyNm7-Ee67X6CDxQoRjw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_EspyMW7-Ee67X6CDxQoRjw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_EspyMm7-Ee67X6CDxQoRjw",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_EspyN27-Ee67X6CDxQoRjw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_EspyNW7-Ee67X6CDxQoRjw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_EspyM27-Ee67X6CDxQoRjw",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_Er6LVG7-Ee67X6CDxQoRjw",
+      "name" : "context"
+    }, {
+      "id" : "_Er6LU27-Ee67X6CDxQoRjw",
+      "name" : "job"
+    }, {
+      "id" : "_Er6LVm7-Ee67X6CDxQoRjw",
+      "name" : "message"
+    }, {
+      "id" : "_Er6LUW7-Ee67X6CDxQoRjw",
+      "name" : "moment"
+    }, {
+      "id" : "_Er6LVW7-Ee67X6CDxQoRjw",
+      "name" : "origen"
+    }, {
+      "id" : "_Er6LUm7-Ee67X6CDxQoRjw",
+      "name" : "Project"
+    }, {
+      "id" : "_Er6LWm7-Ee67X6CDxQoRjw",
+      "name" : "server_destino"
+    }, {
+      "id" : "_Er6LV27-Ee67X6CDxQoRjw",
+      "name" : "server_origen"
+    }, {
+      "id" : "_Er6LW27-Ee67X6CDxQoRjw",
+      "name" : "service_name_destino"
+    }, {
+      "id" : "_Er6LWG7-Ee67X6CDxQoRjw",
+      "name" : "service_name_origen"
+    }, {
+      "id" : "_Er6LXG7-Ee67X6CDxQoRjw",
+      "name" : "user_destino"
+    }, {
+      "id" : "_Er6LWW7-Ee67X6CDxQoRjw",
+      "name" : "user_origen"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_EsD8Vm7-Ee67X6CDxQoRjw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_EsD8VG7-Ee67X6CDxQoRjw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_EsD8Um7-Ee67X6CDxQoRjw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_EsD8U27-Ee67X6CDxQoRjw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_EsD8UW7-Ee67X6CDxQoRjw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_EsD8WW7-Ee67X6CDxQoRjw",
+      "name" : "JOB"
+    }, {
+      "id" : "_EsD8V27-Ee67X6CDxQoRjw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_EsD8WG7-Ee67X6CDxQoRjw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_EsD8VW7-Ee67X6CDxQoRjw",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_-v_ZoLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_EszjNG7-Ee67X6CDxQoRjw",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_EszjOG7-Ee67X6CDxQoRjw",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_EszjMm7-Ee67X6CDxQoRjw",
+      "name" : "mail_SenderName"
+    }, {
+      "id" : "_EszjNW7-Ee67X6CDxQoRjw",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_EszjNm7-Ee67X6CDxQoRjw",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_EszjM27-Ee67X6CDxQoRjw",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_EszjMW7-Ee67X6CDxQoRjw",
+      "name" : "mail_To"
+    }, {
+      "id" : "_EszjN27-Ee67X6CDxQoRjw",
+      "name" : "mail_User"
+    } ]
+  } ]
+}

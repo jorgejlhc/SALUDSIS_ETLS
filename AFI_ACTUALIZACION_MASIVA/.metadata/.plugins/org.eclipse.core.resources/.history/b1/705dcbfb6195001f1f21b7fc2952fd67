@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_M-u14K-_EeiBYNtwWhZd2Q" label="ActualizacionMSV" purpose="Plantilla para inicial el desarrollo de un ETL" description="Para iniciar el desarrollo de un ETL con conexión de base de datos, log de errores y log de ejecución" version="0.1" statusCode="DEV" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="ActualizacionMSV">
+    <author href="../../talend.project#_l2VO4JVhEe-bup1MX4YgQA"/>
+    <additionalProperties xmi:id="_1L4TgEOGEe-qGLh2bdjnRg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_1L4TgUOGEe-qGLh2bdjnRg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_1L4TgkOGEe-qGLh2bdjnRg" key="created_date" value="2018-09-03T16:20:37.954-0500"/>
+    <additionalProperties xmi:id="_1L4Tg0OGEe-qGLh2bdjnRg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_1L4ThEOGEe-qGLh2bdjnRg" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_1L4ThUOGEe-qGLh2bdjnRg" key="modified_date" value="2024-10-28T14:22:16.366-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0wBnAJVhEe-bup1MX4YgQA" path="Actualizacion" locked="true" lockDate="2024-10-28T14:22:16.366-0500">
+    <locker href="../../talend.project#_l2VO4JVhEe-bup1MX4YgQA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_0wBnAJVhEe-bup1MX4YgQA">
+    <process href="ActualizacionMSV_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

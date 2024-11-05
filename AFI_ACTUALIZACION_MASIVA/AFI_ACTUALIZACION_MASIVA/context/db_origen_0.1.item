@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_EspyMG7-Ee67X6CDxQoRjw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_EspyMW7-Ee67X6CDxQoRjw" comment="" name="db_origen_Password" prompt="db_origen_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:cW87tf902B8bq3c/syp2Uyt2corPubAFZpa9ppDst4VHlZMaNT7DVWEwwA=="/>
+  <contextParameter xmi:id="_EspyMm7-Ee67X6CDxQoRjw" comment="" name="db_origen_Port" prompt="db_origen_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_EspyM27-Ee67X6CDxQoRjw" comment="" name="db_origen_ServiceName" prompt="db_origen_ServiceName?" promptNeeded="false" type="id_String" value="PDBDEV"/>
+  <contextParameter xmi:id="_EspyNG7-Ee67X6CDxQoRjw" comment="" name="db_origen_AdditionalParams" prompt="db_origen_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_EspyNW7-Ee67X6CDxQoRjw" comment="" name="db_origen_Server" prompt="db_origen_Server?" promptNeeded="false" type="id_String" value="172.20.19.37"/>
+  <contextParameter xmi:id="_EspyNm7-Ee67X6CDxQoRjw" comment="" name="db_origen_Login" prompt="db_origen_Login?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_EspyN27-Ee67X6CDxQoRjw" comment="" name="db_origen_Schema" prompt="db_origen_Schema?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_EspyOG7-Ee67X6CDxQoRjw" comment="" name="PATH" prompt="PATH?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
