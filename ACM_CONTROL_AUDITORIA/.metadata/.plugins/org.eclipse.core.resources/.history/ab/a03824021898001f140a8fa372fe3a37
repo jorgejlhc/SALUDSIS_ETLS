@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Wy074ivvEemVw6p2aP23FA" id="_Wyqj0CvvEemVw6p2aP23FA" label="ErroresValidaciones" purpose="ErroresValidaciones" description="ErroresValidaciones" version="0.1" statusCode="" item="_Wy075CvvEemVw6p2aP23FA" displayName="ErroresValidaciones">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AiQ4s5gYEe-matxkcI1BcA" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_Wy075CvvEemVw6p2aP23FA" property="_Wy074ivvEemVw6p2aP23FA" state="_AiQ4s5gYEe-matxkcI1BcA" defaultContext="Default">
+    <context href="ErroresValidaciones_0.1.item#_RiHbkGSZEeuHNrhIR1Z4nA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

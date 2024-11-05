@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_mMmsANSVEem_GbBaVE9KYA" id="_mMld4NSVEem_GbBaVE9KYA" label="PartirPrefijo" version="0.1" statusCode="" item="_mMmsAtSVEem_GbBaVE9KYA" maxInformationLevel="WARN" displayName="PartirPrefijo">
+    <author href="../../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+    <informations xmi:id="_kc7C4NjOEemNJpzM06ImcA" level="WARN" text="The value of the local variable Rinferior is not used"/>
+    <additionalProperties xmi:id="_AjQXIJgYEe-matxkcI1BcA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_AjQXIZgYEe-matxkcI1BcA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_AjQXIpgYEe-matxkcI1BcA" key="created_date" value="2024-11-01T01:10:35.538-0500"/>
+    <additionalProperties xmi:id="_AjQXI5gYEe-matxkcI1BcA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_AjQXJJgYEe-matxkcI1BcA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_AjQXJZgYEe-matxkcI1BcA" key="modified_date" value="2024-11-01T01:10:35.538-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AjHNMJgYEe-matxkcI1BcA" path="Gen"/>
+  <TalendProperties:RoutineItem xmi:id="_mMmsAtSVEem_GbBaVE9KYA" property="_mMmsANSVEem_GbBaVE9KYA" state="_AjHNMJgYEe-matxkcI1BcA">
+    <content href="PartirPrefijo_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

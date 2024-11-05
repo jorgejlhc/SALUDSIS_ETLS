@@ -1,0 +1,723 @@
+{
+  "itemId" : "_G3LaEKPpEeml1vwD6V8ZQA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_DtrHEEqHEemvHK8N__XJiw",
+    "parameterList" : [ {
+      "id" : "_RhkpOWSZEeuHNrhIR1Z4nA",
+      "name" : "BANDERA"
+    }, {
+      "id" : "_RhkpHmSZEeuHNrhIR1Z4nA",
+      "name" : "bodega"
+    }, {
+      "id" : "_RhkpLWSZEeuHNrhIR1Z4nA",
+      "name" : "cantidad"
+    }, {
+      "id" : "_RhkpImSZEeuHNrhIR1Z4nA",
+      "name" : "cantidad_despachada"
+    }, {
+      "id" : "_RhkpIWSZEeuHNrhIR1Z4nA",
+      "name" : "cantidad_solicitada"
+    }, {
+      "id" : "_RhkpLmSZEeuHNrhIR1Z4nA",
+      "name" : "codigo_autorizacion"
+    }, {
+      "id" : "_RhkpMWSZEeuHNrhIR1Z4nA",
+      "name" : "codigo_cie10"
+    }, {
+      "id" : "_RhkpFGSZEeuHNrhIR1Z4nA",
+      "name" : "codigo_cum"
+    }, {
+      "id" : "_RhkpKGSZEeuHNrhIR1Z4nA",
+      "name" : "codigo_cups"
+    }, {
+      "id" : "_RhkpG2SZEeuHNrhIR1Z4nA",
+      "name" : "concentracion"
+    }, {
+      "id" : "_RhkpNGSZEeuHNrhIR1Z4nA",
+      "name" : "confidencialidad"
+    }, {
+      "id" : "_RhkpQGSZEeuHNrhIR1Z4nA",
+      "name" : "CONTRATOS_ID"
+    }, {
+      "id" : "_RhkpEmSZEeuHNrhIR1Z4nA",
+      "name" : "ctc_aprobado"
+    }, {
+      "id" : "_RhkpMmSZEeuHNrhIR1Z4nA",
+      "name" : "descripcion_cie10"
+    }, {
+      "id" : "_RhkpKWSZEeuHNrhIR1Z4nA",
+      "name" : "descripcion_cups"
+    }, {
+      "id" : "_RhkpA2SZEeuHNrhIR1Z4nA",
+      "name" : "documento"
+    }, {
+      "id" : "_RhkpCWSZEeuHNrhIR1Z4nA",
+      "name" : "esm"
+    }, {
+      "id" : "_RhkpQ2SZEeuHNrhIR1Z4nA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_RhkpOmSZEeuHNrhIR1Z4nA",
+      "name" : "EstAfiliacionActivo"
+    }, {
+      "id" : "_RhkpPGSZEeuHNrhIR1Z4nA",
+      "name" : "EstAfiliacionProvisional"
+    }, {
+      "id" : "_RhkpO2SZEeuHNrhIR1Z4nA",
+      "name" : "EstAfiliaicionInactivo"
+    }, {
+      "id" : "_RhkpP2SZEeuHNrhIR1Z4nA",
+      "name" : "EstArchivoPCE"
+    }, {
+      "id" : "_RhkpN2SZEeuHNrhIR1Z4nA",
+      "name" : "fecha_autorizacion"
+    }, {
+      "id" : "_RhkpD2SZEeuHNrhIR1Z4nA",
+      "name" : "fecha_dispensacion"
+    }, {
+      "id" : "_RhkpMGSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_egreso"
+    }, {
+      "id" : "_RhkpNWSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_factura"
+    }, {
+      "id" : "_RhkpDWSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_formulacion"
+    }, {
+      "id" : "_RhkpL2SZEeuHNrhIR1Z4nA",
+      "name" : "fecha_ingreso"
+    }, {
+      "id" : "_RhkpQmSZEeuHNrhIR1Z4nA",
+      "name" : "FECHA_NULL"
+    }, {
+      "id" : "_RhkpDmSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_registro"
+    }, {
+      "id" : "_RhkpLGSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_servicio"
+    }, {
+      "id" : "_RhkpIGSZEeuHNrhIR1Z4nA",
+      "name" : "fecha_vencimiento"
+    }, {
+      "id" : "_RhkpCmSZEeuHNrhIR1Z4nA",
+      "name" : "fuerza_militar"
+    }, {
+      "id" : "_RhkpRGSZEeuHNrhIR1Z4nA",
+      "name" : "HORA"
+    }, {
+      "id" : "_RhkpFWSZEeuHNrhIR1Z4nA",
+      "name" : "invima"
+    }, {
+      "id" : "_RhkpHWSZEeuHNrhIR1Z4nA",
+      "name" : "laboratorio"
+    }, {
+      "id" : "_RhkpH2SZEeuHNrhIR1Z4nA",
+      "name" : "lote"
+    }, {
+      "id" : "_RhkpB2SZEeuHNrhIR1Z4nA",
+      "name" : "lugar_dispensacion"
+    }, {
+      "id" : "_RhkpQWSZEeuHNrhIR1Z4nA",
+      "name" : "MEDCONTRATOS_ID"
+    }, {
+      "id" : "_RhkpPmSZEeuHNrhIR1Z4nA",
+      "name" : "Narchivo"
+    }, {
+      "id" : "_RhkpGGSZEeuHNrhIR1Z4nA",
+      "name" : "nombre_medicamento"
+    }, {
+      "id" : "_RhkpBGSZEeuHNrhIR1Z4nA",
+      "name" : "numero"
+    }, {
+      "id" : "_RhkpBmSZEeuHNrhIR1Z4nA",
+      "name" : "numero_factura"
+    }, {
+      "id" : "_RhkpC2SZEeuHNrhIR1Z4nA",
+      "name" : "numero_formula"
+    }, {
+      "id" : "_RhkpM2SZEeuHNrhIR1Z4nA",
+      "name" : "observaciones"
+    }, {
+      "id" : "_RhkpE2SZEeuHNrhIR1Z4nA",
+      "name" : "origen_formulacion"
+    }, {
+      "id" : "_RhkpCGSZEeuHNrhIR1Z4nA",
+      "name" : "periodo"
+    }, {
+      "id" : "_RhkpBWSZEeuHNrhIR1Z4nA",
+      "name" : "prefijo"
+    }, {
+      "id" : "_RhkpGWSZEeuHNrhIR1Z4nA",
+      "name" : "presentacion"
+    }, {
+      "id" : "_RhkpOGSZEeuHNrhIR1Z4nA",
+      "name" : "PRESTADOR"
+    }, {
+      "id" : "_RhkpF2SZEeuHNrhIR1Z4nA",
+      "name" : "producto_comercial"
+    }, {
+      "id" : "_RhkpK2SZEeuHNrhIR1Z4nA",
+      "name" : "servicio"
+    }, {
+      "id" : "_RhkpFmSZEeuHNrhIR1Z4nA",
+      "name" : "ssmp"
+    }, {
+      "id" : "_RhkpJGSZEeuHNrhIR1Z4nA",
+      "name" : "subtotal"
+    }, {
+      "id" : "_RhkpEGSZEeuHNrhIR1Z4nA",
+      "name" : "tipificacion"
+    }, {
+      "id" : "_RhkpNmSZEeuHNrhIR1Z4nA",
+      "name" : "tipo"
+    }, {
+      "id" : "_RhkpAmSZEeuHNrhIR1Z4nA",
+      "name" : "tipo_documento"
+    }, {
+      "id" : "_RhkpEWSZEeuHNrhIR1Z4nA",
+      "name" : "tipo_formula"
+    }, {
+      "id" : "_RhkpKmSZEeuHNrhIR1Z4nA",
+      "name" : "tipo_servicio"
+    }, {
+      "id" : "_RhkpPWSZEeuHNrhIR1Z4nA",
+      "name" : "TipoRespuesta"
+    }, {
+      "id" : "_RhkpDGSZEeuHNrhIR1Z4nA",
+      "name" : "tirilla"
+    }, {
+      "id" : "_RhkpHGSZEeuHNrhIR1Z4nA",
+      "name" : "unidad_medida"
+    }, {
+      "id" : "_RhkpJ2SZEeuHNrhIR1Z4nA",
+      "name" : "valor_gravado"
+    }, {
+      "id" : "_RhkpJWSZEeuHNrhIR1Z4nA",
+      "name" : "valor_intermediacion"
+    }, {
+      "id" : "_RhkpJmSZEeuHNrhIR1Z4nA",
+      "name" : "valor_total"
+    }, {
+      "id" : "_RhkpI2SZEeuHNrhIR1Z4nA",
+      "name" : "valor_unitario"
+    }, {
+      "id" : "_RhkpGmSZEeuHNrhIR1Z4nA",
+      "name" : "via_administracion"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_OUaoUBOJEemrnbuF4G6Y6A",
+    "parameterList" : [ {
+      "id" : "_RfbT8mSZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_RfbT9WSZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_RfbT82SZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_RfbT9mSZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_RfbT8WSZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_RfbT92SZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_RfbT9GSZEeuHNrhIR1Z4nA",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_RfbT-GSZEeuHNrhIR1Z4nA",
+      "name" : "PathStorage"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_Rf8RUWSZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_Rf8RUmSZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_Rf8RU2SZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_Rf8RVWSZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_Rf8RVGSZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_Rf8RVmSZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_Rf8RV2SZEeuHNrhIR1Z4nA",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_codIkBgREemrnbuF4G6Y6A",
+    "parameterList" : [ {
+      "id" : "_Rh0goWSZEeuHNrhIR1Z4nA",
+      "name" : "CargueArchivoId"
+    }, {
+      "id" : "_Rh0gomSZEeuHNrhIR1Z4nA",
+      "name" : "fechaArchivoErrores"
+    }, {
+      "id" : "_Rh0gpGSZEeuHNrhIR1Z4nA",
+      "name" : "nErroresArchivo"
+    }, {
+      "id" : "_Rh0go2SZEeuHNrhIR1Z4nA",
+      "name" : "nRegArchivo"
+    }, {
+      "id" : "_Rh0gpmSZEeuHNrhIR1Z4nA",
+      "name" : "vArchivo_Id"
+    }, {
+      "id" : "_Rh0grWSZEeuHNrhIR1Z4nA",
+      "name" : "vCantRegistros"
+    }, {
+      "id" : "_Rh0gqWSZEeuHNrhIR1Z4nA",
+      "name" : "vEstadoCarga"
+    }, {
+      "id" : "_Rh0gq2SZEeuHNrhIR1Z4nA",
+      "name" : "vIdTipoArchivo"
+    }, {
+      "id" : "_Rh0gp2SZEeuHNrhIR1Z4nA",
+      "name" : "vNombreArchivo"
+    }, {
+      "id" : "_Rh0grGSZEeuHNrhIR1Z4nA",
+      "name" : "vNombreTipoArchivo"
+    }, {
+      "id" : "_Rh0gqGSZEeuHNrhIR1Z4nA",
+      "name" : "vPeriodo"
+    }, {
+      "id" : "_Rh0gpWSZEeuHNrhIR1Z4nA",
+      "name" : "vRecepcionId"
+    }, {
+      "id" : "_Rh0gqmSZEeuHNrhIR1Z4nA",
+      "name" : "vTipoArchivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Wyqj0CvvEemVw6p2aP23FA",
+    "parameterList" : [ {
+      "id" : "_RiHboGSZEeuHNrhIR1Z4nA",
+      "name" : "contador"
+    }, {
+      "id" : "_RiHbomSZEeuHNrhIR1Z4nA",
+      "name" : "eCIE10"
+    }, {
+      "id" : "_RiHbl2SZEeuHNrhIR1Z4nA",
+      "name" : "eComercial"
+    }, {
+      "id" : "_RiHbnWSZEeuHNrhIR1Z4nA",
+      "name" : "eConcentracion"
+    }, {
+      "id" : "_RiHbn2SZEeuHNrhIR1Z4nA",
+      "name" : "eCTC"
+    }, {
+      "id" : "_RiHbmGSZEeuHNrhIR1Z4nA",
+      "name" : "eCum"
+    }, {
+      "id" : "_RiHboWSZEeuHNrhIR1Z4nA",
+      "name" : "eCUPS"
+    }, {
+      "id" : "_RiHbkmSZEeuHNrhIR1Z4nA",
+      "name" : "eESM"
+    }, {
+      "id" : "_RiHbk2SZEeuHNrhIR1Z4nA",
+      "name" : "eGeneral"
+    }, {
+      "id" : "_RiHblmSZEeuHNrhIR1Z4nA",
+      "name" : "eGenerico"
+    }, {
+      "id" : "_RiHblWSZEeuHNrhIR1Z4nA",
+      "name" : "eInvima"
+    }, {
+      "id" : "_RiHbmmSZEeuHNrhIR1Z4nA",
+      "name" : "eLaboratorio"
+    }, {
+      "id" : "_RiHbkWSZEeuHNrhIR1Z4nA",
+      "name" : "ePersona"
+    }, {
+      "id" : "_RiHbm2SZEeuHNrhIR1Z4nA",
+      "name" : "ePresentacion"
+    }, {
+      "id" : "_RiHbmWSZEeuHNrhIR1Z4nA",
+      "name" : "eSSMP"
+    }, {
+      "id" : "_RiHblGSZEeuHNrhIR1Z4nA",
+      "name" : "eTipoFormula"
+    }, {
+      "id" : "_RiHbnmSZEeuHNrhIR1Z4nA",
+      "name" : "eUmedida"
+    }, {
+      "id" : "_RiHbnGSZEeuHNrhIR1Z4nA",
+      "name" : "eViaAdministracion"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_99XAoBRUEemrnbuF4G6Y6A",
+    "parameterList" : [ {
+      "id" : "_RgY9T2SZEeuHNrhIR1Z4nA",
+      "name" : "code"
+    }, {
+      "id" : "_RgY9RWSZEeuHNrhIR1Z4nA",
+      "name" : "context"
+    }, {
+      "id" : "_RgY9RGSZEeuHNrhIR1Z4nA",
+      "name" : "job"
+    }, {
+      "id" : "_RgY9R2SZEeuHNrhIR1Z4nA",
+      "name" : "message"
+    }, {
+      "id" : "_RgY9QmSZEeuHNrhIR1Z4nA",
+      "name" : "moment"
+    }, {
+      "id" : "_RgY9RmSZEeuHNrhIR1Z4nA",
+      "name" : "origen"
+    }, {
+      "id" : "_RgY9TmSZEeuHNrhIR1Z4nA",
+      "name" : "priority"
+    }, {
+      "id" : "_RgY9Q2SZEeuHNrhIR1Z4nA",
+      "name" : "project"
+    }, {
+      "id" : "_RgY9S2SZEeuHNrhIR1Z4nA",
+      "name" : "server_destino"
+    }, {
+      "id" : "_RgY9SGSZEeuHNrhIR1Z4nA",
+      "name" : "server_origen"
+    }, {
+      "id" : "_RgY9TGSZEeuHNrhIR1Z4nA",
+      "name" : "service_name_destino"
+    }, {
+      "id" : "_RgY9SWSZEeuHNrhIR1Z4nA",
+      "name" : "service_name_origen"
+    }, {
+      "id" : "_RgY9TWSZEeuHNrhIR1Z4nA",
+      "name" : "user_destino"
+    }, {
+      "id" : "_RgY9SmSZEeuHNrhIR1Z4nA",
+      "name" : "user_origen"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_cmeUsL6bEemJg7T9dg4s8A",
+    "parameterList" : [ {
+      "id" : "_ReCz5GSZEeuHNrhIR1Z4nA",
+      "name" : "Cerrada"
+    }, {
+      "id" : "_ReCz5mSZEeuHNrhIR1Z4nA",
+      "name" : "Editada"
+    }, {
+      "id" : "_ReCz5WSZEeuHNrhIR1Z4nA",
+      "name" : "Editando"
+    }, {
+      "id" : "_ReCz52SZEeuHNrhIR1Z4nA",
+      "name" : "Finalizada"
+    }, {
+      "id" : "_ReCz42SZEeuHNrhIR1Z4nA",
+      "name" : "Iniciada"
+    }, {
+      "id" : "_ReCz6GSZEeuHNrhIR1Z4nA",
+      "name" : "Manual"
+    }, {
+      "id" : "_ReCz4mSZEeuHNrhIR1Z4nA",
+      "name" : "SinInniciar"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "__ez94CQOEemNu8lHnJ1rTw",
+    "parameterList" : [ {
+      "id" : "_RiRzoWSZEeuHNrhIR1Z4nA",
+      "name" : "estActivo"
+    }, {
+      "id" : "_RiRzpGSZEeuHNrhIR1Z4nA",
+      "name" : "estCancelado"
+    }, {
+      "id" : "_RiRzpWSZEeuHNrhIR1Z4nA",
+      "name" : "estEnProceso"
+    }, {
+      "id" : "_RiRzqGSZEeuHNrhIR1Z4nA",
+      "name" : "estErrorArchivo"
+    }, {
+      "id" : "_RiRzp2SZEeuHNrhIR1Z4nA",
+      "name" : "estErrorProcesamiento"
+    }, {
+      "id" : "_RiRzomSZEeuHNrhIR1Z4nA",
+      "name" : "estInactivo"
+    }, {
+      "id" : "_RiRzo2SZEeuHNrhIR1Z4nA",
+      "name" : "estPausado"
+    }, {
+      "id" : "_RiRzpmSZEeuHNrhIR1Z4nA",
+      "name" : "estProcesado"
+    }, {
+      "id" : "_RiRzqWSZEeuHNrhIR1Z4nA",
+      "name" : "EstValidado"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_aQ718BOPEemrnbuF4G6Y6A",
+    "parameterList" : [ {
+      "id" : "_Re-A-WSZEeuHNrhIR1Z4nA",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_Re-A_2SZEeuHNrhIR1Z4nA",
+      "name" : "BANDERA_EJECUCION"
+    }, {
+      "id" : "_Re-A_mSZEeuHNrhIR1Z4nA",
+      "name" : "DCARGUE_ID"
+    }, {
+      "id" : "_Re-A_WSZEeuHNrhIR1Z4nA",
+      "name" : "DESTINO"
+    }, {
+      "id" : "_Re-A9GSZEeuHNrhIR1Z4nA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_Re-A8mSZEeuHNrhIR1Z4nA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_Re-A82SZEeuHNrhIR1Z4nA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_Re-A8WSZEeuHNrhIR1Z4nA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_Re-A-GSZEeuHNrhIR1Z4nA",
+      "name" : "JOB"
+    }, {
+      "id" : "_Re-A-2SZEeuHNrhIR1Z4nA",
+      "name" : "JOB_ID"
+    }, {
+      "id" : "_Re-A9mSZEeuHNrhIR1Z4nA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_Re-A92SZEeuHNrhIR1Z4nA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_Re-A9WSZEeuHNrhIR1Z4nA",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_Re-A_GSZEeuHNrhIR1Z4nA",
+      "name" : "RECEPCION_ID"
+    }, {
+      "id" : "_Re-A-mSZEeuHNrhIR1Z4nA",
+      "name" : "TJOB"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_qTC68L6yEemJg7T9dg4s8A",
+    "parameterList" : [ {
+      "id" : "_Reb1c2SZEeuHNrhIR1Z4nA",
+      "name" : "EstadoArchivo"
+    }, {
+      "id" : "_Reb1dmSZEeuHNrhIR1Z4nA",
+      "name" : "Fauditoria"
+    }, {
+      "id" : "_Reb1cmSZEeuHNrhIR1Z4nA",
+      "name" : "HAUDITORIA_ID"
+    }, {
+      "id" : "_Reb1dGSZEeuHNrhIR1Z4nA",
+      "name" : "Nfactura"
+    }, {
+      "id" : "_Reb1dWSZEeuHNrhIR1Z4nA",
+      "name" : "Sprefijo"
+    }, {
+      "id" : "_Reb1d2SZEeuHNrhIR1Z4nA",
+      "name" : "SumaFactura"
+    }, {
+      "id" : "_Reb1cWSZEeuHNrhIR1Z4nA",
+      "name" : "SumaGlosas"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_7ZMlUBRVEemrnbuF4G6Y6A",
+    "parameterList" : [ {
+      "id" : "_Rg6htGSZEeuHNrhIR1Z4nA",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_Rg6huGSZEeuHNrhIR1Z4nA",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_Rg6hsmSZEeuHNrhIR1Z4nA",
+      "name" : "mail_SenderName"
+    }, {
+      "id" : "_Rg6htWSZEeuHNrhIR1Z4nA",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_Rg6htmSZEeuHNrhIR1Z4nA",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_Rg6hs2SZEeuHNrhIR1Z4nA",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_Rg6hsWSZEeuHNrhIR1Z4nA",
+      "name" : "mail_To"
+    }, {
+      "id" : "_Rg6ht2SZEeuHNrhIR1Z4nA",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_a2NVgKGSEemKmdqqIncDzQ",
+    "parameterList" : [ {
+      "id" : "_RhMOh2SZEeuHNrhIR1Z4nA",
+      "name" : "AfiliacionDerechos"
+    }, {
+      "id" : "_RhMOl2SZEeuHNrhIR1Z4nA",
+      "name" : "AfiliacionDerechosD"
+    }, {
+      "id" : "_RhMOiGSZEeuHNrhIR1Z4nA",
+      "name" : "AfiliacionInactiva"
+    }, {
+      "id" : "_RhMOmGSZEeuHNrhIR1Z4nA",
+      "name" : "AfiliacionInactivaD"
+    }, {
+      "id" : "_RhMOhmSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionCobrado"
+    }, {
+      "id" : "_RhMOlmSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionCobradoD"
+    }, {
+      "id" : "_RhMOhWSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionCups"
+    }, {
+      "id" : "_RhMOlWSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionCupsD"
+    }, {
+      "id" : "_RhMOgmSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionNoExiste"
+    }, {
+      "id" : "_RhMOkmSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionNoExisteD"
+    }, {
+      "id" : "_RhMOhGSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionPersona"
+    }, {
+      "id" : "_RhMOlGSZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionPersonaD"
+    }, {
+      "id" : "_RhMOg2SZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionPrestador"
+    }, {
+      "id" : "_RhMOk2SZEeuHNrhIR1Z4nA",
+      "name" : "AutorizacionPrestadorD"
+    }, {
+      "id" : "_RhMOj2SZEeuHNrhIR1Z4nA",
+      "name" : "CantidadFormulada"
+    }, {
+      "id" : "_RhMOn2SZEeuHNrhIR1Z4nA",
+      "name" : "CantidadFormuladaD"
+    }, {
+      "id" : "_RhMOi2SZEeuHNrhIR1Z4nA",
+      "name" : "FacturaAuditada"
+    }, {
+      "id" : "_RhMOm2SZEeuHNrhIR1Z4nA",
+      "name" : "FacturaAuditadaD"
+    }, {
+      "id" : "_RhMOjGSZEeuHNrhIR1Z4nA",
+      "name" : "MedicamentoNoPactado"
+    }, {
+      "id" : "_RhMOnGSZEeuHNrhIR1Z4nA",
+      "name" : "MedicamentoNoPactadoD"
+    }, {
+      "id" : "_RhMOkGSZEeuHNrhIR1Z4nA",
+      "name" : "PorcetajeConsumo"
+    }, {
+      "id" : "_RhMOoGSZEeuHNrhIR1Z4nA",
+      "name" : "PorcetajeConsumoD"
+    }, {
+      "id" : "_RhMOimSZEeuHNrhIR1Z4nA",
+      "name" : "SumaFacturas"
+    }, {
+      "id" : "_RhMOmmSZEeuHNrhIR1Z4nA",
+      "name" : "SumaFacturasD"
+    }, {
+      "id" : "_RhMOjWSZEeuHNrhIR1Z4nA",
+      "name" : "TiempoEntrega"
+    }, {
+      "id" : "_RhMOnWSZEeuHNrhIR1Z4nA",
+      "name" : "TiempoEntregaD"
+    }, {
+      "id" : "_RhMOkWSZEeuHNrhIR1Z4nA",
+      "name" : "ValorDiferente"
+    }, {
+      "id" : "_RhMOoWSZEeuHNrhIR1Z4nA",
+      "name" : "ValorDiferenteD"
+    }, {
+      "id" : "_RhMOiWSZEeuHNrhIR1Z4nA",
+      "name" : "ValorNoPactado"
+    }, {
+      "id" : "_RhMOmWSZEeuHNrhIR1Z4nA",
+      "name" : "ValorNoPactadoD"
+    }, {
+      "id" : "_RhMOjmSZEeuHNrhIR1Z4nA",
+      "name" : "VidaUtil"
+    }, {
+      "id" : "_RhMOnmSZEeuHNrhIR1Z4nA",
+      "name" : "VidaUtilD"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_mTabwKJaEemKmdqqIncDzQ",
+    "parameterList" : [ {
+      "id" : "_Rha4B2SZEeuHNrhIR1Z4nA",
+      "name" : "AUDITORIA_ID"
+    }, {
+      "id" : "_Rha4BmSZEeuHNrhIR1Z4nA",
+      "name" : "ETAPASNORMATIVIDAD_ID"
+    }, {
+      "id" : "_Rha4BWSZEeuHNrhIR1Z4nA",
+      "name" : "FRADICADO"
+    }, {
+      "id" : "_Rha4A2SZEeuHNrhIR1Z4nA",
+      "name" : "NORMATIVIDAD_ETAPA_ID"
+    }, {
+      "id" : "_Rha4BGSZEeuHNrhIR1Z4nA",
+      "name" : "NORMATIVIDAD_GLOSA_ID"
+    }, {
+      "id" : "_Rha4CWSZEeuHNrhIR1Z4nA",
+      "name" : "SUMATORIA"
+    }, {
+      "id" : "_Rha4CmSZEeuHNrhIR1Z4nA",
+      "name" : "SUMATORIA_FACTURA"
+    }, {
+      "id" : "_Rha4AWSZEeuHNrhIR1Z4nA",
+      "name" : "UORG_ID"
+    }, {
+      "id" : "_Rha4AmSZEeuHNrhIR1Z4nA",
+      "name" : "USUARIOS_ID"
+    }, {
+      "id" : "_Rha4CGSZEeuHNrhIR1Z4nA",
+      "name" : "VIDA_UTIL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_6-HYkCMLEemNu8lHnJ1rTw",
+    "parameterList" : [ {
+      "id" : "_Ril8tWSZEeuHNrhIR1Z4nA",
+      "name" : "vFechaFinContrato"
+    }, {
+      "id" : "_Ril8tGSZEeuHNrhIR1Z4nA",
+      "name" : "vFechaIniContrato"
+    }, {
+      "id" : "_Ril8smSZEeuHNrhIR1Z4nA",
+      "name" : "vIntermediacionDisp"
+    }, {
+      "id" : "_Ril8s2SZEeuHNrhIR1Z4nA",
+      "name" : "vIntermediacionSum"
+    }, {
+      "id" : "_Ril8sWSZEeuHNrhIR1Z4nA",
+      "name" : "vTipificacion"
+    }, {
+      "id" : "_Ril8tmSZEeuHNrhIR1Z4nA",
+      "name" : "vTipoArchivoSigla"
+    } ]
+  } ]
+}

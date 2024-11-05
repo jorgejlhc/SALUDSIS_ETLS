@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RiHbkGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RiHbkWSZEeuHNrhIR1Z4nA" comment="" name="ePersona" prompt="ePersona?" promptNeeded="false" type="id_String" value="&quot;La persona no existe en saludsis&quot;"/>
+  <contextParameter xmi:id="_RiHbkmSZEeuHNrhIR1Z4nA" comment="" name="eESM" prompt="eESM?" promptNeeded="false" type="id_String" value="&quot;El esm no existe&quot;"/>
+  <contextParameter xmi:id="_RiHbk2SZEeuHNrhIR1Z4nA" comment="" name="eGeneral" prompt="eGeneral?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RiHblGSZEeuHNrhIR1Z4nA" comment="" name="eTipoFormula" prompt="eTipoFormula?" promptNeeded="false" type="id_String" value="El tipo de fórmula no existe en el sistema SALUDSIS"/>
+  <contextParameter xmi:id="_RiHblWSZEeuHNrhIR1Z4nA" comment="" name="eInvima" prompt="eInvima?" promptNeeded="false" type="id_String" value="El Código Invima no es el correspondiente al medicamento"/>
+  <contextParameter xmi:id="_RiHblmSZEeuHNrhIR1Z4nA" comment="" name="eGenerico" prompt="eGenerico?" promptNeeded="false" type="id_String" value="El medicamento genérico no existe en el acuerdo."/>
+  <contextParameter xmi:id="_RiHbl2SZEeuHNrhIR1Z4nA" comment="" name="eComercial" prompt="eComercial?" promptNeeded="false" type="id_String" value="El producto comercial no se encuentra en el acuerdo"/>
+  <contextParameter xmi:id="_RiHbmGSZEeuHNrhIR1Z4nA" comment="" name="eCum" prompt="eCum?" promptNeeded="false" type="id_String" value="El código CUM no coincide con el registrado para este producto"/>
+  <contextParameter xmi:id="_RiHbmWSZEeuHNrhIR1Z4nA" comment="" name="eSSMP" prompt="eSSMP?" promptNeeded="false" type="id_String" value="El código SSMP no coincide con el registrado para este medicamento"/>
+  <contextParameter xmi:id="_RiHbmmSZEeuHNrhIR1Z4nA" comment="" name="eLaboratorio" prompt="eLaboratorio?" promptNeeded="false" type="id_String" value="El laboratorio no coincide con el registrado para este medicamento"/>
+  <contextParameter xmi:id="_RiHbm2SZEeuHNrhIR1Z4nA" comment="" name="ePresentacion" prompt="ePresentacion?" promptNeeded="false" type="id_String" value="La presentación no coincide con la registrada para este medicamento"/>
+  <contextParameter xmi:id="_RiHbnGSZEeuHNrhIR1Z4nA" comment="" name="eViaAdministracion" prompt="eViaAdministracion?" promptNeeded="false" type="id_String" value="La vía de administración no coincide con la registrada para este medicamento"/>
+  <contextParameter xmi:id="_RiHbnWSZEeuHNrhIR1Z4nA" comment="" name="eConcentracion" prompt="eConcentracion?" promptNeeded="false" type="id_String" value="La concentración de este medicamento no cincide con la registrada"/>
+  <contextParameter xmi:id="_RiHbnmSZEeuHNrhIR1Z4nA" comment="" name="eUmedida" prompt="eUmedida?" promptNeeded="false" type="id_String" value="La unidad de medida no coincide con la registrada para este medicamento"/>
+  <contextParameter xmi:id="_RiHbn2SZEeuHNrhIR1Z4nA" comment="" name="eCTC" prompt="eCTC?" promptNeeded="false" type="id_String" value="La autorización para este medicamento CTC no existe en la plataforma SALUDSIS"/>
+  <contextParameter xmi:id="_RiHboGSZEeuHNrhIR1Z4nA" comment="" name="contador" prompt="contador?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_RiHboWSZEeuHNrhIR1Z4nA" comment="" name="eCUPS" prompt="eCUPS?" promptNeeded="false" type="id_String" value="La columna codigo CUPS presenta error en el registro "/>
+  <contextParameter xmi:id="_RiHbomSZEeuHNrhIR1Z4nA" comment="" name="eCIE10" prompt="eCIE10?" promptNeeded="false" type="id_String" value="La columna codigo CIE10 presenta error en el registro "/>
+</talendfile:ContextType>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ReCz4WSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ReCz4mSZEeuHNrhIR1Z4nA" comment="" name="SinInniciar" prompt="SinInniciar?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz42SZEeuHNrhIR1Z4nA" comment="" name="Iniciada" prompt="Iniciada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz5GSZEeuHNrhIR1Z4nA" comment="" name="Cerrada" prompt="Cerrada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz5WSZEeuHNrhIR1Z4nA" comment="" name="Editando" prompt="Editando?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz5mSZEeuHNrhIR1Z4nA" comment="" name="Editada" prompt="Editada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz52SZEeuHNrhIR1Z4nA" comment="" name="Finalizada" prompt="Finalizada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ReCz6GSZEeuHNrhIR1Z4nA" comment="" name="Manual" prompt="Manual?" promptNeeded="false" type="id_BigDecimal" value=""/>
+</talendfile:ContextType>

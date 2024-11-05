@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-LXowJktEemCd_YpdP8_Qg" id="_-LXBsJktEemCd_YpdP8_Qg" label="CargueMedicamentos" version="0.1" statusCode="" item="_-LXowpktEemCd_YpdP8_Qg" displayName="CargueMedicamentos">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+    <additionalProperties xmi:id="_AmyzUJgYEe-matxkcI1BcA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_AmyzUZgYEe-matxkcI1BcA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_AmyzUpgYEe-matxkcI1BcA" key="created_date" value="2024-11-01T01:10:35.909-0500"/>
+    <additionalProperties xmi:id="_AmzaYJgYEe-matxkcI1BcA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_AmzaYZgYEe-matxkcI1BcA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_AmzaYpgYEe-matxkcI1BcA" key="modified_date" value="2024-11-01T01:10:35.909-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AkJvAJgYEe-matxkcI1BcA" path="Cargue"/>
+  <TalendProperties:ProcessItem xmi:id="_-LXowpktEemCd_YpdP8_Qg" property="_-LXowJktEemCd_YpdP8_Qg" state="_AkJvAJgYEe-matxkcI1BcA">
+    <process href="CargueMedicamentos_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RiRzoGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RiRzoWSZEeuHNrhIR1Z4nA" comment="" name="estActivo" prompt="estActivo?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzomSZEeuHNrhIR1Z4nA" comment="" name="estInactivo" prompt="estInactivo?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzo2SZEeuHNrhIR1Z4nA" comment="" name="estPausado" prompt="estPausado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzpGSZEeuHNrhIR1Z4nA" comment="" name="estCancelado" prompt="estCancelado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzpWSZEeuHNrhIR1Z4nA" comment="" name="estEnProceso" prompt="estEnProceso?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzpmSZEeuHNrhIR1Z4nA" comment="" name="estProcesado" prompt="estProcesado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzp2SZEeuHNrhIR1Z4nA" comment="" name="estErrorProcesamiento" prompt="estErrorProcesamiento?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzqGSZEeuHNrhIR1Z4nA" comment="" name="estErrorArchivo" prompt="estErrorArchivo?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RiRzqWSZEeuHNrhIR1Z4nA" comment="" name="EstValidado" prompt="EstValidado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+</talendfile:ContextType>

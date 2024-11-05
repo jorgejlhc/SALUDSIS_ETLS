@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Rha4AGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Rha4AWSZEeuHNrhIR1Z4nA" comment="" name="UORG_ID" prompt="UORG_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4AmSZEeuHNrhIR1Z4nA" comment="" name="USUARIOS_ID" prompt="USUARIOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4A2SZEeuHNrhIR1Z4nA" comment="" name="NORMATIVIDAD_ETAPA_ID" prompt="NORMATIVIDAD_ETAPA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4BGSZEeuHNrhIR1Z4nA" comment="" name="NORMATIVIDAD_GLOSA_ID" prompt="NORMATIVIDAD_GLOSA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4BWSZEeuHNrhIR1Z4nA" comment="" name="FRADICADO" prompt="FRADICADO?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_Rha4BmSZEeuHNrhIR1Z4nA" comment="" name="ETAPASNORMATIVIDAD_ID" prompt="ETAPASNORMATIVIDAD_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4B2SZEeuHNrhIR1Z4nA" comment="" name="AUDITORIA_ID" prompt="AUDITORIA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rha4CGSZEeuHNrhIR1Z4nA" comment="" name="VIDA_UTIL" prompt="VIDA_UTIL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Rha4CWSZEeuHNrhIR1Z4nA" comment="" name="SUMATORIA" prompt="SUMATORIA?" promptNeeded="false" type="id_Double" value=""/>
+  <contextParameter xmi:id="_Rha4CmSZEeuHNrhIR1Z4nA" comment="" name="SUMATORIA_FACTURA" prompt="SUMATORIA_FACTURA?" promptNeeded="false" type="id_Double" value=""/>
+</talendfile:ContextType>

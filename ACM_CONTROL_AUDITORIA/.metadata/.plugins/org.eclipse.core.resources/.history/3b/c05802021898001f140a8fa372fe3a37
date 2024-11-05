@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cmydyL6bEemJg7T9dg4s8A" id="_cmeUsL6bEemJg7T9dg4s8A" label="EstadoAuditoria" version="0.1" statusCode="" item="_cmydyr6bEemJg7T9dg4s8A" displayName="EstadoAuditoria">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Af79aJgYEe-matxkcI1BcA" path="Cargue"/>
+  <TalendProperties:ContextItem xmi:id="_cmydyr6bEemJg7T9dg4s8A" property="_cmydyL6bEemJg7T9dg4s8A" state="_Af79aJgYEe-matxkcI1BcA" defaultContext="Default">
+    <context href="EstadoAuditoria_0.1.item#_ReCz4WSZEeuHNrhIR1Z4nA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

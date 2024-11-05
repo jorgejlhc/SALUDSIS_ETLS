@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RhMOgWSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RhMOgmSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionNoExiste" prompt="AutorizacionNoExiste?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOg2SZEeuHNrhIR1Z4nA" comment="" name="AutorizacionPrestador" prompt="AutorizacionPrestador?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOhGSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionPersona" prompt="AutorizacionPersona?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOhWSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionCups" prompt="AutorizacionCups?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOhmSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionCobrado" prompt="AutorizacionCobrado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOh2SZEeuHNrhIR1Z4nA" comment="" name="AfiliacionDerechos" prompt="AfiliacionDerechos?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOiGSZEeuHNrhIR1Z4nA" comment="" name="AfiliacionInactiva" prompt="AfiliacionInactiva?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOiWSZEeuHNrhIR1Z4nA" comment="" name="ValorNoPactado" prompt="ValorNoPactado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOimSZEeuHNrhIR1Z4nA" comment="" name="SumaFacturas" prompt="SumaFacturas?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOi2SZEeuHNrhIR1Z4nA" comment="" name="FacturaAuditada" prompt="FacturaAuditada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOjGSZEeuHNrhIR1Z4nA" comment="" name="MedicamentoNoPactado" prompt="MedicamentoNoPactado?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOjWSZEeuHNrhIR1Z4nA" comment="" name="TiempoEntrega" prompt="TiempoEntrega?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOjmSZEeuHNrhIR1Z4nA" comment="" name="VidaUtil" prompt="VidaUtil?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOj2SZEeuHNrhIR1Z4nA" comment="" name="CantidadFormulada" prompt="CantidadFormulada?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOkGSZEeuHNrhIR1Z4nA" comment="" name="PorcetajeConsumo" prompt="PorcetajeConsumo?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOkWSZEeuHNrhIR1Z4nA" comment="" name="ValorDiferente" prompt="ValorDiferente?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RhMOkmSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionNoExisteD" prompt="AutorizacionNoExisteD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOk2SZEeuHNrhIR1Z4nA" comment="" name="AutorizacionPrestadorD" prompt="AutorizacionPrestadorD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOlGSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionPersonaD" prompt="AutorizacionPersonaD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOlWSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionCupsD" prompt="AutorizacionCupsD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOlmSZEeuHNrhIR1Z4nA" comment="" name="AutorizacionCobradoD" prompt="AutorizacionCobradoD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOl2SZEeuHNrhIR1Z4nA" comment="" name="AfiliacionDerechosD" prompt="AfiliacionDerechosD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOmGSZEeuHNrhIR1Z4nA" comment="" name="AfiliacionInactivaD" prompt="AfiliacionInactivaD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOmWSZEeuHNrhIR1Z4nA" comment="" name="ValorNoPactadoD" prompt="ValorNoPactadoD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOmmSZEeuHNrhIR1Z4nA" comment="" name="SumaFacturasD" prompt="SumaFacturasD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOm2SZEeuHNrhIR1Z4nA" comment="" name="FacturaAuditadaD" prompt="FacturaAuditadaD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOnGSZEeuHNrhIR1Z4nA" comment="" name="MedicamentoNoPactadoD" prompt="MedicamentoNoPactadoD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOnWSZEeuHNrhIR1Z4nA" comment="" name="TiempoEntregaD" prompt="TiempoEntregaD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOnmSZEeuHNrhIR1Z4nA" comment="" name="VidaUtilD" prompt="VidaUtilD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOn2SZEeuHNrhIR1Z4nA" comment="" name="CantidadFormuladaD" prompt="CantidadFormuladaD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOoGSZEeuHNrhIR1Z4nA" comment="" name="PorcetajeConsumoD" prompt="PorcetajeConsumoD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RhMOoWSZEeuHNrhIR1Z4nA" comment="" name="ValorDiferenteD" prompt="ValorDiferenteD?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

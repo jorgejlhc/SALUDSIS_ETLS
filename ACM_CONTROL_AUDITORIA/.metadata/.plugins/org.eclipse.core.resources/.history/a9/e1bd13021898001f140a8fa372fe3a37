@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_99nfXRRUEemrnbuF4G6Y6A" id="_99XAoBRUEemrnbuF4G6Y6A" label="ErrorLog" purpose="Guardar los datos generados por el componente que captura los errores" description="Guardar en variables de contexto los datos enviados por el componente que captura errores al job Mail" version="0.1" statusCode="" item="_99nfXxRUEemrnbuF4G6Y6A" displayName="ErrorLog">
+    <author href="../../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AhO975gYEe-matxkcI1BcA" path="Gen/Email"/>
+  <TalendProperties:ContextItem xmi:id="_99nfXxRUEemrnbuF4G6Y6A" property="_99nfXRRUEemrnbuF4G6Y6A" state="_AhO975gYEe-matxkcI1BcA" defaultContext="Default">
+    <context href="ErrorLog_0.1.item#_RgY9QWSZEeuHNrhIR1Z4nA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

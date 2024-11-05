@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_NRn2MZkuEemCd_YpdP8_Qg" id="_NRn2MJkuEemCd_YpdP8_Qg" label="CargueServicios" version="0.1" statusCode="" item="_NRn2M5kuEemCd_YpdP8_Qg" displayName="CargueServicios">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AvNIcJgYEe-matxkcI1BcA" path="Cargue"/>
+  <TalendProperties:ProcessItem xmi:id="_NRn2M5kuEemCd_YpdP8_Qg" property="_NRn2MZkuEemCd_YpdP8_Qg" state="_AvNIcJgYEe-matxkcI1BcA">
+    <process href="CargueServicios_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

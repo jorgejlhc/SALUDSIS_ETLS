@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__e9H2SQOEemNu8lHnJ1rTw" id="__ez94CQOEemNu8lHnJ1rTw" label="Estados" version="0.1" statusCode="" item="__e9H2yQOEemNu8lHnJ1rTw" displayName="Estados">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AiapqpgYEe-matxkcI1BcA" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="__e9H2yQOEemNu8lHnJ1rTw" property="__e9H2SQOEemNu8lHnJ1rTw" state="_AiapqpgYEe-matxkcI1BcA" defaultContext="Default">
+    <context href="Estados_0.1.item#_RiRzoGSZEeuHNrhIR1Z4nA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

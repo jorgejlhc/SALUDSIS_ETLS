@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Reb1cGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Reb1cWSZEeuHNrhIR1Z4nA" comment="" name="SumaGlosas" prompt="SumaGlosas?" promptNeeded="false" type="id_Double" value=""/>
+  <contextParameter xmi:id="_Reb1cmSZEeuHNrhIR1Z4nA" comment="" name="HAUDITORIA_ID" prompt="HAUDITORIA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Reb1c2SZEeuHNrhIR1Z4nA" comment="" name="EstadoArchivo" prompt="EstadoArchivo?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Reb1dGSZEeuHNrhIR1Z4nA" comment="" name="Nfactura" prompt="Nfactura?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Reb1dWSZEeuHNrhIR1Z4nA" comment="" name="Sprefijo" prompt="Sprefijo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Reb1dmSZEeuHNrhIR1Z4nA" comment="" name="Fauditoria" prompt="Fauditoria?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_Reb1d2SZEeuHNrhIR1Z4nA" comment="" name="SumaFactura" prompt="SumaFactura?" promptNeeded="false" type="id_Double" value=""/>
+</talendfile:ContextType>

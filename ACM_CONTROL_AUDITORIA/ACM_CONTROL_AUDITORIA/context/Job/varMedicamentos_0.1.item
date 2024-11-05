@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Ril8sGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Ril8sWSZEeuHNrhIR1Z4nA" comment="Tipificacion del registro" name="vTipificacion" prompt="vTipificacion?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Ril8smSZEeuHNrhIR1Z4nA" comment="" name="vIntermediacionDisp" prompt="vIntermediacionDisp?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_Ril8s2SZEeuHNrhIR1Z4nA" comment="" name="vIntermediacionSum" prompt="vIntermediacionSum?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_Ril8tGSZEeuHNrhIR1Z4nA" comment="" name="vFechaIniContrato" prompt="vFechaIniContrato?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_Ril8tWSZEeuHNrhIR1Z4nA" comment="" name="vFechaFinContrato" prompt="vFechaFinContrato?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_Ril8tmSZEeuHNrhIR1Z4nA" comment="Sigla del tipo de archivo" name="vTipoArchivoSigla" prompt="vTipoArchivoSigla?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

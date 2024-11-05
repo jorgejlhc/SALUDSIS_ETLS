@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_OUx0uBOJEemrnbuF4G6Y6A" id="_OUaoUBOJEemrnbuF4G6Y6A" label="Connection" purpose="Variables para gaurdar los parametros de conexión de bd SALUDSIS" description="VAriables de contexto usadas para guardar los parametros de conexión a la bd de datos transaccional esquema SALUDSIS" version="0.1" statusCode="" item="_OUx0uhOJEemrnbuF4G6Y6A" displayName="Connection">
+    <author href="../../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AgunmZgYEe-matxkcI1BcA" path="Gen/Connection"/>
+  <TalendProperties:ContextItem xmi:id="_OUx0uhOJEemrnbuF4G6Y6A" property="_OUx0uBOJEemrnbuF4G6Y6A" state="_AgunmZgYEe-matxkcI1BcA" defaultContext="Default">
+    <context href="Connection_0.1.item#_RfbT8GSZEeuHNrhIR1Z4nA"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

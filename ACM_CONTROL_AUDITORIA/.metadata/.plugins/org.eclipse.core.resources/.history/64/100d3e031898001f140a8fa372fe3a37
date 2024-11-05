@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_9y-zYJksEemCd_YpdP8_Qg" id="_9y9lQJksEemCd_YpdP8_Qg" label="ControlAuditoria" version="1.0" statusCode="" item="_9y-zYpksEemCd_YpdP8_Qg" displayName="ControlAuditoria">
+    <author href="../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AzlSIJgYEe-matxkcI1BcA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_9y-zYpksEemCd_YpdP8_Qg" property="_9y-zYJksEemCd_YpdP8_Qg" state="_AzlSIJgYEe-matxkcI1BcA">
+    <process href="ControlAuditoria_1.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

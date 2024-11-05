@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_QgbrkPQzEemZytDB8lXvvQ" id="_QgbEgPQzEemZytDB8lXvvQ" label="Glosamiento" version="0.1" statusCode="" item="_QgbrkvQzEemZytDB8lXvvQ" displayName="Glosamiento">
+    <author href="../../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Ai_4cJgYEe-matxkcI1BcA" path="Gen"/>
+  <TalendProperties:RoutineItem xmi:id="_QgbrkvQzEemZytDB8lXvvQ" property="_QgbrkPQzEemZytDB8lXvvQ" state="_Ai_4cJgYEe-matxkcI1BcA">
+    <content href="Glosamiento_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

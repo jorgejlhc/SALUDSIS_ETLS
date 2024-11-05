@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Re-A8GSZEeuHNrhIR1Z4nA" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_Re-A8WSZEeuHNrhIR1Z4nA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Re-A8mSZEeuHNrhIR1Z4nA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Re-A82SZEeuHNrhIR1Z4nA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Re-A9GSZEeuHNrhIR1Z4nA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_Re-A9WSZEeuHNrhIR1Z4nA" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_Re-A9mSZEeuHNrhIR1Z4nA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_Re-A92SZEeuHNrhIR1Z4nA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_Re-A-GSZEeuHNrhIR1Z4nA" comment="" name="JOB" prompt="JOB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Re-A-WSZEeuHNrhIR1Z4nA" comment="" name="archivoSalida" prompt="archivoSalida?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Re-A-mSZEeuHNrhIR1Z4nA" comment="" name="TJOB" prompt="TJOB?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Re-A-2SZEeuHNrhIR1Z4nA" comment="" name="JOB_ID" prompt="JOB_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Re-A_GSZEeuHNrhIR1Z4nA" comment="" name="RECEPCION_ID" prompt="RECEPCION_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Re-A_WSZEeuHNrhIR1Z4nA" comment="" name="DESTINO" prompt="DESTINO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_Re-A_mSZEeuHNrhIR1Z4nA" comment="" name="DCARGUE_ID" prompt="DCARGUE_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Re-A_2SZEeuHNrhIR1Z4nA" comment="" name="BANDERA_EJECUCION" prompt="BANDERA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+</talendfile:ContextType>

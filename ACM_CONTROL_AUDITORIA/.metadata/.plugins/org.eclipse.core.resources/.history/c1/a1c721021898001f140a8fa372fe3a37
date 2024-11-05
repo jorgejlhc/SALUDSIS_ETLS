@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Rh0goGSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Rh0goWSZEeuHNrhIR1Z4nA" comment="" name="CargueArchivoId" prompt="CargueArchivoId?" promptNeeded="false" type="id_Integer" value="null"/>
+  <contextParameter xmi:id="_Rh0gomSZEeuHNrhIR1Z4nA" comment="" name="fechaArchivoErrores" prompt="fechaArchivoErrores?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Rh0go2SZEeuHNrhIR1Z4nA" comment="Contador de los registros en el archivo" name="nRegArchivo" prompt="nRegArchivo?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_Rh0gpGSZEeuHNrhIR1Z4nA" comment="Contador de errores" name="nErroresArchivo" prompt="nErroresArchivo?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_Rh0gpWSZEeuHNrhIR1Z4nA" comment="" name="vRecepcionId" prompt="vRecepcionId?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rh0gpmSZEeuHNrhIR1Z4nA" comment="identificador del archivo en la tabla" name="vArchivo_Id" prompt="vArchivo_Id?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rh0gp2SZEeuHNrhIR1Z4nA" comment="Nombre del archivo en el servidor" name="vNombreArchivo" prompt="vNombreArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Rh0gqGSZEeuHNrhIR1Z4nA" comment="Periodo de faturacion" name="vPeriodo" prompt="vPeriodo?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_Rh0gqWSZEeuHNrhIR1Z4nA" comment="Estado de carga del archivo" name="vEstadoCarga" prompt="vEstadoCarga?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Rh0gqmSZEeuHNrhIR1Z4nA" comment="Tipo de archivo cargado" name="vTipoArchivo" prompt="vTipoArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Rh0gq2SZEeuHNrhIR1Z4nA" comment="Id del tipo de acrchivo" name="vIdTipoArchivo" prompt="vIdTipoArchivo?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_Rh0grGSZEeuHNrhIR1Z4nA" comment="Nombre del tipo de archivo" name="vNombreTipoArchivo" prompt="vNombreTipoArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Rh0grWSZEeuHNrhIR1Z4nA" comment="Cantidad de registros en el archivo" name="vCantRegistros" prompt="vCantRegistros?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

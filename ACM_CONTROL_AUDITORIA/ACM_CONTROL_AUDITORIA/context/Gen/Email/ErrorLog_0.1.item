@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RgY9QWSZEeuHNrhIR1Z4nA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RgY9QmSZEeuHNrhIR1Z4nA" comment="" name="moment" prompt="moment?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_RgY9Q2SZEeuHNrhIR1Z4nA" comment="" name="project" prompt="project?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9RGSZEeuHNrhIR1Z4nA" comment="" name="job" prompt="job?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9RWSZEeuHNrhIR1Z4nA" comment="" name="context" prompt="context?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9RmSZEeuHNrhIR1Z4nA" comment="" name="origen" prompt="origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9R2SZEeuHNrhIR1Z4nA" comment="" name="message" prompt="message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9SGSZEeuHNrhIR1Z4nA" comment="" name="server_origen" prompt="server_origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9SWSZEeuHNrhIR1Z4nA" comment="" name="service_name_origen" prompt="service_name_origen?" promptNeeded="false" type="id_String" value="Unknown"/>
+  <contextParameter xmi:id="_RgY9SmSZEeuHNrhIR1Z4nA" comment="" name="user_origen" prompt="user_origen?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9S2SZEeuHNrhIR1Z4nA" comment="" name="server_destino" prompt="server_destino?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9TGSZEeuHNrhIR1Z4nA" comment="" name="service_name_destino" prompt="service_name_destino?" promptNeeded="false" type="id_String" value="Unknown"/>
+  <contextParameter xmi:id="_RgY9TWSZEeuHNrhIR1Z4nA" comment="" name="user_destino" prompt="user_destino?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RgY9TmSZEeuHNrhIR1Z4nA" comment="" name="priority" prompt="priority?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_RgY9T2SZEeuHNrhIR1Z4nA" comment="" name="code" prompt="code?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

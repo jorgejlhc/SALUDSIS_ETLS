@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-LXowJktEemCd_YpdP8_Qg" id="_-LXBsJktEemCd_YpdP8_Qg" label="CargueMedicamentos" version="0.1" statusCode="" item="_-LXowpktEemCd_YpdP8_Qg" displayName="CargueMedicamentos">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AkJvAJgYEe-matxkcI1BcA" path="Cargue"/>
+  <TalendProperties:ProcessItem xmi:id="_-LXowpktEemCd_YpdP8_Qg" property="_-LXowJktEemCd_YpdP8_Qg" state="_AkJvAJgYEe-matxkcI1BcA">
+    <process href="CargueMedicamentos_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ZL3BABRPEemrnbuF4G6Y6A" id="_ZL1y4BRPEemrnbuF4G6Y6A" label="Mail" purpose="Enviar correo a los desarrolladores" description="Envia un correo eléctronico a los desarrolladores cuando ocurre un error en un ETL" version="0.1" statusCode="" item="_ZL3oEBRPEemrnbuF4G6Y6A" displayName="Mail">
+    <author href="../../talend.project#_1NyTsJgXEe-matxkcI1BcA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_BCMV4JgYEe-matxkcI1BcA" path="Mail"/>
+  <TalendProperties:ProcessItem xmi:id="_ZL3oEBRPEemrnbuF4G6Y6A" property="_ZL3BABRPEemrnbuF4G6Y6A" state="_BCMV4JgYEe-matxkcI1BcA">
+    <process href="Mail_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
