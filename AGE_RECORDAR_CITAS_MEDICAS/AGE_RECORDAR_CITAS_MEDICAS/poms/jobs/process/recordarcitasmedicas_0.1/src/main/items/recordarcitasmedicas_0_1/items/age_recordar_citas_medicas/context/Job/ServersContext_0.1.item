@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_OZx7EHpnEe2Cn8CIPA-i9Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_OZx7EXpnEe2Cn8CIPA-i9Q" comment="" name="PathStorage" prompt="PathStorage?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7EnpnEe2Cn8CIPA-i9Q" comment="" name="SMTPHost" prompt="SMTPHost?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7E3pnEe2Cn8CIPA-i9Q" comment="" name="SMTPPort" prompt="SMTPPort?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7FHpnEe2Cn8CIPA-i9Q" comment="" name="UsernameMail" prompt="UsernameMail?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7FXpnEe2Cn8CIPA-i9Q" comment="" name="PasswordMail" prompt="PasswordMail?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7FnpnEe2Cn8CIPA-i9Q" comment="" name="JasperServer" prompt="JasperServer?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7F3pnEe2Cn8CIPA-i9Q" comment="" name="JasperUser" prompt="JasperUser?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7GHpnEe2Cn8CIPA-i9Q" comment="" name="JasperPassword" prompt="JasperPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7GXpnEe2Cn8CIPA-i9Q" comment="" name="JasperAmbiente" prompt="JasperAmbiente?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7GnpnEe2Cn8CIPA-i9Q" comment="" name="SmsServer" prompt="SmsServer?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7G3pnEe2Cn8CIPA-i9Q" comment="" name="SmsUser" prompt="SmsUser?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7HHpnEe2Cn8CIPA-i9Q" comment="" name="SmsPassword" prompt="SmsPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7HXpnEe2Cn8CIPA-i9Q" comment="" name="FromMail" prompt="FromMail?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZx7HnpnEe2Cn8CIPA-i9Q" comment="" name="SmsAuth" prompt="SmsAuth?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_jfpTcEJKEe6os4fDrOttJg" comment="" name="SmsAuthProvider" prompt="SmsAuthProvider?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ivf8EF7qEe6MsegHOD4SPQ" comment="" name="SmsAuthServer" prompt="SmsAuthServer?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_6nAXIF_DEe6a-pHOupZB-Q" comment="" name="SMTPPortSecure" prompt="SMTPPortSecure?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,212 @@
+{
+  "itemId" : "_91B1oMGmEey4ne9BBDLMwQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_OZV2MXpnEe2Cn8CIPA-i9Q",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_OZV2MnpnEe2Cn8CIPA-i9Q",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_OZV2M3pnEe2Cn8CIPA-i9Q",
+      "name" : "ERROR"
+    }, {
+      "id" : "_OZV2NHpnEe2Cn8CIPA-i9Q",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_OZV2NXpnEe2Cn8CIPA-i9Q",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_OZV2NnpnEe2Cn8CIPA-i9Q",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_OZV2N3pnEe2Cn8CIPA-i9Q",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_OZV2OHpnEe2Cn8CIPA-i9Q",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_OZV2OXpnEe2Cn8CIPA-i9Q",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_OZV2OnpnEe2Cn8CIPA-i9Q",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_OZV2O3pnEe2Cn8CIPA-i9Q",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_OZV2PHpnEe2Cn8CIPA-i9Q",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_OZV2PXpnEe2Cn8CIPA-i9Q",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_OZV2PnpnEe2Cn8CIPA-i9Q",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_OZV2P3pnEe2Cn8CIPA-i9Q",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_OZV2QHpnEe2Cn8CIPA-i9Q",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_OZV2QXpnEe2Cn8CIPA-i9Q",
+      "name" : "RutaSistema"
+    }, {
+      "id" : "_OZV2QnpnEe2Cn8CIPA-i9Q",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_OZV2Q3pnEe2Cn8CIPA-i9Q",
+      "name" : "CONDITION_PRINCIPAL"
+    }, {
+      "id" : "_OZV2RHpnEe2Cn8CIPA-i9Q",
+      "name" : "JOB"
+    }, {
+      "id" : "_OZV2R3pnEe2Cn8CIPA-i9Q",
+      "name" : "MensajeEmail"
+    }, {
+      "id" : "_OZV2RXpnEe2Cn8CIPA-i9Q",
+      "name" : "TiempoCita"
+    }, {
+      "id" : "_OZV2RnpnEe2Cn8CIPA-i9Q",
+      "name" : "PacienteCita"
+    }, {
+      "id" : "_OZV2SHpnEe2Cn8CIPA-i9Q",
+      "name" : "SendMail"
+    }, {
+      "id" : "_OZV2SXpnEe2Cn8CIPA-i9Q",
+      "name" : "MensajeSms"
+    }, {
+      "id" : "_OZV2SnpnEe2Cn8CIPA-i9Q",
+      "name" : "SendSms"
+    }, {
+      "id" : "_OZV2THpnEe2Cn8CIPA-i9Q",
+      "name" : "EmailTo"
+    }, {
+      "id" : "_OZV2S3pnEe2Cn8CIPA-i9Q",
+      "name" : "SmsTo"
+    }, {
+      "id" : "_OZV2TnpnEe2Cn8CIPA-i9Q",
+      "name" : "RecordatorioExitoso"
+    }, {
+      "id" : "_OZV2TXpnEe2Cn8CIPA-i9Q",
+      "name" : "CitaId"
+    }, {
+      "id" : "_OZV2UHpnEe2Cn8CIPA-i9Q",
+      "name" : "SmsErrorBody"
+    }, {
+      "id" : "_OZV2T3pnEe2Cn8CIPA-i9Q",
+      "name" : "SmsErrorCode"
+    }, {
+      "id" : "_OZV2UXpnEe2Cn8CIPA-i9Q",
+      "name" : "SmsBody"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_OaBys3pnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_ServiceName"
+    }, {
+      "id" : "_OaBytHpnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_OaBytnpnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_OaBysnpnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_OaByt3pnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_OaBytXpnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_OaBysXpnEe2Cn8CIPA-i9Q",
+      "name" : "db_destino_Password"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_OaJug3pnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_OaJuhXpnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_OaJuhnpnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_OaJuh3pnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_OaJugXpnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_OaJuhHpnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_OaJugnpnEe2Cn8CIPA-i9Q",
+      "name" : "db_origen_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_HLl7sGFxEe2gMILybn7hRg",
+    "parameterList" : [ {
+      "id" : "_OZx7FnpnEe2Cn8CIPA-i9Q",
+      "name" : "JasperServer"
+    }, {
+      "id" : "_OZx7FHpnEe2Cn8CIPA-i9Q",
+      "name" : "UsernameMail"
+    }, {
+      "id" : "_OZx7E3pnEe2Cn8CIPA-i9Q",
+      "name" : "SMTPPort"
+    }, {
+      "id" : "_OZx7FXpnEe2Cn8CIPA-i9Q",
+      "name" : "PasswordMail"
+    }, {
+      "id" : "_OZx7G3pnEe2Cn8CIPA-i9Q",
+      "name" : "SmsUser"
+    }, {
+      "id" : "_OZx7GHpnEe2Cn8CIPA-i9Q",
+      "name" : "JasperPassword"
+    }, {
+      "id" : "_OZx7GXpnEe2Cn8CIPA-i9Q",
+      "name" : "JasperAmbiente"
+    }, {
+      "id" : "_OZx7HHpnEe2Cn8CIPA-i9Q",
+      "name" : "SmsPassword"
+    }, {
+      "id" : "_OZx7EnpnEe2Cn8CIPA-i9Q",
+      "name" : "SMTPHost"
+    }, {
+      "id" : "_OZx7F3pnEe2Cn8CIPA-i9Q",
+      "name" : "JasperUser"
+    }, {
+      "id" : "_OZx7GnpnEe2Cn8CIPA-i9Q",
+      "name" : "SmsServer"
+    }, {
+      "id" : "_OZx7HXpnEe2Cn8CIPA-i9Q",
+      "name" : "FromMail"
+    }, {
+      "id" : "_OZx7HnpnEe2Cn8CIPA-i9Q",
+      "name" : "SmsAuth"
+    }, {
+      "id" : "_OZx7EXpnEe2Cn8CIPA-i9Q",
+      "name" : "PathStorage"
+    }, {
+      "id" : "_jfpTcEJKEe6os4fDrOttJg",
+      "name" : "SmsAuthProvider"
+    }, {
+      "id" : "_ivf8EF7qEe6MsegHOD4SPQ",
+      "name" : "SmsAuthServer"
+    }, {
+      "id" : "_6nAXIF_DEe6a-pHOupZB-Q",
+      "name" : "SMTPPortSecure"
+    } ]
+  } ]
+}

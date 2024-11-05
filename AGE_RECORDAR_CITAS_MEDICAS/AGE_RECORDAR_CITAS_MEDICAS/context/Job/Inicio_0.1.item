@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_OZV2MHpnEe2Cn8CIPA-i9Q" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_OZV2MXpnEe2Cn8CIPA-i9Q" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2MnpnEe2Cn8CIPA-i9Q" comment="" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_OZV2M3pnEe2Cn8CIPA-i9Q" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2NHpnEe2Cn8CIPA-i9Q" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2NXpnEe2Cn8CIPA-i9Q" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2NnpnEe2Cn8CIPA-i9Q" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2N3pnEe2Cn8CIPA-i9Q" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_OZV2OHpnEe2Cn8CIPA-i9Q" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_OZV2OXpnEe2Cn8CIPA-i9Q" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_OZV2OnpnEe2Cn8CIPA-i9Q" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_OZV2O3pnEe2Cn8CIPA-i9Q" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_OZV2PHpnEe2Cn8CIPA-i9Q" comment="" name="ID_SOLICITUD" prompt="ID_SOLICITUD?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_OZV2PXpnEe2Cn8CIPA-i9Q" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_OZV2PnpnEe2Cn8CIPA-i9Q" comment="" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_OZV2P3pnEe2Cn8CIPA-i9Q" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2QHpnEe2Cn8CIPA-i9Q" comment="" name="LOGS_STAT" prompt="LOGS_STAT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/_LOGSTAT.csv"/>
+  <contextParameter xmi:id="_OZV2QXpnEe2Cn8CIPA-i9Q" comment="" name="RutaSistema" prompt="RutaSistema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2QnpnEe2Cn8CIPA-i9Q" comment="" name="CONDITION" prompt="CONDITION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2Q3pnEe2Cn8CIPA-i9Q" comment="" name="CONDITION_PRINCIPAL" prompt="CONDITION_PRINCIPAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2RHpnEe2Cn8CIPA-i9Q" comment="" name="JOB" prompt="JOB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2RXpnEe2Cn8CIPA-i9Q" comment="" name="TiempoCita" prompt="TiempoCita?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2RnpnEe2Cn8CIPA-i9Q" comment="" name="PacienteCita" prompt="PacienteCita?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2R3pnEe2Cn8CIPA-i9Q" comment="" name="MensajeEmail" prompt="MensajeEmail?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2SHpnEe2Cn8CIPA-i9Q" comment="" name="SendMail" prompt="SendMail?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2SXpnEe2Cn8CIPA-i9Q" comment="" name="MensajeSms" prompt="MensajeSms?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2SnpnEe2Cn8CIPA-i9Q" comment="" name="SendSms" prompt="SendSms?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2S3pnEe2Cn8CIPA-i9Q" comment="" name="SmsTo" prompt="SmsTo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2THpnEe2Cn8CIPA-i9Q" comment="" name="EmailTo" prompt="EmailTo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2TXpnEe2Cn8CIPA-i9Q" comment="" name="CitaId" prompt="CitaId?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_OZV2TnpnEe2Cn8CIPA-i9Q" comment="" name="RecordatorioExitoso" prompt="RecordatorioExitoso?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2T3pnEe2Cn8CIPA-i9Q" comment="" name="SmsErrorCode" prompt="SmsErrorCode?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_OZV2UHpnEe2Cn8CIPA-i9Q" comment="" name="SmsErrorBody" prompt="SmsErrorBody?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_OZV2UXpnEe2Cn8CIPA-i9Q" comment="" name="SmsBody" prompt="SmsBody?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
