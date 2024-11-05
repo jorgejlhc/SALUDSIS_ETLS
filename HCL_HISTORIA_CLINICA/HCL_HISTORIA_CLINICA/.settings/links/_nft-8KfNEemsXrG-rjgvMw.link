@@ -1,0 +1,224 @@
+{
+  "itemId" : "_nft-8KfNEemsXrG-rjgvMw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_ZwpuFLWXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_ZwpuFrWXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_ZwpuEbWXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_ZwpuErWXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_ZwpuF7WXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_ZwpuFbWXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_ZwpuE7WXEe6hnvDzRQBaSQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_Zw5ltLWXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_Zw5ltrWXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_Zw5lsbWXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_Zw5lsrWXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_Zw5lt7WXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_Zw5ltbWXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_Zw5ls7WXEe6hnvDzRQBaSQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_ZwhyRLWXEe6hnvDzRQBaSQ",
+      "name" : "context"
+    }, {
+      "id" : "_ZwhyQ7WXEe6hnvDzRQBaSQ",
+      "name" : "job"
+    }, {
+      "id" : "_ZwhyRrWXEe6hnvDzRQBaSQ",
+      "name" : "message"
+    }, {
+      "id" : "_ZwhyQbWXEe6hnvDzRQBaSQ",
+      "name" : "moment"
+    }, {
+      "id" : "_ZwhyRbWXEe6hnvDzRQBaSQ",
+      "name" : "origen"
+    }, {
+      "id" : "_ZwhyQrWXEe6hnvDzRQBaSQ",
+      "name" : "Project"
+    }, {
+      "id" : "_ZwhySrWXEe6hnvDzRQBaSQ",
+      "name" : "server_destino"
+    }, {
+      "id" : "_ZwhyR7WXEe6hnvDzRQBaSQ",
+      "name" : "server_origen"
+    }, {
+      "id" : "_ZwhyS7WXEe6hnvDzRQBaSQ",
+      "name" : "service_name_destino"
+    }, {
+      "id" : "_ZwhySLWXEe6hnvDzRQBaSQ",
+      "name" : "service_name_origen"
+    }, {
+      "id" : "_ZwhyTLWXEe6hnvDzRQBaSQ",
+      "name" : "user_destino"
+    }, {
+      "id" : "_ZwhySbWXEe6hnvDzRQBaSQ",
+      "name" : "user_origen"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_DVfJ8KfkEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_Zw_FRLWXEe6hnvDzRQBaSQ",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_Zw_FQ7WXEe6hnvDzRQBaSQ",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_Zw_FQrWXEe6hnvDzRQBaSQ",
+      "name" : "fileSystem_Path"
+    }, {
+      "id" : "_Zw_FRbWXEe6hnvDzRQBaSQ",
+      "name" : "fileSystem_Report"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Iqg2QKfWEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_ZxZU9bWXEe6hnvDzRQBaSQ",
+      "name" : "JasperAmbiente"
+    }, {
+      "id" : "_ZxZU9LWXEe6hnvDzRQBaSQ",
+      "name" : "JasperModulo"
+    }, {
+      "id" : "_ZxZU87WXEe6hnvDzRQBaSQ",
+      "name" : "JasperPassword"
+    }, {
+      "id" : "_ZxZU9rWXEe6hnvDzRQBaSQ",
+      "name" : "JasperReporte"
+    }, {
+      "id" : "_ZxZU8bWXEe6hnvDzRQBaSQ",
+      "name" : "JasperServer"
+    }, {
+      "id" : "_ZxZU97WXEe6hnvDzRQBaSQ",
+      "name" : "JasperURI"
+    }, {
+      "id" : "_ZxZU8rWXEe6hnvDzRQBaSQ",
+      "name" : "JasperUser"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_ZwQFdLWXEe6hnvDzRQBaSQ",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_ZwQFeLWXEe6hnvDzRQBaSQ",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_ZwQFcrWXEe6hnvDzRQBaSQ",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_ZwQFdbWXEe6hnvDzRQBaSQ",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_ZwQFdrWXEe6hnvDzRQBaSQ",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_ZwQFc7WXEe6hnvDzRQBaSQ",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_ZwQFcbWXEe6hnvDzRQBaSQ",
+      "name" : "mail_To"
+    }, {
+      "id" : "_ZwQFd7WXEe6hnvDzRQBaSQ",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_ZxGaCbWXEe6hnvDzRQBaSQ",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_ZxGaArWXEe6hnvDzRQBaSQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_ZxGaCrWXEe6hnvDzRQBaSQ",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_ZxGaBrWXEe6hnvDzRQBaSQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_ZxGaB7WXEe6hnvDzRQBaSQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_ZxGaCLWXEe6hnvDzRQBaSQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_ZxGaA7WXEe6hnvDzRQBaSQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_ZxGaD7WXEe6hnvDzRQBaSQ",
+      "name" : "UORG_ID"
+    }, {
+      "id" : "_ZxGaELWXEe6hnvDzRQBaSQ",
+      "name" : "USUARIO_ID"
+    }, {
+      "id" : "_ZxGaBbWXEe6hnvDzRQBaSQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_ZxGaEbWXEe6hnvDzRQBaSQ",
+      "name" : "SALIDA_ARCHIVO"
+    }, {
+      "id" : "_ZxGaDbWXEe6hnvDzRQBaSQ",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_ZxGaDrWXEe6hnvDzRQBaSQ",
+      "name" : "ESPECILIADADES_ID"
+    }, {
+      "id" : "_ZxGaBLWXEe6hnvDzRQBaSQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_ZxGaAbWXEe6hnvDzRQBaSQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_ZxGaC7WXEe6hnvDzRQBaSQ",
+      "name" : "ID"
+    }, {
+      "id" : "_ZxGaErWXEe6hnvDzRQBaSQ",
+      "name" : "JOB"
+    }, {
+      "id" : "_C0ouMEqYEe-_Bd-rfHLxMw",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_ZxGaDLWXEe6hnvDzRQBaSQ",
+      "name" : "FECHA_INICIAL"
+    } ]
+  } ]
+}

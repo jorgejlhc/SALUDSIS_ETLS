@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_nft-8afNEemsXrG-rjgvMw" id="_nft-8KfNEemsXrG-rjgvMw" label="HistoriaClinica" version="0.1" statusCode="" item="_nft-86fNEemsXrG-rjgvMw" displayName="HistoriaClinica">
+    <author href="../../talend.project#_jXXEsF_wEe-Rppbln9XEjg"/>
+    <additionalProperties xmi:id="_kMPokEqXEe-_Bd-rfHLxMw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_kMPokUqXEe-_Bd-rfHLxMw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_kMPokkqXEe-_Bd-rfHLxMw" key="created_date" value="2019-07-16T08:28:37.215-0500"/>
+    <additionalProperties xmi:id="_kMPok0qXEe-_Bd-rfHLxMw" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_kMPolEqXEe-_Bd-rfHLxMw" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_kMPolUqXEe-_Bd-rfHLxMw" key="modified_date" value="2024-08-21T14:40:12.557-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_rp9NAF_wEe-Rppbln9XEjg" path="HistoriaClinica" locked="true" lockDate="2024-08-21T14:10:09.308-0500">
+    <locker href="../../talend.project#_jXXEsF_wEe-Rppbln9XEjg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_nft-86fNEemsXrG-rjgvMw" property="_nft-8afNEemsXrG-rjgvMw" state="_rp9NAF_wEe-Rppbln9XEjg">
+    <process href="HistoriaClinica_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,94 @@
+[ {
+  "baseItem" : {
+    "id" : "_G-xzoEeIEe-0rv4KxAVDXQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "HCL_HISTORIA_CLINICA:_nft-8KfNEemsXrG-rjgvMw",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "1.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ArrayFromFile",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "age_utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "getEdad",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_xLOfYBOgEeawAfp8SPJAtw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_nft-8KfNEemsXrG-rjgvMw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DVfJ8KfkEemsXrG-rjgvMw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Iqg2QKfWEemsXrG-rjgvMw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "GenerarGuid",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]

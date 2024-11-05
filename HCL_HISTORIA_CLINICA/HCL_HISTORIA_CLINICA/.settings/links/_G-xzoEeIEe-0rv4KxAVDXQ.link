@@ -1,0 +1,79 @@
+{
+  "itemId" : "_G-xzoEeIEe-0rv4KxAVDXQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    }, {
+      "id" : "_QAzeIkciEe-4GvefH8sZ6w",
+      "name" : "EspecialidadesId"
+    }, {
+      "id" : "_QAzeI0ciEe-4GvefH8sZ6w",
+      "name" : "UorgId"
+    }, {
+      "id" : "_QAzeIUciEe-4GvefH8sZ6w",
+      "name" : "FechaFinal"
+    }, {
+      "id" : "_QAzeIEciEe-4GvefH8sZ6w",
+      "name" : "FechaInicial"
+    }, {
+      "id" : "_QAzeJEciEe-4GvefH8sZ6w",
+      "name" : "UsuarioId"
+    }, {
+      "id" : "_u_4hwErNEe-hgpN7FgrZUQ",
+      "name" : "Result"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    }, {
+      "id" : "_QAzeIkciEe-4GvefH8sZ6w",
+      "name" : "EspecialidadesId"
+    }, {
+      "id" : "_QAzeI0ciEe-4GvefH8sZ6w",
+      "name" : "UorgId"
+    }, {
+      "id" : "_QAzeIUciEe-4GvefH8sZ6w",
+      "name" : "FechaFinal"
+    }, {
+      "id" : "_QAzeIEciEe-4GvefH8sZ6w",
+      "name" : "FechaInicial"
+    }, {
+      "id" : "_QAzeJEciEe-4GvefH8sZ6w",
+      "name" : "UsuarioId"
+    }, {
+      "id" : "_u_4hwErNEe-hgpN7FgrZUQ",
+      "name" : "Result"
+    } ]
+  }, {
+    "contextName" : "QABI",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_r9-PYI2vEeySNvRKZ56XVg",
+      "name" : "IdSolicitud"
+    }, {
+      "id" : "_QAzeIkciEe-4GvefH8sZ6w",
+      "name" : "EspecialidadesId"
+    }, {
+      "id" : "_QAzeI0ciEe-4GvefH8sZ6w",
+      "name" : "UorgId"
+    }, {
+      "id" : "_QAzeIUciEe-4GvefH8sZ6w",
+      "name" : "FechaFinal"
+    }, {
+      "id" : "_QAzeIEciEe-4GvefH8sZ6w",
+      "name" : "FechaInicial"
+    }, {
+      "id" : "_QAzeJEciEe-4GvefH8sZ6w",
+      "name" : "UsuarioId"
+    }, {
+      "id" : "_u_4hwErNEe-hgpN7FgrZUQ",
+      "name" : "Result"
+    } ]
+  } ]
+}

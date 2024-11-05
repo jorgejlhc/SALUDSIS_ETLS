@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ZxGaALWXEe6hnvDzRQBaSQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_ZxGaAbWXEe6hnvDzRQBaSQ" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaArWXEe6hnvDzRQBaSQ" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaA7WXEe6hnvDzRQBaSQ" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaBLWXEe6hnvDzRQBaSQ" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaBbWXEe6hnvDzRQBaSQ" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_ZxGaBrWXEe6hnvDzRQBaSQ" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_ZxGaB7WXEe6hnvDzRQBaSQ" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_ZxGaCLWXEe6hnvDzRQBaSQ" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_ZxGaCbWXEe6hnvDzRQBaSQ" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaCrWXEe6hnvDzRQBaSQ" comment="" name="LOGS_STAT" prompt="LOGS_STAT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/_LOGSTAT.csv"/>
+  <contextParameter xmi:id="_ZxGaC7WXEe6hnvDzRQBaSQ" comment="" name="ID" prompt="ID?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="590849"/>
+  <contextParameter xmi:id="_ZxGaDLWXEe6hnvDzRQBaSQ" comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="25/07/2023"/>
+  <contextParameter xmi:id="_ZxGaDbWXEe6hnvDzRQBaSQ" comment="" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="25/07/2024"/>
+  <contextParameter xmi:id="_ZxGaDrWXEe6hnvDzRQBaSQ" comment="" name="ESPECILIADADES_ID" prompt="ESPECILIADADES_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaD7WXEe6hnvDzRQBaSQ" comment="" name="UORG_ID" prompt="UORG_ID?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="0"/>
+  <contextParameter xmi:id="_ZxGaELWXEe6hnvDzRQBaSQ" comment="" name="USUARIO_ID" prompt="USUARIO_ID?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="9291"/>
+  <contextParameter xmi:id="_ZxGaEbWXEe6hnvDzRQBaSQ" comment="" name="SALIDA_ARCHIVO" prompt="SALIDA_ARCHIVO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZxGaErWXEe6hnvDzRQBaSQ" comment="" name="JOB" prompt="JOB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="HistoriaClinica"/>
+  <contextParameter xmi:id="_C0ouMEqYEe-_Bd-rfHLxMw" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+</talendfile:ContextType>
