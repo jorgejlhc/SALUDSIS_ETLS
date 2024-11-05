@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_TScRQPJVEeu7jrpZPPGskw" id="_TSbDIPJVEeu7jrpZPPGskw" label="ProcesarPlanillasRecaudo" version="0.1" statusCode="" item="_TScRQvJVEeu7jrpZPPGskw" displayName="ProcesarPlanillasRecaudo">
+    <author href="../talend.project#_1yY08JhsEe-V85PNO1Xqzw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Aq4ogJhtEe-V85PNO1Xqzw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_TScRQvJVEeu7jrpZPPGskw" property="_TScRQPJVEeu7jrpZPPGskw" state="_Aq4ogJhtEe-V85PNO1Xqzw">
+    <process href="ProcesarPlanillasRecaudo_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

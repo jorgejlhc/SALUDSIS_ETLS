@@ -1,0 +1,48 @@
+[ {
+  "baseItem" : {
+    "id" : "_TSbDIPJVEeu7jrpZPPGskw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Gwnk4PJUEeu7jrpZPPGskw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_LbzEsK_ZEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ArrayFromFile",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUUID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_muHlMK-_EeiBYNtwWhZd2Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

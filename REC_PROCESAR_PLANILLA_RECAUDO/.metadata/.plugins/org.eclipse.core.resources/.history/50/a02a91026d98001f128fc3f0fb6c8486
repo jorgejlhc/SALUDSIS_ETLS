@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_GxXLwfJUEeu7jrpZPPGskw" id="_Gwnk4PJUEeu7jrpZPPGskw" label="Recaudo" version="0.1" statusCode="" item="_GxXLw_JUEeu7jrpZPPGskw" displayName="Recaudo">
+    <author href="../talend.project#_1yY08JhsEe-V85PNO1Xqzw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ApEqophtEe-V85PNO1Xqzw" path=""/>
+  <TalendProperties:ContextItem xmi:id="_GxXLw_JUEeu7jrpZPPGskw" property="_GxXLwfJUEeu7jrpZPPGskw" state="_ApEqophtEe-V85PNO1Xqzw" defaultContext="Default">
+    <context href="Recaudo_0.1.item#_GxXLwPJUEeu7jrpZPPGskw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>
