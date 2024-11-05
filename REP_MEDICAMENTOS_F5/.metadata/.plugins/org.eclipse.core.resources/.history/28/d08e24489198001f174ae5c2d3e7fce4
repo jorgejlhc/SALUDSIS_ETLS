@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_i9zykdp1EeWVqK-HG5SQsA" id="_i9zykNp1EeWVqK-HG5SQsA" label="Utils" version="0.4" statusCode="" item="_i9zyk9p1EeWVqK-HG5SQsA" maxInformationLevel="WARN" displayName="Utils">
+    <author href="../../talend.project#_EVd2UJiNEe-y25AoF66EtQ"/>
+    <informations xmi:id="_G5WB8HqJEeaJF4-34LLC1g" level="WARN" text="La importación java.math.RoundingMode nunca se utiliza"/>
+    <additionalProperties xmi:id="_SCJr8JiREe-y25AoF66EtQ" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_SCJr8ZiREe-y25AoF66EtQ" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_SCJr8piREe-y25AoF66EtQ" key="created_date" value="2024-11-01T15:38:41.967-0500"/>
+    <additionalProperties xmi:id="_SCKTAJiREe-y25AoF66EtQ" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_SCKTAZiREe-y25AoF66EtQ" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_SCKTApiREe-y25AoF66EtQ" key="modified_date" value="2024-11-01T15:38:41.967-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_SCGooJiREe-y25AoF66EtQ" path=""/>
+  <TalendProperties:RoutineItem xmi:id="_i9zyk9p1EeWVqK-HG5SQsA" property="_i9zykdp1EeWVqK-HG5SQsA" state="_SCGooJiREe-y25AoF66EtQ">
+    <content href="Utils_0.4.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

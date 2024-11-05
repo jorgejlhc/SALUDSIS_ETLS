@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_37geETXhEemjksX49KH77A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_37geEjXhEemjksX49KH77A" comment="" name="COND_MOVIMIENTOS" prompt="COND_MOVIMIENTOS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_37geEzXhEemjksX49KH77A" comment="" name="COND_HCL_FORMMEDICAS" prompt="COND_HCL_FORMMEDICAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_37geFDXhEemjksX49KH77A" comment="" name="COND_PENDIENTES" prompt="COND_PENDIENTES?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
