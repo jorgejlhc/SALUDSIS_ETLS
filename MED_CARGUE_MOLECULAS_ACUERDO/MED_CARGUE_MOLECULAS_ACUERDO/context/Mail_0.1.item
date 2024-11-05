@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_got5YIpmEe6uCKd7MkzpwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_got5YYpmEe6uCKd7MkzpwQ" comment="" name="mail_To" prompt="mail_To?" promptNeeded="false" type="id_String" value="cromero@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_got5YopmEe6uCKd7MkzpwQ" comment="" name="mail_From" prompt="mail_From?" promptNeeded="false" type="id_String" value="cromero@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_got5Y4pmEe6uCKd7MkzpwQ" comment="" name="mail_Sendername" prompt="mail_Sendername?" promptNeeded="false" type="id_String" value="Support"/>
+  <contextParameter xmi:id="_got5ZIpmEe6uCKd7MkzpwQ" comment="" name="mail_Subject" prompt="mail_Subject?" promptNeeded="false" type="id_String" value="Error al ejecutar Job"/>
+  <contextParameter xmi:id="_got5ZYpmEe6uCKd7MkzpwQ" comment="" name="mail_Message" prompt="mail_Message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_got5ZopmEe6uCKd7MkzpwQ" comment="" name="mail_SMTP_Host" prompt="mail_SMTP_Host?" promptNeeded="false" type="id_String" value="box875.bluehost.com"/>
+  <contextParameter xmi:id="_got5Z4pmEe6uCKd7MkzpwQ" comment="" name="mail_SMTP_Port" prompt="mail_SMTP_Port?" promptNeeded="false" type="id_String" value="465"/>
+  <contextParameter xmi:id="_got5aIpmEe6uCKd7MkzpwQ" comment="" name="mail_User" prompt="mail_User?" promptNeeded="false" type="id_String" value="cromero@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_got5aYpmEe6uCKd7MkzpwQ" comment="" name="mail_Password" prompt="mail_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:m99nkQiE/SDWRGMHK3xY09Au7rXGW5f4Ntes/Lg4IeMeAvTnXgzO"/>
+</talendfile:ContextType>

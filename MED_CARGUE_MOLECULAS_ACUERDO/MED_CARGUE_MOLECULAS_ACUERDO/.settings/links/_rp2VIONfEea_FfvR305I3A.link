@@ -1,0 +1,106 @@
+{
+  "itemId" : "_rp2VIONfEea_FfvR305I3A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_DFRwwCGwEeaaPcsc36BR6Q",
+    "parameterList" : [ {
+      "id" : "_goaXYopmEe6uCKd7MkzpwQ",
+      "name" : "acuerdo_id"
+    }, {
+      "id" : "_goaXYYpmEe6uCKd7MkzpwQ",
+      "name" : "carga_id"
+    }, {
+      "id" : "_goaXY4pmEe6uCKd7MkzpwQ",
+      "name" : "Contenido"
+    }, {
+      "id" : "_goaXbopmEe6uCKd7MkzpwQ",
+      "name" : "ErrorLog"
+    }, {
+      "id" : "_goaXaIpmEe6uCKd7MkzpwQ",
+      "name" : "IsValid"
+    }, {
+      "id" : "_goaXbIpmEe6uCKd7MkzpwQ",
+      "name" : "Linea"
+    }, {
+      "id" : "_goaXa4pmEe6uCKd7MkzpwQ",
+      "name" : "MedGenerico_Id"
+    }, {
+      "id" : "_goaXbYpmEe6uCKd7MkzpwQ",
+      "name" : "Mensaje_1"
+    }, {
+      "id" : "_goaXZ4pmEe6uCKd7MkzpwQ",
+      "name" : "nombre"
+    }, {
+      "id" : "_goaXaopmEe6uCKd7MkzpwQ",
+      "name" : "NusoIndividual"
+    }, {
+      "id" : "_goaXaYpmEe6uCKd7MkzpwQ",
+      "name" : "NusoRegistro"
+    }, {
+      "id" : "_goaXZopmEe6uCKd7MkzpwQ",
+      "name" : "result"
+    }, {
+      "id" : "_goaXZYpmEe6uCKd7MkzpwQ",
+      "name" : "Salida"
+    }, {
+      "id" : "_goaXZIpmEe6uCKd7MkzpwQ",
+      "name" : "TContenido"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_fkXrgBOiEeawAfp8SPJAtw",
+    "parameterList" : [ {
+      "id" : "_golWgYpmEe6uCKd7MkzpwQ",
+      "name" : "Host"
+    }, {
+      "id" : "_golWhIpmEe6uCKd7MkzpwQ",
+      "name" : "Password"
+    }, {
+      "id" : "_golWgopmEe6uCKd7MkzpwQ",
+      "name" : "Port"
+    }, {
+      "id" : "_golWhopmEe6uCKd7MkzpwQ",
+      "name" : "Schema"
+    }, {
+      "id" : "_golWh4pmEe6uCKd7MkzpwQ",
+      "name" : "ServiceName"
+    }, {
+      "id" : "_golWhYpmEe6uCKd7MkzpwQ",
+      "name" : "Sid"
+    }, {
+      "id" : "_golWg4pmEe6uCKd7MkzpwQ",
+      "name" : "User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_goqPAYpmEe6uCKd7MkzpwQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_goqPBYpmEe6uCKd7MkzpwQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_goqPCYpmEe6uCKd7MkzpwQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_goqPAopmEe6uCKd7MkzpwQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_goqPBIpmEe6uCKd7MkzpwQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_goqPA4pmEe6uCKd7MkzpwQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_goqPBopmEe6uCKd7MkzpwQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_goqPB4pmEe6uCKd7MkzpwQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_goqPCIpmEe6uCKd7MkzpwQ",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

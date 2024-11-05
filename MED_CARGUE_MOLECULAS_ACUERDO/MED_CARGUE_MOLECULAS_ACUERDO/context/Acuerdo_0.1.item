@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_goaXYIpmEe6uCKd7MkzpwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_goaXYYpmEe6uCKd7MkzpwQ" comment="" name="carga_id" prompt="carga_id?" promptNeeded="true" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_goaXYopmEe6uCKd7MkzpwQ" comment="" name="acuerdo_id" prompt="acuerdo_id?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_goaXY4pmEe6uCKd7MkzpwQ" comment="" name="Contenido" prompt="Contenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_goaXZIpmEe6uCKd7MkzpwQ" comment="" name="TContenido" prompt="TContenido?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_goaXZYpmEe6uCKd7MkzpwQ" comment="" name="Salida" prompt="Salida?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_goaXZopmEe6uCKd7MkzpwQ" comment="" name="result" prompt="result?" promptNeeded="false" type="id_String" value="0"/>
+  <contextParameter xmi:id="_goaXZ4pmEe6uCKd7MkzpwQ" comment="" name="nombre" prompt="nombre?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_goaXaIpmEe6uCKd7MkzpwQ" comment="" name="IsValid" prompt="IsValid?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_goaXaYpmEe6uCKd7MkzpwQ" comment="" name="NusoRegistro" prompt="NusoRegistro?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_goaXaopmEe6uCKd7MkzpwQ" comment="" name="NusoIndividual" prompt="NusoIndividual?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_goaXa4pmEe6uCKd7MkzpwQ" comment="" name="MedGenerico_Id" prompt="MedGenerico_Id?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_goaXbIpmEe6uCKd7MkzpwQ" comment="" name="Linea" prompt="Linea?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_goaXbYpmEe6uCKd7MkzpwQ" comment="" name="Mensaje_1" prompt="Mensaje_1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_goaXbopmEe6uCKd7MkzpwQ" comment="" name="ErrorLog" prompt="ErrorLog?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

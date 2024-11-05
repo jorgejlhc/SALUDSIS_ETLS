@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_goqPAIpmEe6uCKd7MkzpwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_goqPAYpmEe6uCKd7MkzpwQ" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_goqPAopmEe6uCKd7MkzpwQ" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_goqPA4pmEe6uCKd7MkzpwQ" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_goqPBIpmEe6uCKd7MkzpwQ" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_goqPBYpmEe6uCKd7MkzpwQ" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_goqPBopmEe6uCKd7MkzpwQ" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_goqPB4pmEe6uCKd7MkzpwQ" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_goqPCIpmEe6uCKd7MkzpwQ" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_goqPCYpmEe6uCKd7MkzpwQ" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>

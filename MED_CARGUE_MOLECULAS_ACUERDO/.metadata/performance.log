@@ -1,0 +1,14 @@
+2024-10-28 15:02:44,658 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'MED_CARGUE_MOLECULAS_ACUERDO' ...
+2024-10-28 15:02:45,186 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 528 ms
+2024-10-28 15:02:45,193 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 7 ms
+2024-10-28 15:02:45,927 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 734 ms
+2024-10-28 15:02:45,938 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 11 ms
+2024-10-28 15:02:46,508 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 570 ms
+2024-10-28 15:02:46,839 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 331 ms
+2024-10-28 15:02:46,850 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 11 ms
+2024-10-28 15:02:46,907 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 57 ms
+2024-10-28 15:02:47,191 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 284 ms
+2024-10-28 15:02:47,194 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 284 ms 
+2024-10-28 15:02:47,194 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 2536 ms 
+2024-10-28 15:02:51,887 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-28 15:03:10,103 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist

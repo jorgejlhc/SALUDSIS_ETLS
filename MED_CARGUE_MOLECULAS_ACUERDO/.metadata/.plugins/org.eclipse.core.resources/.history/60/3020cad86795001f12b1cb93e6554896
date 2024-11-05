@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_rqAGIONfEea_FfvR305I3A" id="_rp2VIONfEea_FfvR305I3A" label="CargaMoleculasAcuerdo" version="3.3" statusCode="" item="_rqAGIuNfEea_FfvR305I3A" displayName="CargaMoleculasAcuerdo">
+    <author href="../../talend.project#_kgqNsJVnEe-7hPriA5PIcw"/>
+    <additionalProperties xmi:id="_h8P3YE5yEe-MvYz0kaKPww" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_h8P3YU5yEe-MvYz0kaKPww" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_h8P3Yk5yEe-MvYz0kaKPww" key="created_date" value="2017-02-17T11:41:30.795-0500"/>
+    <additionalProperties xmi:id="_h8P3Y05yEe-MvYz0kaKPww" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_h8P3ZE5yEe-MvYz0kaKPww" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_h8P3ZU5yEe-MvYz0kaKPww" key="modified_date" value="2024-07-30T07:57:45.564-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_2LOK8JVnEe-7hPriA5PIcw" path="Cargue"/>
+  <TalendProperties:ProcessItem xmi:id="_rqAGIuNfEea_FfvR305I3A" property="_rqAGIONfEea_FfvR305I3A" state="_2LOK8JVnEe-7hPriA5PIcw">
+    <process href="CargaMoleculasAcuerdo_3.3.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

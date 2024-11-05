@@ -1,0 +1,88 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_fkXrgBOiEeawAfp8SPJAtw",
+    "parameterList" : [ {
+      "id" : "_golWgYpmEe6uCKd7MkzpwQ",
+      "name" : "Host"
+    }, {
+      "id" : "_golWhIpmEe6uCKd7MkzpwQ",
+      "name" : "Password"
+    }, {
+      "id" : "_golWgopmEe6uCKd7MkzpwQ",
+      "name" : "Port"
+    }, {
+      "id" : "_golWhopmEe6uCKd7MkzpwQ",
+      "name" : "Schema"
+    }, {
+      "id" : "_golWhYpmEe6uCKd7MkzpwQ",
+      "name" : "Sid"
+    }, {
+      "id" : "_golWg4pmEe6uCKd7MkzpwQ",
+      "name" : "User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_goqPCIpmEe6uCKd7MkzpwQ",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_goqPBYpmEe6uCKd7MkzpwQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_goqPAopmEe6uCKd7MkzpwQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_goqPBIpmEe6uCKd7MkzpwQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_goqPAYpmEe6uCKd7MkzpwQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_goqPBopmEe6uCKd7MkzpwQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_goqPB4pmEe6uCKd7MkzpwQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_goqPCYpmEe6uCKd7MkzpwQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_goqPA4pmEe6uCKd7MkzpwQ",
+      "name" : "HORA_INICIO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_got5YopmEe6uCKd7MkzpwQ",
+      "name" : "mail_From"
+    }, {
+      "id" : "_got5ZYpmEe6uCKd7MkzpwQ",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_got5aYpmEe6uCKd7MkzpwQ",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_got5Y4pmEe6uCKd7MkzpwQ",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_got5ZopmEe6uCKd7MkzpwQ",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_got5Z4pmEe6uCKd7MkzpwQ",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_got5ZIpmEe6uCKd7MkzpwQ",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_got5YYpmEe6uCKd7MkzpwQ",
+      "name" : "mail_To"
+    }, {
+      "id" : "_got5aIpmEe6uCKd7MkzpwQ",
+      "name" : "mail_User"
+    } ]
+  } ]
+}
