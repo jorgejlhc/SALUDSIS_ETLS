@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_8USGUNZtEemK1f3ba3Zesg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_8USGUdZtEemK1f3ba3Zesg" comment="" name="ARCONTROL_ID" prompt="ARCONTROL_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_8USGUtZtEemK1f3ba3Zesg" comment="" name="COUNT_OS" prompt="COUNT_OS?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_8USGU9ZtEemK1f3ba3Zesg" comment="" name="PERIODO" prompt="PERIODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8USGVNZtEemK1f3ba3Zesg" comment="" name="FREMISION" prompt="FREMISION?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_8USGVdZtEemK1f3ba3Zesg" comment="" name="CODARCHIVO" prompt="CODARCHIVO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8USGVtZtEemK1f3ba3Zesg" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_8USGV9ZtEemK1f3ba3Zesg" comment="" name="DIFERENCIA_MES" prompt="DIFERENCIA_MES?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8USGWNZtEemK1f3ba3Zesg" comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8USGWdZtEemK1f3ba3Zesg" comment="" name="LAST_DAY" prompt="LAST_DAY?" promptNeeded="true" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_8USGWtZtEemK1f3ba3Zesg" comment="" name="CANTREGISTROS" prompt="CANTREGISTROS?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_8USGW9ZtEemK1f3ba3Zesg" comment="" name="CARPETA_SALIDA" prompt="CARPETA_SALIDA?" promptNeeded="false" type="id_String" value="../../temporal/rips/in"/>
+  <contextParameter xmi:id="_8USGXNZtEemK1f3ba3Zesg" comment="" name="CARPETA_TEMPORAL" prompt="CARPETA_TEMPORAL?" promptNeeded="false" type="id_String" value="../../temporal/rips/out"/>
+</talendfile:ContextType>

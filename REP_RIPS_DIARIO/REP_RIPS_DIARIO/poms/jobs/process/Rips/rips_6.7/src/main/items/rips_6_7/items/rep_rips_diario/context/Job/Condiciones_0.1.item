@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_8UIVUdZtEemK1f3ba3Zesg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_8UIVUtZtEemK1f3ba3Zesg" comment="" name="CONDICION_CONSULTAS" prompt="CONDICION_CONSULTAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVU9ZtEemK1f3ba3Zesg" comment="" name="CONDICION_ACTIVIDADES_CONSULTAS" prompt="CONDICION_ACTIVIDADES_CONSULTAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVVNZtEemK1f3ba3Zesg" comment="" name="CONDICION_FINDRISK_CONSULTAS" prompt="CONDICION_FINDRISK_CONSULTAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVVdZtEemK1f3ba3Zesg" comment="" name="CONDICION_SIGNOS_VITALES" prompt="CONDICION_SIGNOS_VITALES?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVVtZtEemK1f3ba3Zesg" comment="" name="CONDICION_PROCEDIMIENTOS_PQX" prompt="CONDICION_PROCEDIMIENTOS_PQX?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVV9ZtEemK1f3ba3Zesg" comment="" name="CONDICION_PROCEDIMIENTOS_CGP" prompt="CONDICION_PROCEDIMIENTOS_CGP?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVWNZtEemK1f3ba3Zesg" comment="" name="CONDICION_PROCEDIMIENTOS_RCA" prompt="CONDICION_PROCEDIMIENTOS_RCA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVWdZtEemK1f3ba3Zesg" comment="" name="CONDICION_PROCEDIMIENTOS_CGP2" prompt="CONDICION_PROCEDIMIENTOS_CGP2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVWtZtEemK1f3ba3Zesg" comment="" name="CONDICION_PROCEDIMIENTOS_ODO" prompt="CONDICION_PROCEDIMIENTOS_ODO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVW9ZtEemK1f3ba3Zesg" comment="" name="CONDICION_OTROS_SERVICIOS" prompt="CONDICION_OTROS_SERVICIOS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVXNZtEemK1f3ba3Zesg" comment="" name="CONDICION_OTROS_SERVICIOS2" prompt="CONDICION_OTROS_SERVICIOS2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVXdZtEemK1f3ba3Zesg" comment="" name="CONDICION_HOSPITALIZACION" prompt="CONDICION_HOSPITALIZACION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVXtZtEemK1f3ba3Zesg" comment="" name="CONDICION_URGENCIAS" prompt="CONDICION_URGENCIAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVX9ZtEemK1f3ba3Zesg" comment="" name="CONDICION_USUARIOS" prompt="CONDICION_USUARIOS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_8UIVYNZtEemK1f3ba3Zesg" comment="" name="CONDICION_MEDICAMENTOS" prompt="CONDICION_MEDICAMENTOS?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

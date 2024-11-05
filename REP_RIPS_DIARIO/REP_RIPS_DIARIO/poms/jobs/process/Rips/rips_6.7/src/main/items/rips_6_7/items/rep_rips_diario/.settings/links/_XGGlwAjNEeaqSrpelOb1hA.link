@@ -1,0 +1,202 @@
+{
+  "itemId" : "_XGGlwAjNEeaqSrpelOb1hA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_NDxcINLYEei4leH83naDfg",
+    "parameterList" : [ {
+      "id" : "_8UIVU9ZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_ACTIVIDADES_CONSULTAS"
+    }, {
+      "id" : "_8UIVUtZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_CONSULTAS"
+    }, {
+      "id" : "_8UIVVNZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_FINDRISK_CONSULTAS"
+    }, {
+      "id" : "_8UIVXdZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_HOSPITALIZACION"
+    }, {
+      "id" : "_8UIVYNZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_MEDICAMENTOS"
+    }, {
+      "id" : "_8UIVW9ZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_OTROS_SERVICIOS"
+    }, {
+      "id" : "_8UIVXNZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_OTROS_SERVICIOS2"
+    }, {
+      "id" : "_8UIVV9ZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_PROCEDIMIENTOS_CGP"
+    }, {
+      "id" : "_8UIVWdZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_PROCEDIMIENTOS_CGP2"
+    }, {
+      "id" : "_8UIVWtZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_PROCEDIMIENTOS_ODO"
+    }, {
+      "id" : "_8UIVVtZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_PROCEDIMIENTOS_PQX"
+    }, {
+      "id" : "_8UIVWNZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_PROCEDIMIENTOS_RCA"
+    }, {
+      "id" : "_8UIVVdZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_SIGNOS_VITALES"
+    }, {
+      "id" : "_8UIVXtZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_URGENCIAS"
+    }, {
+      "id" : "_8UIVX9ZtEemK1f3ba3Zesg",
+      "name" : "CONDICION_USUARIOS"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_8SO34dZtEemK1f3ba3Zesg",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_8SO34tZtEemK1f3ba3Zesg",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_8SO349ZtEemK1f3ba3Zesg",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_8SO35dZtEemK1f3ba3Zesg",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_8SO35NZtEemK1f3ba3Zesg",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_8SO35tZtEemK1f3ba3Zesg",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_8SO359ZtEemK1f3ba3Zesg",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_8TomEdZtEemK1f3ba3Zesg",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_8TomEtZtEemK1f3ba3Zesg",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_8TomE9ZtEemK1f3ba3Zesg",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_8TomFdZtEemK1f3ba3Zesg",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_8TomFNZtEemK1f3ba3Zesg",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_8TomFtZtEemK1f3ba3Zesg",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_8TomF9ZtEemK1f3ba3Zesg",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_8T7hAtZtEemK1f3ba3Zesg",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_8T7hC9ZtEemK1f3ba3Zesg",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_8T7hA9ZtEemK1f3ba3Zesg",
+      "name" : "ERROR"
+    }, {
+      "id" : "_8T7hB9ZtEemK1f3ba3Zesg",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_8T7hDdZtEemK1f3ba3Zesg",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_8T7hAdZtEemK1f3ba3Zesg",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_8T7hBNZtEemK1f3ba3Zesg",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_8T7hBtZtEemK1f3ba3Zesg",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_8T7hBdZtEemK1f3ba3Zesg",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_8T7hDNZtEemK1f3ba3Zesg",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_8T7hCNZtEemK1f3ba3Zesg",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_8T7hCdZtEemK1f3ba3Zesg",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_8T7hCtZtEemK1f3ba3Zesg",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_8TyXFdZtEemK1f3ba3Zesg",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_8TyXGdZtEemK1f3ba3Zesg",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_8TyXE9ZtEemK1f3ba3Zesg",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_8TyXFtZtEemK1f3ba3Zesg",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_8TyXF9ZtEemK1f3ba3Zesg",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_8TyXFNZtEemK1f3ba3Zesg",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_8TyXEtZtEemK1f3ba3Zesg",
+      "name" : "mail_To"
+    }, {
+      "id" : "_8TyXGNZtEemK1f3ba3Zesg",
+      "name" : "mail_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_6dnwgBBuEeajHcs_tFSoBg",
+    "parameterList" : [ {
+      "id" : "_8USGUdZtEemK1f3ba3Zesg",
+      "name" : "ARCONTROL_ID"
+    }, {
+      "id" : "_8USGVdZtEemK1f3ba3Zesg",
+      "name" : "CODARCHIVO"
+    }, {
+      "id" : "_8USGUtZtEemK1f3ba3Zesg",
+      "name" : "COUNT_OS"
+    }, {
+      "id" : "_8USGV9ZtEemK1f3ba3Zesg",
+      "name" : "DIFERENCIA_MES"
+    }, {
+      "id" : "_8USGWNZtEemK1f3ba3Zesg",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_8USGVNZtEemK1f3ba3Zesg",
+      "name" : "FREMISION"
+    }, {
+      "id" : "_8USGWdZtEemK1f3ba3Zesg",
+      "name" : "LAST_DAY"
+    }, {
+      "id" : "_8USGU9ZtEemK1f3ba3Zesg",
+      "name" : "PERIODO"
+    } ]
+  } ]
+}
