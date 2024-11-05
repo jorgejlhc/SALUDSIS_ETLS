@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_dZ_9AYYTEeiYL4wWaHouUQ" id="_dZ_9AIYTEeiYL4wWaHouUQ" label="ConsolidadosAdulto" version="0.7" statusCode="" item="_daH40IYTEeiYL4wWaHouUQ" displayName="ConsolidadosAdulto">
+    <author href="../talend.project#_F4bzMJslEe-S25Tfm-eTrA"/>
+    <additionalProperties xmi:id="_UqQpZ3cZEeuzGKBU3EBJnQ" key="import_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQpaHcZEeuzGKBU3EBJnQ" key="import_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqQpaXcZEeuzGKBU3EBJnQ" key="import_date" value="2024-11-04T22:23:27.407-0500"/>
+    <additionalProperties xmi:id="_UqQpancZEeuzGKBU3EBJnQ" key="created_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQpa3cZEeuzGKBU3EBJnQ" key="created_product_version" value="6.4.1.20170623_1246"/>
+    <additionalProperties xmi:id="_UqQpbHcZEeuzGKBU3EBJnQ" key="created_date" value="2018-11-30T16:05:23.901-0500"/>
+    <additionalProperties xmi:id="_UqQpbXcZEeuzGKBU3EBJnQ" key="modified_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQpbncZEeuzGKBU3EBJnQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqQpb3cZEeuzGKBU3EBJnQ" key="modified_date" value="2024-09-16T10:38:48.425-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Uwsn8JslEe-S25Tfm-eTrA" path=""/>
+  <TalendProperties:JobletProcessItem xmi:id="_daH40IYTEeiYL4wWaHouUQ" property="_dZ_9AYYTEeiYL4wWaHouUQ" state="_Uwsn8JslEe-S25Tfm-eTrA">
+    <jobletProcess href="ConsolidadosAdulto_0.7.item#/0"/>
+    <icon href="ConsolidadosAdulto_0.7.item#/1"/>
+  </TalendProperties:JobletProcessItem>
+</xmi:XMI>

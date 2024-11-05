@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:model="http://www.talend.com/joblet.ecore" xmi:version="2.0">
+  <model:JobletProcess defaultContext="Default" jobType="Standard">
+    <context confirmationNeeded="false" name="Default">
+      <contextParameter comment="" internalId="_WCm3wHRBEe-BtqwXq7mFBA" name="UORG_ID" prompt="UORG_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823sHRBEe-BtqwXq7mFBA" name="db_origen_AdditionalParams" prompt="db_origen_AdditionalParams?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823sXRBEe-BtqwXq7mFBA" name="db_origen_Login" prompt="db_origen_Login?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value="SALUDSIS"/>
+      <contextParameter comment="" internalId="_w823snRBEe-BtqwXq7mFBA" name="db_origen_Password" prompt="db_origen_Password?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_Password" value="enc:system.encryption.key.v1:PvUqiGtaSEiDGP4f7uyXOyobu0kTTgfL3W+OQEnlWFrsRWQmcOwzYq8MMA=="/>
+      <contextParameter comment="" internalId="_w823s3RBEe-BtqwXq7mFBA" name="db_origen_Port" prompt="db_origen_Port?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value="1521"/>
+      <contextParameter comment="" internalId="_w823tHRBEe-BtqwXq7mFBA" name="db_origen_Schema" prompt="db_origen_Schema?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value="SALUDSIS"/>
+      <contextParameter comment="" internalId="_w823tXRBEe-BtqwXq7mFBA" name="db_origen_Server" prompt="db_origen_Server?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value="172.20.19.37"/>
+      <contextParameter comment="" internalId="_w823tnRBEe-BtqwXq7mFBA" name="db_origen_ServiceName" prompt="db_origen_ServiceName?" promptNeeded="false" repositoryContextId="_0YBK8DW4EeezZ7xbC53N0w" type="id_String" value="PDBQA"/>
+      <contextParameter comment="" internalId="_w823t3RBEe-BtqwXq7mFBA" name="ARCHIVOS_ID" prompt="ARCHIVOS_ID?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_BigDecimal" value=""/>
+      <contextParameter comment="" internalId="_w823uHRBEe-BtqwXq7mFBA" name="CARPETA_SALIDA" prompt="CARPETA_SALIDA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="C:/ETL/config/Out"/>
+      <contextParameter comment="" internalId="_w823uXRBEe-BtqwXq7mFBA" name="CARPETA_TEMPORAL" prompt="CARPETA_TEMPORAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="C:/ETL/config/tmp"/>
+      <contextParameter comment="" internalId="_w823unRBEe-BtqwXq7mFBA" name="CIUDAD" prompt="CIUDAD?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823u3RBEe-BtqwXq7mFBA" name="CLASIFICACION" prompt="CLASIFICACION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="null"/>
+      <contextParameter comment="" internalId="_w823vHRBEe-BtqwXq7mFBA" name="CODIGO_FORMATO" prompt="CODIGO_FORMATO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="20"/>
+      <contextParameter comment="" internalId="_w823vXRBEe-BtqwXq7mFBA" name="CONSULTA" prompt="CONSULTA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823vnRBEe-BtqwXq7mFBA" name="DEPARTAMENTO" prompt="DEPARTAMENTO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823v3RBEe-BtqwXq7mFBA" name="EDAD_FINAL" prompt="EDAD_FINAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823wHRBEe-BtqwXq7mFBA" name="EDAD_INICIAL" prompt="EDAD_INICIAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823wXRBEe-BtqwXq7mFBA" name="ENCABEZADOS" prompt="ENCABEZADOS?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823wnRBEe-BtqwXq7mFBA" name="ESM_REMITE" prompt="ESM_REMITE?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="null"/>
+      <contextParameter comment="" internalId="_w823w3RBEe-BtqwXq7mFBA" name="ESM_USUARIO" prompt="ESM_USUARIO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823xHRBEe-BtqwXq7mFBA" name="ESPECIALIDAD" prompt="ESPECIALIDAD?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823xXRBEe-BtqwXq7mFBA" name="ESPECIALIDAD_ID" prompt="ESPECIALIDAD_ID?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823xnRBEe-BtqwXq7mFBA" name="ESQUEMA" prompt="ESQUEMA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823x3RBEe-BtqwXq7mFBA" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="null"/>
+      <contextParameter comment="" internalId="_w823yHRBEe-BtqwXq7mFBA" name="FECHA_HORA_FINAL_EJECUCION" prompt="FECHA_HORA_FINAL_EJECUCION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_Date" value=""/>
+      <contextParameter comment="" internalId="_w823yXRBEe-BtqwXq7mFBA" name="FECHA_HORA_INICIO_EJECUCION" prompt="FECHA_HORA_INICIO_EJECUCION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_Date" value=""/>
+      <contextParameter comment="" internalId="_w823ynRBEe-BtqwXq7mFBA" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="null"/>
+      <contextParameter comment="" internalId="_w823y3RBEe-BtqwXq7mFBA" name="FECHA_REALIZACION" prompt="FECHA_REALIZACION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823zHRBEe-BtqwXq7mFBA" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823zXRBEe-BtqwXq7mFBA" name="FECHA_TITULO" prompt="FECHA_TITULO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823znRBEe-BtqwXq7mFBA" name="FILTROS" prompt="FILTROS?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w823z3RBEe-BtqwXq7mFBA" name="FUERZA" prompt="FUERZA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8230HRBEe-BtqwXq7mFBA" name="FUERZA_ID" prompt="FUERZA_ID?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8230XRBEe-BtqwXq7mFBA" name="FUERZA_NOMBRE" prompt="FUERZA_NOMBRE?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8230nRBEe-BtqwXq7mFBA" name="GE_VALOR_MENOR" prompt="GE_VALOR_MENOR?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w82303RBEe-BtqwXq7mFBA" name="GRUPO_EDAD" prompt="GRUPO_EDAD?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8231HRBEe-BtqwXq7mFBA" name="ID" prompt="ID?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_BigDecimal" value=""/>
+      <contextParameter comment="" internalId="_w8231XRBEe-BtqwXq7mFBA" name="MODULO" prompt="MODULO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8231nRBEe-BtqwXq7mFBA" name="NOMBRE_CONSOLIDADO" prompt="NOMBRE_CONSOLIDADO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w82313RBEe-BtqwXq7mFBA" name="NOMBRE_CSV" prompt="NOMBRE_CSV?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8232HRBEe-BtqwXq7mFBA" name="NOMBRE_ZIP" prompt="NOMBRE_ZIP?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8232XRBEe-BtqwXq7mFBA" name="REGIONAL" prompt="REGIONAL?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8232nRBEe-BtqwXq7mFBA" name="SEXO" prompt="SEXO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w82323RBEe-BtqwXq7mFBA" name="SIGLA" prompt="SIGLA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8233HRBEe-BtqwXq7mFBA" name="TIPO_USUARIO" prompt="TIPO_USUARIO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8233XRBEe-BtqwXq7mFBA" name="USUARIO" prompt="USUARIO?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w8233nRBEe-BtqwXq7mFBA" name="USUARIO_SOLICITA" prompt="USUARIO_SOLICITA?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w82333RBEe-BtqwXq7mFBA" name="VINCULACION" prompt="VINCULACION?" promptNeeded="false" repositoryContextId="_36k0sCQ-EeeVz_poch4AoA" type="id_String" value="null"/>
+      <contextParameter comment="" internalId="_w83ewHRBEe-BtqwXq7mFBA" name="db_destino_AdditionalParams" prompt="db_destino_AdditionalParams?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83ewXRBEe-BtqwXq7mFBA" name="db_destino_Login" prompt="db_destino_Login?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value="REP_SALUDSIS"/>
+      <contextParameter comment="" internalId="_w83ewnRBEe-BtqwXq7mFBA" name="db_destino_Password" prompt="db_destino_Password?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_Password" value="enc:system.encryption.key.v1:/32nMfz3nr93TrQgnEyxPc4LvBBiH9Bb2hvmcAIaUatY/YbFCyv6"/>
+      <contextParameter comment="" internalId="_w83ew3RBEe-BtqwXq7mFBA" name="db_destino_Port" prompt="db_destino_Port?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value="1521"/>
+      <contextParameter comment="" internalId="_w83exHRBEe-BtqwXq7mFBA" name="db_destino_Schema" prompt="db_destino_Schema?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value="REP_SALUDSIS"/>
+      <contextParameter comment="" internalId="_w83exXRBEe-BtqwXq7mFBA" name="db_destino_Server" prompt="db_destino_Server?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value="172.20.19.37"/>
+      <contextParameter comment="" internalId="_w83exnRBEe-BtqwXq7mFBA" name="db_destino_ServiceName" prompt="db_destino_ServiceName?" promptNeeded="false" repositoryContextId="_l8kNADXDEeebBNfaoZVT4A" type="id_String" value="PDBQA"/>
+      <contextParameter comment="" internalId="_w83ex3RBEe-BtqwXq7mFBA" name="DEPTO" prompt="DEPTO?" promptNeeded="false" repositoryContextId="_BxKBEClLEem9feNKZVj4zw" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83eyHRBEe-BtqwXq7mFBA" name="MCPIO" prompt="MCPIO?" promptNeeded="false" repositoryContextId="_BxKBEClLEem9feNKZVj4zw" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83eyXRBEe-BtqwXq7mFBA" name="PERIODO" prompt="PERIODO?" promptNeeded="false" repositoryContextId="_BxKBEClLEem9feNKZVj4zw" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83eynRBEe-BtqwXq7mFBA" name="TIPO_ESQUEMA" prompt="TIPO_ESQUEMA?" promptNeeded="false" repositoryContextId="_BxKBEClLEem9feNKZVj4zw" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83ey3RBEe-BtqwXq7mFBA" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_Boolean" value="false"/>
+      <contextParameter comment="" internalId="_w83ezHRBEe-BtqwXq7mFBA" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+      <contextParameter comment="" internalId="_w83ezXRBEe-BtqwXq7mFBA" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83eznRBEe-BtqwXq7mFBA" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="Fail"/>
+      <contextParameter comment="" internalId="_w83ez3RBEe-BtqwXq7mFBA" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="Finalizado"/>
+      <contextParameter comment="" internalId="_w83e0HRBEe-BtqwXq7mFBA" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83e0XRBEe-BtqwXq7mFBA" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83e0nRBEe-BtqwXq7mFBA" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83e03RBEe-BtqwXq7mFBA" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+      <contextParameter comment="" internalId="_w83e1HRBEe-BtqwXq7mFBA" name="ID_SOLICITUD" prompt="ID_SOLICITUD?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_Integer" value=""/>
+      <contextParameter comment="" internalId="_w83e1XRBEe-BtqwXq7mFBA" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_Integer" value="0"/>
+      <contextParameter comment="" internalId="_w83e1nRBEe-BtqwXq7mFBA" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+      <contextParameter comment="" internalId="_w83e13RBEe-BtqwXq7mFBA" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+      <contextParameter comment="" internalId="_w83e2HRBEe-BtqwXq7mFBA" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value="C:/ETL/config/Connections.xml"/>
+      <contextParameter comment="" internalId="_w83e2XRBEe-BtqwXq7mFBA" name="RutaSistema" prompt="RutaSistema?" promptNeeded="false" repositoryContextId="_AwRBkE3sEeauXo6wTxlmOg" type="id_String" value=""/>
+    </context>
+    <parameters>
+      <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" show="false" value="Info"/>
+      <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
+      <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" show="false" value="0"/>
+      <elementParameter field="TEXT" name="REPOSITORY_CONNECTION_ID" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_PROPERTY_TYPENAME" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_HADOOP_DISTRIBUTION" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_HADOOP_VERSION" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_ENABLE_KERBEROS" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_NAME_NODE_PRINCIPAL" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_USERNAME" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_GROUP" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_USE_KEYTAB" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_KT_PRINCIPAL" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_KEY_TAB" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_ENABLE_OO_KERBEROS" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_NAME_NODE_END_POINT" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_JOB_TRACKER_ENDPOINT" show="false" value=""/>
+      <elementParameter field="TEXT" name="OOZIE_END_POINT" show="false" value=""/>
+      <elementParameter field="CHECK" name="IMPLICITCONTEXT_USE_PROJECT_SETTINGS" show="false" value="false"/>
+      <elementParameter field="CHECK" name="STATANDLOG_USE_PROJECT_SETTINGS" show="false" value="false"/>
+      <elementParameter field="CHECK" name="MULTI_THREAD_EXECATION" show="false" value="false"/>
+      <elementParameter field="TEXT" name="PARALLELIZE_UNIT_SIZE" show="false" value="25000"/>
+      <elementParameter field="CHECK" name="STARTABLE" value="true"/>
+      <elementParameter field="ICON_SELECTION" name="ICONSELECTION" value=""/>
+      <elementParameter field="CHECK" name="IMPLICIT_TCONTEXTLOAD" show="false" value="false"/>
+      <elementParameter field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" show="false" value="false"/>
+      <elementParameter field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" show="false" value="false"/>
+      <elementParameter field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" show="false" value="&quot;C:/WSTL/ConsolidadosF5/in.csv&quot;"/>
+      <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;;&quot;"/>
+      <elementParameter field="CHECK" name="OVERRIDE_ENCODING_FLAG" show="false" value="false"/>
+      <elementParameter field="ENCODING_TYPE" name="OVERRIDE_ENCODING_IN_EXTRA" show="false" value="ISO-8859-15"/>
+      <elementParameter field="TECHNICAL" name="OVERRIDE_ENCODING_IN_EXTRA:ENCODING_TYPE" show="false" value="ISO-8859-15"/>
+      <elementParameter field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" show="false" value=""/>
+      <elementParameter field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" show="false" value="ORACLE_11"/>
+      <elementParameter field="TEXT" name="URL_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TABLE" name="DRIVER_JAR_IMPLICIT_CONTEXT" show="false"/>
+      <elementParameter field="TEXT" name="DRIVER_CLASS_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="HOST_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="PORT_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="DBNAME_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:Y8SniGaOHG+UkMyLrfj4ySGnJaVuXog+s77EsU3q"/>
+      <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
+      <elementParameter field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" show="false" value="Warning"/>
+      <elementParameter field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" show="false" value="Warning"/>
+      <elementParameter field="CHECK" name="PRINT_OPERATIONS" show="false" value="false"/>
+      <elementParameter field="CHECK" name="DISABLE_ERROR" show="false" value="false"/>
+      <elementParameter field="CHECK" name="DISABLE_WARNINGS" show="false" value="true"/>
+      <elementParameter field="CHECK" name="DISABLE_INFO" show="false" value="true"/>
+      <elementParameter field="TEXT" name="HEADERFOOTER_HEADERID" show="false" value=""/>
+      <elementParameter field="CHECK" name="HEADER_ENABLED" show="false" value="false"/>
+      <elementParameter field="TEXT" name="HEADER_LIBRARY" show="false" value=""/>
+      <elementParameter field="TEXT" name="HEADER_CODE" show="false" value=""/>
+      <elementParameter field="TEXT" name="HEADER_IMPORT" show="false" value=""/>
+      <elementParameter field="TEXT" name="HEADERFOOTER_FOOTERID" show="false" value=""/>
+      <elementParameter field="CHECK" name="FOOTER_ENABLED" show="false" value="false"/>
+      <elementParameter field="TEXT" name="FOOTER_LIBRARY" show="false" value=""/>
+      <elementParameter field="TEXT" name="FOOTER_CODE" show="false" value=""/>
+      <elementParameter field="TEXT" name="FOOTER_IMPORT" show="false" value=""/>
+      <routinesParameter id="_pJgHoB5OEemZSd940EKDgg" name="DataOperation"/>
+      <routinesParameter id="_pJpRkB5OEemZSd940EKDgg" name="Mathematical"/>
+      <routinesParameter id="_pJ8zkx5OEemZSd940EKDgg" name="Numeric"/>
+      <routinesParameter id="_pKPugB5OEemZSd940EKDgg" name="Relational"/>
+      <routinesParameter id="_pIKD0B5OEemZSd940EKDgg" name="SQLike"/>
+      <routinesParameter id="_pKPuhB5OEemZSd940EKDgg" name="StringHandling"/>
+      <routinesParameter id="_pKY4cB5OEemZSd940EKDgg" name="TalendDataGenerator"/>
+      <routinesParameter id="_pKipcB5OEemZSd940EKDgg" name="TalendDate"/>
+      <routinesParameter id="_pK1kYB5OEemZSd940EKDgg" name="TalendStringUtil"/>
+      <routinesParameter id="_pKsacB5OEemZSd940EKDgg" name="TalendString"/>
+      <routinesParameter id="__JukENhyEeidWJA8vmWa-Q" name="EncuestaPOI"/>
+      <routinesParameter id="_x-cVANvUEeinXLU3HDDBsw" name="stylesPOI"/>
+      <routinesParameter id="_gzlZ0MrYEeeKhLtyIwxaaQ" name="Utils"/>
+      <routinesParameter id="_TRRSwClUEempiOhgZCOWLg" name="SISPOI"/>
+    </parameters>
+    <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="256" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_1"/>
+      <elementParameter field="MEMO_JAVA" name="CODE" value="//////////////////////////////////////////////////////////////////////////////////&#10;// Guarda en variables de contexto algunas variables generales del consolidado //&#10;/////////////////////////////////////////////////////////////////////////////////&#10;context.ID = input_row.ID;&#10;context.SIGLA = input_row.SIGLA;&#10;context.MODULO = input_row.MODULO;&#10;context.NOMBRE_CONSOLIDADO = input_row.NOMBRE;&#10;context.USUARIO_SOLICITA = input_row.USUARIO;&#10;&#10;/////////////////////////////////////////////////////////////////&#10;//Obtiene los parámetros de los consolidados en un objeto JSON //&#10;////////////////////////////////////////////////////////////////&#10;JSONObject data = new JSONObject(input_row.FILTROS);&#10;&#10;&#10;/////////////////////////////////////////////////////////////////////////////&#10;//Guarda en variables de contexto los parámetros enviados en las solicitud //&#10;////////////////////////////////////////////////////////////////////////////&#10;switch  ( context.SIGLA ){&#10;case &quot;Test&quot;:&#10;&#9;try &#10;&#9;&#9;{&#10;&#9;&#9;&#9;context.PERIODO = data.getString(&quot;PERIODO&quot;);&#10;&#9;&#9;&#9;//context.FECHA_FINAL = data.getString(&quot;FECHA_FINAL&quot;);&#10;&#9;&#9;&#9;context.UORG_ID = data.getString(&quot;UORG_ID&quot;);&#10;&#9;&#9;&#9;context.FUERZA_ID = data.getString(&quot;FUERZA_ID&quot;);&#10;&#9;&#9;&#9;context.DEPTO = data.getString(&quot;DEPARTAMENTO&quot;);&#10;&#9;&#9;&#9;context.MCPIO = data.getString(&quot;MUNICIPIO&quot;);&#10;&#9;&#9;&#9;context.TIPO_ESQUEMA = data.getString(&quot;TIPO_ESQUEMA&quot;);&#9;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;}&#10;&#9;catch (Exception e) {&#10;&#9;&#9;System.err.println(&quot;Error parámetro no encontrado: &quot;+e.getMessage());&#10;&#9;}&#10;break;&#10;&#10;}&#10;&#10;&#10;/*System.out.println(&quot;context.FECHA_INICIAL: &quot; + context.FECHA_INICIAL);&#10;System.out.println(&quot;context.FECHA_FINAL: &quot; + context.FECHA_FINAL);&#10;System.out.println(&quot;context.UORG_ID: &quot; + context.UORG_ID);&#10;System.out.println(&quot;context.FUERZA_ID: &quot;+ context.FUERZA_ID);&#10;System.out.println(&quot;context.DEPTO: &quot; + context.DEPTO);&#10;System.out.println(&quot;context.MCPIO: &quot; + context.MCPIO);&#10;System.out.println(&quot;context.TIPO_ESQUEMA: &quot;+ context.TIPO_ESQUEMA);*/&#10;&#10;"/>
+      <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tJavaRow_1">
+        <column comment="" key="false" length="-1" name="FILTROS" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="SIGLA" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="MODULO" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="NOMBRE" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tPrejob" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="64">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPrejob_1"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    </node>
+    <node componentName="conection" componentVersion="0.1" offsetLabelX="0" offsetLabelY="0" posX="320" posY="64">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" value="conection_1"/>
+      <elementParameter field="TEXT" name="FAMILY" value="Joblets"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="true"/>
+      <elementParameter field="CHECK" name="DUMMY" show="false" value="false"/>
+      <elementParameter field="CHECK" name="STARTABLE" show="false" value="true"/>
+      <elementParameter field="CHECK" name="START" show="false" value="false"/>
+      <elementParameter field="CLOSED_LIST" name="PROCESS_TYPE_VERSION" value="Latest"/>
+      <elementParameter field="CLOSED_LIST" name="TRIGGER_INPUT_1" value="COMPONENT_OK"/>
+      <elementParameter field="COMPONENT_LIST" name="TRIGGER_INPUT_1:COMPONENT_LIST" value="tPrejob_1"/>
+      <elementParameter field="TEXT" name="LABEL" value="conection"/>
+      <elementParameter field="TEXT" name="HINT" value="&lt;b&gt;__UNIQUE_NAME__&lt;/b&gt;&lt;br&gt;__COMMENT__"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+      <elementParameter field="MEMO" name="COMMENT" value=""/>
+    </node>
+    <node componentName="tOracleInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="512" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tOracleInput_1"/>
+      <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" show="false" value="REPOSITORY"/>
+      <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_T3F7oA15Eeaataw4b4HYMw"/>
+      <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="true"/>
+      <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="conection_1_tOracleConnection_1"/>
+      <elementParameter field="CLOSED_LIST" name="CONNECTION_TYPE" show="false" value="ORACLE_SERVICE_NAME"/>
+      <elementParameter field="CLOSED_LIST" name="DB_VERSION" show="false" value="ORACLE_12"/>
+      <elementParameter field="TEXT" name="RAC_URL" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="HOST" show="false" value="context.db_origen_Server"/>
+      <elementParameter field="TEXT" name="TYPE" show="false" value="ORACLE_SERVICE_NAME"/>
+      <elementParameter field="TEXT" name="PORT" show="false" value="context.db_origen_Port"/>
+      <elementParameter field="TEXT" name="DBNAME" show="false" value="context.db_origen_ServiceName"/>
+      <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="context.db_origen_Schema"/>
+      <elementParameter field="TEXT" name="USER" show="false" value="context.db_origen_Login"/>
+      <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:mQ2HccH6UIDd7oUWfxGqvV4ttjtLxGpsjHmpWjS+0Bioy5AxzbheNS8YqutMpnFbxxzjco/L"/>
+      <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
+      <elementParameter field="DBTABLE" name="TABLE" value="Parámetros"/>
+      <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
+      <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
+      <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
+      <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
+      <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT &#13;&#10;NVL((SELECT UPPER(NOMBRE) AS NOMBRE FROM GEN_UORG WHERE ID = '&quot;+context.UORG_ID+&quot;' ), '- - -') AS ESM&#13;&#10;FROM DUAL &#13;&#10;&quot;"/>
+      <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
+      <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" show="false" value="false"/>
+      <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
+      <elementParameter field="MAPPING_TYPE" name="MAPPING" show="false" value="oracle_id"/>
+      <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.db_origen_AdditionalParams"/>
+      <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
+      <elementParameter field="CHECK" name="IS_CONVERT_XMLTYPE" value="false"/>
+      <elementParameter field="TABLE" name="CONVERT_XMLTYPE" show="false"/>
+      <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
+      <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" show="false" value="ISO-8859-15"/>
+      <elementParameter field="CHECK" name="USE_CURSOR" value="false"/>
+      <elementParameter field="TEXT" name="CURSOR_SIZE" show="false" value="1000"/>
+      <elementParameter field="CHECK" name="TRIM_ALL_COLUMN" value="false"/>
+      <elementParameter field="TABLE" name="TRIM_COLUMN">
+        <elementValue elementRef="SCHEMA_COLUMN" value="ESM"/>
+        <elementValue elementRef="TRIM" value="false"/>
+      </elementParameter>
+      <elementParameter field="CHECK" name="NO_NULL_VALUES" value="false"/>
+      <elementParameter field="TEXT" name="LABEL" value="__TABLE__"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tOracleInput_1">
+        <column comment="" key="false" length="2000" name="ESM" nullable="true" originalLength="-1" pattern="" precision="0" sourceType="VARCHAR2" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="736" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_2"/>
+      <elementParameter field="MEMO_JAVA" name="CODE" value="//////////////////////////////////////////////////////////////////////////////&#10;//Guarda en variables de contexto el nombre de los filtros de ESM y Fuerza ///&#10;//////////////////////////////////////////////////////////////////////////////&#10;context.UORG_NOMBRE = input_row.ESM;&#10;&#10;///////////////////////////////////////////////////////////////////////////////////////////////////////////////&#10;//Calcula y guarda en variables de contexto la fecha de realización y la fecha del titulo de los consolidados//&#10;///////////////////////////////////////////////////////////////////////////////////////////////////////////////&#10;context.FECHA_REALIZACION = TalendDate.getDate(&quot;DD-MM-YYYY HH:mm:ss&quot; );&#10;context.FECHA_TITULO = TalendDate.getDate(&quot;DD-MM-YYYY&quot;);&#10;&#10;////////////////////////////////////////////////////////////////////////////////////////////////////////////&#10;//Concatena la ruta donde se guardara el consolidado y la guarda en la variable de contexto carpeta_salida//&#10;////////////////////////////////////////////////////////////////////////////////////////////////////////////&#10;context.CARPETA_SALIDA = &quot;../../Storage/&quot;+context.MODULO+&quot;/&quot;+context.SIGLA;&#10;&#10;&#10;context.NOMBRE_CSV = context.ID +&quot;-&quot;+&quot;SIS151&quot;+&quot;-&quot;+context.FECHA_TITULO;&#10;context.NOMBRE_ZIP = context.ID +&quot;-&quot;+&quot;SIS 151&quot;+&quot;-&quot;+ context.FECHA_TITULO+&quot;.zip&quot;;&#10;&#10;&#10;&#10;&#10;SISPOI.initialize(context.CARPETA_SALIDA,context.NOMBRE_CSV,context.TIPO_ESQUEMA);&#10;SISPOI.Header_Satic();&#10;&#10;&#10;&#10;&#10;SISPOI.Finalize();&#13;&#10;"/>
+      <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;&#10;import java.io.BufferedWriter;&#10;import java.io.File;&#10;import java.io.FileWriter;&#10;import java.io.IOException;&#10;import java.io.FileOutputStream;&#10;import java.io.ObjectOutputStream;&#10;import java.io.OutputStreamWriter;"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tJavaRow_2">
+        <column comment="" key="false" length="2000" name="ESM" nullable="true" originalLength="-1" pattern="" precision="0" sourceType="VARCHAR2" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="500" name="DISAN" nullable="true" originalLength="-1" pattern="" precision="0" sourceType="VARCHAR2" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="ENCUESTA_NOMNRE" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR2" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="960" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_2"/>
+      <elementParameter field="TEXT" name="NB_ROWS" value="1"/>
+      <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
+      <elementParameter field="TABLE" name="VALUES">
+        <elementValue elementRef="SCHEMA_COLUMN" value="periodo"/>
+        <elementValue elementRef="VALUE" value="context.PERIODO"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="uorg_id_"/>
+        <elementValue elementRef="VALUE" value="context.UORG_ID"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="fuerza_id_"/>
+        <elementValue elementRef="VALUE" value="context.FUERZA_ID"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="coddepto_"/>
+        <elementValue elementRef="VALUE" value="context.DEPTO"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="codmcpio_"/>
+        <elementValue elementRef="VALUE" value="context.MCPIO"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="datos_"/>
+        <elementValue elementRef="VALUE" value=""/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="encabezado_"/>
+        <elementValue elementRef="VALUE" value=""/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="sproc_"/>
+        <elementValue elementRef="VALUE" value=""/>
+      </elementParameter>
+      <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
+      <elementParameter field="TABLE" name="INTABLE" show="false"/>
+      <elementParameter field="RADIO" name="USE_INLINECONTENT" value="false"/>
+      <elementParameter field="TEXT" name="ROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
+      <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;;&quot;"/>
+      <elementParameter field="MEMO" name="INLINECONTENT" show="false" value=""/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tFixedFlowInput_2">
+        <column comment="" key="false" length="-1" name="periodo" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="uorg_id_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="fuerza_id_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="coddepto_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="codmcpio_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="datos_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Object" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="encabezado_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Object" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="sproc_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tOracleSP" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="1088" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tOracleSP_1"/>
+      <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" show="false" value="REPOSITORY"/>
+      <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_j8_-EA4PEeaCYIlvHHZ7TQ"/>
+      <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="true"/>
+      <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="conection_1_tOracleConnection_1"/>
+      <elementParameter field="CLOSED_LIST" name="CONNECTION_TYPE" show="false" value="ORACLE_SERVICE_NAME"/>
+      <elementParameter field="CLOSED_LIST" name="DB_VERSION" show="false" value="ORACLE_12"/>
+      <elementParameter field="TEXT" name="RAC_URL" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="HOST" show="false" value="context.db_destino_Server"/>
+      <elementParameter field="TEXT" name="PORT" show="false" value="context.db_destino_Port"/>
+      <elementParameter field="TEXT" name="DBNAME" show="false" value="context.db_destino_ServiceName"/>
+      <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="context.db_destino_Schema"/>
+      <elementParameter field="TEXT" name="TYPE" show="false" value="ORACLE_SERVICE_NAME"/>
+      <elementParameter field="TEXT" name="USER" show="false" value="context.db_destino_Login"/>
+      <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:ArD1anH1sY4CaTj4oiK1Fkzx0ymvzsE632/owqmqEP+BQ+K8RdrYwQ4zswxp4D+3m5/Jt0+k3A=="/>
+      <elementParameter field="TEXT" name="SP_NAME" value="&quot;NUMA.GetContenidoSis&quot;"/>
+      <elementParameter field="CHECK" name="IS_FUNCTION" value="false"/>
+      <elementParameter field="COLUMN_LIST" name="RETURN" show="false" value="periodo"/>
+      <elementParameter field="CLOSED_LIST" name="RETURN_BDTYPE" show="false" value="AUTOMAPPING"/>
+      <elementParameter field="TABLE" name="SP_ARGS">
+        <elementValue elementRef="COLUMN" value="periodo"/>
+        <elementValue elementRef="TYPE" value="IN"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="uorg_id_"/>
+        <elementValue elementRef="TYPE" value="IN"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="fuerza_id_"/>
+        <elementValue elementRef="TYPE" value="IN"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="coddepto_"/>
+        <elementValue elementRef="TYPE" value="IN"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="codmcpio_"/>
+        <elementValue elementRef="TYPE" value="IN"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="datos_"/>
+        <elementValue elementRef="TYPE" value="RECORDSET"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="encabezado_"/>
+        <elementValue elementRef="TYPE" value="RECORDSET"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+        <elementValue elementRef="COLUMN" value="sproc_"/>
+        <elementValue elementRef="TYPE" value="OUT"/>
+        <elementValue elementRef="DBTYPE" value="AUTOMAPPING"/>
+        <elementValue elementRef="ISCUSTOME" value="false"/>
+        <elementValue elementRef="CUSTOME_TYPE" value="STRUCT"/>
+        <elementValue elementRef="CUSTOMENAME" value=""/>
+      </elementParameter>
+      <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
+      <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" show="false" value="false"/>
+      <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
+      <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.db_destino_AdditionalParams"/>
+      <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
+      <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
+      <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+      <elementParameter field="CLOSED_LIST" name="NLS_LANGUAGE" value="NONE"/>
+      <elementParameter field="CLOSED_LIST" name="NLS_TERRITORY" value="NONE"/>
+      <elementParameter field="TEXT" name="LABEL" value="GetFiltros"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tOracleSP_1">
+        <column comment="" key="false" length="-1" name="periodo" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="uorg_id_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="fuerza_id_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="coddepto_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="codmcpio_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="datos_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Object" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="encabezado_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Object" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="sproc_" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1120" posY="352">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_4"/>
+      <elementParameter field="MEMO_JAVA" name="CODE" value="// code sample:&#13;&#10;//&#13;&#10;// multiply by 2 the row identifier&#13;&#10;// output_row.id = input_row.id * 2;&#13;&#10;//&#13;&#10;// lowercase the name&#13;&#10;// output_row.name = input_row.name.toLowerCase();&#10;&#10;"/>
+      <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tJavaRow_4"/>
+    </node>
+    <node componentName="tFileArchive" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="288" posY="544">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileArchive_1"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+      <elementParameter field="DIRECTORY" name="SOURCE" value="context.CARPETA_SALIDA"/>
+      <elementParameter field="FILE" name="SOURCE_FILE" show="false" value="&quot;C:/Jaspersoft/6.3.1/studio/workspace/source.csv&quot;"/>
+      <elementParameter field="CHECK" name="SUB_DIRECTROY" value="true"/>
+      <elementParameter field="FILE" name="TARGET" value="context.CARPETA_SALIDA+&quot;/&quot;+context.NOMBRE_ZIP"/>
+      <elementParameter field="CHECK" name="MKDIR" value="false"/>
+      <elementParameter field="CLOSED_LIST" name="ARCHIVE_FORMAT" value="zip"/>
+      <elementParameter field="CLOSED_LIST" name="LEVEL" value="4"/>
+      <elementParameter field="CHECK" name="ALL_FILES" value="true"/>
+      <elementParameter field="TABLE" name="MASK" show="false"/>
+      <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;"/>
+      <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+      <elementParameter field="CHECK" name="OVERWRITE" value="true"/>
+      <elementParameter field="CHECK" name="ENCRYPT_FILES" value="false"/>
+      <elementParameter field="CLOSED_LIST" name="ENCRYPT_METHOD" show="false" value="ENC_METHOD_STANDARD"/>
+      <elementParameter field="CLOSED_LIST" name="AES_KEY_STRENGTH" show="false" value="AES_STRENGTH_256"/>
+      <elementParameter field="PASSWORD" name="PASSWORD" show="false" value="enc:system.encryption.key.v1:A+YqgIznZ4tsxsKjRrlfWOX7AHV6mi3Qrt4VBUJB"/>
+      <elementParameter field="CLOSED_LIST" name="ZIP64_MODE" value="ASNEEDED"/>
+      <elementParameter field="CHECK" name="USE_SYNC_FLUSH" show="false" value="false"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tFileArchive_1"/>
+    </node>
+    <node componentName="tFileDelete" componentVersion="0.102" offsetLabelX="-2" offsetLabelY="2" posX="480" posY="544">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileDelete_1"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+      <elementParameter field="FILE" name="FILENAME" value="context.CARPETA_SALIDA+&quot;/&quot;+context.NOMBRE_CSV+&quot;.xlsx&quot;"/>
+      <elementParameter field="DIRECTORY" name="DIRECTORY" show="false" value="&quot;C:/Jaspersoft/6.3.1/studio/workspace/delete_folder&quot;"/>
+      <elementParameter field="TEXT" name="PATH" show="false" value="&quot;C:/Jaspersoft/6.3.1/studio/workspace/delete_folder or delete_file&quot;"/>
+      <elementParameter field="CHECK" name="FAILON" value="true"/>
+      <elementParameter field="CHECK" name="FOLDER" value="false"/>
+      <elementParameter field="CHECK" name="FOLDER_FILE" value="false"/>
+      <elementParameter field="LABEL" name="NOTE" value="*Note &quot;CURRENT_STATUS&quot; including:&#10;&quot;File (or path) deleted.&quot;&#10;&quot;No file (or path) deleted.&quot;&#10;&quot;File (or path) does not exist or is invalid.&quot;"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tFileDelete_1"/>
+    </node>
+    <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="672" posY="544">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_1"/>
+      <elementParameter field="TEXT" name="NB_ROWS" value="1"/>
+      <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
+      <elementParameter field="TABLE" name="VALUES">
+        <elementValue elementRef="SCHEMA_COLUMN" value="CARPETA_SALIDA"/>
+        <elementValue elementRef="VALUE" value="context.CARPETA_SALIDA"/>
+      </elementParameter>
+      <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
+      <elementParameter field="TABLE" name="INTABLE" show="false"/>
+      <elementParameter field="RADIO" name="USE_INLINECONTENT" value="false"/>
+      <elementParameter field="TEXT" name="ROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
+      <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;;&quot;"/>
+      <elementParameter field="MEMO" name="INLINECONTENT" show="false" value=""/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tFixedFlowInput_1">
+        <column comment="" key="false" length="-1" name="CARPETA_SALIDA" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tPostjob" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="128" posY="544">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPostjob_1"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    </node>
+    <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1184" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_3"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+      <elementParameter field="MEMO_JAVA" name="CODE" value="//Code generate according to input schema and output schema&#13;&#10;output_row.ENCUESTA_ID = input_row.ENCUESTA_ID;&#13;&#10;output_row.UORG_ID = input_row.UORG_ID;&#13;&#10;output_row.FECHA_INICIAL = input_row.FECHA_INICIAL;&#13;&#10;output_row.FECHA_FINAL = input_row.FECHA_FINAL;&#13;&#10;output_row.COLUMNAS = input_row.COLUMNAS;&#13;&#10;output_row.CURSOR = input_row.CURSOR;&#13;&#10;output_row.SPROC = input_row.SPROC;&#13;&#10;&#10;stylesPOI.Init();&#10;EncuestaPOI.createHeader(output_row.COLUMNAS);&#10;&#10;&#10;//System.out.println(output_row.COLUMNAS);"/>
+      <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tJavaRow_3">
+        <column comment="" key="false" length="-1" name="ENCUESTA_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="UORG_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="FECHA_INICIAL" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="FECHA_FINAL" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="COLUMNAS" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="CURSOR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Object" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="SPROC" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tParseRecordSet" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="1312" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tParseRecordSet_1"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+      <elementParameter field="PREV_COLUMN_LIST" name="RECORDSET_FIELD" value="CURSOR"/>
+      <elementParameter field="TABLE" name="ATTRIBUTE_TABLE">
+        <elementValue elementRef="SCHEMA_COLUMN" value="PERSONAS_ID"/>
+        <elementValue elementRef="VALUE" value="&quot;PERSONAS_ID&quot;"/>
+        <elementValue elementRef="SCHEMA_COLUMN" value="DATOS_BASICOS"/>
+        <elementValue elementRef="VALUE" value="&quot;DATOS_BASICOS&quot;"/>
+      </elementParameter>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tParseRecordSet_1">
+        <column comment="" key="false" length="-1" name="PERSONAS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="DATOS_BASICOS" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <node componentName="tHashOutput" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1440" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tHashOutput_1"/>
+      <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+      <elementParameter field="CHECK" name="LINK_WITH" value="false"/>
+      <elementParameter field="COMPONENT_LIST" name="LIST" show="false" value=""/>
+      <elementParameter field="CLOSED_LIST" name="DATA_WRITE_MODEL" value="MEMORY"/>
+      <elementParameter field="FILE" name="BASE_FILE_PATH" show="false" value="&quot;C:/WSETL/Encuestas/in.hash&quot;"/>
+      <elementParameter field="TEXT" name="MEMORY_HEAP_MAX_SIZE" show="false" value="2"/>
+      <elementParameter field="CLOSED_LIST" name="KEYS_MANAGEMENT" value="KEEP_ALL"/>
+      <elementParameter field="CHECK" name="APPEND" value="true"/>
+      <elementParameter field="CHECK" name="HASH_KEY_FROM_INPUT_CONNECTOR" show="false" value="false"/>
+      <elementParameter field="TEXT" name="LABEL" value="DatosBasicos_IN"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <metadata connector="FLOW" name="tHashOutput_1">
+        <column comment="" key="false" length="-1" name="PERSONAS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="DATOS_BASICOS" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </node>
+    <connection connectorName="FLOW" label="row1" lineStyle="0" metaname="INPUT_1" offsetLabelX="0" offsetLabelY="0" source="INPUT_1" target="tJavaRow_1">
+      <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+        <elementValue elementRef="TRACE_COLUMN" value="USUARIO"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      </elementParameter>
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row1"/>
+    </connection>
+    <connection connectorName="RUN_IF" label="If" lineStyle="6" metaname="tJavaRow_1" offsetLabelX="0" offsetLabelY="0" source="tJavaRow_1" target="tOracleInput_1">
+      <elementParameter field="MEMO_JAVA" name="CONDITION" value="context.SIGLA.equals(&quot;Test&quot;) "/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="If1"/>
+    </connection>
+    <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tPrejob_1" offsetLabelX="0" offsetLabelY="0" source="tPrejob_1" target="conection_1">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk2"/>
+    </connection>
+    <connection connectorName="FLOW" label="row20" lineStyle="0" metaname="tOracleInput_1" offsetLabelX="0" offsetLabelY="0" source="tOracleInput_1" target="tJavaRow_2">
+      <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+        <elementValue elementRef="TRACE_COLUMN" value="TPLANAFILIACION"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="TCOTIZACION"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="ESPECIALIDAD"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="TIPO_USUARIO"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="GRUPO_EDAD"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="SEXO"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="DISAN"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="ENCUESTA"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      </elementParameter>
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row20"/>
+    </connection>
+    <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tJavaRow_2" offsetLabelX="0" offsetLabelY="0" source="tJavaRow_2" target="tFixedFlowInput_2">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk3"/>
+    </connection>
+    <connection connectorName="FLOW" label="row2" lineStyle="0" metaname="tFixedFlowInput_2" offsetLabelX="0" offsetLabelY="0" source="tFixedFlowInput_2" target="tOracleSP_1">
+      <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+        <elementValue elementRef="TRACE_COLUMN" value="codmcpio_"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="uorg_id_"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+        <elementValue elementRef="TRACE_COLUMN" value="encabezado_"/>
+        <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+        <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      </elementParameter>
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row2"/>
+    </connection>
+    <connection connectorName="FLOW" label="row15" lineStyle="0" metaname="tOracleSP_1" offsetLabelX="0" offsetLabelY="0" source="tOracleSP_1" target="tJavaRow_4">
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row15"/>
+    </connection>
+    <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tFileArchive_1" offsetLabelX="0" offsetLabelY="0" source="tFileArchive_1" target="tFileDelete_1">
+      <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk1"/>
+    </connection>
+    <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tFileDelete_1" offsetLabelX="0" offsetLabelY="0" source="tFileDelete_1" target="tFixedFlowInput_1">
+      <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk4"/>
+    </connection>
+    <connection connectorName="FLOW" label="row3" lineStyle="0" metaname="tFixedFlowInput_1" offsetLabelX="0" offsetLabelY="0" source="tFixedFlowInput_1" target="OUTPUT_1">
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row3"/>
+    </connection>
+    <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tPostjob_1" offsetLabelX="0" offsetLabelY="0" source="tPostjob_1" target="tFixedFlowInput_1">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk5"/>
+    </connection>
+    <connection connectorName="FLOW" label="row16" lineStyle="0" metaname="tJavaRow_3" offsetLabelX="6" offsetLabelY="2" source="tJavaRow_3" target="tParseRecordSet_1">
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row16"/>
+    </connection>
+    <connection connectorName="FLOW" label="row17" lineStyle="0" metaname="tParseRecordSet_1" offsetLabelX="0" offsetLabelY="0" source="tParseRecordSet_1" target="tHashOutput_1">
+      <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+      <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row17"/>
+    </connection>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="INPUT_1"/>
+      <elementParameter field="TEXT" name="SUBJOB_TITLE" value="Obtiene los filtros del consolidado"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPrejob_1"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="conection_1"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tOracleInput_1"/>
+      <elementParameter field="TEXT" name="SUBJOB_TITLE" value="Obtiene el nombre de los filtros y Genera el archivo con los encabezados"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_2"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileArchive_1"/>
+      <elementParameter field="TEXT" name="SUBJOB_TITLE" value="Comprime el archivo generado"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileDelete_1"/>
+      <elementParameter field="TEXT" name="SUBJOB_TITLE" value="Eliminar el archivo csv"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_1"/>
+      <elementParameter field="TEXT" name="SUBJOB_TITLE" value="Pasa al etl de consolidados la ruta donde se genero el consolidado"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPostjob_1"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
+    </subjob>
+    <subjob>
+      <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_3"/>
+      <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
+      <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+    </subjob>
+    <jobletNodes componentName="INPUT" componentVersion="0.1" input="true" offsetLabelX="0" offsetLabelY="0" posX="128" posY="256">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" value="INPUT_1"/>
+      <elementParameter field="CHECK" name="STARTABLE" show="false" value="true"/>
+      <elementParameter field="CHECK" name="START" show="false" value="true"/>
+      <elementParameter field="TEXT" name="LABEL" value="__UNIQUE_NAME__"/>
+      <elementParameter field="TEXT" name="HINT" value="&lt;b&gt;__UNIQUE_NAME__&lt;/b&gt;&lt;br&gt;__COMMENT__"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+      <elementParameter field="MEMO" name="COMMENT" value=""/>
+      <metadata connector="FLOW" name="INPUT_1">
+        <column comment="" key="false" length="-1" name="FILTROS" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="SIGLA" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="MODULO" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="NOMBRE" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+        <column comment="" key="false" length="-1" name="USUARIO" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </jobletNodes>
+    <jobletNodes componentName="OUTPUT" componentVersion="0.1" offsetLabelX="0" offsetLabelY="0" posX="832" posY="544">
+      <elementParameter field="TEXT" name="UNIQUE_NAME" value="OUTPUT_1"/>
+      <elementParameter field="CHECK" name="STARTABLE" show="false" value="false"/>
+      <elementParameter field="CHECK" name="START" show="false" value="false"/>
+      <elementParameter field="TEXT" name="LABEL" value="__UNIQUE_NAME__"/>
+      <elementParameter field="TEXT" name="HINT" value="&lt;b&gt;__UNIQUE_NAME__&lt;/b&gt;&lt;br&gt;__COMMENT__"/>
+      <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+      <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+      <elementParameter field="MEMO" name="COMMENT" value=""/>
+      <metadata connector="FLOW" name="OUTPUT_1">
+        <column comment="" key="false" length="-1" name="CARPETA_SALIDA" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      </metadata>
+    </jobletNodes>
+  </model:JobletProcess>
+  <TalendProperties:ByteArray/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_bfa8d830-5973-4514-a217-12b6ba9c6c0b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>1RaO4N8dxBL/Z0dbBRL7kOmQI90PFHsdvkNZK/O2IdgOwgi5JYXVRiRvIWoLe1cJXZGL2JJ2TXfK&#13;
+aVSOzbYCyQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_c65cc260-c123-4f00-8f76-569f7cdddb52"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>6+6R106SjkeZ9T8a0EOdjK/1+sujpwEeb/P2IV1t9Y5XS/GmoJTr3Pmo7ENxExJBTEtzJ2c/2qHK&#13;
+p9s361QoFQ==</DigestValue></Reference></SignedInfo><SignatureValue>VmWtLkUkzr4/L1AYz/f+8BbeAWdyF1rFvG+anaWegpexEX7KHYa0sQNfw7SRFWUeY9RCCGieMx1h&#13;
+ls3gIzapusY77kKrz76FsLnerXANSUcV3s0nlrHio4yXxX4rJky6fAsILEV423rTo1Hz9MX8Y5h5&#13;
+KNEZo46kUckSxRAG1CCGn5MC9g4rYH7oMjDmKiLMP+EezUJo3Udnr5ofxiW8jth+affApqK9T/kx&#13;
+WVIf02AteMBbcLv2udh/QWeMwMFUrzLveklMUkKnxnLO+eYpSa5YmlxPBLEl3AbUlHyTuIhqSZIR&#13;
+Ih7kvgAeMOED5Jn7OR/QDfBIsXbhKUbxXdlhZA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_c65cc260-c123-4f00-8f76-569f7cdddb52" Target="#_bfa8d830-5973-4514-a217-12b6ba9c6c0b"><Timestamp>2024-11-05 03:26:57</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

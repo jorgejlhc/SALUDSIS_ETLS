@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__RWo4IXaEeiYL4wWaHouUQ" id="__RM34IXaEeiYL4wWaHouUQ" label="ConsolidadosJoven" purpose="Genera los consolidados del modulo de adolescente y joven" description="Genera los archivos de los consolidados del modulo de adolescente y joven" version="0.6" statusCode="" item="__RWo4oXaEeiYL4wWaHouUQ" displayName="ConsolidadosJoven">
+    <author href="../talend.project#_F4bzMJslEe-S25Tfm-eTrA"/>
+    <additionalProperties xmi:id="_UqPbPXcZEeuzGKBU3EBJnQ" key="import_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbPncZEeuzGKBU3EBJnQ" key="import_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqPbP3cZEeuzGKBU3EBJnQ" key="import_date" value="2024-11-04T22:23:27.407-0500"/>
+    <additionalProperties xmi:id="_UqPbQHcZEeuzGKBU3EBJnQ" key="created_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbQXcZEeuzGKBU3EBJnQ" key="created_product_version" value="6.4.1.20170623_1246"/>
+    <additionalProperties xmi:id="_UqPbQncZEeuzGKBU3EBJnQ" key="created_date" value="2019-01-25T09:13:30.543-0500"/>
+    <additionalProperties xmi:id="_UqPbQ3cZEeuzGKBU3EBJnQ" key="modified_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbRHcZEeuzGKBU3EBJnQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqPbRXcZEeuzGKBU3EBJnQ" key="modified_date" value="2024-09-16T10:38:47.686-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Uxl_0JslEe-S25Tfm-eTrA" path=""/>
+  <TalendProperties:JobletProcessItem xmi:id="__RWo4oXaEeiYL4wWaHouUQ" property="__RWo4IXaEeiYL4wWaHouUQ" state="_Uxl_0JslEe-S25Tfm-eTrA">
+    <jobletProcess href="ConsolidadosJoven_0.6.item#/0"/>
+    <icon href="ConsolidadosJoven_0.6.item#/1"/>
+  </TalendProperties:JobletProcessItem>
+</xmi:XMI>

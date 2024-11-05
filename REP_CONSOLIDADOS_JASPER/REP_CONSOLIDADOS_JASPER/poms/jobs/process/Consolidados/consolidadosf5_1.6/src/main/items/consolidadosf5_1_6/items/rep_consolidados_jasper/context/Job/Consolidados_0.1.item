@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_UtIXAHcZEeuzGKBU3EBJnQ" xmi:version="2.0">
+  <contextParameter comment="" name="CLASIFICACION" prompt="CLASIFICACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null" xmi:id="_UtIXAXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null" xmi:id="_UtIXAncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null" xmi:id="_UtIXA3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ARCHIVOS_ID" prompt="ARCHIVOS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value="" xmi:id="_UtIXBHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="VINCULACION" prompt="VINCULACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null" xmi:id="_UtIXBXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ESM_REMITE" prompt="ESM_REMITE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null" xmi:id="_UtIXBncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="SIGLA" prompt="SIGLA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXB3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ID" prompt="ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value="" xmi:id="_UtIXCHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="USUARIO" prompt="USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXCXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ESQUEMA" prompt="ESQUEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXCncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FUERZA" prompt="FUERZA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXC3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="CIUDAD" prompt="CIUDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXDHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="DEPARTAMENTO" prompt="DEPARTAMENTO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXDXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="REGIONAL" prompt="REGIONAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXDncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="EDAD_INICIAL" prompt="EDAD_INICIAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXD3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="EDAD_FINAL" prompt="EDAD_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXEHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="NOMBRE_CONSOLIDADO" prompt="NOMBRE_CONSOLIDADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXEXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="CARPETA_SALIDA" prompt="CARPETA_SALIDA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Out" xmi:id="_UtIXEncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="CARPETA_TEMPORAL" prompt="CARPETA_TEMPORAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/tmp" xmi:id="_UtIXE3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_HORA_FINAL_EJECUCION" prompt="FECHA_HORA_FINAL_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value="" xmi:id="_UtIXFHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_HORA_INICIO_EJECUCION" prompt="FECHA_HORA_INICIO_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value="" xmi:id="_UtIXFXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXFncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="CODIGO_FORMATO" prompt="CODIGO_FORMATO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="20" xmi:id="_UtIXF3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FUERZA_ID" prompt="FUERZA_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXGHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="CONSULTA" prompt="CONSULTA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXGXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="NOMBRE_CSV" prompt="NOMBRE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXGncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="NOMBRE_ZIP" prompt="NOMBRE_ZIP?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXG3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_REALIZACION" prompt="FECHA_REALIZACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXHHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FECHA_TITULO" prompt="FECHA_TITULO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXHXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ENCABEZADOS" prompt="ENCABEZADOS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXHncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="MODULO" prompt="MODULO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXH3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="GE_VALOR_MENOR" prompt="GE_VALOR_MENOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXIHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="GRUPO_EDAD" prompt="GRUPO_EDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXIXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ESPECIALIDAD" prompt="ESPECIALIDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXIncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ESM_USUARIO" prompt="ESM_USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXI3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="ESPECIALIDAD_ID" prompt="ESPECIALIDAD_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXJHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="SEXO" prompt="SEXO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXJXcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FUERZA_NOMBRE" prompt="FUERZA_NOMBRE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXJncZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="TIPO_USUARIO" prompt="TIPO_USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXJ3cZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="FILTROS" prompt="FILTROS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXKHcZEeuzGKBU3EBJnQ"/>
+  <contextParameter comment="" name="USUARIO_SOLICITA" prompt="USUARIO_SOLICITA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_UtIXKXcZEeuzGKBU3EBJnQ"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_c4b4f1dc-157f-42fa-8a0b-1b6ab3dd834a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>f2rHMww+TSWZg8bI9EiiHXMMNbSOVqb3deSELHGP+05WZuHgQmEjynPc84papApLsjM1P0gf9TxC&#13;
+IkfzhKsN8w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_499d93c0-d424-450f-9ae7-fa28c85f3246"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>wUumf8p8lEkECLUAb758+TCBegxoEoWtVp66UXQIpFlbFwvNsEUiar7WPWWl4dnLrXt5h6AdtnZs&#13;
+upnWCwoZzg==</DigestValue></Reference></SignedInfo><SignatureValue>ClIaXpDlgi/JJeY5hSOPaI1NVBI9lDVq4jG6jgyxBkCPbthsGdl6q4OovUwCRdjaeb/XihCu3/O4&#13;
+A0689Kavu2PEEPspLGZy2h7zdqWGClh7ygvUHajZbonxiZ/jgMvu2t1T9L4SGwi002i7yzVcw0GE&#13;
+OJifDMeJTDkNJDtf2BO9hgCGNgSk9Ql154PBPSQV2lmcduaGcIHJriHGAHiqqwqE/skDBoNdCD9i&#13;
+R9ZmxR3TVkBAr21rQdlB4of99OCvYNzRF9fi6CjirzI+4Am4l8FcpZV+loK+ftT1cr54AdkzWuug&#13;
+BdwAlwNCYHDJoKjHbn3hDxOI0V3oBYei0lJpaA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_499d93c0-d424-450f-9ae7-fa28c85f3246" Target="#_c4b4f1dc-157f-42fa-8a0b-1b6ab3dd834a"><Timestamp>2024-11-05 03:26:58</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>

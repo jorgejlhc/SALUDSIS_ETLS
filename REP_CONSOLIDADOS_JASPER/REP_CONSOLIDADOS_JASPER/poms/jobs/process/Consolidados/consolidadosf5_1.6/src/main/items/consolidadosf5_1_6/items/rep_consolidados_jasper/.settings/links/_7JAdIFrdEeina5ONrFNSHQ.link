@@ -1,0 +1,17 @@
+{
+  "itemId" : "_7JAdIFrdEeina5ONrFNSHQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_Us6UnXcZEeuzGKBU3EBJnQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_Us6Un3cZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_Us6UlncZEeuzGKBU3EBJnQ",
+      "name" : "HORA_FINAL"
+    } ]
+  } ]
+}

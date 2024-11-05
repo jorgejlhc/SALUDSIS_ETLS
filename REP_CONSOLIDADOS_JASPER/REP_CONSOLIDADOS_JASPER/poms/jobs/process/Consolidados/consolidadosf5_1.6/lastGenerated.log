@@ -1,0 +1,76 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Jaspersoft/8.0.1/studio/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/jars/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [file:/C:/Jaspersoft/8.0.1/studio/configuration/org.eclipse.osgi/1181/0/.cp/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------< org.example.rep_consolidados_jasper.job:ConsolidadosF5 >-------
+[INFO] Building REP_CONSOLIDADOS_JASPER ConsolidadosF5-1.6.0 (1.6,Job Designs) 1.6.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.talend.components:talendcsv:jar:1.0.0 is missing, no dependency information available
+[INFO] 
+[INFO] --- builder-maven-plugin:8.0.1:generate (default) @ ConsolidadosF5 ---
+[INFO] Skipping ci-builder
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ ConsolidadosF5 ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ ConsolidadosF5 ---
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ ConsolidadosF5 ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ ConsolidadosF5 ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ ConsolidadosF5 ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ ConsolidadosF5 ---
+[INFO] Building jar: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_CONSOLIDADOS_JASPER\REP_CONSOLIDADOS_JASPER\poms\jobs\process\Consolidados\consolidadosf5_1.6\target\consolidadosf5_1_6.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ ConsolidadosF5 ---
+[INFO] Reading assembly descriptor: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_CONSOLIDADOS_JASPER\REP_CONSOLIDADOS_JASPER\poms\jobs\process\Consolidados\consolidadosf5_1.6/src/main/assemblies/assembly.xml
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[WARNING] Missing POM for org.talend.components:talendcsv:jar:1.0.0
+[INFO] Building zip: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_CONSOLIDADOS_JASPER\REP_CONSOLIDADOS_JASPER\poms\jobs\process\Consolidados\consolidadosf5_1.6\target\consolidadosf5_1_6.zip
+[INFO] 
+[INFO] --- signer-maven-plugin:8.0.1:sign (sign) @ ConsolidadosF5 ---
+[INFO] Start to sign the job artifact
+[INFO] Start to sign artifact, the source file is consolidadosf5_1_6.zip and target file is consolidadosf5_1_6_sign_.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.856 s
+[INFO] Finished at: 2024-11-04T22:51:55-05:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.talend.ci:signer-maven-plugin:8.0.1:sign (sign) on project ConsolidadosF5: Execution sign of goal org.talend.ci:signer-maven-plugin:8.0.1:sign failed: An API incompatibility was encountered while executing org.talend.ci:signer-maven-plugin:8.0.1:sign: java.lang.NoSuchMethodError: 'void sun.security.pkcs.PKCS7.encodeSignedData(java.io.OutputStream)'
+[ERROR] -----------------------------------------------------
+[ERROR] realm =    plugin>org.talend.ci:signer-maven-plugin:8.0.1
+[ERROR] strategy = org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy
+[ERROR] urls[0] = file:/C:/Jaspersoft/8.0.1/studio/configuration/.m2/repository/org/talend/ci/signer-maven-plugin/8.0.1/signer-maven-plugin-8.0.1.jar
+[ERROR] urls[1] = file:/C:/Jaspersoft/8.0.1/studio/configuration/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+[ERROR] urls[2] = file:/C:/Jaspersoft/8.0.1/studio/configuration/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+[ERROR] urls[3] = file:/C:/Jaspersoft/8.0.1/studio/configuration/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar
+[ERROR] urls[4] = file:/C:/Jaspersoft/8.0.1/studio/configuration/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+[ERROR] Number of foreign imports: 1
+[ERROR] import: Entry[import  from realm ClassRealm[maven.api, parent: null]]
+[ERROR] 
+[ERROR] -----------------------------------------------------
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginContainerException

@@ -1,0 +1,8 @@
+CLOSE_EDITORS_ON_EXIT=true
+PREFERENCE_TALEND_LOGON_STARTUP_TIMES=2
+eclipse.preferences.version=1
+lastUSedProject=REP_CONSOLIDADOS_JASPER
+last_started_project_type=DI
+logonDialog.alwaysAskMeAtStartUp=true
+showIntro=true
+workspaceTasksDone=org.talend.amc.plugin.migration.UnifyPasswordEncryption4AmcConnectionMigrationTask|org.talend.core.InitConnectionsMigrationTask|org.talend.core.EmptyConnectionsMigrationTask|org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference|org.talend.designer.publish.di.migration.PublishEncrytPasswordMigrationTask|org.talend.designer.runprocess.migrationtask.changeClasspath|org.talend.designer.runprocess.maven.ChangeCodeProjectClasspathMigrationTask2|org.talend.designer.runprocess.remote.migration.JobServerPasswordPreferenceMigrationTask|org.talend.migrationTool.InitWorkspaceMigrationTask|org.talend.repository.model.migration.ChangeProjectTechinicalName

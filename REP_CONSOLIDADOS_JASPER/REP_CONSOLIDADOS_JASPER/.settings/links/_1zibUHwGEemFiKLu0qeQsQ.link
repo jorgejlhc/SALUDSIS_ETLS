@@ -1,0 +1,207 @@
+{
+  "itemId" : "_1zibUHwGEemFiKLu0qeQsQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_UrkQxncZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_UrkQw3cZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_UrkQwncZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_UrkQx3cZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_UrkQxHcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_UrkQwXcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_UrkQxXcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_36k0sCQ-EeeVz_poch4AoA",
+    "parameterList" : [ {
+      "id" : "_UtIXBHcZEeuzGKBU3EBJnQ",
+      "name" : "ARCHIVOS_ID"
+    }, {
+      "id" : "_UtIXEncZEeuzGKBU3EBJnQ",
+      "name" : "CARPETA_SALIDA"
+    }, {
+      "id" : "_UtIXE3cZEeuzGKBU3EBJnQ",
+      "name" : "CARPETA_TEMPORAL"
+    }, {
+      "id" : "_UtIXDHcZEeuzGKBU3EBJnQ",
+      "name" : "CIUDAD"
+    }, {
+      "id" : "_UtIXAXcZEeuzGKBU3EBJnQ",
+      "name" : "CLASIFICACION"
+    }, {
+      "id" : "_UtIXF3cZEeuzGKBU3EBJnQ",
+      "name" : "CODIGO_FORMATO"
+    }, {
+      "id" : "_UtIXGXcZEeuzGKBU3EBJnQ",
+      "name" : "CONSULTA"
+    }, {
+      "id" : "_UtIXDXcZEeuzGKBU3EBJnQ",
+      "name" : "DEPARTAMENTO"
+    }, {
+      "id" : "_UtIXEHcZEeuzGKBU3EBJnQ",
+      "name" : "EDAD_FINAL"
+    }, {
+      "id" : "_UtIXD3cZEeuzGKBU3EBJnQ",
+      "name" : "EDAD_INICIAL"
+    }, {
+      "id" : "_UtIXHncZEeuzGKBU3EBJnQ",
+      "name" : "ENCABEZADOS"
+    }, {
+      "id" : "_UtIXBncZEeuzGKBU3EBJnQ",
+      "name" : "ESM_REMITE"
+    }, {
+      "id" : "_UtIXI3cZEeuzGKBU3EBJnQ",
+      "name" : "ESM_USUARIO"
+    }, {
+      "id" : "_UtIXIncZEeuzGKBU3EBJnQ",
+      "name" : "ESPECIALIDAD"
+    }, {
+      "id" : "_UtIXJHcZEeuzGKBU3EBJnQ",
+      "name" : "ESPECIALIDAD_ID"
+    }, {
+      "id" : "_UtIXCncZEeuzGKBU3EBJnQ",
+      "name" : "ESQUEMA"
+    }, {
+      "id" : "_UtIXA3cZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_UtIXFHcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_HORA_FINAL_EJECUCION"
+    }, {
+      "id" : "_UtIXFXcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_HORA_INICIO_EJECUCION"
+    }, {
+      "id" : "_UtIXAncZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_UtIXHHcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_REALIZACION"
+    }, {
+      "id" : "_UtIXFncZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_UtIXHXcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_TITULO"
+    }, {
+      "id" : "_UtIXKHcZEeuzGKBU3EBJnQ",
+      "name" : "FILTROS"
+    }, {
+      "id" : "_UtIXC3cZEeuzGKBU3EBJnQ",
+      "name" : "FUERZA"
+    }, {
+      "id" : "_UtIXJncZEeuzGKBU3EBJnQ",
+      "name" : "FUERZA_NOMBRE"
+    }, {
+      "id" : "_UtIXIHcZEeuzGKBU3EBJnQ",
+      "name" : "GE_VALOR_MENOR"
+    }, {
+      "id" : "_UtIXIXcZEeuzGKBU3EBJnQ",
+      "name" : "GRUPO_EDAD"
+    }, {
+      "id" : "_UtIXCHcZEeuzGKBU3EBJnQ",
+      "name" : "ID"
+    }, {
+      "id" : "_UtIXH3cZEeuzGKBU3EBJnQ",
+      "name" : "MODULO"
+    }, {
+      "id" : "_UtIXEXcZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_CONSOLIDADO"
+    }, {
+      "id" : "_UtIXGncZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_CSV"
+    }, {
+      "id" : "_UtIXG3cZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_ZIP"
+    }, {
+      "id" : "_UtIXDncZEeuzGKBU3EBJnQ",
+      "name" : "REGIONAL"
+    }, {
+      "id" : "_UtIXJXcZEeuzGKBU3EBJnQ",
+      "name" : "SEXO"
+    }, {
+      "id" : "_UtIXB3cZEeuzGKBU3EBJnQ",
+      "name" : "SIGLA"
+    }, {
+      "id" : "_UtIXJ3cZEeuzGKBU3EBJnQ",
+      "name" : "TIPO_USUARIO"
+    }, {
+      "id" : "_UtIXCXcZEeuzGKBU3EBJnQ",
+      "name" : "USUARIO"
+    }, {
+      "id" : "_UtIXKXcZEeuzGKBU3EBJnQ",
+      "name" : "USUARIO_SOLICITA"
+    }, {
+      "id" : "_UtIXBXcZEeuzGKBU3EBJnQ",
+      "name" : "VINCULACION"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_UsPmN3cZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_UsPmMncZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_UsPmMXcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_UsPmNncZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_UsPmM3cZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_UsPmNHcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_UsPmNXcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_qFfN4HwIEemFiKLu0qeQsQ",
+    "parameterList" : [ {
+      "id" : "_UtlC8ncZEeuzGKBU3EBJnQ",
+      "name" : "FUERZA_ID"
+    }, {
+      "id" : "_UtlC9HcZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_UORG"
+    }, {
+      "id" : "_UtlC8XcZEeuzGKBU3EBJnQ",
+      "name" : "PERIODO"
+    }, {
+      "id" : "_UtlC83cZEeuzGKBU3EBJnQ",
+      "name" : "UORG_ID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_Us6Um3cZEeuzGKBU3EBJnQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_Us6UmncZEeuzGKBU3EBJnQ",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_Us6UoHcZEeuzGKBU3EBJnQ",
+      "name" : "RutaSistema"
+    } ]
+  } ]
+}

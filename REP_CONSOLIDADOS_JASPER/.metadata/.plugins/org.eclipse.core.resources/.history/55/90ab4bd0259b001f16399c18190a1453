@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_lfT0EFodEei5zez5Y4acfg" id="_lfSl8FodEei5zez5Y4acfg" label="FormatosAmbiental" version="0.4" statusCode="" item="_lfT0ElodEei5zez5Y4acfg" displayName="FormatosAmbiental">
+    <author href="../talend.project#_F4bzMJslEe-S25Tfm-eTrA"/>
+    <additionalProperties xmi:id="_UqPbRncZEeuzGKBU3EBJnQ" key="import_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbR3cZEeuzGKBU3EBJnQ" key="import_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqPbSHcZEeuzGKBU3EBJnQ" key="import_date" value="2024-11-04T22:23:27.407-0500"/>
+    <additionalProperties xmi:id="_UqPbSXcZEeuzGKBU3EBJnQ" key="created_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbSncZEeuzGKBU3EBJnQ" key="created_product_version" value="6.4.1.20170623_1246"/>
+    <additionalProperties xmi:id="_UqPbS3cZEeuzGKBU3EBJnQ" key="created_date" value="2019-03-11T09:19:35.406-0500"/>
+    <additionalProperties xmi:id="_UqPbTHcZEeuzGKBU3EBJnQ" key="modified_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqPbTXcZEeuzGKBU3EBJnQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_UqPbTncZEeuzGKBU3EBJnQ" key="modified_date" value="2021-10-07T12:23:51.499-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_UyfXsJslEe-S25Tfm-eTrA" path=""/>
+  <TalendProperties:JobletProcessItem xmi:id="_lfT0ElodEei5zez5Y4acfg" property="_lfT0EFodEei5zez5Y4acfg" state="_UyfXsJslEe-S25Tfm-eTrA">
+    <jobletProcess href="FormatosAmbiental_0.4.item#/0"/>
+    <icon href="FormatosAmbiental_0.4.item#/1"/>
+  </TalendProperties:JobletProcessItem>
+</xmi:XMI>

@@ -1,0 +1,126 @@
+{
+  "itemId" : "_q1d_sICZEei01buFkXBmsQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_UrkQxncZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_UrkQw3cZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_UrkQwncZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_UrkQx3cZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_UrkQxHcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_UrkQwXcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_UrkQxXcZEeuzGKBU3EBJnQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_36k0sCQ-EeeVz_poch4AoA",
+    "parameterList" : [ {
+      "id" : "_UtIXEncZEeuzGKBU3EBJnQ",
+      "name" : "CARPETA_SALIDA"
+    }, {
+      "id" : "_UtIXHHcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_REALIZACION"
+    }, {
+      "id" : "_UtIXHXcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_TITULO"
+    }, {
+      "id" : "_UtIXCHcZEeuzGKBU3EBJnQ",
+      "name" : "ID"
+    }, {
+      "id" : "_UtIXH3cZEeuzGKBU3EBJnQ",
+      "name" : "MODULO"
+    }, {
+      "id" : "_UtIXEXcZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_CONSOLIDADO"
+    }, {
+      "id" : "_UtIXGncZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_CSV"
+    }, {
+      "id" : "_UtIXG3cZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_ZIP"
+    }, {
+      "id" : "_UtIXB3cZEeuzGKBU3EBJnQ",
+      "name" : "SIGLA"
+    }, {
+      "id" : "_UtIXKXcZEeuzGKBU3EBJnQ",
+      "name" : "USUARIO_SOLICITA"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_UsPmN3cZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_UsPmMncZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_UsPmMXcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_UsPmNncZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_UsPmM3cZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_UsPmNHcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_UsPmNXcZEeuzGKBU3EBJnQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_O1EL0ICgEei01buFkXBmsQ",
+    "parameterList" : [ {
+      "id" : "_UuvglXcZEeuzGKBU3EBJnQ",
+      "name" : "DISAN_ID"
+    }, {
+      "id" : "_UuvgkncZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_UuvgkXcZEeuzGKBU3EBJnQ",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_Uuvgl3cZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_FUERZA"
+    }, {
+      "id" : "_UuvglncZEeuzGKBU3EBJnQ",
+      "name" : "NOMBRE_UORG"
+    }, {
+      "id" : "_Uuvgk3cZEeuzGKBU3EBJnQ",
+      "name" : "UORG_ID"
+    }, {
+      "id" : "_UuvglHcZEeuzGKBU3EBJnQ",
+      "name" : "UORG_INGRESO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_Us6Um3cZEeuzGKBU3EBJnQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_Us6UmncZEeuzGKBU3EBJnQ",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_Us6UoHcZEeuzGKBU3EBJnQ",
+      "name" : "RutaSistema"
+    } ]
+  } ]
+}

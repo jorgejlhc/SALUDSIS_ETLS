@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zSxOMw4PEeaCYIlvHHZ7TQ" id="_j8_-EA4PEeaCYIlvHHZ7TQ" label="db_destino" version="0.1" statusCode="" item="_zSxONQ4PEeaCYIlvHHZ7TQ" displayName="db_destino">
+    <author href="../../talend.project#_F4bzMJslEe-S25Tfm-eTrA"/>
+    <additionalProperties xmi:id="_UqQpr3cZEeuzGKBU3EBJnQ" key="import_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQpsHcZEeuzGKBU3EBJnQ" key="import_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqQpsXcZEeuzGKBU3EBJnQ" key="import_date" value="2024-11-04T22:23:27.407-0500"/>
+    <additionalProperties xmi:id="_UqQpsncZEeuzGKBU3EBJnQ" key="created_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQps3cZEeuzGKBU3EBJnQ" key="created_product_version" value="6.4.1.20170623_1246"/>
+    <additionalProperties xmi:id="_UqQptHcZEeuzGKBU3EBJnQ" key="created_date" value="2016-04-29T08:39:31.090-0500"/>
+    <additionalProperties xmi:id="_UqQptXcZEeuzGKBU3EBJnQ" key="modified_product_fullname" value="TIBCO Jaspersoft ETL"/>
+    <additionalProperties xmi:id="_UqQptncZEeuzGKBU3EBJnQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_UqQpt3cZEeuzGKBU3EBJnQ" key="modified_date" value="2024-11-04T22:28:52.492-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_U5ySgJslEe-S25Tfm-eTrA" path="" locked="true" lockDate="2024-11-04T22:27:13.081-0500">
+    <locker href="../../talend.project#_F4bzMJslEe-S25Tfm-eTrA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_zSxONQ4PEeaCYIlvHHZ7TQ" property="_zSxOMw4PEeaCYIlvHHZ7TQ" state="_U5ySgJslEe-S25Tfm-eTrA" typeName="Oracle with service name">
+    <connection href="db_destino_0.1.item#_zSxOMA4PEeaCYIlvHHZ7TQ"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>
