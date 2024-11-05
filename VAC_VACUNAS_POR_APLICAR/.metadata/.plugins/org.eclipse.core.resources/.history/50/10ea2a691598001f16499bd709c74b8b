@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_RUEaoMfIEeaVi9aFvxpG-A" id="_RT-UAMfIEeaVi9aFvxpG-A" label="VacunasxAplicar" version="0.4" statusCode="" item="_RUEaosfIEeaVi9aFvxpG-A" displayName="VacunasxAplicar">
+    <author href="../../talend.project#_EXeXAJgVEe-eXvp1QtBJuQ"/>
+    <additionalProperties xmi:id="_ODa34JgVEe-eXvp1QtBJuQ" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_ODa34ZgVEe-eXvp1QtBJuQ" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_ODa34pgVEe-eXvp1QtBJuQ" key="created_date" value="2024-11-01T00:50:37.662-0500"/>
+    <additionalProperties xmi:id="_ODa345gVEe-eXvp1QtBJuQ" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_ODa35JgVEe-eXvp1QtBJuQ" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_ODa35ZgVEe-eXvp1QtBJuQ" key="modified_date" value="2024-11-01T00:50:37.662-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_OCzM0JgVEe-eXvp1QtBJuQ" path="VAC"/>
+  <TalendProperties:ProcessItem xmi:id="_RUEaosfIEeaVi9aFvxpG-A" property="_RUEaoMfIEeaVi9aFvxpG-A" state="_OCzM0JgVEe-eXvp1QtBJuQ">
+    <process href="VacunasxAplicar_0.4.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

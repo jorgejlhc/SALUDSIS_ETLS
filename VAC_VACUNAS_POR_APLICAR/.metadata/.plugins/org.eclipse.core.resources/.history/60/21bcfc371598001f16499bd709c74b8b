@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_qe3p0GWmEeu9NsZac5Lxgw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_qe3p0WWmEeu9NsZac5Lxgw" comment="" name="mail_To" prompt="mail_To?" promptNeeded="false" type="id_String" value="wbeltran@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_qe3p0mWmEeu9NsZac5Lxgw" comment="" name="mail_From" prompt="mail_From?" promptNeeded="false" type="id_String" value="wbeltran@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_qe3p02WmEeu9NsZac5Lxgw" comment="" name="mail_Sendername" prompt="mail_Sendername?" promptNeeded="false" type="id_String" value="Soporte codaltec"/>
+  <contextParameter xmi:id="_qe3p1GWmEeu9NsZac5Lxgw" comment="" name="mail_Subject" prompt="mail_Subject?" promptNeeded="false" type="id_String" value="Error al ejecutar Job"/>
+  <contextParameter xmi:id="_qe3p1WWmEeu9NsZac5Lxgw" comment="" name="mail_Message" prompt="mail_Message?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qe3p1mWmEeu9NsZac5Lxgw" comment="" name="mail_SMTP_Host" prompt="mail_SMTP_Host?" promptNeeded="false" type="id_String" value="box875.bluehost.com"/>
+  <contextParameter xmi:id="_qe3p12WmEeu9NsZac5Lxgw" comment="" name="mail_SMTP_Port" prompt="mail_SMTP_Port?" promptNeeded="false" type="id_String" value="465"/>
+  <contextParameter xmi:id="_qe3p2GWmEeu9NsZac5Lxgw" comment="" name="mail_User" prompt="mail_User?" promptNeeded="false" type="id_String" value="wbeltran@vertical.codaltec.com"/>
+  <contextParameter xmi:id="_qe3p2WWmEeu9NsZac5Lxgw" comment="" name="mail_Password" prompt="mail_Password?" promptNeeded="false" type="id_Password" value="58Ds4fywV2esbm5kTCIalA=="/>
+  <contextParameter xmi:id="_qe3p2mWmEeu9NsZac5Lxgw" comment="" name="SMTPHost" prompt="SMTPHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qe3p22WmEeu9NsZac5Lxgw" comment="" name="SMTPPort" prompt="SMTPPort?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qe3p3GWmEeu9NsZac5Lxgw" comment="" name="UsernameMail" prompt="UsernameMail?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qe3p3WWmEeu9NsZac5Lxgw" comment="" name="PasswordMail" prompt="PasswordMail?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qe3p3mWmEeu9NsZac5Lxgw" comment="" name="mail_content" prompt="mail_content?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

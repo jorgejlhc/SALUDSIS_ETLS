@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010">
+  <TalendMetadata:DatabaseConnection xmi:id="_jDPiwLcMEeaFsNRJHzruaA" name="db_origen" id="_8DjbALcLEeaFsNRJHzruaA" label="db_origen" dataPackage="_cRVcAEIzEee3ZIRd-e_nAA" ContextMode="true" ContextId="_55m2ENwlEeahLsyrBlJknw" contextName="Default" DatabaseType="Oracle with service name" DriverJarPath="" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@(description=(address=(protocol=tcp)(host=172.20.19.177)(port=1521))(connect_data=(service_name=PDBDEVPRO)))" dbVersionString="ORACLE_12" Port="context.db_origen_Port" Username="context.db_origen_Login" Password="context.db_origen_Password" ServerName="context.db_origen_Server" DatasourceName="" FileFieldName="" SID="context.db_origen_ServiceName" SqlSynthax="Sintaxis SQL" DbmsId="oracle_id" ProductId="ORACLE" DBRootPath="" AdditionalParams="context.db_origen_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.db_origen_Schema" supportNLS="false">
+    <taggedValue xmi:id="_jDQJ0LcMEeaFsNRJHzruaA" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_jDYssLcMEeaFsNRJHzruaA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_jE5IkLcMEeaFsNRJHzruaA" tag="Status" value=""/>
+    <taggedValue xmi:id="_jE5IkbcMEeaFsNRJHzruaA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_jE5IkrcMEeaFsNRJHzruaA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_jE5Ik7cMEeaFsNRJHzruaA" tag="Description" value=""/>
+    <taggedValue xmi:id="_jE5IlLcMEeaFsNRJHzruaA" tag="Author" value=""/>
+    <taggedValue xmi:id="_jE5IlbcMEeaFsNRJHzruaA" tag="otherParameter"/>
+    <taggedValue xmi:id="_jFsZ0LcMEeaFsNRJHzruaA" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_jFsZ0bcMEeaFsNRJHzruaA" tag="DB ProductVersion" value="Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#xA;With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options"/>
+    <taggedValue xmi:id="_jFsZ0rcMEeaFsNRJHzruaA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_qL6SUHheEeeGeLbXtlKRHw" key="CONN_PARA_KEY_USERNAME" value="context.db_origen_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_cRVcAEIzEee3ZIRd-e_nAA" name="SALUDSIS" dataManager="_jDPiwLcMEeaFsNRJHzruaA">
+    <ownedElement xsi:type="relational:TdTable" xmi:id="_cRVcAUIzEee3ZIRd-e_nAA" name="GEN_TDOCUMENTOS" id="_YMe78EIyEee3ZIRd-e_nAA" comment="Almacena los tipos de documentos." label="GEN_TDOCUMENTOS" tableType="TABLE">
+      <taggedValue xmi:id="_cRVcAkIzEee3ZIRd-e_nAA" tag="Comment" value="Almacena los tipos de documentos."/>
+      <taggedValue xmi:id="_cRVcA0IzEee3ZIRd-e_nAA" tag="Comment" value="Almacena los tipos de documentos."/>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcBEIzEee3ZIRd-e_nAA" name="ID" comment="PK - Llave primaria" label="ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal" key="true" nullable="false">
+        <taggedValue xmi:id="_cRVcBUIzEee3ZIRd-e_nAA" tag="Comment" value="PK - Llave primaria"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcBkIzEee3ZIRd-e_nAA" body="SALUDSIS&quot;.&quot;ISEQ$$_157699&quot;.nextval" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcB0IzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcCEIzEee3ZIRd-e_nAA" name="NOMBRE" comment="Nombre del documento" label="NOMBRE" length="50" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcCUIzEee3ZIRd-e_nAA" tag="Comment" value="Nombre del documento"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcCkIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcC0IzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcDEIzEee3ZIRd-e_nAA" name="SIGLA" comment="Sigla del documento" label="SIGLA" length="5" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcDUIzEee3ZIRd-e_nAA" tag="Comment" value="Sigla del documento"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcDkIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcD0IzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcEEIzEee3ZIRd-e_nAA" name="ESTREGISTRO_ID" comment="FK - GEN_ESTREGISTRO (Estado del Registro)" label="ESTREGISTRO_ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal" nullable="false">
+        <taggedValue xmi:id="_cRVcEUIzEee3ZIRd-e_nAA" tag="Comment" value="FK - GEN_ESTREGISTRO (Estado del Registro)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcEkIzEee3ZIRd-e_nAA" body="1" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcE0IzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcFEIzEee3ZIRd-e_nAA" name="RANGO" comment="Rando de edad de acuerdo al tipo de documento (0 = Mayo de edad, 1 = Menor de edad, 2 =Ambos)" label="RANGO" precision="-127" sourceType="DEC" talendType="id_BigDecimal" nullable="false">
+        <taggedValue xmi:id="_cRVcFUIzEee3ZIRd-e_nAA" tag="Comment" value="Rando de edad de acuerdo al tipo de documento (0 = Mayo de edad, 1 = Menor de edad, 2 =Ambos)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcFkIzEee3ZIRd-e_nAA" body="2" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcF0IzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+    </ownedElement>
+    <ownedElement xsi:type="relational:TdTable" xmi:id="_cRVcGEIzEee3ZIRd-e_nAA" name="GEN_SEXOS" id="_yWM20EIyEee3ZIRd-e_nAA" comment="Almacena los tipos de sexo." label="GEN_SEXOS" tableType="TABLE">
+      <taggedValue xmi:id="_cRVcGUIzEee3ZIRd-e_nAA" tag="Comment" value="Almacena los tipos de sexo."/>
+      <taggedValue xmi:id="_cRVcGkIzEee3ZIRd-e_nAA" tag="Comment" value="Almacena los tipos de sexo."/>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcG0IzEee3ZIRd-e_nAA" name="ID" comment="PK - Llave primaria" label="ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal" key="true" nullable="false">
+        <taggedValue xmi:id="_cRVcHEIzEee3ZIRd-e_nAA" tag="Comment" value="PK - Llave primaria"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcHUIzEee3ZIRd-e_nAA" body="SALUDSIS&quot;.&quot;ISEQ$$_158541&quot;.nextval" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcHkIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcH0IzEee3ZIRd-e_nAA" name="NOMBRE" comment="Nombre del Sexo" label="NOMBRE" length="20" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcIEIzEee3ZIRd-e_nAA" tag="Comment" value="Nombre del Sexo"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcIUIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcIkIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcI0IzEee3ZIRd-e_nAA" name="SIGLA" comment="Sigla del Sexo" label="SIGLA" length="1" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcJEIzEee3ZIRd-e_nAA" tag="Comment" value="Sigla del Sexo"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcJUIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcJkIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcJ0IzEee3ZIRd-e_nAA" name="ESTREGISTRO_ID" comment="FK - GEN_ESTREGISTRO (Estado del Registro)" label="ESTREGISTRO_ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal">
+        <taggedValue xmi:id="_cRVcKEIzEee3ZIRd-e_nAA" tag="Comment" value="FK - GEN_ESTREGISTRO (Estado del Registro)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcKUIzEee3ZIRd-e_nAA" body="1" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcKkIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3" nullable="columnNullable"/>
+      </feature>
+    </ownedElement>
+    <ownedElement xsi:type="relational:TdTable" xmi:id="_cRVcK0IzEee3ZIRd-e_nAA" name="GEN_DIVIPOLA" id="_EX3FcEIzEee3ZIRd-e_nAA" comment="Departamentos, Municipios, Centro Poblado y demás por País." label="GEN_DIVIPOLA" tableType="TABLE">
+      <taggedValue xmi:id="_cRVcLEIzEee3ZIRd-e_nAA" tag="Comment" value="Departamentos, Municipios, Centro Poblado y demás por País."/>
+      <taggedValue xmi:id="_cRVcLUIzEee3ZIRd-e_nAA" tag="Comment" value="Departamentos, Municipios, Centro Poblado y demás por País."/>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcLkIzEee3ZIRd-e_nAA" name="ID" comment="PK - Llave primaria" label="ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal" key="true" nullable="false">
+        <taggedValue xmi:id="_cRVcL0IzEee3ZIRd-e_nAA" tag="Comment" value="PK - Llave primaria"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcMEIzEee3ZIRd-e_nAA" body="SALUDSIS&quot;.&quot;ISEQ$$_157751&quot;.nextval" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcMUIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcMkIzEee3ZIRd-e_nAA" name="CODIGO" comment=" Identificador unico del registro" label="CODIGO" length="15" sourceType="DEC" talendType="id_BigDecimal" nullable="false">
+        <taggedValue xmi:id="_cRVcM0IzEee3ZIRd-e_nAA" tag="Comment" value=" Identificador unico del registro"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcNEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcNUIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecisionRadix="10" javaDataType="3"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcNkIzEee3ZIRd-e_nAA" name="CODPAIS" comment="El codigo DANE del pais" label="CODPAIS" length="5" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcN0IzEee3ZIRd-e_nAA" tag="Comment" value="El codigo DANE del pais"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcOEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcOUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcOkIzEee3ZIRd-e_nAA" name="PAIS" comment="El nombre del pais" label="PAIS" length="50" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcO0IzEee3ZIRd-e_nAA" tag="Comment" value="El nombre del pais"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcPEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcPUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcPkIzEee3ZIRd-e_nAA" name="CODDEPTO" comment="El codigo DANE del departamento (00)" label="CODDEPTO" length="5" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcP0IzEee3ZIRd-e_nAA" tag="Comment" value="El codigo DANE del departamento (00)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcQEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcQUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcQkIzEee3ZIRd-e_nAA" name="DEPTO" comment="El nombre del departamento" label="DEPTO" length="100" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcQ0IzEee3ZIRd-e_nAA" tag="Comment" value="El nombre del departamento"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcREIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcRUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcRkIzEee3ZIRd-e_nAA" name="CODMCPIO" comment="El codigo DANE del municipio, inicia con el codigo del departamento (00000)" label="CODMCPIO" length="10" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcR0IzEee3ZIRd-e_nAA" tag="Comment" value="El codigo DANE del municipio, inicia con el codigo del departamento (00000)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcSEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcSUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcSkIzEee3ZIRd-e_nAA" name="MCPIO" comment="El nombre del municipio" label="MCPIO" length="100" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcS0IzEee3ZIRd-e_nAA" tag="Comment" value="El nombre del municipio"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcTEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcTUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcTkIzEee3ZIRd-e_nAA" name="CODCCPP" comment="El codigo DANE del centro poblado (00000000)" label="CODCCPP" length="20" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcT0IzEee3ZIRd-e_nAA" tag="Comment" value="El codigo DANE del centro poblado (00000000)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcUEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcUUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcUkIzEee3ZIRd-e_nAA" name="CCPP" comment="El nombre del centro poblado" label="CCPP" length="100" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcU0IzEee3ZIRd-e_nAA" tag="Comment" value="El nombre del centro poblado"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcVEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcVUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcVkIzEee3ZIRd-e_nAA" name="TCCPP" comment="El tipo del centro poblado" label="TCCPP" length="50" sourceType="VARCHAR2" talendType="id_String" nullable="false">
+        <taggedValue xmi:id="_cRVcV0IzEee3ZIRd-e_nAA" tag="Comment" value="El tipo del centro poblado"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcWEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcWUIzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcWkIzEee3ZIRd-e_nAA" name="LONGITUD" comment="La coordenada de longitud" label="LONGITUD" precision="-127" sourceType="DEC" talendType="id_BigDecimal">
+        <taggedValue xmi:id="_cRVcW0IzEee3ZIRd-e_nAA" tag="Comment" value="La coordenada de longitud"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcXEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcXUIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3" nullable="columnNullable"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRVcXkIzEee3ZIRd-e_nAA" name="LATITUD" comment="La coordenada de latitud" label="LATITUD" precision="-127" sourceType="DEC" talendType="id_BigDecimal">
+        <taggedValue xmi:id="_cRVcX0IzEee3ZIRd-e_nAA" tag="Comment" value="La coordenada de latitud"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRVcYEIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRVcYUIzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3" nullable="columnNullable"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRWDEEIzEee3ZIRd-e_nAA" name="TMCPIO" comment="El tipo de municipio" label="TMCPIO" length="50" sourceType="VARCHAR2" talendType="id_String">
+        <taggedValue xmi:id="_cRWDEUIzEee3ZIRd-e_nAA" tag="Comment" value="El tipo de municipio"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRWDEkIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRWDE0IzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12" nullable="columnNullable"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRWDFEIzEee3ZIRd-e_nAA" name="AREAM" comment="El area metropolitana de influencia" label="AREAM" length="50" sourceType="VARCHAR2" talendType="id_String">
+        <taggedValue xmi:id="_cRWDFUIzEee3ZIRd-e_nAA" tag="Comment" value="El area metropolitana de influencia"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRWDFkIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRWDF0IzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12" nullable="columnNullable"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRWDGEIzEee3ZIRd-e_nAA" name="REGIONAL" comment="Regional" label="REGIONAL" length="50" sourceType="VARCHAR2" talendType="id_String">
+        <taggedValue xmi:id="_cRWDGUIzEee3ZIRd-e_nAA" tag="Comment" value="Regional"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRWDGkIzEee3ZIRd-e_nAA" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRWDG0IzEee3ZIRd-e_nAA" name="VARCHAR2" numericPrecisionRadix="10" javaDataType="12" nullable="columnNullable"/>
+      </feature>
+      <feature xsi:type="relational:TdColumn" xmi:id="_cRWDHEIzEee3ZIRd-e_nAA" name="ESTREGISTRO_ID" comment="FK - GEN_ESTREGISTRO (Estado del Registro)" label="ESTREGISTRO_ID" precision="-127" sourceType="DEC" talendType="id_BigDecimal">
+        <taggedValue xmi:id="_cRWDHUIzEee3ZIRd-e_nAA" tag="Comment" value="FK - GEN_ESTREGISTRO (Estado del Registro)"/>
+        <initialValue xsi:type="relational:TdExpression" xmi:id="_cRWDHkIzEee3ZIRd-e_nAA" body="1" language="COLUMN_DEF"/>
+        <sqlDataType xmi:id="_cRWDH0IzEee3ZIRd-e_nAA" name="NUMBER" numericPrecision="-127" numericPrecisionRadix="10" javaDataType="3" nullable="columnNullable"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.relational:Schema>
+</xmi:XMI>

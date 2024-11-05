@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_moYHEF_QEeaY3ZNfIi2nQQ" id="_quFZAdwjEeahLsyrBlJknw" label="Mail" version="0.1" statusCode="" item="_moYHEl_QEeaY3ZNfIi2nQQ" displayName="Mail">
+    <author href="../../../talend.project#_EXeXAJgVEe-eXvp1QtBJuQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_N_goT5gVEe-eXvp1QtBJuQ" path="Gen/Mail"/>
+  <TalendProperties:ContextItem xmi:id="_moYHEl_QEeaY3ZNfIi2nQQ" property="_moYHEF_QEeaY3ZNfIi2nQQ" state="_N_goT5gVEe-eXvp1QtBJuQ" defaultContext="Default">
+    <context href="Mail_0.1.item#_qe3p0GWmEeu9NsZac5Lxgw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>
