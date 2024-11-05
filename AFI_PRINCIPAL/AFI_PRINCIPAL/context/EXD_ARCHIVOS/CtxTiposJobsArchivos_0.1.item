@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hIiu8JPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hIiu8ZPoEe6NhZUNguTAwQ" comment="" name="tipoJobMinsaludEtapa2NuevosRegistros" prompt="tipoJobMinsaludEtapa2NuevosRegistros?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_hIiu8pPoEe6NhZUNguTAwQ" comment="" name="tipoJobMinsaludEtapa3Multiafiliacion" prompt="tipoJobMinsaludEtapa3Multiafiliacion?" promptNeeded="false" type="id_Integer" value="5"/>
+  <contextParameter xmi:id="_hIiu85PoEe6NhZUNguTAwQ" comment="" name="tipoJobFedevida" prompt="tipoJobFedevida?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_hIiu9JPoEe6NhZUNguTAwQ" comment="" name="tipoJobMinsaludEtapa2Novedades" prompt="tipoJobMinsaludEtapa2Novedades?" promptNeeded="false" type="id_Integer" value="7"/>
+  <contextParameter xmi:id="_hIiu9ZPoEe6NhZUNguTAwQ" comment="" name="tipoJobEntesTerritoriales" prompt="tipoJobEntesTerritoriales?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_hIiu9pPoEe6NhZUNguTAwQ" comment="" name="tipoJobCompendioSalud" prompt="tipoJobCompendioSalud?" promptNeeded="false" type="id_Integer" value="9"/>
+</talendfile:ContextType>

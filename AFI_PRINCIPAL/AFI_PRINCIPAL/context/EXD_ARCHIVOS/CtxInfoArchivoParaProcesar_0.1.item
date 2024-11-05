@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hH09QJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hH09QZPoEe6NhZUNguTAwQ" comment="" name="infoNombreArchivo" prompt="infoNombreArchivo?" promptNeeded="false" type="id_String" value="8246c494-608d-42c9-a49e-9ebe2d38b8b5.csv"/>
+  <contextParameter xmi:id="_hH09QpPoEe6NhZUNguTAwQ" comment="" name="infoTipoArchivo" prompt="infoTipoArchivo?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_hH09Q5PoEe6NhZUNguTAwQ" comment="" name="infoIdArchivo" prompt="infoIdArchivo?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_hH09RJPoEe6NhZUNguTAwQ" comment="" name="infoUsuarioIdArchivo" prompt="infoUsuarioIdArchivo?" promptNeeded="false" type="id_Integer" value="7050"/>
+  <contextParameter xmi:id="_hH09RZPoEe6NhZUNguTAwQ" comment="" name="infoTipoArchivoRespuesta" prompt="infoTipoArchivoRespuesta?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

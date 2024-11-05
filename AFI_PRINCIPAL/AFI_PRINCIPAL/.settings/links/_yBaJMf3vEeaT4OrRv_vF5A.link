@@ -1,0 +1,233 @@
+{
+  "itemId" : "_yBaJMf3vEeaT4OrRv_vF5A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jYbycIdWEeqTzInT6oWxCw",
+    "parameterList" : [ {
+      "id" : "_gxb2gZPoEe6NhZUNguTAwQ",
+      "name" : "fileSystem_Path"
+    }, {
+      "id" : "_gxb2gpPoEe6NhZUNguTAwQ",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_gxb2g5PoEe6NhZUNguTAwQ",
+      "name" : "archivoSalida"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_85ACoIdWEeqTzInT6oWxCw",
+    "parameterList" : [ {
+      "id" : "_hHHyo5PoEe6NhZUNguTAwQ",
+      "name" : "mail_UsernameMail"
+    }, {
+      "id" : "_hHHyopPoEe6NhZUNguTAwQ",
+      "name" : "mail_SMTPPort"
+    }, {
+      "id" : "_hHHypJPoEe6NhZUNguTAwQ",
+      "name" : "mail_PasswordMail"
+    }, {
+      "id" : "_hHHyoZPoEe6NhZUNguTAwQ",
+      "name" : "mail_SMTPHost"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_hHPudZPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_hHPudpPoEe6NhZUNguTAwQ",
+      "name" : "oracle_User"
+    }, {
+      "id" : "_hHPucpPoEe6NhZUNguTAwQ",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_hHPudJPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_hHPud5PoEe6NhZUNguTAwQ",
+      "name" : "oracle_Port"
+    }, {
+      "id" : "_hHPucZPoEe6NhZUNguTAwQ",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_hHPuc5PoEe6NhZUNguTAwQ",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_hHPueJPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Sid"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_hHdw4pPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoInactivo"
+    }, {
+      "id" : "_hHdw5pPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoProcesado"
+    }, {
+      "id" : "_hHdw5ZPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoEnProceso"
+    }, {
+      "id" : "_hHdw5JPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoCancelado"
+    }, {
+      "id" : "_hHdw4ZPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoActivo"
+    }, {
+      "id" : "_hHdw45PoEe6NhZUNguTAwQ",
+      "name" : "estArchivoPausado"
+    }, {
+      "id" : "_hHdw55PoEe6NhZUNguTAwQ",
+      "name" : "estArchivoErrorArchivo"
+    }, {
+      "id" : "_hHdw6JPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoErrorProcesamiento"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_s10VsLaAEeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_hHmTwZPoEe6NhZUNguTAwQ",
+      "name" : "estRegistroActivo"
+    }, {
+      "id" : "_hHmTwpPoEe6NhZUNguTAwQ",
+      "name" : "estRegistroInactivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_OuMNcIdVEeqTzInT6oWxCw",
+    "parameterList" : [ {
+      "id" : "_hH09QZPoEe6NhZUNguTAwQ",
+      "name" : "infoNombreArchivo"
+    }, {
+      "id" : "_hH09RZPoEe6NhZUNguTAwQ",
+      "name" : "infoTipoArchivoRespuesta"
+    }, {
+      "id" : "_hH09Q5PoEe6NhZUNguTAwQ",
+      "name" : "infoIdArchivo"
+    }, {
+      "id" : "_hH09RJPoEe6NhZUNguTAwQ",
+      "name" : "infoUsuarioIdArchivo"
+    }, {
+      "id" : "_hH09QpPoEe6NhZUNguTAwQ",
+      "name" : "infoTipoArchivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_s9ghMIdUEeqTzInT6oWxCw",
+    "parameterList" : [ {
+      "id" : "_hIMwsZPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa2Novedades"
+    }, {
+      "id" : "_hIMwuZPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa3MultiafiliacionGenerado"
+    }, {
+      "id" : "_hIMwvZPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoCruceErrores"
+    }, {
+      "id" : "_hIMwt5PoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa2NuevosRegistrosGenerado"
+    }, {
+      "id" : "_hIMws5PoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa3Multiafiliacion"
+    }, {
+      "id" : "_hIMwupPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoFedevidaGenerado"
+    }, {
+      "id" : "_hIMwtpPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoEntesGenerado"
+    }, {
+      "id" : "_hIMwtZPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoEntesTerritoriales"
+    }, {
+      "id" : "_hIMwvJPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoCompendioSaludGenerado"
+    }, {
+      "id" : "_hIMwu5PoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoCompendioSalud"
+    }, {
+      "id" : "_hIMwspPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa2NuevosRegistros"
+    }, {
+      "id" : "_hIMwtJPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoFedevida"
+    }, {
+      "id" : "_hIMwuJPoEe6NhZUNguTAwQ",
+      "name" : "tipoArchivoMinSaludEtapa2NovedadesGenerado"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_y3cBoIdXEeqTzInT6oWxCw",
+    "parameterList" : [ {
+      "id" : "_hItHB5PoEe6NhZUNguTAwQ",
+      "name" : "suma"
+    }, {
+      "id" : "_hItHAZPoEe6NhZUNguTAwQ",
+      "name" : "archivoConfiguracion"
+    }, {
+      "id" : "_hItHCpPoEe6NhZUNguTAwQ",
+      "name" : "auxAumentoRegistros"
+    }, {
+      "id" : "_hItHA5PoEe6NhZUNguTAwQ",
+      "name" : "auxRango"
+    }, {
+      "id" : "_hItHCZPoEe6NhZUNguTAwQ",
+      "name" : "auxAfiliadosCriterioInact"
+    }, {
+      "id" : "_hItHBJPoEe6NhZUNguTAwQ",
+      "name" : "auxCriterioActual"
+    }, {
+      "id" : "_hItHBpPoEe6NhZUNguTAwQ",
+      "name" : "auxPrimerLoop"
+    }, {
+      "id" : "_hItHApPoEe6NhZUNguTAwQ",
+      "name" : "auxPosicionRegistros"
+    }, {
+      "id" : "_hItHBZPoEe6NhZUNguTAwQ",
+      "name" : "auxAfiliadosCriterio"
+    }, {
+      "id" : "_hItHCJPoEe6NhZUNguTAwQ",
+      "name" : "auxAfiliadosCriterioAct"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_rgyDgIdfEeq_9aAYrd5sZg",
+    "parameterList" : [ {
+      "id" : "_hIiu9ZPoEe6NhZUNguTAwQ",
+      "name" : "tipoJobEntesTerritoriales"
+    }, {
+      "id" : "_hIiu9JPoEe6NhZUNguTAwQ",
+      "name" : "tipoJobMinsaludEtapa2Novedades"
+    }, {
+      "id" : "_hIiu8ZPoEe6NhZUNguTAwQ",
+      "name" : "tipoJobMinsaludEtapa2NuevosRegistros"
+    }, {
+      "id" : "_hIiu8pPoEe6NhZUNguTAwQ",
+      "name" : "tipoJobMinsaludEtapa3Multiafiliacion"
+    }, {
+      "id" : "_hIiu85PoEe6NhZUNguTAwQ",
+      "name" : "tipoJobFedevida"
+    }, {
+      "id" : "_hIiu9pPoEe6NhZUNguTAwQ",
+      "name" : "tipoJobCompendioSalud"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Fo1xgIdgEeq_9aAYrd5sZg",
+    "parameterList" : [ {
+      "id" : "_hIBxkpPoEe6NhZUNguTAwQ",
+      "name" : "descripcionProceso"
+    }, {
+      "id" : "_hIBxkZPoEe6NhZUNguTAwQ",
+      "name" : "idProceso"
+    }, {
+      "id" : "_hIBxk5PoEe6NhZUNguTAwQ",
+      "name" : "tipoJobProceso"
+    }, {
+      "id" : "_hIBxlJPoEe6NhZUNguTAwQ",
+      "name" : "tipoProceso"
+    } ]
+  } ]
+}

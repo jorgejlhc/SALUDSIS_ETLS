@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hHPucJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hHPucZPoEe6NhZUNguTAwQ" comment="" name="oracle_AdditionalParams" prompt="oracle_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_hHPucpPoEe6NhZUNguTAwQ" comment="" name="oracle_ServiceName" prompt="oracle_ServiceName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="pdb1"/>
+  <contextParameter xmi:id="_hHPuc5PoEe6NhZUNguTAwQ" comment="" name="oracle_Host" prompt="oracle_Host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.17.1.81"/>
+  <contextParameter xmi:id="_hHPudJPoEe6NhZUNguTAwQ" comment="" name="oracle_Schema" prompt="oracle_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_hHPudZPoEe6NhZUNguTAwQ" comment="" name="oracle_Password" prompt="oracle_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SaludSis2021"/>
+  <contextParameter xmi:id="_hHPudpPoEe6NhZUNguTAwQ" comment="" name="oracle_User" prompt="oracle_User?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_hHPud5PoEe6NhZUNguTAwQ" comment="" name="oracle_Port" prompt="oracle_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_hHPueJPoEe6NhZUNguTAwQ" comment="" name="oracle_Sid" prompt="oracle_Sid?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ORCL_DIGSA"/>
+</talendfile:ContextType>

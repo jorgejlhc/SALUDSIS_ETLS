@@ -1,0 +1,350 @@
+[ {
+  "baseItem" : {
+    "id" : "_4EaSYJNpEee5-v-s-i_gLA",
+    "version" : "0.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OuMNcIdVEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_rgyDgIdfEeq_9aAYrd5sZg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s10VsLaAEeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s9ghMIdUEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_y3cBoIdXEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kosuUFWzEeWMYOULN5CVyQ - FormatoMinSaludEtapa2",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yBaJMv3vEeaT4OrRv_vF5A - AFI_CARCHIVOS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_AYlRkJemEeWrcfqDsbOnQA",
+    "version" : "1.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_ah-5UKCEEeaQb-3LMjbyLw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C6lUoEOGEe-ao5IRmPQ3zQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_MASIVO:_8QYWQDjuEei2aKvKWxAb8A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_CeQeIEctEe-i7dZtpl7VMg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_PRINCIPAL:_yBaJMf3vEeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RZJf8IGgEeanDpfn13slmA",
+    "version" : "0.4",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kosuUFWzEeWMYOULN5CVyQ - FormatoMinSaludEtapa2",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yBaJMv3vEeaT4OrRv_vF5A - AFI_CARCHIVOS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ah-5UKCEEeaQb-3LMjbyLw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s10VsLaAEeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kI7wYEcqEe-i7dZtpl7VMg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_MASIVO:_8QYWQDjuEei2aKvKWxAb8A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ltm6MFWuEeWMYOULN5CVyQ",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kosuUFWzEeWMYOULN5CVyQ - FormatoMinSaludEtapa2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_oVTvUIi-EeW2ystiq0JIHA",
+    "version" : "0.4",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kosuUFWzEeWMYOULN5CVyQ - FormatoMinSaludEtapa2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_u7NSYLfUEea1VpUsJr2M5Q",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kosuUFWzEeWMYOULN5CVyQ - FormatoMinSaludEtapa2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yBaJMf3vEeaT4OrRv_vF5A",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_85ACoIdWEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Fo1xgIdgEeq_9aAYrd5sZg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_OuMNcIdVEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jYbycIdWEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_rgyDgIdfEeq_9aAYrd5sZg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s10VsLaAEeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s9ghMIdUEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_y3cBoIdXEeqTzInT6oWxCw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_4EaSYJNpEee5-v-s-i_gLA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_AYlRkJemEeWrcfqDsbOnQA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_RZJf8IGgEeanDpfn13slmA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_ah-5UKCEEeaQb-3LMjbyLw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_ltm6MFWuEeWMYOULN5CVyQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_oVTvUIi-EeW2ystiq0JIHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_u7NSYLfUEea1VpUsJr2M5Q",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]

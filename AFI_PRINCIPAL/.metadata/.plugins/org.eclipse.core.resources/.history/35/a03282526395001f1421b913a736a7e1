@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ltpWcFWuEeWMYOULN5CVyQ" id="_oVTvUIi-EeW2ystiq0JIHA" label="MinSaludEtapa3Multiafiliacion" purpose="Extincion de derechos, archivo recibido MINSALUD ETAPA 2" version="0.4" statusCode="PROD" item="_ltpWclWuEeWMYOULN5CVyQ" displayName="MinSaludEtapa3Multiafiliacion">
+    <author href="../../talend.project#_CQBy4JVjEe-vmLCCEEr_1Q"/>
+    <additionalProperties xmi:id="_vJukUEcqEe-i7dZtpl7VMg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_vJukUUcqEe-i7dZtpl7VMg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_vJukUkcqEe-i7dZtpl7VMg" key="created_date" value="2024-07-21T01:30:35.029-0500"/>
+    <additionalProperties xmi:id="_vJukU0cqEe-i7dZtpl7VMg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_vJukVEcqEe-i7dZtpl7VMg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_vJukVUcqEe-i7dZtpl7VMg" key="modified_date" value="2024-07-21T01:43:41.724-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Un13sJVjEe-vmLCCEEr_1Q" path="EXD_ARCHIVOS"/>
+  <TalendProperties:ProcessItem xmi:id="_ltpWclWuEeWMYOULN5CVyQ" property="_ltpWcFWuEeWMYOULN5CVyQ" state="_Un13sJVjEe-vmLCCEEr_1Q">
+    <process href="MinSaludEtapa3Multiafiliacion_0.4.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

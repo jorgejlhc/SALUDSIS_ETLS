@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_aiP_EKCEEeaQb-3LMjbyLw" id="_ah-5UKCEEeaQb-3LMjbyLw" label="DesactivarArchivos" purpose="Desactiva Archivos que tienen mas de 30 dias y tienen estado error" version="0.1" statusCode="TEST" item="_aiP_EqCEEeaQb-3LMjbyLw" displayName="DesactivarArchivos">
+    <author href="../../talend.project#_CQBy4JVjEe-vmLCCEEr_1Q"/>
+    <additionalProperties xmi:id="_uvYKoEcqEe-i7dZtpl7VMg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_uvYKoUcqEe-i7dZtpl7VMg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_uvYKokcqEe-i7dZtpl7VMg" key="created_date" value="2024-07-21T01:30:32.266-0500"/>
+    <additionalProperties xmi:id="_uvYKo0cqEe-i7dZtpl7VMg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_uvYKpEcqEe-i7dZtpl7VMg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_uvYKpUcqEe-i7dZtpl7VMg" key="modified_date" value="2024-07-21T01:45:30.251-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Uh9SIJVjEe-vmLCCEEr_1Q" path="EXD_ARCHIVOS"/>
+  <TalendProperties:ProcessItem xmi:id="_aiP_EqCEEeaQb-3LMjbyLw" property="_aiP_EKCEEeaQb-3LMjbyLw" state="_Uh9SIJVjEe-vmLCCEEr_1Q">
+    <process href="DesactivarArchivos_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

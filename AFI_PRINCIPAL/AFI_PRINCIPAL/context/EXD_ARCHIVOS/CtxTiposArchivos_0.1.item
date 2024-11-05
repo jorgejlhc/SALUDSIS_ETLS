@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hIMwsJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hIMwsZPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa2Novedades" prompt="tipoArchivoMinSaludEtapa2Novedades?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_hIMwspPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa2NuevosRegistros" prompt="tipoArchivoMinSaludEtapa2NuevosRegistros?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_hIMws5PoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa3Multiafiliacion" prompt="tipoArchivoMinSaludEtapa3Multiafiliacion?" promptNeeded="false" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_hIMwtJPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoFedevida" prompt="tipoArchivoFedevida?" promptNeeded="false" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_hIMwtZPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoEntesTerritoriales" prompt="tipoArchivoEntesTerritoriales?" promptNeeded="false" type="id_Integer" value="5"/>
+  <contextParameter xmi:id="_hIMwtpPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoEntesGenerado" prompt="tipoArchivoEntesGenerado?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_hIMwt5PoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa2NuevosRegistrosGenerado" prompt="tipoArchivoMinSaludEtapa2NuevosRegistrosGenerado?" promptNeeded="false" type="id_Integer" value="12"/>
+  <contextParameter xmi:id="_hIMwuJPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa2NovedadesGenerado" prompt="tipoArchivoMinSaludEtapa2NovedadesGenerado?" promptNeeded="false" type="id_Integer" value="13"/>
+  <contextParameter xmi:id="_hIMwuZPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoMinSaludEtapa3MultiafiliacionGenerado" prompt="tipoArchivoMinSaludEtapa3MultiafiliacionGenerado?" promptNeeded="false" type="id_Integer" value="14"/>
+  <contextParameter xmi:id="_hIMwupPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoFedevidaGenerado" prompt="tipoArchivoFedevidaGenerado?" promptNeeded="false" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_hIMwu5PoEe6NhZUNguTAwQ" comment="" name="tipoArchivoCompendioSalud" prompt="tipoArchivoCompendioSalud?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_hIMwvJPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoCompendioSaludGenerado" prompt="tipoArchivoCompendioSaludGenerado?" promptNeeded="false" type="id_Integer" value="17"/>
+  <contextParameter xmi:id="_hIMwvZPoEe6NhZUNguTAwQ" comment="" name="tipoArchivoCruceErrores" prompt="tipoArchivoCruceErrores?" promptNeeded="false" type="id_Integer" value="24"/>
+</talendfile:ContextType>

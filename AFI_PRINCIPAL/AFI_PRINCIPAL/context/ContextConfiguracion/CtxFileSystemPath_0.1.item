@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_gxb2gJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_gxb2gZPoEe6NhZUNguTAwQ" comment="" name="fileSystem_Path" prompt="fileSystem_Path?" promptNeeded="false" type="id_String" value="&quot;C:\Users\jorge\Documents\REPOSITORIOS_DIGSA\SALUDSIS_F6\Saludsis\SaludSis\App_Data\Storage&quot;"/>
+  <contextParameter xmi:id="_gxb2gpPoEe6NhZUNguTAwQ" comment="" name="fileSystem_Area" prompt="fileSystem_Area?" promptNeeded="false" type="id_String" value="&quot;AFI&quot;"/>
+  <contextParameter xmi:id="_gxb2g5PoEe6NhZUNguTAwQ" comment="" name="archivoSalida" prompt="archivoSalida?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

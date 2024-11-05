@@ -1,0 +1,60 @@
+{
+  "itemId" : "_oVTvUIi-EeW2ystiq0JIHA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_s36kQLZ8EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_hHdw4ZPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoActivo"
+    }, {
+      "id" : "_hHdw5JPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoCancelado"
+    }, {
+      "id" : "_hHdw5ZPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoEnProceso"
+    }, {
+      "id" : "_hHdw55PoEe6NhZUNguTAwQ",
+      "name" : "estArchivoErrorArchivo"
+    }, {
+      "id" : "_hHdw6JPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoErrorProcesamiento"
+    }, {
+      "id" : "_hHdw4pPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoInactivo"
+    }, {
+      "id" : "_hHdw45PoEe6NhZUNguTAwQ",
+      "name" : "estArchivoPausado"
+    }, {
+      "id" : "_hHdw5pPoEe6NhZUNguTAwQ",
+      "name" : "estArchivoProcesado"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_hHPucZPoEe6NhZUNguTAwQ",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_hHPuc5PoEe6NhZUNguTAwQ",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_hHPudZPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_hHPud5PoEe6NhZUNguTAwQ",
+      "name" : "oracle_Port"
+    }, {
+      "id" : "_hHPudJPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_hHPucpPoEe6NhZUNguTAwQ",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_hHPueJPoEe6NhZUNguTAwQ",
+      "name" : "oracle_Sid"
+    }, {
+      "id" : "_hHPudpPoEe6NhZUNguTAwQ",
+      "name" : "oracle_User"
+    } ]
+  } ]
+}

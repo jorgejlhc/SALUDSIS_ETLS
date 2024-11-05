@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_AYubgJemEeWrcfqDsbOnQA" id="_AYlRkJemEeWrcfqDsbOnQA" label="Consolidado_Salud" purpose="ETL Consolidado estado de salud" version="1.1" statusCode="PROD" item="_AYubgpemEeWrcfqDsbOnQA" displayName="Consolidado_Salud">
+    <author href="../../talend.project#_CQBy4JVjEe-vmLCCEEr_1Q"/>
+    <additionalProperties xmi:id="_upY3YEcqEe-i7dZtpl7VMg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_upY3YUcqEe-i7dZtpl7VMg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_upY3YkcqEe-i7dZtpl7VMg" key="created_date" value="2024-07-21T01:30:31.638-0500"/>
+    <additionalProperties xmi:id="_upY3Y0cqEe-i7dZtpl7VMg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_upY3ZEcqEe-i7dZtpl7VMg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_upY3ZUcqEe-i7dZtpl7VMg" key="modified_date" value="2024-07-21T01:45:53.061-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Ufw5wJVjEe-vmLCCEEr_1Q" path="EXD_ARCHIVOS"/>
+  <TalendProperties:ProcessItem xmi:id="_AYubgpemEeWrcfqDsbOnQA" property="_AYubgJemEeWrcfqDsbOnQA" state="_Ufw5wJVjEe-vmLCCEEr_1Q">
+    <process href="Consolidado_Salud_1.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

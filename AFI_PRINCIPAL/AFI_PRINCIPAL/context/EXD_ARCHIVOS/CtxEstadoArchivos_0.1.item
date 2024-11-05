@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hHdw4JPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hHdw4ZPoEe6NhZUNguTAwQ" comment="" name="estArchivoActivo" prompt="estArchivoActivo?" promptNeeded="false" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_hHdw4pPoEe6NhZUNguTAwQ" comment="" name="estArchivoInactivo" prompt="estArchivoInactivo?" promptNeeded="false" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_hHdw45PoEe6NhZUNguTAwQ" comment="" name="estArchivoPausado" prompt="estArchivoPausado?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_hHdw5JPoEe6NhZUNguTAwQ" comment="" name="estArchivoCancelado" prompt="estArchivoCancelado?" promptNeeded="false" type="id_Integer" value="5"/>
+  <contextParameter xmi:id="_hHdw5ZPoEe6NhZUNguTAwQ" comment="" name="estArchivoEnProceso" prompt="estArchivoEnProceso?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_hHdw5pPoEe6NhZUNguTAwQ" comment="" name="estArchivoProcesado" prompt="estArchivoProcesado?" promptNeeded="false" type="id_Integer" value="7"/>
+  <contextParameter xmi:id="_hHdw55PoEe6NhZUNguTAwQ" comment="" name="estArchivoErrorArchivo" prompt="estArchivoErrorArchivo?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_hHdw6JPoEe6NhZUNguTAwQ" comment="" name="estArchivoErrorProcesamiento" prompt="estArchivoErrorProcesamiento?" promptNeeded="false" type="id_Integer" value="1"/>
+</talendfile:ContextType>

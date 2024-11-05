@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hHHyoJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hHHyoZPoEe6NhZUNguTAwQ" comment="" name="mail_SMTPHost" prompt="mail_SMTPHost?" promptNeeded="false" type="id_String" value="&quot;smtp.gmail.com&quot;"/>
+  <contextParameter xmi:id="_hHHyopPoEe6NhZUNguTAwQ" comment="" name="mail_SMTPPort" prompt="mail_SMTPPort?" promptNeeded="false" type="id_String" value="&quot;587&quot;"/>
+  <contextParameter xmi:id="_hHHyo5PoEe6NhZUNguTAwQ" comment="" name="mail_UsernameMail" prompt="mail_UsernameMail?" promptNeeded="false" type="id_String" value="&quot;desarrolladores.codaltec@gmail.com&quot;"/>
+  <contextParameter xmi:id="_hHHypJPoEe6NhZUNguTAwQ" comment="" name="mail_PasswordMail" prompt="mail_PasswordMail?" promptNeeded="false" type="id_String" value="&quot;Codaltec2014*&quot;"/>
+</talendfile:ContextType>

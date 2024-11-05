@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ltpWcFWuEeWMYOULN5CVyQ" id="_RZJf8IGgEeanDpfn13slmA" label="Fedevida" purpose="Extincion de derechos, archivo recibido MINSALUD ETAPA 2" version="0.4" statusCode="PROD" item="_ltpWclWuEeWMYOULN5CVyQ" displayName="Fedevida">
+    <author href="../../talend.project#_CQBy4JVjEe-vmLCCEEr_1Q"/>
+    <additionalProperties xmi:id="_u80JsEcqEe-i7dZtpl7VMg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_u80JsUcqEe-i7dZtpl7VMg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_u80JskcqEe-i7dZtpl7VMg" key="created_date" value="2024-07-21T01:30:33.675-0500"/>
+    <additionalProperties xmi:id="_u80Js0cqEe-i7dZtpl7VMg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_u80JtEcqEe-i7dZtpl7VMg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_u80JtUcqEe-i7dZtpl7VMg" key="modified_date" value="2024-07-21T01:44:37.690-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Ulj_wJVjEe-vmLCCEEr_1Q" path="EXD_ARCHIVOS"/>
+  <TalendProperties:ProcessItem xmi:id="_ltpWclWuEeWMYOULN5CVyQ" property="_ltpWcFWuEeWMYOULN5CVyQ" state="_Ulj_wJVjEe-vmLCCEEr_1Q">
+    <process href="Fedevida_0.4.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

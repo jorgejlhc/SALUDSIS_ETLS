@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hItHAJPoEe6NhZUNguTAwQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hItHAZPoEe6NhZUNguTAwQ" comment="" name="archivoConfiguracion" prompt="archivoConfiguracion?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_hItHApPoEe6NhZUNguTAwQ" comment="" name="auxPosicionRegistros" prompt="auxPosicionRegistros?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_hItHA5PoEe6NhZUNguTAwQ" comment="" name="auxRango" prompt="auxRango?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;1..1000&quot;"/>
+  <contextParameter xmi:id="_hItHBJPoEe6NhZUNguTAwQ" comment="" name="auxCriterioActual" prompt="auxCriterioActual?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_hItHBZPoEe6NhZUNguTAwQ" comment="" name="auxAfiliadosCriterio" prompt="auxAfiliadosCriterio?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_hItHBpPoEe6NhZUNguTAwQ" comment="" name="auxPrimerLoop" prompt="auxPrimerLoop?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_hItHB5PoEe6NhZUNguTAwQ" comment="" name="suma" prompt="suma?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_hItHCJPoEe6NhZUNguTAwQ" comment="" name="auxAfiliadosCriterioAct" prompt="auxAfiliadosCriterioAct?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_hItHCZPoEe6NhZUNguTAwQ" comment="" name="auxAfiliadosCriterioInact" prompt="auxAfiliadosCriterioInact?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_hItHCpPoEe6NhZUNguTAwQ" comment="" name="auxAumentoRegistros" prompt="auxAumentoRegistros?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1000"/>
+</talendfile:ContextType>
