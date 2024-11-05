@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_hdo4oNlqEeWfP55TPpwWJg" id="_EX-WgHkjEee1equY2UByPw" label="RecAportes" version="4.1" statusCode="DEV" item="_hdo4otlqEeWfP55TPpwWJg" displayName="RecAportes">
+    <author href="../../talend.project#_drVhIJiHEe-ee7rlkyhmHQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_mxXcEJiIEe-ee7rlkyhmHQ" path="Recaudo"/>
+  <TalendProperties:ProcessItem xmi:id="_hdo4otlqEeWfP55TPpwWJg" property="_hdo4oNlqEeWfP55TPpwWJg" state="_mxXcEJiIEe-ee7rlkyhmHQ">
+    <process href="RecAportes_4.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

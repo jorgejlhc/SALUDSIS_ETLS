@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_hdo4oNlqEeWfP55TPpwWJg" id="_B0BMAHkjEee1equY2UByPw" label="RecConsolidado" description="Crea la vista createvmrecconsolidado y elimina de la bodega todos los registros del recaudo del periodo a ejecutar ." version="4.0" statusCode="DEV" item="_hdo4otlqEeWfP55TPpwWJg" displayName="RecConsolidado">
+    <author href="../../talend.project#_drVhIJiHEe-ee7rlkyhmHQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_nAGboJiIEe-ee7rlkyhmHQ" path="Recaudo"/>
+  <TalendProperties:ProcessItem xmi:id="_hdo4otlqEeWfP55TPpwWJg" property="_hdo4oNlqEeWfP55TPpwWJg" state="_nAGboJiIEe-ee7rlkyhmHQ">
+    <process href="RecConsolidado_4.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

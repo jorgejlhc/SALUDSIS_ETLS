@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_nJUUEOwaEeeCssW4ly0Urg" id="_nkcXcDIDEeiAM6MfKF48bw" label="DiarioAll" description="Ejecuta el job para procesar los aportes de todos los periodos donde se realizo cargue de planillas en el dia anterior" version="1.1" statusCode="" item="_nJUUEuwaEeeCssW4ly0Urg" displayName="DiarioAll">
+    <author href="../../talend.project#_drVhIJiHEe-ee7rlkyhmHQ"/>
+    <additionalProperties xmi:id="_muHTwJiIEe-ee7rlkyhmHQ" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_muHTwZiIEe-ee7rlkyhmHQ" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_muHTwpiIEe-ee7rlkyhmHQ" key="created_date" value="2024-11-01T14:36:35.324-0500"/>
+    <additionalProperties xmi:id="_muHTw5iIEe-ee7rlkyhmHQ" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_muHTxJiIEe-ee7rlkyhmHQ" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_muHTxZiIEe-ee7rlkyhmHQ" key="modified_date" value="2024-11-01T14:36:35.324-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_mtoLkJiIEe-ee7rlkyhmHQ" path="Recaudo"/>
+  <TalendProperties:ProcessItem xmi:id="_nJUUEuwaEeeCssW4ly0Urg" property="_nJUUEOwaEeeCssW4ly0Urg" state="_mtoLkJiIEe-ee7rlkyhmHQ">
+    <process href="DiarioAll_1.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

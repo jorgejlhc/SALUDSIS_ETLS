@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_AwXIME3sEeauXo6wTxlmOg" id="_AwRBkE3sEeauXo6wTxlmOg" label="Inicio" version="0.1" statusCode="" item="_AwXIMk3sEeauXo6wTxlmOg" displayName="Inicio">
+    <author href="../../talend.project#_drVhIJiHEe-ee7rlkyhmHQ"/>
+    <additionalProperties xmi:id="_mp4UAJiIEe-ee7rlkyhmHQ" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_mp4UAZiIEe-ee7rlkyhmHQ" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_mp4UApiIEe-ee7rlkyhmHQ" key="created_date" value="2024-11-01T14:36:34.879-0500"/>
+    <additionalProperties xmi:id="_mp4UA5iIEe-ee7rlkyhmHQ" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_mp4UBJiIEe-ee7rlkyhmHQ" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_mp4UBZiIEe-ee7rlkyhmHQ" key="modified_date" value="2024-11-01T14:36:34.879-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_mp1QwpiIEe-ee7rlkyhmHQ" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_AwXIMk3sEeauXo6wTxlmOg" property="_AwXIME3sEeauXo6wTxlmOg" state="_mp1QwpiIEe-ee7rlkyhmHQ" defaultContext="Default">
+    <context href="Inicio_0.1.item#_VthLQRU_EeqGA7EzQq6SRQ"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>
