@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_nzbYQGWbEeuMTd-_HWrJgA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_nzbYQWWbEeuMTd-_HWrJgA" comment="" name="Valor" prompt="Valor?" promptNeeded="false" type="id_Double" value="0"/>
+  <contextParameter xmi:id="_nzbYQmWbEeuMTd-_HWrJgA" comment="" name="ConsolidadoGGRL" prompt="ConsolidadoGGRL?" promptNeeded="false" type="id_Double" value="0"/>
+  <contextParameter xmi:id="_nzbYQ2WbEeuMTd-_HWrJgA" comment="" name="ConsolidadoDEP" prompt="ConsolidadoDEP?" promptNeeded="false" type="id_Double" value="0"/>
+  <contextParameter xmi:id="_nzbYRGWbEeuMTd-_HWrJgA" comment="" name="ConsolidadoGGRL_ESM" prompt="ConsolidadoGGRL_ESM?" promptNeeded="false" type="id_Double" value="0"/>
+  <contextParameter xmi:id="_nzbYRWWbEeuMTd-_HWrJgA" comment="" name="ConsolidadoDEP_ESM" prompt="ConsolidadoDEP_ESM?" promptNeeded="false" type="id_Double" value="0"/>
+  <contextParameter xmi:id="_nzbYRmWbEeuMTd-_HWrJgA" comment="" name="Periodo" prompt="Periodo?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_nzbYR2WbEeuMTd-_HWrJgA" comment="" name="TmpPeriodo" prompt="TmpPeriodo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_nzbYSGWbEeuMTd-_HWrJgA" comment="" name="AnexoId" prompt="AnexoId?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_nzbYSWWbEeuMTd-_HWrJgA" comment="" name="FechaToday" prompt="FechaToday?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_nzbYSmWbEeuMTd-_HWrJgA" comment="" name="ControlDate" prompt="ControlDate?" promptNeeded="false" type="id_Integer" value="1"/>
+</talendfile:ContextType>

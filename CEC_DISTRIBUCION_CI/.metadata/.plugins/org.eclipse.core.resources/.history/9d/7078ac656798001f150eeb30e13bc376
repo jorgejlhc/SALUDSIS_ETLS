@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_n0l14GWbEeuMTd-_HWrJgA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_n0l14WWbEeuMTd-_HWrJgA" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n0l14mWbEeuMTd-_HWrJgA" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n0l142WbEeuMTd-_HWrJgA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n0l15GWbEeuMTd-_HWrJgA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n0l15WWbEeuMTd-_HWrJgA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n0l15mWbEeuMTd-_HWrJgA" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_n0l152WbEeuMTd-_HWrJgA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_n0l16GWbEeuMTd-_HWrJgA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_n0l16WWbEeuMTd-_HWrJgA" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="../../../Connections.xml"/>
+  <contextParameter xmi:id="_n0l16mWbEeuMTd-_HWrJgA" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="../../../DataWarehouse.xml"/>
+  <contextParameter xmi:id="_n0l162WbEeuMTd-_HWrJgA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>

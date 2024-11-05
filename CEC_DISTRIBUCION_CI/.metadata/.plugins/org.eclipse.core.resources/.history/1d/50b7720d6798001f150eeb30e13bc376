@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_QK9-gPpUEeilK_ti8s1BWQ" id="_QK8wYPpUEeilK_ti8s1BWQ" label="ValidateRows" version="0.1" statusCode="" item="_QK9-gvpUEeilK_ti8s1BWQ" displayName="ValidateRows">
+    <author href="../../../../talend.project#_M0GhQJhmEe-QGdLzg2uGEg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_DXBGUJhnEe-QGdLzg2uGEg" path="Utils/Presupuesto"/>
+  <TalendProperties:RoutineItem xmi:id="_QK9-gvpUEeilK_ti8s1BWQ" property="_QK9-gPpUEeilK_ti8s1BWQ" state="_DXBGUJhnEe-QGdLzg2uGEg">
+    <content href="ValidateRows_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>
