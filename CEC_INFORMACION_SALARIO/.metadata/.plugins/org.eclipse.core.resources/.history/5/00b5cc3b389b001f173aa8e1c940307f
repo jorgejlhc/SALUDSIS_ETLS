@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VmTvYLYEEeifYqYoMs7T1A" id="_VmNowLYEEeifYqYoMs7T1A" label="InformacionSalarialMOD" purpose="informacion salarial planta y rural" description="carga masiva de la informacion salarial mensual del personal de planta y rural" version="0.2" statusCode="" item="_VmTvYrYEEeifYqYoMs7T1A" displayName="InformacionSalarialMOD">
+    <author href="../../talend.project#_Ykp8kJs3Ee-X5LJiIHQ4GA"/>
+    <additionalProperties xmi:id="_nUTn4Js3Ee-X5LJiIHQ4GA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_nUTn4Zs3Ee-X5LJiIHQ4GA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_nUTn4ps3Ee-X5LJiIHQ4GA" key="created_date" value="2018-09-11T15:50:38.028-0500"/>
+    <additionalProperties xmi:id="_nUTn45s3Ee-X5LJiIHQ4GA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_nUTn5Js3Ee-X5LJiIHQ4GA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_nUTn5Zs3Ee-X5LJiIHQ4GA" key="modified_date" value="2024-11-05T00:36:52.103-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_na0fkJs3Ee-X5LJiIHQ4GA" path="InformacionSalarialMOD" locked="true" lockDate="2024-11-05T00:35:11.197-0500">
+    <locker href="../../talend.project#_Ykp8kJs3Ee-X5LJiIHQ4GA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_VmTvYrYEEeifYqYoMs7T1A" property="_VmTvYLYEEeifYqYoMs7T1A" state="_na0fkJs3Ee-X5LJiIHQ4GA">
+    <process href="InformacionSalarialMOD_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

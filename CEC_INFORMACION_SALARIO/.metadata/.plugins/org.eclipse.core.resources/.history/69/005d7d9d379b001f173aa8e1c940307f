@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_gzmA4MrYEeeKhLtyIwxaaQ" id="_gzlZ0MrYEeeKhLtyIwxaaQ" label="Utils" version="0.1" statusCode="" item="_gzmA4srYEeeKhLtyIwxaaQ" displayName="Utils">
+    <author href="../../../talend.project#_Ykp8kJs3Ee-X5LJiIHQ4GA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_nXsTEJs3Ee-X5LJiIHQ4GA" path="Utils"/>
+  <TalendProperties:RoutineItem xmi:id="_gzmA4srYEeeKhLtyIwxaaQ" property="_gzmA4MrYEeeKhLtyIwxaaQ" state="_nXsTEJs3Ee-X5LJiIHQ4GA">
+    <content href="Utils_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

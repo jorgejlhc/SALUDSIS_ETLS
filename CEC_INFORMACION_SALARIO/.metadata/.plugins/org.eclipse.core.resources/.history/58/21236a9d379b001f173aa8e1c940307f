@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_pnzpcGZrEeuR09q81oztSg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_pnzpcWZrEeuR09q81oztSg" comment="" name="ID" prompt="ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_pnzpcmZrEeuR09q81oztSg" comment="" name="TCONTENIDO" prompt="TCONTENIDO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpc2ZrEeuR09q81oztSg" comment="" name="CONTENIDO" prompt="CONTENIDO?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_pnzpdGZrEeuR09q81oztSg" comment="" name="NOMBRE" prompt="NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpdWZrEeuR09q81oztSg" comment="" name="IDARCHIVO" prompt="IDARCHIVO?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_pnzpdmZrEeuR09q81oztSg" comment="" name="Host" prompt="Host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpd2ZrEeuR09q81oztSg" comment="" name="Port" prompt="Port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpeGZrEeuR09q81oztSg" comment="" name="Sid" prompt="Sid?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpeWZrEeuR09q81oztSg" comment="" name="User" prompt="User?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnzpemZrEeuR09q81oztSg" comment="" name="Password" prompt="Password?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

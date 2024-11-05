@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_pnhVkWZrEeuR09q81oztSg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_pnhVkmZrEeuR09q81oztSg" comment="" name="FECHA" prompt="FECHA?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_pnhVk2ZrEeuR09q81oztSg" comment="" name="CTA_CONT" prompt="CTA_CONT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVlGZrEeuR09q81oztSg" comment="" name="NOM_CONT" prompt="NOM_CONT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVlWZrEeuR09q81oztSg" comment="" name="TIPO_DOC" prompt="TIPO_DOC?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVlmZrEeuR09q81oztSg" comment="" name="NUM_DOC" prompt="NUM_DOC?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVl2ZrEeuR09q81oztSg" comment="" name="COSTO_EMPLEADO" prompt="COSTO_EMPLEADO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVmGZrEeuR09q81oztSg" comment="" name="Cargue_Id_Tmp_" prompt="Cargue_Id_Tmp_?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_pnhVmWZrEeuR09q81oztSg" comment="" name="NOM_CTA" prompt="NOM_CTA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVmmZrEeuR09q81oztSg" comment="" name="COUNT" prompt="COUNT?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_pnhVm2ZrEeuR09q81oztSg" comment="" name="ERROR_COUNT" prompt="ERROR_COUNT?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_pnhVnGZrEeuR09q81oztSg" comment="" name="ANEXO_ID_CEC" prompt="ANEXO_ID_CEC?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_pnhVnWZrEeuR09q81oztSg" comment="" name="ARCHIVO_SALIDAD_CEC" prompt="ARCHIVO_SALIDAD_CEC?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVnmZrEeuR09q81oztSg" comment="" name="MES" prompt="MES?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_pnhVn2ZrEeuR09q81oztSg" comment="" name="ANIO" prompt="ANIO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_pnhVoGZrEeuR09q81oztSg" comment="" name="PERIODO_" prompt="PERIODO_?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_pnhVoWZrEeuR09q81oztSg" comment="" name="GUID" prompt="GUID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pnhVomZrEeuR09q81oztSg" comment="" name="VALORMIN" prompt="VALORMIN?" promptNeeded="false" type="id_Float" value=""/>
+  <contextParameter xmi:id="_pnhVo2ZrEeuR09q81oztSg" comment="" name="PERSONA_ID" prompt="PERSONA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_pnhVpGZrEeuR09q81oztSg" comment="" name="SMS_ERROR1" prompt="SMS_ERROR1?" promptNeeded="false" type="id_String" value="&quot; Persona no existe o no cuenta con un contrato de planta o rural&quot;"/>
+  <contextParameter xmi:id="_pnhVpWZrEeuR09q81oztSg" comment="" name="COD_ESM" prompt="COD_ESM?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_pmA5sGZrEeuR09q81oztSg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_pmA5sWZrEeuR09q81oztSg" comment="" name="db_origen_AdditionalParams" prompt="db_origen_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_pmA5smZrEeuR09q81oztSg" comment="" name="db_origen_Login" prompt="db_origen_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_pmA5s2ZrEeuR09q81oztSg" comment="" name="db_origen_Password" prompt="db_origen_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:X5MGxqxHGybzJ19vXxJ2QmsqELpDPZckYV/I/OMb2yYIrkbgLAztCd1O/w=="/>
+  <contextParameter xmi:id="_pmA5tGZrEeuR09q81oztSg" comment="" name="db_origen_Schema" prompt="db_origen_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_pmA5tWZrEeuR09q81oztSg" comment="" name="db_origen_Port" prompt="db_origen_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_pmA5tmZrEeuR09q81oztSg" comment="" name="db_origen_Server" prompt="db_origen_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.20.19.37"/>
+  <contextParameter xmi:id="_pmA5t2ZrEeuR09q81oztSg" comment="" name="db_origen_ServiceName" prompt="db_origen_ServiceName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="PDBDEV"/>
+  <contextParameter xmi:id="_pmA5uGZrEeuR09q81oztSg" comment="" name="PathStorage" prompt="PathStorage?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C://Storage&quot;"/>
+</talendfile:ContextType>
