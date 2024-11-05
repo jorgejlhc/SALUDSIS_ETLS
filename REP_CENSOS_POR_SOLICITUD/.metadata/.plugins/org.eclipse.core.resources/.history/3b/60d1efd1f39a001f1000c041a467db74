@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_i9zykdp1EeWVqK-HG5SQsA" id="_i9zykNp1EeWVqK-HG5SQsA" label="Utils" version="0.4" statusCode="" item="_i9zyk9p1EeWVqK-HG5SQsA" maxInformationLevel="WARN" displayName="Utils">
+    <author href="../../../talend.project#_uEGRkJrzEe-F6LMZFFXjkA"/>
+    <informations xmi:id="_gynngHiSEeiOCP39aAu_Ng" level="WARN" text="The import java.util.Date is never used"/>
+    <informations xmi:id="_gynngXiSEeiOCP39aAu_Ng" level="WARN" text="The import java.util.Calendar is never used"/>
+    <informations xmi:id="_gynngniSEeiOCP39aAu_Ng" level="WARN" text="The import java.math.BigDecimal is never used"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0e1gYJrzEe-F6LMZFFXjkA" path="Utils"/>
+  <TalendProperties:RoutineItem xmi:id="_i9zyk9p1EeWVqK-HG5SQsA" property="_i9zykdp1EeWVqK-HG5SQsA" state="_0e1gYJrzEe-F6LMZFFXjkA">
+    <content href="Utils_0.4.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

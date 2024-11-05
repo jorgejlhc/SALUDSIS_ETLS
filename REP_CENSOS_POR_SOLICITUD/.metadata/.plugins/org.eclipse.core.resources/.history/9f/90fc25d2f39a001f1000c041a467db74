@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_c1jjkKE2Eeaw26USiC2S6Q" id="_c1aZoKE2Eeaw26USiC2S6Q" label="CensosxSolicitud" version="1.1" statusCode="PROD" item="_c1jjkqE2Eeaw26USiC2S6Q" displayName="CensosxSolicitud">
+    <author href="../../talend.project#_uEGRkJrzEe-F6LMZFFXjkA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0gLkMJrzEe-F6LMZFFXjkA" path="Censos"/>
+  <TalendProperties:ProcessItem xmi:id="_c1jjkqE2Eeaw26USiC2S6Q" property="_c1jjkKE2Eeaw26USiC2S6Q" state="_0gLkMJrzEe-F6LMZFFXjkA">
+    <process href="CensosxSolicitud_1.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
