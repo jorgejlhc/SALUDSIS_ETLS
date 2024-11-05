@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ZNl5AdquEeqSrKfMe3t_-w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ZNl5AtquEeqSrKfMe3t_-w" comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNl5A9quEeqSrKfMe3t_-w" comment="" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNl5BNquEeqSrKfMe3t_-w" comment="" name="SolicitudId" prompt="SolicitudId?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ZNl5BdquEeqSrKfMe3t_-w" comment="" name="FSolicitud" prompt="FSolicitud?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_ZNl5BtquEeqSrKfMe3t_-w" comment="" name="FInicial" prompt="FInicial?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_ZNl5B9quEeqSrKfMe3t_-w" comment="" name="FFinal" prompt="FFinal?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_ZNl5CNquEeqSrKfMe3t_-w" comment="" name="PersonaId" prompt="PersonaId?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ZNl5CdquEeqSrKfMe3t_-w" comment="" name="ArchivosId" prompt="ArchivosId?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ZNl5CtquEeqSrKfMe3t_-w" comment="" name="NombreArchivo" prompt="NombreArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNl5C9quEeqSrKfMe3t_-w" comment="" name="FechaArchivo" prompt="FechaArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNl5DNquEeqSrKfMe3t_-w" comment="" name="CarpetaTemp" prompt="CarpetaTemp?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNl5DdquEeqSrKfMe3t_-w" comment="" name="ID" prompt="ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_ZNl5DtquEeqSrKfMe3t_-w" comment="" name="FINICIO" prompt="FINICIO?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_ZNl5D9quEeqSrKfMe3t_-w" comment="" name="FECHA_NUMERO" prompt="FECHA_NUMERO?" promptNeeded="false" type="id_Date" value=""/>
+</talendfile:ContextType>

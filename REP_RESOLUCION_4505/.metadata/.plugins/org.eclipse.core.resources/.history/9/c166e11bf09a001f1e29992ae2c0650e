@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ZNImAtquEeqSrKfMe3t_-w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ZNImA9quEeqSrKfMe3t_-w" comment="" name="db_destino_Schema" prompt="db_destino_Schema?" promptNeeded="false" type="id_String" value="REP_SALUDSIS"/>
+  <contextParameter xmi:id="_ZNImBNquEeqSrKfMe3t_-w" comment="" name="db_destino_Port" prompt="db_destino_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_ZNImBdquEeqSrKfMe3t_-w" comment="" name="db_destino_Password" prompt="db_destino_Password?" promptNeeded="false" type="id_Password" value="zkS9w1tJMNfVmvPTheRB5Q=="/>
+  <contextParameter xmi:id="_ZNImBtquEeqSrKfMe3t_-w" comment="" name="db_destino_AdditionalParams" prompt="db_destino_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ZNImB9quEeqSrKfMe3t_-w" comment="" name="db_destino_Sid" prompt="db_destino_Sid?" promptNeeded="false" type="id_String" value="ORCL"/>
+  <contextParameter xmi:id="_ZNImCNquEeqSrKfMe3t_-w" comment="" name="db_destino_Server" prompt="db_destino_Server?" promptNeeded="false" type="id_String" value="172.20.19.158"/>
+  <contextParameter xmi:id="_ZNImCdquEeqSrKfMe3t_-w" comment="" name="db_destino_Login" prompt="db_destino_Login?" promptNeeded="false" type="id_String" value="REP_SALUDSIS"/>
+</talendfile:ContextType>

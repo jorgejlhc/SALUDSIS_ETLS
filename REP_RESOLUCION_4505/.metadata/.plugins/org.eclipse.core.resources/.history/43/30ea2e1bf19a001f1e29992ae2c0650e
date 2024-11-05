@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_hSfCgNkIEeajytsfNplUXQ" id="_hScmQNkIEeajytsfNplUXQ" label="Resolucion4505" description="Genera archivo tipo 2 de la resolución 4505 de 2012 y segun explicaciones-anexo-tecnico-29-de-mayo-2015" version="1.0" statusCode="PROD" item="_hSfCgtkIEeajytsfNplUXQ" displayName="Resolucion4505">
+    <author href="../../talend.project#_2KbcUJrvEe-RKcUjmbxHog"/>
+    <additionalProperties xmi:id="_HGAzsJrwEe-RKcUjmbxHog" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_HGAzsZrwEe-RKcUjmbxHog" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_HGAzsprwEe-RKcUjmbxHog" key="created_date" value="2024-11-04T16:02:33.067-0500"/>
+    <additionalProperties xmi:id="_HGAzs5rwEe-RKcUjmbxHog" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_HGAztJrwEe-RKcUjmbxHog" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_HGAztZrwEe-RKcUjmbxHog" key="modified_date" value="2024-11-04T16:07:58.723-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_HDj8oJrwEe-RKcUjmbxHog" path="R4505" locked="true" lockDate="2024-11-04T16:03:41.887-0500">
+    <locker href="../../talend.project#_2KbcUJrvEe-RKcUjmbxHog"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_hSfCgtkIEeajytsfNplUXQ" property="_hSfCgNkIEeajytsfNplUXQ" state="_HDj8oJrwEe-RKcUjmbxHog">
+    <process href="Resolucion4505_1.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
