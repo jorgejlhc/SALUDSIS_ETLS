@@ -1,0 +1,198 @@
+{
+  "itemId" : "_S7RK4MVdEeyR66B5U8FzPg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_klFEwcVeEeyR66B5U8FzPg",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_klFEwsVeEeyR66B5U8FzPg",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_klFEw8VeEeyR66B5U8FzPg",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_klFExcVeEeyR66B5U8FzPg",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_klFExMVeEeyR66B5U8FzPg",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_klFExsVeEeyR66B5U8FzPg",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_klFEx8VeEeyR66B5U8FzPg",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_klFEyMVeEeyR66B5U8FzPg",
+      "name" : "PathStorage"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_xmQMMI7SEeWTauwHhyrtXA",
+    "parameterList" : [ {
+      "id" : "_klQrCMVeEeyR66B5U8FzPg",
+      "name" : "CONTENIDO"
+    }, {
+      "id" : "_klQrC8VeEeyR66B5U8FzPg",
+      "name" : "Host"
+    }, {
+      "id" : "_klQrBsVeEeyR66B5U8FzPg",
+      "name" : "ID"
+    }, {
+      "id" : "_klQrCsVeEeyR66B5U8FzPg",
+      "name" : "IDARCHIVO"
+    }, {
+      "id" : "_klQrCcVeEeyR66B5U8FzPg",
+      "name" : "NOMBRE"
+    }, {
+      "id" : "_klQrD8VeEeyR66B5U8FzPg",
+      "name" : "Password"
+    }, {
+      "id" : "_klQrDMVeEeyR66B5U8FzPg",
+      "name" : "Port"
+    }, {
+      "id" : "_klQrDcVeEeyR66B5U8FzPg",
+      "name" : "Sid"
+    }, {
+      "id" : "_klQrB8VeEeyR66B5U8FzPg",
+      "name" : "TCONTENIDO"
+    }, {
+      "id" : "_klQrDsVeEeyR66B5U8FzPg",
+      "name" : "User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_klG58cVeEeyR66B5U8FzPg",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_klG58sVeEeyR66B5U8FzPg",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_klG588VeEeyR66B5U8FzPg",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_klG59cVeEeyR66B5U8FzPg",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_klG59MVeEeyR66B5U8FzPg",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_klG59sVeEeyR66B5U8FzPg",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_klG598VeEeyR66B5U8FzPg",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_rE4mELXeEeifYqYoMs7T1A",
+    "parameterList" : [ {
+      "id" : "_klQq88VeEeyR66B5U8FzPg",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_klQq_MVeEeyR66B5U8FzPg",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_klQrA8VeEeyR66B5U8FzPg",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_klQq9MVeEeyR66B5U8FzPg",
+      "name" : "ERROR"
+    }, {
+      "id" : "_klQq-MVeEeyR66B5U8FzPg",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_klQq_sVeEeyR66B5U8FzPg",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_klQq8sVeEeyR66B5U8FzPg",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_klQq9cVeEeyR66B5U8FzPg",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_klQrAMVeEeyR66B5U8FzPg",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_klQq98VeEeyR66B5U8FzPg",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_klQq9sVeEeyR66B5U8FzPg",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_klQq_cVeEeyR66B5U8FzPg",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_klQq_8VeEeyR66B5U8FzPg",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_klQq-cVeEeyR66B5U8FzPg",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_klQq-sVeEeyR66B5U8FzPg",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_klQrAcVeEeyR66B5U8FzPg",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_klQq-8VeEeyR66B5U8FzPg",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_klQrAsVeEeyR66B5U8FzPg",
+      "name" : "RutaSistema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_gVaw8MVfEeyR66B5U8FzPg",
+    "parameterList" : [ {
+      "id" : "_gVkh88VfEeyR66B5U8FzPg",
+      "name" : "AnexosId"
+    }, {
+      "id" : "_gVkh8cVfEeyR66B5U8FzPg",
+      "name" : "ArchivoErrores"
+    }, {
+      "id" : "_gVkh-cVfEeyR66B5U8FzPg",
+      "name" : "Cups_Ignorada"
+    }, {
+      "id" : "_gVkh8sVfEeyR66B5U8FzPg",
+      "name" : "CupsIgnorados"
+    }, {
+      "id" : "_8JTGwsWPEeyYpYj4zYHxAw",
+      "name" : "Error_Cups"
+    }, {
+      "id" : "_8JTGw8WPEeyYpYj4zYHxAw",
+      "name" : "Error_TarifaIss"
+    }, {
+      "id" : "_8JTGxMWPEeyYpYj4zYHxAw",
+      "name" : "Error_TarifaSoat"
+    }, {
+      "id" : "_gVkh9MVfEeyR66B5U8FzPg",
+      "name" : "GUID"
+    }, {
+      "id" : "_gVkh9sVfEeyR66B5U8FzPg",
+      "name" : "Linea"
+    }, {
+      "id" : "_P6yUQsWQEeyYpYj4zYHxAw",
+      "name" : "LineaCodigoSoat"
+    }, {
+      "id" : "_P6yUQMWQEeyYpYj4zYHxAw",
+      "name" : "LineaCups"
+    }, {
+      "id" : "_P6yUQcWQEeyYpYj4zYHxAw",
+      "name" : "LineaTarifaIss"
+    }, {
+      "id" : "_oEzcsMWaEeyAK87H-Ft6Zg",
+      "name" : "Mensaje_2"
+    }, {
+      "id" : "_8JTGwMWPEeyYpYj4zYHxAw",
+      "name" : "TarifaIss_Ignorada"
+    }, {
+      "id" : "_8JTGwcWPEeyYpYj4zYHxAw",
+      "name" : "TarifaSoat_Ignorada"
+    } ]
+  } ]
+}

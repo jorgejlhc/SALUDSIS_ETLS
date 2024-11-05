@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_gVkh8MVfEeyR66B5U8FzPg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_gVkh8cVfEeyR66B5U8FzPg" comment="" name="ArchivoErrores" prompt="ArchivoErrores?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_gVkh8sVfEeyR66B5U8FzPg" comment="" name="CupsIgnorados" prompt="CupsIgnorados?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_gVkh88VfEeyR66B5U8FzPg" comment="" name="AnexosId" prompt="AnexosId?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_gVkh9MVfEeyR66B5U8FzPg" comment="" name="GUID" prompt="GUID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_gVkh9sVfEeyR66B5U8FzPg" comment="" name="Linea" prompt="Linea?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_gVkh-cVfEeyR66B5U8FzPg" comment="" name="Cups_Ignorada" prompt="Cups_Ignorada?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8JTGwMWPEeyYpYj4zYHxAw" comment="" name="TarifaIss_Ignorada" prompt="TarifaIss_Ignorada?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8JTGwcWPEeyYpYj4zYHxAw" comment="" name="TarifaSoat_Ignorada" prompt="TarifaSoat_Ignorada?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8JTGwsWPEeyYpYj4zYHxAw" comment="" name="Error_Cups" prompt="Error_Cups?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8JTGw8WPEeyYpYj4zYHxAw" comment="" name="Error_TarifaIss" prompt="Error_TarifaIss?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_8JTGxMWPEeyYpYj4zYHxAw" comment="" name="Error_TarifaSoat" prompt="Error_TarifaSoat?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_P6yUQMWQEeyYpYj4zYHxAw" comment="" name="LineaCups" prompt="LineaCups?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_P6yUQcWQEeyYpYj4zYHxAw" comment="" name="LineaTarifaIss" prompt="LineaTarifaIss?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_P6yUQsWQEeyYpYj4zYHxAw" comment="" name="LineaCodigoSoat" prompt="LineaCodigoSoat?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_oEzcsMWaEeyAK87H-Ft6Zg" comment="" name="Mensaje_2" prompt="Mensaje_2?" promptNeeded="false" type="id_String" value="&quot; no se encuentra parametrizada como elemento en el sistema y sera ignorada de la carga del archivo de homologación&quot;"/>
+</talendfile:ContextType>

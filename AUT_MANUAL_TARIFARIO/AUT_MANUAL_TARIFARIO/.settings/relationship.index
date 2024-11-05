@@ -1,0 +1,51 @@
+[ {
+  "baseItem" : {
+    "id" : "_S7RK4MVdEeyR66B5U8FzPg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_THoH0ELSEeaMX_aculPOTQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WyM8IELSEeaMX_aculPOTQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_gVaw8MVfEeyR66B5U8FzPg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_rE4mELXeEeifYqYoMs7T1A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xmQMMI7SEeWTauwHhyrtXA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_so3EoEfbEe-1v65B-TjqLg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AUT_MANUAL_TARIFARIO:_S7RK4MVdEeyR66B5U8FzPg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]
