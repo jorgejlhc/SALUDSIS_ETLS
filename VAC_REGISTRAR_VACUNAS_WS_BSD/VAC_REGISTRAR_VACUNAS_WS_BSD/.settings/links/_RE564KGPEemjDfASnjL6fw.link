@@ -1,0 +1,288 @@
+{
+  "itemId" : "_RE564KGPEemjDfASnjL6fw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_RNziAXgtEeuOdN3RxhfqNw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_RNziAngtEeuOdN3RxhfqNw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_RNziA3gtEeuOdN3RxhfqNw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_RNziBXgtEeuOdN3RxhfqNw",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_RNziBHgtEeuOdN3RxhfqNw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_RNziBngtEeuOdN3RxhfqNw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_RNziB3gtEeuOdN3RxhfqNw",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_RNziCHgtEeuOdN3RxhfqNw",
+      "name" : "PathStorage"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_RO1cyngtEeuOdN3RxhfqNw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_RO1cwngtEeuOdN3RxhfqNw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_RO1cxngtEeuOdN3RxhfqNw",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_RO1cy3gtEeuOdN3RxhfqNw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_RO1cwXgtEeuOdN3RxhfqNw",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_RO1cw3gtEeuOdN3RxhfqNw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_RO1cxXgtEeuOdN3RxhfqNw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_RO1cxHgtEeuOdN3RxhfqNw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_RO1cx3gtEeuOdN3RxhfqNw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_RO1cyHgtEeuOdN3RxhfqNw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_RO1cyXgtEeuOdN3RxhfqNw",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_37uuQEvfEemd2Ks9XSsx7A",
+    "parameterList" : [ {
+      "id" : "_RPcgxHgtEeuOdN3RxhfqNw",
+      "name" : "ACOMPANANTE"
+    }, {
+      "id" : "_RPcgw3gtEeuOdN3RxhfqNw",
+      "name" : "CERTIFICADO"
+    }, {
+      "id" : "_RPcgyngtEeuOdN3RxhfqNw",
+      "name" : "COD_ASEGURADORA"
+    }, {
+      "id" : "_RPcgyHgtEeuOdN3RxhfqNw",
+      "name" : "COD_DEPTO"
+    }, {
+      "id" : "_RPcgx3gtEeuOdN3RxhfqNw",
+      "name" : "COD_MCPIO"
+    }, {
+      "id" : "_RPcgyXgtEeuOdN3RxhfqNw",
+      "name" : "COD_PAIS"
+    }, {
+      "id" : "_RPcgzngtEeuOdN3RxhfqNw",
+      "name" : "COD_REGIMEN"
+    }, {
+      "id" : "_RPb5tXgtEeuOdN3RxhfqNw",
+      "name" : "COD_RH"
+    }, {
+      "id" : "_RPb5uHgtEeuOdN3RxhfqNw",
+      "name" : "CODIGO_ETNIA"
+    }, {
+      "id" : "_RPb5s3gtEeuOdN3RxhfqNw",
+      "name" : "CONSECUTIVO"
+    }, {
+      "id" : "_RPcgzHgtEeuOdN3RxhfqNw",
+      "name" : "CORREO"
+    }, {
+      "id" : "_RPb5u3gtEeuOdN3RxhfqNw",
+      "name" : "CUIDADOR_ID"
+    }, {
+      "id" : "_RPcgxngtEeuOdN3RxhfqNw",
+      "name" : "DIRECCION"
+    }, {
+      "id" : "_RPcgwHgtEeuOdN3RxhfqNw",
+      "name" : "DOCUMENTO"
+    }, {
+      "id" : "_RPb5wXgtEeuOdN3RxhfqNw",
+      "name" : "DOCUMENTO_M"
+    }, {
+      "id" : "_RPb5uXgtEeuOdN3RxhfqNw",
+      "name" : "EDAD"
+    }, {
+      "id" : "_RPb5t3gtEeuOdN3RxhfqNw",
+      "name" : "ESTADO_REG"
+    }, {
+      "id" : "_RPb5ungtEeuOdN3RxhfqNw",
+      "name" : "FECHA_NACIMIENTO"
+    }, {
+      "id" : "_RPcgwXgtEeuOdN3RxhfqNw",
+      "name" : "FECHA_NACIMIENTOP"
+    }, {
+      "id" : "_RPb5tngtEeuOdN3RxhfqNw",
+      "name" : "GRUPO_SANGUINEO"
+    }, {
+      "id" : "_RPcgwngtEeuOdN3RxhfqNw",
+      "name" : "JSON_PERSONAS"
+    }, {
+      "id" : "_RPb5vHgtEeuOdN3RxhfqNw",
+      "name" : "PARENTESCO_CUIDADOR"
+    }, {
+      "id" : "_RPb5sngtEeuOdN3RxhfqNw",
+      "name" : "PERSONAS_ID"
+    }, {
+      "id" : "_RPb5xXgtEeuOdN3RxhfqNw",
+      "name" : "PRIMER_APELLIDO"
+    }, {
+      "id" : "_RPb5v3gtEeuOdN3RxhfqNw",
+      "name" : "PRIMER_APELLIDO_M"
+    }, {
+      "id" : "_RPb5w3gtEeuOdN3RxhfqNw",
+      "name" : "PRIMER_NOMBRE"
+    }, {
+      "id" : "_RPb5vXgtEeuOdN3RxhfqNw",
+      "name" : "PRIMER_NOMBRE_M"
+    }, {
+      "id" : "_RPcgzXgtEeuOdN3RxhfqNw",
+      "name" : "REGISTRO_TABLA_ID"
+    }, {
+      "id" : "_RPb5sXgtEeuOdN3RxhfqNw",
+      "name" : "REGISTROSDSB_ID"
+    }, {
+      "id" : "_RPb5xngtEeuOdN3RxhfqNw",
+      "name" : "SEGUNDO_APELLIDO"
+    }, {
+      "id" : "_RPb5wHgtEeuOdN3RxhfqNw",
+      "name" : "SEGUNDO_APELLIDO_M"
+    }, {
+      "id" : "_RPb5xHgtEeuOdN3RxhfqNw",
+      "name" : "SEGUNDO_NOMBRE"
+    }, {
+      "id" : "_RPb5vngtEeuOdN3RxhfqNw",
+      "name" : "SEGUNDO_NOMBRE_M"
+    }, {
+      "id" : "_RPb5tHgtEeuOdN3RxhfqNw",
+      "name" : "SIGLA_SEXO"
+    }, {
+      "id" : "_RPcgxXgtEeuOdN3RxhfqNw",
+      "name" : "TELEFONO"
+    }, {
+      "id" : "_RPcgy3gtEeuOdN3RxhfqNw",
+      "name" : "TIPO_AFILIACION"
+    }, {
+      "id" : "_RPb5x3gtEeuOdN3RxhfqNw",
+      "name" : "TIPODOCUMENTO"
+    }, {
+      "id" : "_RPb5wngtEeuOdN3RxhfqNw",
+      "name" : "TIPODOCUMENTO_M"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_EkQ8EEvgEemd2Ks9XSsx7A",
+    "parameterList" : [ {
+      "id" : "_RQEL1ngtEeuOdN3RxhfqNw",
+      "name" : "ACTUALIZACION"
+    }, {
+      "id" : "_RQEL4HgtEeuOdN3RxhfqNw",
+      "name" : "BIOLOGICOS_ID"
+    }, {
+      "id" : "_RQEL1HgtEeuOdN3RxhfqNw",
+      "name" : "CAMPANIA_ID"
+    }, {
+      "id" : "_RQEL2HgtEeuOdN3RxhfqNw",
+      "name" : "COMERCIAL_ID"
+    }, {
+      "id" : "_RQEL0ngtEeuOdN3RxhfqNw",
+      "name" : "DOSIS_ID"
+    }, {
+      "id" : "_RQEL2ngtEeuOdN3RxhfqNw",
+      "name" : "EDAD_ANIOS"
+    }, {
+      "id" : "_RQEL3HgtEeuOdN3RxhfqNw",
+      "name" : "EDAD_DIAS"
+    }, {
+      "id" : "_RQEL23gtEeuOdN3RxhfqNw",
+      "name" : "EDAD_MESES"
+    }, {
+      "id" : "_RQEL3XgtEeuOdN3RxhfqNw",
+      "name" : "EDAD_TOTAL"
+    }, {
+      "id" : "_RQEL1XgtEeuOdN3RxhfqNw",
+      "name" : "FECHA_VACUNA"
+    }, {
+      "id" : "_RQEL43gtEeuOdN3RxhfqNw",
+      "name" : "FECHA_VACUNA_EDAD"
+    }, {
+      "id" : "_RQEL3ngtEeuOdN3RxhfqNw",
+      "name" : "FUNCIONARIO"
+    }, {
+      "id" : "_RQEL13gtEeuOdN3RxhfqNw",
+      "name" : "INSTITUCION"
+    }, {
+      "id" : "_RQEL4ngtEeuOdN3RxhfqNw",
+      "name" : "JSON_VACUNAS"
+    }, {
+      "id" : "_RQEL2XgtEeuOdN3RxhfqNw",
+      "name" : "LOTE"
+    }, {
+      "id" : "_RQEL03gtEeuOdN3RxhfqNw",
+      "name" : "PRESENTACION_ID"
+    }, {
+      "id" : "_RQEL4XgtEeuOdN3RxhfqNw",
+      "name" : "TIPO_VACUNA"
+    }, {
+      "id" : "_RQEL0XgtEeuOdN3RxhfqNw",
+      "name" : "VACUNAS_ID"
+    }, {
+      "id" : "_RQEL33gtEeuOdN3RxhfqNw",
+      "name" : "DAPLICADAS_ID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_tQjrkGj_Eeioyak2njiChA",
+    "parameterList" : [ {
+      "id" : "_RQhe1HgtEeuOdN3RxhfqNw",
+      "name" : "ERRORES"
+    }, {
+      "id" : "_RQhe03gtEeuOdN3RxhfqNw",
+      "name" : "IdTabla"
+    }, {
+      "id" : "_RQhe1XgtEeuOdN3RxhfqNw",
+      "name" : "RESULTADO"
+    }, {
+      "id" : "_RQhe3HgtEeuOdN3RxhfqNw",
+      "name" : "UlrActionSoapActualizarPersona"
+    }, {
+      "id" : "_RQhe2HgtEeuOdN3RxhfqNw",
+      "name" : "UlrActionSoapConsultarPersona"
+    }, {
+      "id" : "_RQhe1ngtEeuOdN3RxhfqNw",
+      "name" : "UlrActionSoapInsertarPersona"
+    }, {
+      "id" : "_RQhe2XgtEeuOdN3RxhfqNw",
+      "name" : "UlrActionSoapInsertarPersonaVacuna"
+    }, {
+      "id" : "_RQhe0ngtEeuOdN3RxhfqNw",
+      "name" : "UrlActionSoap"
+    }, {
+      "id" : "_RQhe2ngtEeuOdN3RxhfqNw",
+      "name" : "UrlActionSoapInsertarAfiliacionPersona"
+    }, {
+      "id" : "_RQhe23gtEeuOdN3RxhfqNw",
+      "name" : "UrlActionSoapInsertarUbicacionPersona"
+    }, {
+      "id" : "_RQhe13gtEeuOdN3RxhfqNw",
+      "name" : "UrlActionSoapInsertarVacuna"
+    }, {
+      "id" : "_RQhe0XgtEeuOdN3RxhfqNw",
+      "name" : "UrlEndPoint"
+    } ]
+  } ]
+}

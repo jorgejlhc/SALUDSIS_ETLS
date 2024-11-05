@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_tQsOc2j_Eeioyak2njiChA" id="_tQjrkGj_Eeioyak2njiChA" label="WebPai2_0" version="0.1" statusCode="" item="_tQsOdWj_Eeioyak2njiChA" displayName="WebPai2.0">
+    <author href="../../talend.project#_9p670JszEe-KY-ypCc_Y4A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_GqdIPZs0Ee-KY-ypCc_Y4A" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_tQsOdWj_Eeioyak2njiChA" property="_tQsOc2j_Eeioyak2njiChA" state="_GqdIPZs0Ee-KY-ypCc_Y4A" defaultContext="Default">
+    <context href="WebPai2_0_0.1.item#_RQhe0HgtEeuOdN3RxhfqNw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_EkxSYUvgEemd2Ks9XSsx7A" id="_EkQ8EEvgEemd2Ks9XSsx7A" label="InsertarVacunas" version="0.1" statusCode="" item="_EkxSY0vgEemd2Ks9XSsx7A" displayName="InsertarVacunas">
+    <author href="../../talend.project#_9p670JszEe-KY-ypCc_Y4A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_GqWalJs0Ee-KY-ypCc_Y4A" path="Job"/>
+  <TalendProperties:ContextItem xmi:id="_EkxSY0vgEemd2Ks9XSsx7A" property="_EkxSYUvgEemd2Ks9XSsx7A" state="_GqWalJs0Ee-KY-ypCc_Y4A" defaultContext="Default">
+    <context href="InsertarVacunas_0.1.item#_RQEL0HgtEeuOdN3RxhfqNw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RPb5sHgtEeuOdN3RxhfqNw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RPb5sXgtEeuOdN3RxhfqNw" comment="Id del backup de datos no guardados en PAI 2.0" name="REGISTROSDSB_ID" prompt="REGISTROSDSB_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RPb5sngtEeuOdN3RxhfqNw" comment="Id de la persona" name="PERSONAS_ID" prompt="PERSONAS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RPb5s3gtEeuOdN3RxhfqNw" comment="Consecutivo de la persona" name="CONSECUTIVO" prompt="CONSECUTIVO?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RPb5tHgtEeuOdN3RxhfqNw" comment="Sigla del sexo de la persona" name="SIGLA_SEXO" prompt="SIGLA_SEXO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5tXgtEeuOdN3RxhfqNw" comment="Código RH de la persona" name="COD_RH" prompt="COD_RH?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5tngtEeuOdN3RxhfqNw" comment="Grupo sanguineo de la persona" name="GRUPO_SANGUINEO" prompt="GRUPO_SANGUINEO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5t3gtEeuOdN3RxhfqNw" comment="Estado de registro de la persona" name="ESTADO_REG" prompt="ESTADO_REG?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_RPb5uHgtEeuOdN3RxhfqNw" comment="Código étnico de la persona" name="CODIGO_ETNIA" prompt="CODIGO_ETNIA?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_RPb5uXgtEeuOdN3RxhfqNw" comment="Edad de la persona" name="EDAD" prompt="EDAD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5ungtEeuOdN3RxhfqNw" comment="Fecha de nacimiento" name="FECHA_NACIMIENTO" prompt="FECHA_NACIMIENTO?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_RPb5u3gtEeuOdN3RxhfqNw" comment="Id del cuidador" name="CUIDADOR_ID" prompt="CUIDADOR_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RPb5vHgtEeuOdN3RxhfqNw" comment="Parentesco del cuidador" name="PARENTESCO_CUIDADOR" prompt="PARENTESCO_CUIDADOR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5vXgtEeuOdN3RxhfqNw" comment="Primer nombre de la madre" name="PRIMER_NOMBRE_M" prompt="PRIMER_NOMBRE_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5vngtEeuOdN3RxhfqNw" comment="Segundo nombre de la madre" name="SEGUNDO_NOMBRE_M" prompt="SEGUNDO_NOMBRE_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5v3gtEeuOdN3RxhfqNw" comment="Primer apellido de la madre" name="PRIMER_APELLIDO_M" prompt="PRIMER_APELLIDO_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5wHgtEeuOdN3RxhfqNw" comment="Segundo apellido de la madre" name="SEGUNDO_APELLIDO_M" prompt="SEGUNDO_APELLIDO_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5wXgtEeuOdN3RxhfqNw" comment="Documento de la madre" name="DOCUMENTO_M" prompt="DOCUMENTO_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5wngtEeuOdN3RxhfqNw" comment="Tipo de documento de la madre" name="TIPODOCUMENTO_M" prompt="TIPODOCUMENTO_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5w3gtEeuOdN3RxhfqNw" comment="Primer nombre de la persona" name="PRIMER_NOMBRE" prompt="PRIMER_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5xHgtEeuOdN3RxhfqNw" comment="Segundo nombre de la persona" name="SEGUNDO_NOMBRE" prompt="SEGUNDO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5xXgtEeuOdN3RxhfqNw" comment="Primer apellido de la persona" name="PRIMER_APELLIDO" prompt="PRIMER_APELLIDO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5xngtEeuOdN3RxhfqNw" comment="Segundo apellido de la persona" name="SEGUNDO_APELLIDO" prompt="SEGUNDO_APELLIDO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPb5x3gtEeuOdN3RxhfqNw" comment="Tipo de documento de la persona" name="TIPODOCUMENTO" prompt="TIPODOCUMENTO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgwHgtEeuOdN3RxhfqNw" comment="Documento de la persona" name="DOCUMENTO" prompt="DOCUMENTO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgwXgtEeuOdN3RxhfqNw" comment="Fecha de nacimiento de la persona" name="FECHA_NACIMIENTOP" prompt="FECHA_NACIMIENTOP?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgwngtEeuOdN3RxhfqNw" comment="JSON para guardar la data de la persona" name="JSON_PERSONAS" prompt="JSON_PERSONAS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgw3gtEeuOdN3RxhfqNw" comment="Número de certificado nacido vivo" name="CERTIFICADO" prompt="CERTIFICADO?" promptNeeded="false" type="id_BigDecimal" value="0"/>
+  <contextParameter xmi:id="_RPcgxHgtEeuOdN3RxhfqNw" comment="Nombre del acompañante" name="ACOMPANANTE" prompt="ACOMPANANTE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgxXgtEeuOdN3RxhfqNw" comment="Telefono de la persona" name="TELEFONO" prompt="TELEFONO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgxngtEeuOdN3RxhfqNw" comment="Dirección de residencia de la persona" name="DIRECCION" prompt="DIRECCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgx3gtEeuOdN3RxhfqNw" comment="Código DIVIPOLA del municipio" name="COD_MCPIO" prompt="COD_MCPIO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_RPcgyHgtEeuOdN3RxhfqNw" comment="Código DIVIPOLA del departamento" name="COD_DEPTO" prompt="COD_DEPTO?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_RPcgyXgtEeuOdN3RxhfqNw" comment="Código DIVIPOLA del país" name="COD_PAIS" prompt="COD_PAIS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgyngtEeuOdN3RxhfqNw" comment="Código de la aseguradora de la persona" name="COD_ASEGURADORA" prompt="COD_ASEGURADORA?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgy3gtEeuOdN3RxhfqNw" comment="Tipo de afiliación de la persona" name="TIPO_AFILIACION" prompt="TIPO_AFILIACION?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_RPcgzHgtEeuOdN3RxhfqNw" comment="Correo eléctronico de la persona" name="CORREO" prompt="CORREO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RPcgzXgtEeuOdN3RxhfqNw" comment="Id del registro de la persona en la tabla de backup de datos" name="REGISTRO_TABLA_ID" prompt="REGISTRO_TABLA_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_RPcgzngtEeuOdN3RxhfqNw" comment="Código del régimen de afiliación" name="COD_REGIMEN" prompt="COD_REGIMEN?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>
