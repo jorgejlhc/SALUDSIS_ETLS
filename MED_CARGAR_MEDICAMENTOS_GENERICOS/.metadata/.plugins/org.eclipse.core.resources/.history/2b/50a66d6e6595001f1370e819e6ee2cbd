@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_W-9zACOkEeutYMi5Po4IXA" id="_-ZEPkE5tEe-lTKsqPSY37A" label="ServiceCargueMedGenericos" version="0.2" statusCode="" item="_W-9zAiOkEeutYMi5Po4IXA" displayName="ServiceCargueMedGenericos">
+    <author href="../../talend.project#_NyVtkJVlEe-1CKSJB1KOSw"/>
+    <additionalProperties xmi:id="_W_G88COkEeutYMi5Po4IXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G88SOkEeutYMi5Po4IXA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G88iOkEeutYMi5Po4IXA" key="created_date" value="2024-07-30T07:19:31.721-0500"/>
+    <additionalProperties xmi:id="_W_G88yOkEeutYMi5Po4IXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G89COkEeutYMi5Po4IXA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G89SOkEeutYMi5Po4IXA" key="modified_date" value="2024-07-30T07:37:28.473-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_bmpK8JVlEe-1CKSJB1KOSw" path="Servicio"/>
+  <TalendProperties:ProcessItem xmi:id="_W-9zAiOkEeutYMi5Po4IXA" property="_W-9zACOkEeutYMi5Po4IXA" state="_bmpK8JVlEe-1CKSJB1KOSw">
+    <process href="ServiceCargueMedGenericos_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

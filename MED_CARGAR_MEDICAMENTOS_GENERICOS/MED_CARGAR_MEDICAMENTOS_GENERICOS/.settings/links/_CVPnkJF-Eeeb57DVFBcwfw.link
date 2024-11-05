@@ -1,0 +1,85 @@
+{
+  "itemId" : "_CVPnkJF-Eeeb57DVFBcwfw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_RMp_EYuaEe6uJYCE7yLgZA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_RMp_EouaEe6uJYCE7yLgZA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_RMp_E4uaEe6uJYCE7yLgZA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_RMp_FYuaEe6uJYCE7yLgZA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_RMp_FIuaEe6uJYCE7yLgZA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_RMp_FouaEe6uJYCE7yLgZA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_RMp_F4uaEe6uJYCE7yLgZA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_RM4BgYuaEe6uJYCE7yLgZA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_RM4BhYuaEe6uJYCE7yLgZA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_RM4BiYuaEe6uJYCE7yLgZA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_RM4BgouaEe6uJYCE7yLgZA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_RM4BhIuaEe6uJYCE7yLgZA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_RM4Bg4uaEe6uJYCE7yLgZA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_RM4BhouaEe6uJYCE7yLgZA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_RM4Bh4uaEe6uJYCE7yLgZA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_RM4BiIuaEe6uJYCE7yLgZA",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_5CxA4DJAEeao6dEBhb7uDg",
+    "parameterList" : [ {
+      "id" : "_RM8S8YuaEe6uJYCE7yLgZA",
+      "name" : "carga_id"
+    }, {
+      "id" : "_RM8S8ouaEe6uJYCE7yLgZA",
+      "name" : "Contenido"
+    }, {
+      "id" : "_RM8S9YuaEe6uJYCE7yLgZA",
+      "name" : "result"
+    }, {
+      "id" : "_RM8S9IuaEe6uJYCE7yLgZA",
+      "name" : "Salida"
+    }, {
+      "id" : "_RM8S84uaEe6uJYCE7yLgZA",
+      "name" : "TContenido"
+    }, {
+      "id" : "_RM8S9ouaEe6uJYCE7yLgZA",
+      "name" : "nombre"
+    }, {
+      "id" : "_RM8S94uaEe6uJYCE7yLgZA",
+      "name" : "IsValid"
+    } ]
+  } ]
+}
