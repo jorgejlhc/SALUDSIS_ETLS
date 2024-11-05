@@ -1,0 +1,63 @@
+[ {
+  "baseItem" : {
+    "id" : "_AOwMoEZcEe-i5J-kPNOGZg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_SIATH:_ulVYkMTeEemSEd7F3yoKrA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ulVYkMTeEemSEd7F3yoKrA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-v_ZoLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_l49MYMTgEemSEd7F3yoKrA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ObtenerPosicionCaracter",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ValidarEmail",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_muHlMK-_EeiBYNtwWhZd2Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

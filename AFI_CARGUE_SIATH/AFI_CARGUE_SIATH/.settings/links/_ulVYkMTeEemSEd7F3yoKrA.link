@@ -1,0 +1,226 @@
+{
+  "itemId" : "_ulVYkMTeEemSEd7F3yoKrA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_-n5uMWZiEeumYLK9QdMPxA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_-n5uMmZiEeumYLK9QdMPxA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_-n5uM2ZiEeumYLK9QdMPxA",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_-n5uNGZiEeumYLK9QdMPxA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_-n5uNWZiEeumYLK9QdMPxA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_-n5uNmZiEeumYLK9QdMPxA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_-n5uN2ZiEeumYLK9QdMPxA",
+      "name" : "db_origen_Schema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_-nmMM2ZiEeumYLK9QdMPxA",
+      "name" : "db_destino_ServiceName"
+    }, {
+      "id" : "_-nmMNGZiEeumYLK9QdMPxA",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_-nmMNmZiEeumYLK9QdMPxA",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_-nmMMmZiEeumYLK9QdMPxA",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_-nmMN2ZiEeumYLK9QdMPxA",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_-nmMNWZiEeumYLK9QdMPxA",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_-nmMMWZiEeumYLK9QdMPxA",
+      "name" : "db_destino_Password"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_-mlfkmZiEeumYLK9QdMPxA",
+      "name" : "Project"
+    }, {
+      "id" : "_-mlfmmZiEeumYLK9QdMPxA",
+      "name" : "server_destino"
+    }, {
+      "id" : "_-mlfmWZiEeumYLK9QdMPxA",
+      "name" : "user_origen"
+    }, {
+      "id" : "_-mlfnGZiEeumYLK9QdMPxA",
+      "name" : "user_destino"
+    }, {
+      "id" : "_-mlflGZiEeumYLK9QdMPxA",
+      "name" : "context"
+    }, {
+      "id" : "_-mlflWZiEeumYLK9QdMPxA",
+      "name" : "origen"
+    }, {
+      "id" : "_-mlfmGZiEeumYLK9QdMPxA",
+      "name" : "service_name_origen"
+    }, {
+      "id" : "_-mlfk2ZiEeumYLK9QdMPxA",
+      "name" : "job"
+    }, {
+      "id" : "_-mlflmZiEeumYLK9QdMPxA",
+      "name" : "message"
+    }, {
+      "id" : "_-mlfl2ZiEeumYLK9QdMPxA",
+      "name" : "server_origen"
+    }, {
+      "id" : "_-mlfkWZiEeumYLK9QdMPxA",
+      "name" : "moment"
+    }, {
+      "id" : "_-mlfm2ZiEeumYLK9QdMPxA",
+      "name" : "service_name_destino"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_-m3zdmZiEeumYLK9QdMPxA",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_-m3zcmZiEeumYLK9QdMPxA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_-m3zc2ZiEeumYLK9QdMPxA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_-m3zd2ZiEeumYLK9QdMPxA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_-m3zeGZiEeumYLK9QdMPxA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_-m3zdGZiEeumYLK9QdMPxA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_-m3zeWZiEeumYLK9QdMPxA",
+      "name" : "JOB"
+    }, {
+      "id" : "_-m3zcWZiEeumYLK9QdMPxA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_-m3zdWZiEeumYLK9QdMPxA",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_-v_ZoLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_-oNQMmZiEeumYLK9QdMPxA",
+      "name" : "mail_SenderName"
+    }, {
+      "id" : "_-oNQN2ZiEeumYLK9QdMPxA",
+      "name" : "mail_User"
+    }, {
+      "id" : "_-oNQNGZiEeumYLK9QdMPxA",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_-oNQMWZiEeumYLK9QdMPxA",
+      "name" : "mail_To"
+    }, {
+      "id" : "_-oNQNmZiEeumYLK9QdMPxA",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_-oNQOGZiEeumYLK9QdMPxA",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_-oNQNWZiEeumYLK9QdMPxA",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_-oNQM2ZiEeumYLK9QdMPxA",
+      "name" : "mail_Subject"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l49MYMTgEemSEd7F3yoKrA",
+    "parameterList" : [ {
+      "id" : "_-nO_0WZiEeumYLK9QdMPxA",
+      "name" : "UrlEndPointToken"
+    }, {
+      "id" : "_-nO_0mZiEeumYLK9QdMPxA",
+      "name" : "UrlActionSoapToken"
+    }, {
+      "id" : "_-nO_02ZiEeumYLK9QdMPxA",
+      "name" : "token"
+    }, {
+      "id" : "_-nO_1GZiEeumYLK9QdMPxA",
+      "name" : "UrlEndPointMasivo"
+    }, {
+      "id" : "_-nO_1WZiEeumYLK9QdMPxA",
+      "name" : "UrlActionSoapMasivo"
+    }, {
+      "id" : "_-nO_12ZiEeumYLK9QdMPxA",
+      "name" : "vafiarchivos_id"
+    }, {
+      "id" : "_-nO_2GZiEeumYLK9QdMPxA",
+      "name" : "vprocesos_id"
+    }, {
+      "id" : "_-nO_1mZiEeumYLK9QdMPxA",
+      "name" : "vusuarios_id"
+    }, {
+      "id" : "_-nO_2WZiEeumYLK9QdMPxA",
+      "name" : "vcount_registros"
+    }, {
+      "id" : "_-nO_2mZiEeumYLK9QdMPxA",
+      "name" : "vfinicio"
+    }, {
+      "id" : "_-nO_22ZiEeumYLK9QdMPxA",
+      "name" : "vtarchivo_id"
+    }, {
+      "id" : "_-nO_3GZiEeumYLK9QdMPxA",
+      "name" : "mensaje"
+    }, {
+      "id" : "_-nO_3WZiEeumYLK9QdMPxA",
+      "name" : "verror_datos"
+    }, {
+      "id" : "_-nO_4WZiEeumYLK9QdMPxA",
+      "name" : "verror_estructura"
+    }, {
+      "id" : "_-nO_5GZiEeumYLK9QdMPxA",
+      "name" : "verror_nombres_fnac_arc"
+    }, {
+      "id" : "_-nO_3mZiEeumYLK9QdMPxA",
+      "name" : "vtotal_registros"
+    }, {
+      "id" : "_-nO_4mZiEeumYLK9QdMPxA",
+      "name" : "verror_td_doc_arc"
+    }, {
+      "id" : "_-nO_52ZiEeumYLK9QdMPxA",
+      "name" : "verror_nombres_fnac_sis"
+    }, {
+      "id" : "_-nO_5mZiEeumYLK9QdMPxA",
+      "name" : "verror_pn_pa_doc_sis"
+    }, {
+      "id" : "_-nO_5WZiEeumYLK9QdMPxA",
+      "name" : "verror_td_doc_sis"
+    }, {
+      "id" : "_-nO_4GZiEeumYLK9QdMPxA",
+      "name" : "vtotal_registrados"
+    }, {
+      "id" : "_-nO_32ZiEeumYLK9QdMPxA",
+      "name" : "vtotal_errores"
+    }, {
+      "id" : "_-nO_42ZiEeumYLK9QdMPxA",
+      "name" : "verror_pn_pa_doc_arc"
+    } ]
+  } ]
+}

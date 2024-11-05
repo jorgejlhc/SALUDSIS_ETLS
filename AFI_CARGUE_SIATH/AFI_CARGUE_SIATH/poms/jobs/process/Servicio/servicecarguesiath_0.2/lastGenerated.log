@@ -1,0 +1,41 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------< org.example.afi_cargue_siath.service:ServiceCargueSiath >-------
+[INFO] Building AFI_CARGUE_SIATH ServiceCargueSiath-0.2.0 (0.2,Job Designs) Bundle 0.2.0
+[INFO]   from pom.xml
+[INFO] -------------------------------[ bundle ]-------------------------------
+[WARNING] The POM for org.talend.components:talendcsv:jar:1.1.0 is missing, no dependency information available
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ ServiceCargueSiath ---
+[INFO] Copying 3 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ ServiceCargueSiath ---
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ ServiceCargueSiath ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ ServiceCargueSiath ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- surefire:2.22.2:test (default-test) @ ServiceCargueSiath ---
+[WARNING] Parameter 'localRepository' is deprecated core expression; Avoid use of ArtifactRepository type. If you need access to local repository, switch to '${repositorySystemSession}' expression and get LRM from it instead.
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- bundle:5.1.1:bundle (default-bundle) @ ServiceCargueSiath ---
+[WARNING] Parameter 'localRepository' is deprecated core expression; Avoid use of ArtifactRepository type. If you need access to local repository, switch to '${repositorySystemSession}' expression and get LRM from it instead.
+[WARNING] Bundle org.example.afi_cargue_siath.service:ServiceCargueSiath:bundle:0.2.0 : Invalid package name: '@BundleConfigExportPackage@' in Export-Package
+[WARNING] Bundle org.example.afi_cargue_siath.service:ServiceCargueSiath:bundle:0.2.0 : Invalid package name: '@BundleConfigImportPackage@' in Import-Package
+[INFO] 
+[INFO] --- assembly:3.6.0:single (default) @ ServiceCargueSiath ---
+[INFO] Reading assembly descriptor: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\AFI_CARGUE_SIATH\AFI_CARGUE_SIATH\poms\jobs\process\Servicio\servicecarguesiath_0.2/src/main/assemblies/assembly.xml
+[WARNING] The following patterns were never triggered in this artifact inclusion filter:
+o  'org.example.afi_cargue_siath.service:ServiceCargueSiath:jar:0.2.0'
+
+[INFO] Building jar: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\AFI_CARGUE_SIATH\AFI_CARGUE_SIATH\poms\jobs\process\Servicio\servicecarguesiath_0.2\target\ServiceCargueSiath-bundle-0.2.0.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.760 s
+[INFO] Finished at: 2024-10-28T11:13:45-05:00
+[INFO] ------------------------------------------------------------------------
