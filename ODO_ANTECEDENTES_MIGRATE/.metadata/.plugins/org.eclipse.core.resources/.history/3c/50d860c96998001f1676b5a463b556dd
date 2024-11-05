@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_i9zykdp1EeWVqK-HG5SQsA" id="_i9zykNp1EeWVqK-HG5SQsA" label="Utils" version="0.5" statusCode="" item="_i9zyk9p1EeWVqK-HG5SQsA" maxInformationLevel="WARN" displayName="Utils">
+    <author href="../../../talend.project#_Zp95EJhpEe-AEYPyrbUpAQ"/>
+    <informations xmi:id="_IA9TEKPbEeeUa5lbmEtmDQ" level="WARN" text="The import java.math.RoundingMode is never used"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_yV8qoJhpEe-AEYPyrbUpAQ" path="Gen"/>
+  <TalendProperties:RoutineItem xmi:id="_i9zyk9p1EeWVqK-HG5SQsA" property="_i9zykdp1EeWVqK-HG5SQsA" state="_yV8qoJhpEe-AEYPyrbUpAQ">
+    <content href="Utils_0.5.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

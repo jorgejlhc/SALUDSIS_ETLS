@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_bNjvsj3uEeyQWtpzpFISow" id="_bNVtQD3uEeyQWtpzpFISow" label="ODO" version="0.1" statusCode="" item="_bNjvtD3uEeyQWtpzpFISow" displayName="ODO">
+    <author href="../talend.project#_Zp95EJhpEe-AEYPyrbUpAQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_yU_oYphpEe-AEYPyrbUpAQ" path=""/>
+  <TalendProperties:ContextItem xmi:id="_bNjvtD3uEeyQWtpzpFISow" property="_bNjvsj3uEeyQWtpzpFISow" state="_yU_oYphpEe-AEYPyrbUpAQ" defaultContext="Default">
+    <context href="ODO_0.1.item#_DKwlcEvNEeynSafwyJnmMw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

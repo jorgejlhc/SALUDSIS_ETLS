@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_4TLLgdmiEeWAPZ6CdW45Sw" id="_4TLLgNmiEeWAPZ6CdW45Sw" label="getEdad" version="0.1" statusCode="" item="_4TLLg9miEeWAPZ6CdW45Sw" maxInformationLevel="WARN" displayName="getEdad">
+    <author href="../../../talend.project#_Zp95EJhpEe-AEYPyrbUpAQ"/>
+    <informations xmi:id="_Ea4K4NmoEeWAPZ6CdW45Sw" level="WARN" text="La variable local meses no se lee nunca"/>
+    <informations xmi:id="_Ea4K4dmoEeWAPZ6CdW45Sw" level="WARN" text="La variable local dias no se lee nunca"/>
+    <additionalProperties xmi:id="_yWNJUZhpEe-AEYPyrbUpAQ" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_yWNJUphpEe-AEYPyrbUpAQ" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_yWNJU5hpEe-AEYPyrbUpAQ" key="created_date" value="2024-11-01T10:55:58.949-0500"/>
+    <additionalProperties xmi:id="_yWNJVJhpEe-AEYPyrbUpAQ" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_yWNJVZhpEe-AEYPyrbUpAQ" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_yWNJVphpEe-AEYPyrbUpAQ" key="modified_date" value="2024-11-01T10:55:58.949-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_yWNJUJhpEe-AEYPyrbUpAQ" path="Gen"/>
+  <TalendProperties:RoutineItem xmi:id="_4TLLg9miEeWAPZ6CdW45Sw" property="_4TLLgdmiEeWAPZ6CdW45Sw" state="_yWNJUJhpEe-AEYPyrbUpAQ">
+    <content href="getEdad_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

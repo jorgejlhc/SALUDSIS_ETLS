@@ -1,0 +1,147 @@
+{
+  "itemId" : "__OI2QD3TEey8q6-Zd3Q0Eg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_DK3TIUvNEeynSafwyJnmMw",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_DK3TIkvNEeynSafwyJnmMw",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_DK3TI0vNEeynSafwyJnmMw",
+      "name" : "db_destino_ServiceName"
+    }, {
+      "id" : "_DK3TJEvNEeynSafwyJnmMw",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_DK3TJUvNEeynSafwyJnmMw",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_DK3TJkvNEeynSafwyJnmMw",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_DK3TJ0vNEeynSafwyJnmMw",
+      "name" : "db_destino_Schema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_DK8Lo0vNEeynSafwyJnmMw",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_DK8LpUvNEeynSafwyJnmMw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_DK8LpkvNEeynSafwyJnmMw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_DK8Lp0vNEeynSafwyJnmMw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_DK8LoUvNEeynSafwyJnmMw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_DK8LpEvNEeynSafwyJnmMw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_DK8LokvNEeynSafwyJnmMw",
+      "name" : "db_origen_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_DKrs8kvNEeynSafwyJnmMw",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_DKrs_0vNEeynSafwyJnmMw",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_DKrtA0vNEeynSafwyJnmMw",
+      "name" : "CONDITION_PRINCIPAL"
+    }, {
+      "id" : "_DKrs9EvNEeynSafwyJnmMw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_DKrtAEvNEeynSafwyJnmMw",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_DKrs-EvNEeynSafwyJnmMw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_DKrs-UvNEeynSafwyJnmMw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_DKrs8UvNEeynSafwyJnmMw",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_DKrs_UvNEeynSafwyJnmMw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_DKrs9UvNEeynSafwyJnmMw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_DKrs90vNEeynSafwyJnmMw",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_DKrs-0vNEeynSafwyJnmMw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_DKrtAUvNEeynSafwyJnmMw",
+      "name" : "RutaSistema"
+    }, {
+      "id" : "_DKrs_EvNEeynSafwyJnmMw",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_DKrs_kvNEeynSafwyJnmMw",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_DKrs9kvNEeynSafwyJnmMw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_DKrs80vNEeynSafwyJnmMw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_DKrtAkvNEeynSafwyJnmMw",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_DKrtBEvNEeynSafwyJnmMw",
+      "name" : "JOB"
+    }, {
+      "id" : "_DKrs-kvNEeynSafwyJnmMw",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_ii48AL-cEemY3L5bxNIhWQ",
+    "parameterList" : [ {
+      "id" : "_DKb1V0vNEeynSafwyJnmMw",
+      "name" : "CONDICION_AUDITORES"
+    }, {
+      "id" : "_DKb1UUvNEeynSafwyJnmMw",
+      "name" : "CONDICION"
+    }, {
+      "id" : "_DKb1VkvNEeynSafwyJnmMw",
+      "name" : "CONDICION2"
+    }, {
+      "id" : "_DKb1U0vNEeynSafwyJnmMw",
+      "name" : "DEJECUCION"
+    }, {
+      "id" : "_DKb1UkvNEeynSafwyJnmMw",
+      "name" : "FEJECUCION"
+    }, {
+      "id" : "_DKb1WEvNEeynSafwyJnmMw",
+      "name" : "CONDICION_INDICADORES"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_bNVtQD3uEeyQWtpzpFISow",
+    "parameterList" : [ {
+      "id" : "_DKwlcUvNEeynSafwyJnmMw",
+      "name" : "PERSONAS_ID"
+    } ]
+  } ]
+}

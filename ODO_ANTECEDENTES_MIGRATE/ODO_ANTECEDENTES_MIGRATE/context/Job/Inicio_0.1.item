@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_DKrs8EvNEeynSafwyJnmMw" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_DKrs8UvNEeynSafwyJnmMw" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrs8kvNEeynSafwyJnmMw" comment="" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_DKrs80vNEeynSafwyJnmMw" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrs9EvNEeynSafwyJnmMw" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrs9UvNEeynSafwyJnmMw" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrs9kvNEeynSafwyJnmMw" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrs90vNEeynSafwyJnmMw" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_DKrs-EvNEeynSafwyJnmMw" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_DKrs-UvNEeynSafwyJnmMw" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_DKrs-kvNEeynSafwyJnmMw" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_DKrs-0vNEeynSafwyJnmMw" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_DKrs_EvNEeynSafwyJnmMw" comment="" name="ID_SOLICITUD" prompt="ID_SOLICITUD?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_DKrs_UvNEeynSafwyJnmMw" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_DKrs_kvNEeynSafwyJnmMw" comment="" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_DKrs_0vNEeynSafwyJnmMw" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrtAEvNEeynSafwyJnmMw" comment="" name="LOGS_STAT" prompt="LOGS_STAT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/_LOGSTAT.csv"/>
+  <contextParameter xmi:id="_DKrtAUvNEeynSafwyJnmMw" comment="" name="RutaSistema" prompt="RutaSistema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrtAkvNEeynSafwyJnmMw" comment="" name="CONDITION" prompt="CONDITION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrtA0vNEeynSafwyJnmMw" comment="" name="CONDITION_PRINCIPAL" prompt="CONDITION_PRINCIPAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_DKrtBEvNEeynSafwyJnmMw" comment="" name="JOB" prompt="JOB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
