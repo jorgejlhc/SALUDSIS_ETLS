@@ -1,0 +1,106 @@
+{
+  "itemId" : "_OUvDADh-EeaeIdUKoEIs0g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_2V0C0PD0Eeu0U4b3BpgHUA",
+    "parameterList" : [ {
+      "id" : "_NjS_AY5IEe6emLydjrpIHA",
+      "name" : "carga_id"
+    }, {
+      "id" : "_NjS_Ao5IEe6emLydjrpIHA",
+      "name" : "Contenido"
+    }, {
+      "id" : "_NjS_A45IEe6emLydjrpIHA",
+      "name" : "contrato_id"
+    }, {
+      "id" : "_NjS_DI5IEe6emLydjrpIHA",
+      "name" : "ErrorLog"
+    }, {
+      "id" : "_NjS_DY5IEe6emLydjrpIHA",
+      "name" : "Linea"
+    }, {
+      "id" : "_NjS_Do5IEe6emLydjrpIHA",
+      "name" : "Mensaje_1"
+    }, {
+      "id" : "_NjS_BI5IEe6emLydjrpIHA",
+      "name" : "porcent_disp"
+    }, {
+      "id" : "_NjS_BY5IEe6emLydjrpIHA",
+      "name" : "porcent_ivadisp"
+    }, {
+      "id" : "_NjS_Bo5IEe6emLydjrpIHA",
+      "name" : "porcent_ivasum"
+    }, {
+      "id" : "_NjS_B45IEe6emLydjrpIHA",
+      "name" : "porcent_sum"
+    }, {
+      "id" : "_NjS_CI5IEe6emLydjrpIHA",
+      "name" : "result"
+    }, {
+      "id" : "_NjS_CY5IEe6emLydjrpIHA",
+      "name" : "Salida"
+    }, {
+      "id" : "_NjS_Co5IEe6emLydjrpIHA",
+      "name" : "TContenido"
+    }, {
+      "id" : "_NjS_C45IEe6emLydjrpIHA",
+      "name" : "usuario_id"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_NjdXEY5IEe6emLydjrpIHA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_NjdXEo5IEe6emLydjrpIHA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_NjdXE45IEe6emLydjrpIHA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_NjdXFY5IEe6emLydjrpIHA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_NjdXFI5IEe6emLydjrpIHA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_NjdXFo5IEe6emLydjrpIHA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_NjdXF45IEe6emLydjrpIHA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_NjlS4Y5IEe6emLydjrpIHA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_NjlS5Y5IEe6emLydjrpIHA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_NjlS6Y5IEe6emLydjrpIHA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_NjlS4o5IEe6emLydjrpIHA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_NjlS5I5IEe6emLydjrpIHA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_NjlS445IEe6emLydjrpIHA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_NjlS5o5IEe6emLydjrpIHA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_NjlS545IEe6emLydjrpIHA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_NjlS6I5IEe6emLydjrpIHA",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

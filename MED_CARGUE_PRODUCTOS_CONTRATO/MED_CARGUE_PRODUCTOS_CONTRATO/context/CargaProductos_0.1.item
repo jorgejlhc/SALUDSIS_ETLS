@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_NjS_AI5IEe6emLydjrpIHA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_NjS_AY5IEe6emLydjrpIHA" comment="" name="carga_id" prompt="carga_id?" promptNeeded="true" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_NjS_Ao5IEe6emLydjrpIHA" comment="" name="Contenido" prompt="Contenido?" promptNeeded="false" repositoryContextId="built-in" type="id_Object" value=""/>
+  <contextParameter xmi:id="_NjS_A45IEe6emLydjrpIHA" comment="" name="contrato_id" prompt="contrato_id?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_NjS_BI5IEe6emLydjrpIHA" comment="" name="porcent_disp" prompt="porcent_disp?" promptNeeded="false" repositoryContextId="built-in" type="id_Double" value=""/>
+  <contextParameter xmi:id="_NjS_BY5IEe6emLydjrpIHA" comment="" name="porcent_ivadisp" prompt="porcent_ivadisp?" promptNeeded="false" repositoryContextId="built-in" type="id_Double" value=""/>
+  <contextParameter xmi:id="_NjS_Bo5IEe6emLydjrpIHA" comment="" name="porcent_ivasum" prompt="porcent_ivasum?" promptNeeded="false" repositoryContextId="built-in" type="id_Double" value=""/>
+  <contextParameter xmi:id="_NjS_B45IEe6emLydjrpIHA" comment="" name="porcent_sum" prompt="porcent_sum?" promptNeeded="false" repositoryContextId="built-in" type="id_Double" value=""/>
+  <contextParameter xmi:id="_NjS_CI5IEe6emLydjrpIHA" comment="" name="result" prompt="result?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="0"/>
+  <contextParameter xmi:id="_NjS_CY5IEe6emLydjrpIHA" comment="" name="Salida" prompt="Salida?" promptNeeded="false" repositoryContextId="built-in" type="id_Object" value=""/>
+  <contextParameter xmi:id="_NjS_Co5IEe6emLydjrpIHA" comment="" name="TContenido" prompt="TContenido?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_NjS_C45IEe6emLydjrpIHA" comment="" name="usuario_id" prompt="usuario_id?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_NjS_DI5IEe6emLydjrpIHA" comment="" name="ErrorLog" prompt="ErrorLog?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_NjS_DY5IEe6emLydjrpIHA" comment="" name="Linea" prompt="Linea?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_NjS_Do5IEe6emLydjrpIHA" comment="" name="Mensaje_1" prompt="Mensaje_1?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

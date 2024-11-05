@@ -1,0 +1,63 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_NjlS6I5IEe6emLydjrpIHA",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_NjlS5Y5IEe6emLydjrpIHA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_NjlS4o5IEe6emLydjrpIHA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_NjlS5I5IEe6emLydjrpIHA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_NjlS4Y5IEe6emLydjrpIHA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_NjlS5o5IEe6emLydjrpIHA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_NjlS545IEe6emLydjrpIHA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_NjlS6Y5IEe6emLydjrpIHA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_NjlS445IEe6emLydjrpIHA",
+      "name" : "HORA_INICIO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_NjhohY5IEe6emLydjrpIHA",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_NjhoiY5IEe6emLydjrpIHA",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_Njhog45IEe6emLydjrpIHA",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_Njhoho5IEe6emLydjrpIHA",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_Njhoh45IEe6emLydjrpIHA",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_NjhohI5IEe6emLydjrpIHA",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_Njhogo5IEe6emLydjrpIHA",
+      "name" : "mail_To"
+    }, {
+      "id" : "_NjhoiI5IEe6emLydjrpIHA",
+      "name" : "mail_User"
+    } ]
+  } ]
+}

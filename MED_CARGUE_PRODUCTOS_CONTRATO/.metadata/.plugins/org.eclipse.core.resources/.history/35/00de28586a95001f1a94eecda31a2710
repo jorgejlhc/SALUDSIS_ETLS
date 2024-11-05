@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Q22r4ReMEea38dTc2EZsxg" id="_OUvDADh-EeaeIdUKoEIs0g" label="CargaProductosxContrato" version="3.2" statusCode="" item="_Q22r4xeMEea38dTc2EZsxg" displayName="CargaProductosxContrato">
+    <author href="../../talend.project#_xW0V4JVpEe-_Q56iLaEmpQ"/>
+    <additionalProperties xmi:id="_9VtvoE6CEe-MisMj-NbMvw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_9VtvoU6CEe-MisMj-NbMvw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_9Vtvok6CEe-MisMj-NbMvw" key="created_date" value="2018-12-15T08:53:50.908-0500"/>
+    <additionalProperties xmi:id="_9Vtvo06CEe-MisMj-NbMvw" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_9VtvpE6CEe-MisMj-NbMvw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_9VtvpU6CEe-MisMj-NbMvw" key="modified_date" value="2024-07-30T09:55:28.666-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_WBUu8JVqEe-_Q56iLaEmpQ" path="CargaMasiva"/>
+  <TalendProperties:ProcessItem xmi:id="_Q22r4xeMEea38dTc2EZsxg" property="_Q22r4ReMEea38dTc2EZsxg" state="_WBUu8JVqEe-_Q56iLaEmpQ">
+    <process href="CargaProductosxContrato_3.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
