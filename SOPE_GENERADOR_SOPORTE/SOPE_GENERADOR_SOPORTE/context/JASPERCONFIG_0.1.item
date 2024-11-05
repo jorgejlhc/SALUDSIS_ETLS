@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_FubTwJP8EeucsJv8nnsJww" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_FubTwZP8EeucsJv8nnsJww" comment="Url a Jasperserver" name="jasperserver_endpoint" prompt="jasperserver_endpoint?" promptNeeded="false" type="id_String" value="http://172.17.1.85:8080/jasperserver-pro/"/>
+    <contextParameter xmi:id="_FubTwpP8EeucsJv8nnsJww" comment="Usuario de Jaspersoft" name="jasperserver_user" prompt="jasperserver_user?" promptNeeded="false" type="id_String" value="superuser"/>
+    <contextParameter xmi:id="_FubTw5P8EeucsJv8nnsJww" comment="Contraseña Jaspersoft" name="jasperserver_pass" prompt="jasperserver_pass?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:K7ejf8E0jXXS+mgoLy1Imsa2uhxcihbzs2VOsnewTNoGdWlJfA=="/>
+    <contextParameter xmi:id="_FubTxJP8EeucsJv8nnsJww" comment="Ambiente de Jaspersoft" name="jasperserver_ambiente" prompt="jasperserver_ambiente?" promptNeeded="false" type="id_String" value="DEV_F6"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_FubTxZP8EeucsJv8nnsJww" confirmationNeeded="false" name="PRD">
+    <contextParameter xmi:id="_FubTxpP8EeucsJv8nnsJww" comment="Url a Jasperserver" name="jasperserver_endpoint" prompt="jasperserver_endpoint?" promptNeeded="false" type="id_String" value="http://172.17.1.85:8080/jasperserver-pro/"/>
+    <contextParameter xmi:id="_FubTx5P8EeucsJv8nnsJww" comment="Usuario de Jaspersoft" name="jasperserver_user" prompt="jasperserver_user?" promptNeeded="false" type="id_String" value="superuser"/>
+    <contextParameter xmi:id="_FubTyJP8EeucsJv8nnsJww" comment="Contraseña Jaspersoft" name="jasperserver_pass" prompt="jasperserver_pass?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:4pJZmNrErbDrs2sre9yuGwc4nF6PxGlViGarAjL/PT96XnXyFQ=="/>
+    <contextParameter xmi:id="_FubTyZP8EeucsJv8nnsJww" comment="Ambiente de Jaspersoft" name="jasperserver_ambiente" prompt="jasperserver_ambiente?" promptNeeded="false" type="id_String" value="PRO"/>
+  </talendfile:ContextType>
+</xmi:XMI>

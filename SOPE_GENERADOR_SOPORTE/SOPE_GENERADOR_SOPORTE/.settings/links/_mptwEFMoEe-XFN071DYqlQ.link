@@ -1,0 +1,70 @@
+{
+  "itemId" : "_mptwEFMoEe-XFN071DYqlQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_fxTu0VpwEe-XFN071DYqlQ",
+      "name" : "anno"
+    }, {
+      "id" : "_fxTu1FpwEe-XFN071DYqlQ",
+      "name" : "ProcesoID"
+    }, {
+      "id" : "_fxTu0lpwEe-XFN071DYqlQ",
+      "name" : "mes"
+    }, {
+      "id" : "_fxTu01pwEe-XFN071DYqlQ",
+      "name" : "id_anexo"
+    }, {
+      "id" : "_fxTu1VpwEe-XFN071DYqlQ",
+      "name" : "id_cac_hcl"
+    }, {
+      "id" : "_fxTu0FpwEe-XFN071DYqlQ",
+      "name" : "codigo_patologia"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_fxTu0VpwEe-XFN071DYqlQ",
+      "name" : "anno"
+    }, {
+      "id" : "_fxTu1FpwEe-XFN071DYqlQ",
+      "name" : "ProcesoID"
+    }, {
+      "id" : "_fxTu0lpwEe-XFN071DYqlQ",
+      "name" : "mes"
+    }, {
+      "id" : "_fxTu01pwEe-XFN071DYqlQ",
+      "name" : "id_anexo"
+    }, {
+      "id" : "_fxTu1VpwEe-XFN071DYqlQ",
+      "name" : "id_cac_hcl"
+    }, {
+      "id" : "_fxTu0FpwEe-XFN071DYqlQ",
+      "name" : "codigo_patologia"
+    } ]
+  }, {
+    "contextName" : "QABI",
+    "repoId" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "parameterList" : [ {
+      "id" : "_fxTu0VpwEe-XFN071DYqlQ",
+      "name" : "anno"
+    }, {
+      "id" : "_fxTu1FpwEe-XFN071DYqlQ",
+      "name" : "ProcesoID"
+    }, {
+      "id" : "_fxTu0lpwEe-XFN071DYqlQ",
+      "name" : "mes"
+    }, {
+      "id" : "_fxTu01pwEe-XFN071DYqlQ",
+      "name" : "id_anexo"
+    }, {
+      "id" : "_fxTu1VpwEe-XFN071DYqlQ",
+      "name" : "id_cac_hcl"
+    }, {
+      "id" : "_fxTu0FpwEe-XFN071DYqlQ",
+      "name" : "codigo_patologia"
+    } ]
+  } ]
+}

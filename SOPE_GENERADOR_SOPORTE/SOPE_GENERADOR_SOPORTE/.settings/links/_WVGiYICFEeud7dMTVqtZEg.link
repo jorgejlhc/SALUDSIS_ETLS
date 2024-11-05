@@ -1,0 +1,114 @@
+{
+  "itemId" : "_WVGiYICFEeud7dMTVqtZEg",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_YgUNIIjSEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FuEucZP8EeucsJv8nnsJww",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_fZrbIImiEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FubTxJP8EeucsJv8nnsJww",
+      "name" : "jasperserver_ambiente"
+    }, {
+      "id" : "_FubTwZP8EeucsJv8nnsJww",
+      "name" : "jasperserver_endpoint"
+    }, {
+      "id" : "_FubTw5P8EeucsJv8nnsJww",
+      "name" : "jasperserver_pass"
+    }, {
+      "id" : "_FubTwpP8EeucsJv8nnsJww",
+      "name" : "jasperserver_user"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_FuygJpP8EeucsJv8nnsJww",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_7OeDsIjREeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_Ft020ZP8EeucsJv8nnsJww",
+      "name" : "DB_Login"
+    }, {
+      "id" : "_Ft021JP8EeucsJv8nnsJww",
+      "name" : "DB_Schema"
+    }, {
+      "id" : "_Ft021pP8EeucsJv8nnsJww",
+      "name" : "DB_Server"
+    }, {
+      "id" : "_Ft020pP8EeucsJv8nnsJww",
+      "name" : "DB_Port"
+    }, {
+      "id" : "_Ft021ZP8EeucsJv8nnsJww",
+      "name" : "DB_Password"
+    }, {
+      "id" : "_Ft0205P8EeucsJv8nnsJww",
+      "name" : "DB_AdditionalParams"
+    }, {
+      "id" : "_Ft0215P8EeucsJv8nnsJww",
+      "name" : "DB_ServiceName"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_YgUNIIjSEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FuEucZP8EeucsJv8nnsJww",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_fZrbIImiEeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_FubTyZP8EeucsJv8nnsJww",
+      "name" : "jasperserver_ambiente"
+    }, {
+      "id" : "_FubTxpP8EeucsJv8nnsJww",
+      "name" : "jasperserver_endpoint"
+    }, {
+      "id" : "_FubTyJP8EeucsJv8nnsJww",
+      "name" : "jasperserver_pass"
+    }, {
+      "id" : "_FubTx5P8EeucsJv8nnsJww",
+      "name" : "jasperserver_user"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_gVRhAG_VEeukPobxuheeVA",
+    "parameterList" : [ {
+      "id" : "_FuygLZP8EeucsJv8nnsJww",
+      "name" : "ProcesoID"
+    } ]
+  }, {
+    "contextName" : "PRD",
+    "repoId" : "_7OeDsIjREeuUpI2TcsbWpw",
+    "parameterList" : [ {
+      "id" : "_Ft020ZP8EeucsJv8nnsJww",
+      "name" : "DB_Login"
+    }, {
+      "id" : "_Ft021JP8EeucsJv8nnsJww",
+      "name" : "DB_Schema"
+    }, {
+      "id" : "_Ft021pP8EeucsJv8nnsJww",
+      "name" : "DB_Server"
+    }, {
+      "id" : "_Ft020pP8EeucsJv8nnsJww",
+      "name" : "DB_Port"
+    }, {
+      "id" : "_Ft021ZP8EeucsJv8nnsJww",
+      "name" : "DB_Password"
+    }, {
+      "id" : "_Ft0205P8EeucsJv8nnsJww",
+      "name" : "DB_AdditionalParams"
+    }, {
+      "id" : "_Ft0215P8EeucsJv8nnsJww",
+      "name" : "DB_ServiceName"
+    } ]
+  } ]
+}
