@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_JSurcGZeEeu1-Y3RDvjLBA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_JSurcWZeEeu1-Y3RDvjLBA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSurcmZeEeu1-Y3RDvjLBA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSurc2ZeEeu1-Y3RDvjLBA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSurdGZeEeu1-Y3RDvjLBA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_JSurdWZeEeu1-Y3RDvjLBA" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" type="id_String" value="Connections.xml"/>
+  <contextParameter xmi:id="_JSurdmZeEeu1-Y3RDvjLBA" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" type="id_String" value="DataWarehouse.xml"/>
+  <contextParameter xmi:id="_JSurd2ZeEeu1-Y3RDvjLBA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_JSureGZeEeu1-Y3RDvjLBA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_JSureWZeEeu1-Y3RDvjLBA" comment="" name="JOB" prompt="JOB?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSuremZeEeu1-Y3RDvjLBA" comment="" name="ROWNUM" prompt="ROWNUM?" promptNeeded="false" type="id_Long" value="0"/>
+  <contextParameter xmi:id="_JSure2ZeEeu1-Y3RDvjLBA" comment="" name="GUID_ARCHIVO" prompt="GUID_ARCHIVO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSurfGZeEeu1-Y3RDvjLBA" comment="" name="GUID_ERROR" prompt="GUID_ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JSurfWZeEeu1-Y3RDvjLBA" comment="" name="DCARGUE_ID" prompt="DCARGUE_ID?" promptNeeded="true" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_JSurfmZeEeu1-Y3RDvjLBA" comment="" name="PathStorage" prompt="PathStorage?" promptNeeded="false" type="id_String" value="C:/Storage/"/>
+  <contextParameter xmi:id="_JSurf2ZeEeu1-Y3RDvjLBA" comment="" name="Errores" prompt="Errores?" promptNeeded="false" type="id_Long" value="0"/>
+  <contextParameter xmi:id="_JSurgGZeEeu1-Y3RDvjLBA" comment="" name="TARCHIVOS_ID" prompt="TARCHIVOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_JSurgWZeEeu1-Y3RDvjLBA" comment="" name="USUARIO_ID" prompt="USUARIO_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+</talendfile:ContextType>

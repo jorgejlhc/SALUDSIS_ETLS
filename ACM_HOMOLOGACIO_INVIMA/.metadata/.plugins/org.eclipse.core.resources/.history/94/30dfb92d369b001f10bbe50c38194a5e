@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_M-u14K-_EeiBYNtwWhZd2Q" label="HomInvima" purpose="Homologa código invima de los medicamentos" description="Homologa nuevos códigos invima para los medicamentos" version="1.0" statusCode="" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="HomInvima">
+    <author href="../talend.project#_9a3hQJs1Ee-6iYywgP-PNg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LbAbMJs2Ee-6iYywgP-PNg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_LbAbMJs2Ee-6iYywgP-PNg">
+    <process href="HomInvima_1.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
