@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_F4SwgN48Ee60z5-cbRCiGw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_F4Swgd48Ee60z5-cbRCiGw" comment="" name="contenido" prompt="contenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_F4Swgt48Ee60z5-cbRCiGw" comment="" name="mensaje" prompt="mensaje?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swg948Ee60z5-cbRCiGw" comment="" name="vprocesos_id" prompt="vprocesos_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4SwhN48Ee60z5-cbRCiGw" comment="" name="cregistros" prompt="cregistros?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swhd48Ee60z5-cbRCiGw" comment="" name="vrespuesta" prompt="vrespuesta?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swht48Ee60z5-cbRCiGw" comment="" name="vestado" prompt="vestado?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swh948Ee60z5-cbRCiGw" comment="" name="vfinicio" prompt="vfinicio?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_F4SwiN48Ee60z5-cbRCiGw" comment="" name="vindsal" prompt="vindsal?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swid48Ee60z5-cbRCiGw" comment="" name="numregexitoso" prompt="numregexitoso?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swit48Ee60z5-cbRCiGw" comment="" name="vusuarios_id" prompt="vusuarios_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swi948Ee60z5-cbRCiGw" comment="" name="vtarchivos_id" prompt="vtarchivos_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4SwjN48Ee60z5-cbRCiGw" comment="" name="vnombre" prompt="vnombre?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swjd48Ee60z5-cbRCiGw" comment="" name="regafiliados" prompt="regafiliados?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swjt48Ee60z5-cbRCiGw" comment="" name="regpersonas" prompt="regpersonas?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swj948Ee60z5-cbRCiGw" comment="" name="regestructura" prompt="regestructura?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4SwkN48Ee60z5-cbRCiGw" comment="" name="regduplicados" prompt="regduplicados?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swkd48Ee60z5-cbRCiGw" comment="" name="vmsg_error" prompt="vmsg_error?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swkt48Ee60z5-cbRCiGw" comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swk948Ee60z5-cbRCiGw" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4SwlN48Ee60z5-cbRCiGw" comment="" name="sid" prompt="sid?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swld48Ee60z5-cbRCiGw" comment="" name="bduser" prompt="bduser?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swlt48Ee60z5-cbRCiGw" comment="" name="bdpwd" prompt="bdpwd?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swl948Ee60z5-cbRCiGw" comment="" name="schema" prompt="schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4SwmN48Ee60z5-cbRCiGw" comment="" name="estadoexc" prompt="estadoexc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_F4Swmd48Ee60z5-cbRCiGw" comment="" name="logerror" prompt="logerror?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_F4Swmt48Ee60z5-cbRCiGw" comment="" name="afiarchivos_id" prompt="afiarchivos_id?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4Swm948Ee60z5-cbRCiGw" comment="" name="varchivos_id" prompt="varchivos_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_F4SwnN48Ee60z5-cbRCiGw" comment="" name="cantidad_archivos" prompt="cantidad_archivos?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,175 @@
+{
+  "itemId" : "_8QYWQDjuEei2aKvKWxAb8A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_bRiF8NaeEeeOB7tpAmFhVQ",
+    "parameterList" : [ {
+      "id" : "_F4Swgd48Ee60z5-cbRCiGw",
+      "name" : "contenido"
+    }, {
+      "id" : "_F4Swg948Ee60z5-cbRCiGw",
+      "name" : "vprocesos_id"
+    }, {
+      "id" : "_F4Swgt48Ee60z5-cbRCiGw",
+      "name" : "mensaje"
+    }, {
+      "id" : "_F4SwhN48Ee60z5-cbRCiGw",
+      "name" : "cregistros"
+    }, {
+      "id" : "_F4Swm948Ee60z5-cbRCiGw",
+      "name" : "varchivos_id"
+    }, {
+      "id" : "_F4Swhd48Ee60z5-cbRCiGw",
+      "name" : "vrespuesta"
+    }, {
+      "id" : "_F4Swh948Ee60z5-cbRCiGw",
+      "name" : "vfinicio"
+    }, {
+      "id" : "_F4SwiN48Ee60z5-cbRCiGw",
+      "name" : "vindsal"
+    }, {
+      "id" : "_F4Swht48Ee60z5-cbRCiGw",
+      "name" : "vestado"
+    }, {
+      "id" : "_F4Swid48Ee60z5-cbRCiGw",
+      "name" : "numregexitoso"
+    }, {
+      "id" : "_F4Swi948Ee60z5-cbRCiGw",
+      "name" : "vtarchivos_id"
+    }, {
+      "id" : "_F4Swit48Ee60z5-cbRCiGw",
+      "name" : "vusuarios_id"
+    }, {
+      "id" : "_F4SwjN48Ee60z5-cbRCiGw",
+      "name" : "vnombre"
+    }, {
+      "id" : "_F4Swjd48Ee60z5-cbRCiGw",
+      "name" : "regafiliados"
+    }, {
+      "id" : "_F4Swj948Ee60z5-cbRCiGw",
+      "name" : "regestructura"
+    }, {
+      "id" : "_F4SwkN48Ee60z5-cbRCiGw",
+      "name" : "regduplicados"
+    }, {
+      "id" : "_F4Swjt48Ee60z5-cbRCiGw",
+      "name" : "regpersonas"
+    }, {
+      "id" : "_F4Swl948Ee60z5-cbRCiGw",
+      "name" : "schema"
+    }, {
+      "id" : "_F4SwlN48Ee60z5-cbRCiGw",
+      "name" : "sid"
+    }, {
+      "id" : "_F4Swlt48Ee60z5-cbRCiGw",
+      "name" : "bdpwd"
+    }, {
+      "id" : "_F4Swkd48Ee60z5-cbRCiGw",
+      "name" : "vmsg_error"
+    }, {
+      "id" : "_F4Swk948Ee60z5-cbRCiGw",
+      "name" : "port"
+    }, {
+      "id" : "_F4Swkt48Ee60z5-cbRCiGw",
+      "name" : "host"
+    }, {
+      "id" : "_F4Swld48Ee60z5-cbRCiGw",
+      "name" : "bduser"
+    }, {
+      "id" : "_F4SwmN48Ee60z5-cbRCiGw",
+      "name" : "estadoexc"
+    }, {
+      "id" : "_F4Swmd48Ee60z5-cbRCiGw",
+      "name" : "logerror"
+    }, {
+      "id" : "_F4Swmt48Ee60z5-cbRCiGw",
+      "name" : "afiarchivos_id"
+    }, {
+      "id" : "_F4SwnN48Ee60z5-cbRCiGw",
+      "name" : "cantidad_archivos"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_4T6QAB1rEeixgoxPvuyEZg",
+    "parameterList" : [ {
+      "id" : "_F6cFkt48Ee60z5-cbRCiGw",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_F6cFlN48Ee60z5-cbRCiGw",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_F6cFlt48Ee60z5-cbRCiGw",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_F6cFld48Ee60z5-cbRCiGw",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_F6cFk948Ee60z5-cbRCiGw",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_F6cFl948Ee60z5-cbRCiGw",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_F6cFmN48Ee60z5-cbRCiGw",
+      "name" : "db_origen_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_F6tLU948Ee60z5-cbRCiGw",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_F6tLYN48Ee60z5-cbRCiGw",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_F6tLVd48Ee60z5-cbRCiGw",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_F6tLYd48Ee60z5-cbRCiGw",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_F6tLWd48Ee60z5-cbRCiGw",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_F6tLWt48Ee60z5-cbRCiGw",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_F6tLUt48Ee60z5-cbRCiGw",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_F6tLXt48Ee60z5-cbRCiGw",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_F6tLVt48Ee60z5-cbRCiGw",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_F6tLWN48Ee60z5-cbRCiGw",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_F6tLXN48Ee60z5-cbRCiGw",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_F6tLYt48Ee60z5-cbRCiGw",
+      "name" : "RutaSistema"
+    }, {
+      "id" : "_F6tLXd48Ee60z5-cbRCiGw",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_F6tLX948Ee60z5-cbRCiGw",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_F6tLV948Ee60z5-cbRCiGw",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_F6tLVN48Ee60z5-cbRCiGw",
+      "name" : "ERROR"
+    }, {
+      "id" : "_F6tLY948Ee60z5-cbRCiGw",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_F6tLW948Ee60z5-cbRCiGw",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}
