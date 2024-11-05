@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_79DmcM17Ee2JrLvLYgzj3Q" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_79Dmcc17Ee2JrLvLYgzj3Q" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Dmcs17Ee2JrLvLYgzj3Q" comment="" name="ACTUALIZACION_TOTAL" prompt="ACTUALIZACION_TOTAL?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_79Dmc817Ee2JrLvLYgzj3Q" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79DmdM17Ee2JrLvLYgzj3Q" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Dmdc17Ee2JrLvLYgzj3Q" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Dmds17Ee2JrLvLYgzj3Q" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Dmd817Ee2JrLvLYgzj3Q" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_79DmeM17Ee2JrLvLYgzj3Q" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_79Dmec17Ee2JrLvLYgzj3Q" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_79Dmes17Ee2JrLvLYgzj3Q" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_79Dme817Ee2JrLvLYgzj3Q" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_79DmfM17Ee2JrLvLYgzj3Q" comment="" name="ID_SOLICITUD" prompt="ID_SOLICITUD?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_79Dmfc17Ee2JrLvLYgzj3Q" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_79Dmfs17Ee2JrLvLYgzj3Q" comment="" name="LAST_DAYS" prompt="LAST_DAYS?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_79Dmf817Ee2JrLvLYgzj3Q" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

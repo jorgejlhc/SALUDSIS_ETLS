@@ -1,0 +1,274 @@
+{
+  "itemId" : "_c302wNeJEeytuuV1i_FYpQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_77MlQc17Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_77MlQs17Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_77MlQ817Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_77MlRM17Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_77MlRc17Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_ServiceName"
+    }, {
+      "id" : "_77MlRs17Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_77MlR817Ee2JrLvLYgzj3Q",
+      "name" : "db_origen_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_78V0xc17Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_ServiceName"
+    }, {
+      "id" : "_78V0x817Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_78V0ws17Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_78V0xs17Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_78V0w817Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_78V0xM17Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_78V0wc17Ee2JrLvLYgzj3Q",
+      "name" : "db_destino_Password"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_79Dmcs17Ee2JrLvLYgzj3Q",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_79Dmf817Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_79DmdM17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_79DmeM17Ee2JrLvLYgzj3Q",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_79Dmec17Ee2JrLvLYgzj3Q",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_79Dmcc17Ee2JrLvLYgzj3Q",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_79Dmfc17Ee2JrLvLYgzj3Q",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_79Dmdc17Ee2JrLvLYgzj3Q",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_79Dmd817Ee2JrLvLYgzj3Q",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_79Dme817Ee2JrLvLYgzj3Q",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_79DmfM17Ee2JrLvLYgzj3Q",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_79Dmfs17Ee2JrLvLYgzj3Q",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_79Dmds17Ee2JrLvLYgzj3Q",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_79Dmc817Ee2JrLvLYgzj3Q",
+      "name" : "ERROR"
+    }, {
+      "id" : "_79Dmes17Ee2JrLvLYgzj3Q",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_78m6h817Ee2JrLvLYgzj3Q",
+      "name" : "mail_User"
+    }, {
+      "id" : "_78m6hM17Ee2JrLvLYgzj3Q",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_78m6gc17Ee2JrLvLYgzj3Q",
+      "name" : "mail_To"
+    }, {
+      "id" : "_78m6hs17Ee2JrLvLYgzj3Q",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_78m6iM17Ee2JrLvLYgzj3Q",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_78m6hc17Ee2JrLvLYgzj3Q",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_78m6gs17Ee2JrLvLYgzj3Q",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_78m6g817Ee2JrLvLYgzj3Q",
+      "name" : "mail_Subject"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_36k0sCQ-EeeVz_poch4AoA",
+    "parameterList" : [ {
+      "id" : "_79Mwa817Ee2JrLvLYgzj3Q",
+      "name" : "FUERZA"
+    }, {
+      "id" : "_79MwZs17Ee2JrLvLYgzj3Q",
+      "name" : "ESM_REMITE"
+    }, {
+      "id" : "_79MwZc17Ee2JrLvLYgzj3Q",
+      "name" : "VINCULACION"
+    }, {
+      "id" : "_79Mwas17Ee2JrLvLYgzj3Q",
+      "name" : "ESQUEMA"
+    }, {
+      "id" : "_79MwZM17Ee2JrLvLYgzj3Q",
+      "name" : "ARCHIVOS_ID"
+    }, {
+      "id" : "_79Mwac17Ee2JrLvLYgzj3Q",
+      "name" : "USUARIO"
+    }, {
+      "id" : "_79Mwb817Ee2JrLvLYgzj3Q",
+      "name" : "EDAD_INICIAL"
+    }, {
+      "id" : "_79Mwc817Ee2JrLvLYgzj3Q",
+      "name" : "CARPETA_TEMPORAL"
+    }, {
+      "id" : "_79MwY817Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_79Mwcs17Ee2JrLvLYgzj3Q",
+      "name" : "CARPETA_SALIDA"
+    }, {
+      "id" : "_79MwZ817Ee2JrLvLYgzj3Q",
+      "name" : "SIGLA"
+    }, {
+      "id" : "_79Mwcc17Ee2JrLvLYgzj3Q",
+      "name" : "NOMBRE_CONSOLIDADO"
+    }, {
+      "id" : "_79Mwbc17Ee2JrLvLYgzj3Q",
+      "name" : "DEPARTAMENTO"
+    }, {
+      "id" : "_79MwYc17Ee2JrLvLYgzj3Q",
+      "name" : "CLASIFICACION"
+    }, {
+      "id" : "_79MwbM17Ee2JrLvLYgzj3Q",
+      "name" : "CIUDAD"
+    }, {
+      "id" : "_79MwdM17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_HORA_FINAL_EJECUCION"
+    }, {
+      "id" : "_79MwaM17Ee2JrLvLYgzj3Q",
+      "name" : "ID"
+    }, {
+      "id" : "_79Mwdc17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_HORA_INICIO_EJECUCION"
+    }, {
+      "id" : "_79MwYs17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_79Mwbs17Ee2JrLvLYgzj3Q",
+      "name" : "REGIONAL"
+    }, {
+      "id" : "_79MwcM17Ee2JrLvLYgzj3Q",
+      "name" : "EDAD_FINAL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_bbiFoNeOEeytuuV1i_FYpQ",
+    "parameterList" : [ {
+      "id" : "_76_w9M17Ee2JrLvLYgzj3Q",
+      "name" : "ESPECIALIDAD_ID"
+    }, {
+      "id" : "_76_xBM17Ee2JrLvLYgzj3Q",
+      "name" : "TIPO_USUARIO"
+    }, {
+      "id" : "_76_w9c17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_REALIZACION"
+    }, {
+      "id" : "_76_w_s17Ee2JrLvLYgzj3Q",
+      "name" : "PERIODO_INICIAL"
+    }, {
+      "id" : "_76_xAM17Ee2JrLvLYgzj3Q",
+      "name" : "RAN_CONDICION_ODH"
+    }, {
+      "id" : "_76_w-817Ee2JrLvLYgzj3Q",
+      "name" : "NOMBRE_CSV"
+    }, {
+      "id" : "_76_w8817Ee2JrLvLYgzj3Q",
+      "name" : "ESPECIALIDAD"
+    }, {
+      "id" : "_76_xAc17Ee2JrLvLYgzj3Q",
+      "name" : "RAN_CONDICION_PA"
+    }, {
+      "id" : "_76_xBc17Ee2JrLvLYgzj3Q",
+      "name" : "TPLANAFILIACION"
+    }, {
+      "id" : "_76_xCM17Ee2JrLvLYgzj3Q",
+      "name" : "ROLES_ID"
+    }, {
+      "id" : "_76_w-c17Ee2JrLvLYgzj3Q",
+      "name" : "GRADO"
+    }, {
+      "id" : "_76_xAs17Ee2JrLvLYgzj3Q",
+      "name" : "SEXO"
+    }, {
+      "id" : "_76_w_M17Ee2JrLvLYgzj3Q",
+      "name" : "NOMBRE_ZIP"
+    }, {
+      "id" : "_76_w-s17Ee2JrLvLYgzj3Q",
+      "name" : "GRUPO_EDAD"
+    }, {
+      "id" : "_76_xA817Ee2JrLvLYgzj3Q",
+      "name" : "TCOTIZACION"
+    }, {
+      "id" : "_76_w8c17Ee2JrLvLYgzj3Q",
+      "name" : "ESM_NOMBRE"
+    }, {
+      "id" : "_76_w9s17Ee2JrLvLYgzj3Q",
+      "name" : "FECHA_TITULO"
+    }, {
+      "id" : "_76_w8s17Ee2JrLvLYgzj3Q",
+      "name" : "ESM_USUARIO"
+    }, {
+      "id" : "_76_w9817Ee2JrLvLYgzj3Q",
+      "name" : "FUERZA_NOMBRE"
+    }, {
+      "id" : "_76_xBs17Ee2JrLvLYgzj3Q",
+      "name" : "TIPO_CITA"
+    }, {
+      "id" : "_76_w_c17Ee2JrLvLYgzj3Q",
+      "name" : "PERIODO_FINAL"
+    }, {
+      "id" : "_76_xB817Ee2JrLvLYgzj3Q",
+      "name" : "TIPO_SOLICITUD"
+    }, {
+      "id" : "_76_w-M17Ee2JrLvLYgzj3Q",
+      "name" : "GE_VALOR_MENOR"
+    }, {
+      "id" : "_76_w_817Ee2JrLvLYgzj3Q",
+      "name" : "RAN_CONDICION_AD"
+    } ]
+  } ]
+}

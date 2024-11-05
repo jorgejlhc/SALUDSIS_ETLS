@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_76_w8M17Ee2JrLvLYgzj3Q" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_76_w8c17Ee2JrLvLYgzj3Q" comment="" name="ESM_NOMBRE" prompt="ESM_NOMBRE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w8s17Ee2JrLvLYgzj3Q" comment="" name="ESM_USUARIO" prompt="ESM_USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w8817Ee2JrLvLYgzj3Q" comment="" name="ESPECIALIDAD" prompt="ESPECIALIDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w9M17Ee2JrLvLYgzj3Q" comment="" name="ESPECIALIDAD_ID" prompt="ESPECIALIDAD_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w9c17Ee2JrLvLYgzj3Q" comment="" name="FECHA_REALIZACION" prompt="FECHA_REALIZACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w9s17Ee2JrLvLYgzj3Q" comment="" name="FECHA_TITULO" prompt="FECHA_TITULO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w9817Ee2JrLvLYgzj3Q" comment="" name="FUERZA_NOMBRE" prompt="FUERZA_NOMBRE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w-M17Ee2JrLvLYgzj3Q" comment="" name="GE_VALOR_MENOR" prompt="GE_VALOR_MENOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w-c17Ee2JrLvLYgzj3Q" comment="" name="GRADO" prompt="GRADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w-s17Ee2JrLvLYgzj3Q" comment="" name="GRUPO_EDAD" prompt="GRUPO_EDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w-817Ee2JrLvLYgzj3Q" comment="" name="NOMBRE_CSV" prompt="NOMBRE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w_M17Ee2JrLvLYgzj3Q" comment="" name="NOMBRE_ZIP" prompt="NOMBRE_ZIP?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w_c17Ee2JrLvLYgzj3Q" comment="" name="PERIODO_FINAL" prompt="PERIODO_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w_s17Ee2JrLvLYgzj3Q" comment="" name="PERIODO_INICIAL" prompt="PERIODO_INICIAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_w_817Ee2JrLvLYgzj3Q" comment="" name="RAN_CONDICION_AD" prompt="RAN_CONDICION_AD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xAM17Ee2JrLvLYgzj3Q" comment="" name="RAN_CONDICION_ODH" prompt="RAN_CONDICION_ODH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xAc17Ee2JrLvLYgzj3Q" comment="" name="RAN_CONDICION_PA" prompt="RAN_CONDICION_PA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xAs17Ee2JrLvLYgzj3Q" comment="" name="SEXO" prompt="SEXO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xA817Ee2JrLvLYgzj3Q" comment="" name="TCOTIZACION" prompt="TCOTIZACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xBM17Ee2JrLvLYgzj3Q" comment="" name="TIPO_USUARIO" prompt="TIPO_USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xBc17Ee2JrLvLYgzj3Q" comment="" name="TPLANAFILIACION" prompt="TPLANAFILIACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xBs17Ee2JrLvLYgzj3Q" comment="" name="TIPO_CITA" prompt="TIPO_CITA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xB817Ee2JrLvLYgzj3Q" comment="" name="TIPO_SOLICITUD" prompt="TIPO_SOLICITUD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_76_xCM17Ee2JrLvLYgzj3Q" comment="" name="ROLES_ID" prompt="ROLES_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Id de la tabla SEG_ROLES"/>
+  <contextParameter xmi:id="_jeOtwJbPEe-_g8KcJVNu7g" comment="" name="EXISTE_REPORTE" prompt="EXISTE_REPORTE?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+</talendfile:ContextType>

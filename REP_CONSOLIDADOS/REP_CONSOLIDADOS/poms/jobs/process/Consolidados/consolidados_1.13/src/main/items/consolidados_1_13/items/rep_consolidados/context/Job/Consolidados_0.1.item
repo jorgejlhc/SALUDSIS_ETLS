@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_79MwYM17Ee2JrLvLYgzj3Q" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_79MwYc17Ee2JrLvLYgzj3Q" comment="" name="CLASIFICACION" prompt="CLASIFICACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null"/>
+  <contextParameter xmi:id="_79MwYs17Ee2JrLvLYgzj3Q" comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79MwY817Ee2JrLvLYgzj3Q" comment="" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79MwZM17Ee2JrLvLYgzj3Q" comment="" name="ARCHIVOS_ID" prompt="ARCHIVOS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_79MwZc17Ee2JrLvLYgzj3Q" comment="" name="VINCULACION" prompt="VINCULACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="null"/>
+  <contextParameter xmi:id="_79MwZs17Ee2JrLvLYgzj3Q" comment="" name="ESM_REMITE" prompt="ESM_REMITE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="0"/>
+  <contextParameter xmi:id="_79MwZ817Ee2JrLvLYgzj3Q" comment="" name="SIGLA" prompt="SIGLA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79MwaM17Ee2JrLvLYgzj3Q" comment="" name="ID" prompt="ID?" promptNeeded="false" repositoryContextId="built-in" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_79Mwac17Ee2JrLvLYgzj3Q" comment="" name="USUARIO" prompt="USUARIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwas17Ee2JrLvLYgzj3Q" comment="" name="ESQUEMA" prompt="ESQUEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwa817Ee2JrLvLYgzj3Q" comment="" name="FUERZA" prompt="FUERZA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79MwbM17Ee2JrLvLYgzj3Q" comment="" name="CIUDAD" prompt="CIUDAD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwbc17Ee2JrLvLYgzj3Q" comment="" name="DEPARTAMENTO" prompt="DEPARTAMENTO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwbs17Ee2JrLvLYgzj3Q" comment="" name="REGIONAL" prompt="REGIONAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwb817Ee2JrLvLYgzj3Q" comment="" name="EDAD_INICIAL" prompt="EDAD_INICIAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79MwcM17Ee2JrLvLYgzj3Q" comment="" name="EDAD_FINAL" prompt="EDAD_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwcc17Ee2JrLvLYgzj3Q" comment="" name="NOMBRE_CONSOLIDADO" prompt="NOMBRE_CONSOLIDADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_79Mwcs17Ee2JrLvLYgzj3Q" comment="" name="CARPETA_SALIDA" prompt="CARPETA_SALIDA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/out"/>
+  <contextParameter xmi:id="_79Mwc817Ee2JrLvLYgzj3Q" comment="" name="CARPETA_TEMPORAL" prompt="CARPETA_TEMPORAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/tmp"/>
+  <contextParameter xmi:id="_79MwdM17Ee2JrLvLYgzj3Q" comment="" name="FECHA_HORA_FINAL_EJECUCION" prompt="FECHA_HORA_FINAL_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
+  <contextParameter xmi:id="_79Mwdc17Ee2JrLvLYgzj3Q" comment="" name="FECHA_HORA_INICIO_EJECUCION" prompt="FECHA_HORA_INICIO_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
+  <contextParameter xmi:id="_79Mwds17Ee2JrLvLYgzj3Q" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

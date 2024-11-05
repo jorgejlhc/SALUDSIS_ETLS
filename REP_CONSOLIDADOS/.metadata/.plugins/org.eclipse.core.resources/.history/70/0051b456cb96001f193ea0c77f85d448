@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cCvzARpKEeeaHNmXoeyEOg" id="_G1Z3EMx5EeeSDZzJ6SsiMA" label="Consolidados" version="1.13" statusCode="PROD" item="_cCvzAxpKEeeaHNmXoeyEOg" displayName="Consolidados">
+    <author href="../../talend.project#_tDWcAGZKEe-uoraccIPBbg"/>
+    <additionalProperties xmi:id="_Kj7kcIJ2Ee2K3cHOiasUkg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Kj7kcYJ2Ee2K3cHOiasUkg" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_Kj7kcoJ2Ee2K3cHOiasUkg" key="created_date" value="2022-12-22T22:59:14.487-0500"/>
+    <additionalProperties xmi:id="_Kj7kc4J2Ee2K3cHOiasUkg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_Kj7kdIJ2Ee2K3cHOiasUkg" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_Kj7kdYJ2Ee2K3cHOiasUkg" key="modified_date" value="2024-10-30T09:25:50.216-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ETL_sGZLEe-uoraccIPBbg" path="Consolidados" locked="true" lockDate="2024-10-30T09:13:37.115-0500">
+    <locker href="../../talend.project#_tDWcAGZKEe-uoraccIPBbg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_cCvzAxpKEeeaHNmXoeyEOg" property="_cCvzARpKEeeaHNmXoeyEOg" state="_ETL_sGZLEe-uoraccIPBbg">
+    <process href="Consolidados_1.13.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
