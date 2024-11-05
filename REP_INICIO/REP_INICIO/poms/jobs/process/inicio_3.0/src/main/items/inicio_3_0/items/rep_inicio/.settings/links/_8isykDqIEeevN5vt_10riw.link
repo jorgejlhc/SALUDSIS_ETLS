@@ -1,0 +1,116 @@
+{
+  "itemId" : "_8isykDqIEeevN5vt_10riw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_XkNZpkHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_XkNZo0HxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_XkNZokHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_XkNZp0HxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_XkNZpEHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_XkNZoUHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_XkNZpUHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_XkXKp0HxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_XkXKokHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_XkXKoUHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_XkXKpkHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_XkXKo0HxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_XkXKpEHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_XkXKpUHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_XnHjskHxEe6p7ciBhnv0iQ",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_XnHju0HxEe6p7ciBhnv0iQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_XnHjs0HxEe6p7ciBhnv0iQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_XnHjt0HxEe6p7ciBhnv0iQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_XnHjvUHxEe6p7ciBhnv0iQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_XnHjsUHxEe6p7ciBhnv0iQ",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_XnHjtEHxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_XnHjv0HxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_XnHjtkHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_XnHjtUHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_XnHjvEHxEe6p7ciBhnv0iQ",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_XnHjvkHxEe6p7ciBhnv0iQ",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_XnHjuEHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_XnHjuUHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_XnHjukHxEe6p7ciBhnv0iQ",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_uFWIADsTEeevN5vt_10riw",
+    "parameterList" : [ {
+      "id" : "_XlS-wUHxEe6p7ciBhnv0iQ",
+      "name" : "Anio"
+    }, {
+      "id" : "_XlS-w0HxEe6p7ciBhnv0iQ",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_XlS-wkHxEe6p7ciBhnv0iQ",
+      "name" : "INNER_HDAC"
+    } ]
+  } ]
+}

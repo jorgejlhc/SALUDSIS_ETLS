@@ -1,0 +1,1682 @@
+!SESSION 2024-10-06 20:06:01.536 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -talendReload false -talendRestart true
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/ -talendReload false -talendRestart true
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-06 20:06:02.054
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-06 20:06:02.059
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-06 20:06:02.254
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-06 20:06:02.259
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-06 20:06:03.170
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:03.843
+!MESSAGE 2024-10-06 20:06:03,842 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:03.986
+!MESSAGE 2024-10-06 20:06:03,986 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:03.987
+!MESSAGE 2024-10-06 20:06:03,986 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:17.121
+!MESSAGE 2024-10-06 20:06:17,103 INFO  org.talend.sdk.component.studio.ProcessManager  - Local addresses passed to sdk: [127.0.0.1, [0:0:0:0:0:0:0:1]]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:18.018
+!MESSAGE 2024-10-06 20:06:18,017 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - jorgejlhc@gmail.com logged on REP_INICIO
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:19.949
+!MESSAGE 2024-10-06 20:06:19,948 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:20.456
+!MESSAGE 2024-10-06 20:06:20,456 INFO  org.talend.designer.codegen.components.model.ComponentsLoader  - allSet size: 662, total: 662
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:22.334
+!MESSAGE 2024-10-06 20:06:22,334 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:25.932
+!MESSAGE 2024-10-06 20:06:25,931 INFO  org.talend.sdk.component.studio.ProcessManager  - Succeed to connect [http://127.0.0.1:55103/api/v1/environment]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:27.533
+!MESSAGE 2024-10-06 20:06:27,533 INFO  org.talend.designer.codegen.components.model.ComponentsFactory  - 740 components loaded in 7235 ms
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:27.806
+!MESSAGE 2024-10-06 20:06:27,806 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-azure
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:27.916
+!MESSAGE 2024-10-06 20:06:27,915 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.033
+!MESSAGE 2024-10-06 20:06:28,031 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.033
+!MESSAGE 2024-10-06 20:06:28,033 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.126
+!MESSAGE 2024-10-06 20:06:28,125 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.126
+!MESSAGE 2024-10-06 20:06:28,126 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.128
+!MESSAGE 2024-10-06 20:06:28,128 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.136
+!MESSAGE 2024-10-06 20:06:28,136 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: commons-pool
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.136
+!MESSAGE 2024-10-06 20:06:28,136 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xstream
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.136
+!MESSAGE 2024-10-06 20:06:28,136 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xpp3
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.136
+!MESSAGE 2024-10-06 20:06:28,136 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.jms-api
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:28.136
+!MESSAGE 2024-10-06 20:06:28,136 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.transaction_1.1.1.v201105210645.jar
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.171
+!MESSAGE 2024-10-06 20:06:28,171 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-aws-mq
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.215
+!MESSAGE 2024-10-06 20:06:28,214 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-06 20:06:28.215
+!MESSAGE 2024-10-06 20:06:28,215 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-10-06 20:06:28.774
+!MESSAGE A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+!STACK 0
+java.lang.IllegalArgumentException: A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.registerTheme(ThemeEngine.java:261)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.<init>(ThemeEngine.java:158)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngineManager.getEngineForDisplay(ThemeEngineManager.java:39)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createThemeEngine(PartRenderingEngine.java:1407)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1284)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:28.776
+!MESSAGE 2024-10-06 20:06:28,774 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:28.779
+!MESSAGE 2024-10-06 20:06:28,778 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -N -Dci.builder.skip=true
+
+
+!ENTRY org.eclipse.jface 2 0 2024-10-06 20:06:29.784
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-10-06 20:06:29.784
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:45.819
+!MESSAGE 2024-10-06 20:06:45,819 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms\code\routines
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:45.819
+!MESSAGE 2024-10-06 20:06:45,819 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:51.921
+!MESSAGE 2024-10-06 20:06:51,921 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms\code\beans
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:06:51.921
+!MESSAGE 2024-10-06 20:06:51,921 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:06:56.338
+!MESSAGE 2024-10-06 20:06:56,337 ERROR org.talend.commons.exception.CommonExceptionHandler  - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+
+!STACK 0
+us.monoid.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at us.monoid.json.JSONTokener.syntaxError(JSONTokener.java:423)
+	at us.monoid.json.JSONObject.<init>(JSONObject.java:190)
+	at us.monoid.json.JSONObject.<init>(JSONObject.java:321)
+	at org.talend.core.ui.token.TokenCollectorFactory$2.run(TokenCollectorFactory.java:340)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:07:53.642
+!MESSAGE 2024-10-06 20:07:53,641 INFO  org.talend.core.model.relationship.RelationshipItemBuilder  - relationship.index generating
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:07:53.682
+!MESSAGE 2024-10-06 20:07:53,682 INFO  org.talend.core.model.relationship.RelationshipItemBuilder  - relationship.index generated
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:07:59.113
+!MESSAGE 2024-10-06 20:07:59,113 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms\code\routines
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:07:59.114
+!MESSAGE 2024-10-06 20:07:59,113 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:08:04.116
+!MESSAGE 2024-10-06 20:08:04,116 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms\code\beans
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:08:04.117
+!MESSAGE 2024-10-06 20:08:04,117 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:09.905
+!MESSAGE 2024-10-06 20:13:09,905 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:09.919
+!MESSAGE 2024-10-06 20:13:09,919 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:09.919
+!MESSAGE 2024-10-06 20:13:09,919 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -Dmaven.test.skip=true -DskipTests -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:13:24.265
+!MESSAGE 2024-10-06 20:13:24,232 ERROR org.talend.commons.exception.CommonExceptionHandler  - The Job "Inicio" has wrong configuration. Fix it and try again.
+Error Line: 2351
+Detail Message: Type mismatch: cannot convert from Date to String
+
+!STACK 0
+org.talend.designer.runprocess.ProcessorException: The Job "Inicio" has wrong configuration. Fix it and try again.
+Error Line: 2351
+Detail Message: Type mismatch: cannot convert from Date to String
+	at org.talend.designer.runprocess.JobErrorsChecker.checkLastGenerationHasCompilationError(JobErrorsChecker.java:358)
+	at org.talend.designer.runprocess.DefaultRunProcessService.checkLastGenerationHasCompilationError(DefaultRunProcessService.java:545)
+	at org.talend.designer.runprocess.RunProcessService.checkLastGenerationHasCompilationError(RunProcessService.java:325)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateBuildInfo(ProcessorUtilities.java:822)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:720)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:2065)
+	at org.talend.designer.runprocess.RunProcessContext$2.run(RunProcessContext.java:665)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:434)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:470)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:230)
+	at org.eclipse.ui.internal.progress.ProgressManager.run(ProgressManager.java:999)
+	at org.talend.designer.runprocess.RunProcessContext.exec(RunProcessContext.java:612)
+	at org.talend.designer.runprocess.ui.ProcessComposite.exec(ProcessComposite.java:1447)
+	at org.talend.designer.runprocess.ui.views.ProcessView$RunAction.run(ProcessView.java:747)
+	at org.talend.designer.runprocess.ui.actions.RunProcessAction.run(RunProcessAction.java:63)
+	at org.talend.designer.core.debug.JobLaunchConfigurationDelegate$1$1.run(JobLaunchConfigurationDelegate.java:98)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:42.544
+!MESSAGE 2024-10-06 20:13:42,543 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:42.554
+!MESSAGE 2024-10-06 20:13:42,553 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:13:42.554
+!MESSAGE 2024-10-06 20:13:42,554 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -Dmaven.test.skip=true -DskipTests -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-06 20:13:53.809
+!MESSAGE 2024-10-06 20:13:53,808 ERROR org.talend.commons.exception.CommonExceptionHandler  - The Job "Inicio" has wrong configuration. Fix it and try again.
+Error Line: 2351
+Detail Message: Type mismatch: cannot convert from Date to String
+
+!STACK 0
+org.talend.designer.runprocess.ProcessorException: The Job "Inicio" has wrong configuration. Fix it and try again.
+Error Line: 2351
+Detail Message: Type mismatch: cannot convert from Date to String
+	at org.talend.designer.runprocess.JobErrorsChecker.checkLastGenerationHasCompilationError(JobErrorsChecker.java:358)
+	at org.talend.designer.runprocess.DefaultRunProcessService.checkLastGenerationHasCompilationError(DefaultRunProcessService.java:545)
+	at org.talend.designer.runprocess.RunProcessService.checkLastGenerationHasCompilationError(RunProcessService.java:325)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateBuildInfo(ProcessorUtilities.java:822)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:1262)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:1003)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:2084)
+	at org.talend.designer.core.ui.AbstractMultiPageTalendEditor$8.lambda$0(AbstractMultiPageTalendEditor.java:1461)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:68)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:172)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:14:36.684
+!MESSAGE 2024-10-06 20:14:36,684 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:14:36.697
+!MESSAGE 2024-10-06 20:14:36,696 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:14:36.698
+!MESSAGE 2024-10-06 20:14:36,697 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -Dmaven.test.skip=true -DskipTests -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:14:57.611
+!MESSAGE 2024-10-06 20:14:57,610 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk-22/bin/java.exe -Xms256M -Xmx1024M -Xmx2048M -Xmx4096M -Xmx6144M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/.m2/repository -Dencryption.keys.file=/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/studio.keys -cp D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/target/classpath.jar; rep_inicio.inicio_3_0.Inicio --context=Default --stat_port=3481 %*
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:22:19.411
+!MESSAGE 2024-10-06 20:22:19,411 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:22:25.087
+!MESSAGE 2024-10-06 20:22:25,086 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk-22/bin/java.exe -Xms256M -Xmx1024M -Xmx2048M -Xmx4096M -Xmx6144M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/.m2/repository -Dencryption.keys.file=/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/studio.keys -cp D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/target/classpath.jar; rep_inicio.inicio_3_0.Inicio --context=Default --stat_port=3653 %*
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:33:37.279
+!MESSAGE 2024-10-06 20:33:37,279 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:33:37.285
+!MESSAGE 2024-10-06 20:33:37,284 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:33:37.286
+!MESSAGE 2024-10-06 20:33:37,286 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -Dmaven.test.skip=true -DskipTests -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-06 20:33:49.024
+!MESSAGE 2024-10-06 20:33:49,023 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk-22/bin/java.exe -Xms256M -Xmx1024M -Xmx2048M -Xmx4096M -Xmx6144M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/.m2/repository -Dencryption.keys.file=/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/studio.keys -cp D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/target/classpath.jar; rep_inicio.inicio_3_0.Inicio --context=Default --stat_port=3914 %*
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-07 10:07:09.269
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-07 10:07:09.567 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -talendReload false -talendRestart true
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/ -talendReload false -talendRestart true
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-07 10:07:10.123
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-07 10:07:10.123
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-07 10:07:10.328
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-07 10:07:10.328
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-07 10:07:11.671
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 10:07:12.458
+!MESSAGE 2024-10-07 10:07:12,458 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 10:07:12.679
+!MESSAGE 2024-10-07 10:07:12,678 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 10:07:12.679
+!MESSAGE 2024-10-07 10:07:12,679 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 10:07:12.697
+!MESSAGE 2024-10-07 10:07:12,696 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-07 10:07:12.963
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-07 10:08:10.036
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-07 18:26:02.078 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-07 18:26:02.604
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-07 18:26:02.607
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-07 18:26:02.803
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-07 18:26:02.805
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-07 18:26:03.706
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:04.375
+!MESSAGE 2024-10-07 18:26:04,374 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:04.533
+!MESSAGE 2024-10-07 18:26:04,532 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:04.533
+!MESSAGE 2024-10-07 18:26:04,533 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:04.556
+!MESSAGE 2024-10-07 18:26:04,554 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-07 18:26:04.817
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:10.937
+!MESSAGE 2024-10-07 18:26:10,937 INFO  org.talend.sdk.component.studio.ProcessManager  - Local addresses passed to sdk: [127.0.0.1, [0:0:0:0:0:0:0:1]]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:13.120
+!MESSAGE 2024-10-07 18:26:13,120 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - jorgejlhc@gmail.com logged on REP_INICIO
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:14.890
+!MESSAGE 2024-10-07 18:26:14,890 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-10-07 18:26:15.001
+!MESSAGE A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+!STACK 0
+java.lang.IllegalArgumentException: A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.registerTheme(ThemeEngine.java:261)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.<init>(ThemeEngine.java:158)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngineManager.getEngineForDisplay(ThemeEngineManager.java:39)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createThemeEngine(PartRenderingEngine.java:1407)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1284)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:15.899
+!MESSAGE 2024-10-07 18:26:15,899 INFO  org.talend.designer.codegen.components.model.ComponentsLoader  - allSet size: 662, total: 662
+
+
+!ENTRY org.eclipse.jface 2 0 2024-10-07 18:26:16.021
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-10-07 18:26:16.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:16.199
+!MESSAGE 2024-10-07 18:26:16,199 ERROR org.talend.commons.exception.CommonExceptionHandler  - No value present
+
+!STACK 0
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.needInstallRootPom(AggregatorPomsHelper.java:203)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.installRootPom(AggregatorPomsHelper.java:173)
+	at org.talend.designer.runprocess.DefaultRunProcessService.initializeRootPoms(DefaultRunProcessService.java:886)
+	at org.talend.designer.runprocess.RunProcessService.initializeRootPoms(RunProcessService.java:516)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.doSyncAndInstallCodes(ProxyRepositoryFactory.java:2529)
+	at org.talend.core.repository.model.ProxyRepositoryFactory$2.run(ProxyRepositoryFactory.java:2505)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:16.291
+!MESSAGE 2024-10-07 18:26:16,290 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:16.293
+!MESSAGE 2024-10-07 18:26:16,292 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -N -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:17.841
+!MESSAGE 2024-10-07 18:26:17,840 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:25.478
+!MESSAGE 2024-10-07 18:26:25,478 INFO  org.talend.sdk.component.studio.ProcessManager  - Succeed to connect [http://127.0.0.1:54419/api/v1/environment]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:26:27.984
+!MESSAGE 2024-10-07 18:26:27,984 INFO  org.talend.designer.codegen.components.model.ComponentsFactory  - 740 components loaded in 12481 ms
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.126
+!MESSAGE 2024-10-07 18:26:28,126 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-azure
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.219
+!MESSAGE 2024-10-07 18:26:28,219 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.307
+!MESSAGE 2024-10-07 18:26:28,307 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.307
+!MESSAGE 2024-10-07 18:26:28,307 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.393
+!MESSAGE 2024-10-07 18:26:28,393 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.394
+!MESSAGE 2024-10-07 18:26:28,393 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.396
+!MESSAGE 2024-10-07 18:26:28,395 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.409
+!MESSAGE 2024-10-07 18:26:28,409 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: commons-pool
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.410
+!MESSAGE 2024-10-07 18:26:28,409 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xstream
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.410
+!MESSAGE 2024-10-07 18:26:28,410 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xpp3
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.410
+!MESSAGE 2024-10-07 18:26:28,410 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.jms-api
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-07 18:26:28.411
+!MESSAGE 2024-10-07 18:26:28,411 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.transaction_1.1.1.v201105210645.jar
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.440
+!MESSAGE 2024-10-07 18:26:28,440 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-aws-mq
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.465
+!MESSAGE 2024-10-07 18:26:28,465 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-07 18:26:28.465
+!MESSAGE 2024-10-07 18:26:28,465 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:31.768
+!MESSAGE 2024-10-07 18:27:31,768 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - destinationPath: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\Inicio_3.0.zip
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:31.768
+!MESSAGE 2024-10-07 18:27:31,768 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - version: 3.0
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:31.768
+!MESSAGE 2024-10-07 18:27:31,768 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - context: Default
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:31.768
+!MESSAGE 2024-10-07 18:27:31,768 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - exportChoiceMap: needContext: true
+log4jLevel: null
+executeTests: false
+needLog4jLevel: false
+needDependencies: true
+needLauncher: true
+needSystemRoutine: true
+needJobScript: true
+launcherName: All
+includeTestSource: false
+binaries: true
+needWebhook: false
+needParameterValues: false
+needUserRoutine: true
+addStatistics: true
+applyToChildren: false
+needJobItem: true
+needSourceCode: true
+includeLibs: true
+needTalendLibraries: true
+contextName: Default
+
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:56.034
+!MESSAGE 2024-10-07 18:27:56,034 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:56.056
+!MESSAGE 2024-10-07 18:27:56,056 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:27:56.056
+!MESSAGE 2024-10-07 18:27:56,056 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:28:10.202
+!MESSAGE 2024-10-07 18:28:10,202 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms\jobs\process\inicio_3.0
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-07 18:28:10.202
+!MESSAGE 2024-10-07 18:28:10,202 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml package -l D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/lastGenerated.log -P default-settings,include-java-sources,!include-maven-resources,include-items,include-libs,include-binaries,!include-running-log4j,!include-log4j,include-contexts,!include-test-sources,!include-test-reports,!include-xmlMappings,!include-running-xmlMappings,packaging-and-assembly,!ci-builder -Dmaven.test.skip=true -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-08 15:27:44.009
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-09 16:36:25.891 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-09 16:36:27.069
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-09 16:36:27.294
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-09 16:36:28.221
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-09 16:36:28.224
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-09 16:36:52.085
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-09 16:36:54.501
+!MESSAGE 2024-10-09 16:36:54,500 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-09 16:36:54.802
+!MESSAGE 2024-10-09 16:36:54,801 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-09 16:36:54.803
+!MESSAGE 2024-10-09 16:36:54,802 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-09 16:36:54.832
+!MESSAGE 2024-10-09 16:36:54,829 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-09 16:36:55.187
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-09 16:53:53.105
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-14 11:33:45.350 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-14 11:33:45.868
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-14 11:33:45.868
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-14 11:33:46.075
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-14 11:33:46.075
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-14 11:33:47.022
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:47.747
+!MESSAGE 2024-10-14 11:33:47,747 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:47.913
+!MESSAGE 2024-10-14 11:33:47,913 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:47.913
+!MESSAGE 2024-10-14 11:33:47,913 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:33:47.929
+!MESSAGE 2024-10-14 11:33:47,929 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-14 11:33:48.196
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:54.295
+!MESSAGE 2024-10-14 11:33:54,294 INFO  org.talend.sdk.component.studio.ProcessManager  - Local addresses passed to sdk: [127.0.0.1, [0:0:0:0:0:0:0:1]]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:56.651
+!MESSAGE 2024-10-14 11:33:56,650 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - jorgejlhc@gmail.com logged on REP_INICIO
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:58.237
+!MESSAGE 2024-10-14 11:33:58,236 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-10-14 11:33:58.370
+!MESSAGE A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+!STACK 0
+java.lang.IllegalArgumentException: A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.registerTheme(ThemeEngine.java:261)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.<init>(ThemeEngine.java:158)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngineManager.getEngineForDisplay(ThemeEngineManager.java:39)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createThemeEngine(PartRenderingEngine.java:1407)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1284)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:59.215
+!MESSAGE 2024-10-14 11:33:59,215 INFO  org.talend.designer.codegen.components.model.ComponentsLoader  - allSet size: 662, total: 662
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:33:59.406
+!MESSAGE 2024-10-14 11:33:59,405 ERROR org.talend.commons.exception.CommonExceptionHandler  - No value present
+
+!STACK 0
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.needInstallRootPom(AggregatorPomsHelper.java:203)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.installRootPom(AggregatorPomsHelper.java:173)
+	at org.talend.designer.runprocess.DefaultRunProcessService.initializeRootPoms(DefaultRunProcessService.java:886)
+	at org.talend.designer.runprocess.RunProcessService.initializeRootPoms(RunProcessService.java:516)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.doSyncAndInstallCodes(ProxyRepositoryFactory.java:2529)
+	at org.talend.core.repository.model.ProxyRepositoryFactory$2.run(ProxyRepositoryFactory.java:2505)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jface 2 0 2024-10-14 11:33:59.499
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-10-14 11:33:59.499
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:59.536
+!MESSAGE 2024-10-14 11:33:59,535 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:33:59.539
+!MESSAGE 2024-10-14 11:33:59,538 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -N -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:01.248
+!MESSAGE 2024-10-14 11:34:01,248 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:34:09.299
+!MESSAGE 2024-10-14 11:34:09,299 INFO  org.talend.sdk.component.studio.ProcessManager  - Succeed to connect [http://127.0.0.1:50547/api/v1/environment]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:34:11.387
+!MESSAGE 2024-10-14 11:34:11,387 INFO  org.talend.designer.codegen.components.model.ComponentsFactory  - 740 components loaded in 12548 ms
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.575
+!MESSAGE 2024-10-14 11:34:11,574 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-azure
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.679
+!MESSAGE 2024-10-14 11:34:11,677 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.773
+!MESSAGE 2024-10-14 11:34:11,772 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.773
+!MESSAGE 2024-10-14 11:34:11,773 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.863
+!MESSAGE 2024-10-14 11:34:11,863 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.864
+!MESSAGE 2024-10-14 11:34:11,863 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.865
+!MESSAGE 2024-10-14 11:34:11,865 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.880
+!MESSAGE 2024-10-14 11:34:11,879 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: commons-pool
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.880
+!MESSAGE 2024-10-14 11:34:11,880 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xstream
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.881
+!MESSAGE 2024-10-14 11:34:11,880 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xpp3
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.881
+!MESSAGE 2024-10-14 11:34:11,881 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.jms-api
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-14 11:34:11.882
+!MESSAGE 2024-10-14 11:34:11,881 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.transaction_1.1.1.v201105210645.jar
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.904
+!MESSAGE 2024-10-14 11:34:11,904 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-aws-mq
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.930
+!MESSAGE 2024-10-14 11:34:11,929 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-14 11:34:11.930
+!MESSAGE 2024-10-14 11:34:11,930 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:36:29.547
+!MESSAGE 2024-10-14 11:36:29,547 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:36:29.560
+!MESSAGE 2024-10-14 11:36:29,560 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:36:29.560
+!MESSAGE 2024-10-14 11:36:29,560 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -Dmaven.test.skip=true -DskipTests -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-14 11:36:41.288
+!MESSAGE 2024-10-14 11:36:41,287 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk-22/bin/java.exe -Xms256M -Xmx1024M -Xmx2048M -Xmx4096M -Xmx6144M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/.m2/repository -Dencryption.keys.file=/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/configuration/studio.keys -cp D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/target/classpath.jar; rep_inicio.inicio_3_0.Inicio --context=Default --stat_port=3359 %*
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-15 22:11:06.265
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-15 22:11:06.614 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -talendReload false -talendRestart true
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/REP_INICIO/ -talendReload false -talendRestart true
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-15 22:11:07.683
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-15 22:11:07.904
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-15 22:11:08.730
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-15 22:11:08.730
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-15 22:11:27.792
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-15 22:11:29.385
+!MESSAGE 2024-10-15 22:11:29,385 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-15 22:11:29.639
+!MESSAGE 2024-10-15 22:11:29,639 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-15 22:11:29.639
+!MESSAGE 2024-10-15 22:11:29,639 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-15 22:11:29.664
+!MESSAGE 2024-10-15 22:11:29,664 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-15 22:11:29.918
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-15 22:12:06.977
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-28 11:45:16.933 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/workspace/REP_INICIO/
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-28 11:45:17.435
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-28 11:45:17.435
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-28 11:45:17.630
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-28 11:45:17.646
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-28 11:45:18.529
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:19.231
+!MESSAGE 2024-10-28 11:45:19,231 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:19.385
+!MESSAGE 2024-10-28 11:45:19,385 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:19.385
+!MESSAGE 2024-10-28 11:45:19,385 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:19.396
+!MESSAGE 2024-10-28 11:45:19,396 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-28 11:45:19.649
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:24.109
+!MESSAGE 2024-10-28 11:45:24,107 INFO  org.talend.sdk.component.studio.ProcessManager  - Local addresses passed to sdk: [127.0.0.1, [0:0:0:0:0:0:0:1]]
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:25.971
+!MESSAGE 2024-10-28 11:45:25,970 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:26.711
+!MESSAGE 2024-10-28 11:45:26,711 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - jorgejlhc@gmail.com logged on REP_INICIO
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:27.462
+!MESSAGE 2024-10-28 11:45:27,461 INFO  org.talend.sdk.component.studio.ProcessManager  - Succeed to connect [http://127.0.0.1:59879/api/v1/environment]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:27.975
+!MESSAGE 2024-10-28 11:45:27,975 ERROR org.talend.commons.exception.CommonExceptionHandler  - No value present
+
+!STACK 0
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.needInstallRootPom(AggregatorPomsHelper.java:203)
+	at org.talend.designer.maven.tools.AggregatorPomsHelper.installRootPom(AggregatorPomsHelper.java:173)
+	at org.talend.designer.runprocess.DefaultRunProcessService.initializeRootPoms(DefaultRunProcessService.java:886)
+	at org.talend.designer.runprocess.RunProcessService.initializeRootPoms(RunProcessService.java:516)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.doSyncAndInstallCodes(ProxyRepositoryFactory.java:2529)
+	at org.talend.core.repository.model.ProxyRepositoryFactory$2.run(ProxyRepositoryFactory.java:2505)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:27.996
+!MESSAGE 2024-10-28 11:45:27,995 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:28.082
+!MESSAGE 2024-10-28 11:45:28,082 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:28.084
+!MESSAGE 2024-10-28 11:45:28,084 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -N -Dci.builder.skip=true
+
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-10-28 11:45:28.131
+!MESSAGE A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+!STACK 0
+java.lang.IllegalArgumentException: A theme with the id 'org.eclipse.e4.ui.css.theme.e4_dark' is already registered
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.registerTheme(ThemeEngine.java:261)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.<init>(ThemeEngine.java:158)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngineManager.getEngineForDisplay(ThemeEngineManager.java:39)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createThemeEngine(PartRenderingEngine.java:1407)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1284)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.talend.rcp.intro.Application.start(Application.java:319)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:28.177
+!MESSAGE 2024-10-28 11:45:28,176 INFO  org.talend.designer.codegen.components.model.ComponentsLoader  - allSet size: 662, total: 662
+
+
+!ENTRY org.eclipse.jface 2 0 2024-10-28 11:45:28.748
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-10-28 11:45:28.748
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:45:30.313
+!MESSAGE 2024-10-28 11:45:30,313 INFO  org.talend.designer.codegen.components.model.ComponentsFactory  - 740 components loaded in 2237 ms
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:34.869
+!MESSAGE 2024-10-28 11:45:34,869 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-azure
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:34.933
+!MESSAGE 2024-10-28 11:45:34,931 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.066
+!MESSAGE 2024-10-28 11:45:35,065 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.066
+!MESSAGE 2024-10-28 11:45:35,066 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.155
+!MESSAGE 2024-10-28 11:45:35,155 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.155
+!MESSAGE 2024-10-28 11:45:35,155 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.157
+!MESSAGE 2024-10-28 11:45:35,157 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: cxf-rt-rs-service-description
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.175
+!MESSAGE 2024-10-28 11:45:35,173 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: commons-pool
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.176
+!MESSAGE 2024-10-28 11:45:35,176 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xstream
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.176
+!MESSAGE 2024-10-28 11:45:35,176 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: xpp3
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.177
+!MESSAGE 2024-10-28 11:45:35,176 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.jms-api
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:45:35.178
+!MESSAGE 2024-10-28 11:45:35,177 ERROR org.talend.commons.exception.CommonExceptionHandler  - Missing module MVN_URI definition: javax.transaction_1.1.1.v201105210645.jar
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.207
+!MESSAGE 2024-10-28 11:45:35,206 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: camel-aws-mq
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.231
+!MESSAGE 2024-10-28 11:45:35,231 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: DATAPROC-LAUNCHER-DI
+
+
+!ENTRY org.talend.platform.logging 2 0 2024-10-28 11:45:35.233
+!MESSAGE 2024-10-28 11:45:35,232 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: UNIVERSAL-SPARK-3.1.X
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:00.895
+!MESSAGE 2024-10-28 11:47:00,895 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - destinationPath: D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\BINARIOS\BATCH_PROCESS\REP\Inicio_3.0.zip
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:00.895
+!MESSAGE 2024-10-28 11:47:00,895 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - version: 3.0
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:00.895
+!MESSAGE 2024-10-28 11:47:00,895 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - context: Default
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:00.895
+!MESSAGE 2024-10-28 11:47:00,895 INFO  org.talend.repository.ui.wizards.exportjob.scriptsmanager.BuildJobManager  - exportChoiceMap: applyToChildren: false
+needParameterValues: false
+contextName: Default
+needSourceCode: true
+binaries: true
+includeLibs: true
+executeTests: false
+addStatistics: true
+needLauncher: true
+launcherName: All
+log4jLevel: null
+needWebhook: false
+includeTestSource: false
+needContext: true
+needJobScript: true
+needSystemRoutine: true
+needUserRoutine: true
+needLog4jLevel: false
+needTalendLibraries: true
+needJobItem: true
+needDependencies: true
+
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:21.922
+!MESSAGE 2024-10-28 11:47:21,922 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:21.950
+!MESSAGE 2024-10-28 11:47:21,950 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_INICIO\REP_INICIO\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:21.950
+!MESSAGE 2024-10-28 11:47:21,950 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml install -T 1C -f build-aggregator.pom -P !packaging-and-assembly,!signature -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:34.829
+!MESSAGE 2024-10-28 11:47:34,814 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  - D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\workspace\REP_INICIO\REP_INICIO\poms\jobs\process\inicio_3.0
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:47:34.829
+!MESSAGE 2024-10-28 11:47:34,829 INFO  org.talend.designer.maven.launch.TalendMavenLaunchDelegate  -  mvn -B -o -s D:\ETL\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT\configuration\maven_user_settings.xml package -l D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/workspace/REP_INICIO/REP_INICIO/poms/jobs/process/inicio_3.0/lastGenerated.log -P default-settings,include-java-sources,!include-maven-resources,include-items,include-libs,include-binaries,!include-running-log4j,!include-log4j,include-contexts,!include-test-sources,!include-test-reports,!include-xmlMappings,!include-running-xmlMappings,packaging-and-assembly,!ci-builder -Dmaven.test.skip=true -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-28 11:48:42.712
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-10-28 11:48:42.974 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -talendReload false -talendRestart true
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/ETL/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/TOS_ESB-Studio-20240722_1936-V8.8.8SNAPSHOT/workspace/REP_INICIO/ -talendReload false -talendRestart true
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-28 11:48:43.511
+!MESSAGE Bundle org.eclipse.core.net.linux.x86_64 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2024-10-28 11:48:43.511
+!MESSAGE Bundle org.eclipse.equinox.security.linux.x86_64 not found.
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2024-10-28 11:48:43.711
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [16]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2024-10-28 11:48:43.711
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [17]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-10-28 11:48:44.627
+!MESSAGE Both 'org.talend.model' and 'org.talend.model' register a package for 'http://www.talend.org/component_cache'
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:48:45.313
+!MESSAGE 2024-10-28 11:48:45,313 INFO  org.talend.rcp.intro.Application  - 
+!!-----------------------------------------------------------------------------------!!
+!!                                                                                   !!
+!!                                      TALAXIE                                      !!
+!!   Starting Talaxie's platform log system. VERSION= 8.8.8.20240722_1936-SNAPSHOT   !!
+!!                                                                                   !!
+!!-----------------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:48:45.455
+!MESSAGE 2024-10-28 11:48:45,455 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into http.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-28 11:48:45.455
+!MESSAGE 2024-10-28 11:48:45,455 INFO  org.talend.commons.exception.CommonExceptionHandler  - org.talend.commons.utils.network.TalendProxySelector:-Dtalend.studio.proxy.excludeLoopbackAutomatically=true, adding missing loopback addresses into https.nonProxyHosts: [localhost, 0:0:0:0:0:0:0:1, 127.0.0.1]
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-28 11:48:45.481
+!MESSAGE 2024-10-28 11:48:45,465 ERROR org.talend.commons.exception.CommonExceptionHandler  - Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.IMaven.reloadSettings()" because "maven" is null
+	at org.talend.designer.maven.ui.setting.preference.M2eUserSettingForTalendLoginTask.run(M2eUserSettingForTalendLoginTask.java:135)
+	at org.talend.designer.maven.ui.MavenUIService.checkUserSettings(MavenUIService.java:59)
+	at org.talend.rcp.intro.Application.start(Application.java:204)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-28 11:48:45.714
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-28 11:49:10.144
+!MESSAGE The workspace will exit with unsaved changes in this session.

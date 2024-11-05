@@ -1,0 +1,241 @@
+{
+  "itemId" : "_5BO_QDZcEee71Ndfm0RjbQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0YBK8DW4EeezZ7xbC53N0w",
+    "parameterList" : [ {
+      "id" : "_XkNZpkHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_XkNZo0HxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_XkNZokHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_XkNZp0HxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_XkNZpEHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_XkNZoUHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_XkNZpUHxEe6p7ciBhnv0iQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l8kNADXDEeebBNfaoZVT4A",
+    "parameterList" : [ {
+      "id" : "_XkXKp0HxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_XkXKokHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_XkXKoUHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_XkXKpkHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_XkXKo0HxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_XkXKpEHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_XkXKpUHxEe6p7ciBhnv0iQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_cs7FwDvmEeeFpIetUaIyEQ",
+    "parameterList" : [ {
+      "id" : "_XlcvxEHxEe6p7ciBhnv0iQ",
+      "name" : "COM_EPS_ID"
+    }, {
+      "id" : "_XlcvwkHxEe6p7ciBhnv0iQ",
+      "name" : "COM_FICHA_ID"
+    }, {
+      "id" : "_XlcvxUHxEe6p7ciBhnv0iQ",
+      "name" : "COM_FREGISTRO"
+    }, {
+      "id" : "_Xlcvx0HxEe6p7ciBhnv0iQ",
+      "name" : "COM_OPCION1"
+    }, {
+      "id" : "_XlcvyEHxEe6p7ciBhnv0iQ",
+      "name" : "COM_OPCION2"
+    }, {
+      "id" : "_XlcvwUHxEe6p7ciBhnv0iQ",
+      "name" : "COM_PERSONA_ID"
+    }, {
+      "id" : "_XlcvzUHxEe6p7ciBhnv0iQ",
+      "name" : "COM_RECOMENDACIONES"
+    }, {
+      "id" : "_XlcvzEHxEe6p7ciBhnv0iQ",
+      "name" : "COM_RESPUESTA"
+    }, {
+      "id" : "_XlcvyUHxEe6p7ciBhnv0iQ",
+      "name" : "COM_SIGLA"
+    }, {
+      "id" : "_XlcvykHxEe6p7ciBhnv0iQ",
+      "name" : "COM_TPREGUNTAS_ID"
+    }, {
+      "id" : "_Xlcvw0HxEe6p7ciBhnv0iQ",
+      "name" : "COM_TREGIMENSALUD_ID"
+    }, {
+      "id" : "_XlcvxkHxEe6p7ciBhnv0iQ",
+      "name" : "COM_TRESPUESTAS_ID"
+    }, {
+      "id" : "_Xlcvy0HxEe6p7ciBhnv0iQ",
+      "name" : "COM_VPREDETERMINADO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_aIKPcDyVEeeFpIetUaIyEQ",
+    "parameterList" : [ {
+      "id" : "_XlkEhEHxEe6p7ciBhnv0iQ",
+      "name" : "PER_EPS_ID"
+    }, {
+      "id" : "_XlkEgkHxEe6p7ciBhnv0iQ",
+      "name" : "PER_FICHA_ID"
+    }, {
+      "id" : "_XlkEhUHxEe6p7ciBhnv0iQ",
+      "name" : "PER_FREGISTRO"
+    }, {
+      "id" : "_XlkEh0HxEe6p7ciBhnv0iQ",
+      "name" : "PER_OPCION1"
+    }, {
+      "id" : "_XlkEiEHxEe6p7ciBhnv0iQ",
+      "name" : "PER_OPCION2"
+    }, {
+      "id" : "_XlkEgUHxEe6p7ciBhnv0iQ",
+      "name" : "PER_PERSONA_ID"
+    }, {
+      "id" : "_XlkEjUHxEe6p7ciBhnv0iQ",
+      "name" : "PER_RECOMENDACIONES"
+    }, {
+      "id" : "_XlkEjEHxEe6p7ciBhnv0iQ",
+      "name" : "PER_RESPUESTA"
+    }, {
+      "id" : "_XlkEiUHxEe6p7ciBhnv0iQ",
+      "name" : "PER_SIGLA"
+    }, {
+      "id" : "_XlkEikHxEe6p7ciBhnv0iQ",
+      "name" : "PER_TPREGUNTAS_ID"
+    }, {
+      "id" : "_XlkEg0HxEe6p7ciBhnv0iQ",
+      "name" : "PER_TREGIMENSALUD_ID"
+    }, {
+      "id" : "_XlkEhkHxEe6p7ciBhnv0iQ",
+      "name" : "PER_TRESPUESTAS_ID"
+    }, {
+      "id" : "_XlkEi0HxEe6p7ciBhnv0iQ",
+      "name" : "PER_VPREDETERMINADO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_XnHjskHxEe6p7ciBhnv0iQ",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_XnHju0HxEe6p7ciBhnv0iQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_XnHjwkHxEe6p7ciBhnv0iQ",
+      "name" : "CONDITION"
+    }, {
+      "id" : "_XnHjw0HxEe6p7ciBhnv0iQ",
+      "name" : "CONDITION_PRINCIPAL"
+    }, {
+      "id" : "_XnHjs0HxEe6p7ciBhnv0iQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_XnHjt0HxEe6p7ciBhnv0iQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_XnHjvUHxEe6p7ciBhnv0iQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_XnHjsUHxEe6p7ciBhnv0iQ",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_XnHjtEHxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_XnHjv0HxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_XnHjtkHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_XnHjtUHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_XnHjvEHxEe6p7ciBhnv0iQ",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_XnHjxEHxEe6p7ciBhnv0iQ",
+      "name" : "JOB"
+    }, {
+      "id" : "_XnHjvkHxEe6p7ciBhnv0iQ",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_XnHjuEHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_XnHjuUHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_XnHjwEHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_XnHjukHxEe6p7ciBhnv0iQ",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_XnHjwUHxEe6p7ciBhnv0iQ",
+      "name" : "RutaSistema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Z86oEDs9Eee6X7V4GGY5Ww",
+    "parameterList" : [ {
+      "id" : "_Xm0oyUHxEe6p7ciBhnv0iQ",
+      "name" : "ABIERTA"
+    }, {
+      "id" : "_Xm0oy0HxEe6p7ciBhnv0iQ",
+      "name" : "AREA"
+    }, {
+      "id" : "_Xm0owUHxEe6p7ciBhnv0iQ",
+      "name" : "COMBO"
+    }, {
+      "id" : "_Xm0owkHxEe6p7ciBhnv0iQ",
+      "name" : "COMBO_COMBO"
+    }, {
+      "id" : "_Xm0ox0HxEe6p7ciBhnv0iQ",
+      "name" : "COMBO_NUMERICO"
+    }, {
+      "id" : "_Xm0oxUHxEe6p7ciBhnv0iQ",
+      "name" : "COMBO_OTRO"
+    }, {
+      "id" : "_Xm0ow0HxEe6p7ciBhnv0iQ",
+      "name" : "COMBO_TEXTO"
+    }, {
+      "id" : "_Xm0oykHxEe6p7ciBhnv0iQ",
+      "name" : "COMBO_TEXTO_FIJO"
+    }, {
+      "id" : "_Xm0oyEHxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_NORMAL"
+    }, {
+      "id" : "_Xm0oxEHxEe6p7ciBhnv0iQ",
+      "name" : "MULTISELECT"
+    }, {
+      "id" : "_Xm0oxkHxEe6p7ciBhnv0iQ",
+      "name" : "RANGO_NUMERICO"
+    } ]
+  } ]
+}

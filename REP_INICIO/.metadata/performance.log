@@ -1,0 +1,56 @@
+2024-10-06 20:06:13,355 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'REP_INICIO' ...
+2024-10-06 20:06:15,510 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 2152 ms
+2024-10-06 20:06:15,513 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 6 ms
+2024-10-06 20:06:16,305 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 792 ms
+2024-10-06 20:06:16,313 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 8 ms
+2024-10-06 20:06:17,684 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 1371 ms
+2024-10-06 20:06:17,956 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 272 ms
+2024-10-06 20:06:17,968 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 12 ms
+2024-10-06 20:06:17,975 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 7 ms
+2024-10-06 20:06:18,013 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 38 ms
+2024-10-06 20:06:18,017 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 38 ms 
+2024-10-06 20:06:18,017 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 4662 ms 
+2024-10-06 20:06:28,660 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-06 20:06:56,207 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-07 18:26:07,583 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'REP_INICIO' ...
+2024-10-07 18:26:09,843 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 2257 ms
+2024-10-07 18:26:09,846 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 6 ms
+2024-10-07 18:26:10,777 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 931 ms
+2024-10-07 18:26:10,788 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 11 ms
+2024-10-07 18:26:12,373 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 1585 ms
+2024-10-07 18:26:12,643 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 270 ms
+2024-10-07 18:26:13,017 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 374 ms
+2024-10-07 18:26:13,107 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 90 ms
+2024-10-07 18:26:13,117 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 10 ms
+2024-10-07 18:26:13,120 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 10 ms 
+2024-10-07 18:26:13,120 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 5537 ms 
+2024-10-07 18:26:16,188 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-07 18:26:37,299 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-14 11:33:50,990 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'REP_INICIO' ...
+2024-10-14 11:33:53,202 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 2210 ms
+2024-10-14 11:33:53,205 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 5 ms
+2024-10-14 11:33:54,238 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 1033 ms
+2024-10-14 11:33:54,248 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 10 ms
+2024-10-14 11:33:55,768 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 1520 ms
+2024-10-14 11:33:56,032 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 264 ms
+2024-10-14 11:33:56,507 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 475 ms
+2024-10-14 11:33:56,640 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 132 ms
+2024-10-14 11:33:56,648 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 8 ms
+2024-10-14 11:33:56,650 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 8 ms 
+2024-10-14 11:33:56,650 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 5660 ms 
+2024-10-14 11:33:59,381 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-14 11:34:20,192 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-28 11:45:23,230 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'REP_INICIO' ...
+2024-10-28 11:45:23,972 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 738 ms
+2024-10-28 11:45:23,974 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 6 ms
+2024-10-28 11:45:24,761 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 787 ms
+2024-10-28 11:45:24,773 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 12 ms
+2024-10-28 11:45:26,091 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 1318 ms
+2024-10-28 11:45:26,276 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 185 ms
+2024-10-28 11:45:26,681 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 405 ms
+2024-10-28 11:45:26,702 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 21 ms
+2024-10-28 11:45:26,707 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 5 ms
+2024-10-28 11:45:26,710 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 5 ms 
+2024-10-28 11:45:26,711 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 3481 ms 
+2024-10-28 11:45:27,964 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-10-28 11:45:40,651 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist

@@ -1,0 +1,75 @@
+{
+  "itemId" : "_R8R6MB3fEeabsctnTirxYw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_XnHjskHxEe6p7ciBhnv0iQ",
+      "name" : "ACTUALIZACION_TOTAL"
+    }, {
+      "id" : "_XnHju0HxEe6p7ciBhnv0iQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_XnHjs0HxEe6p7ciBhnv0iQ",
+      "name" : "ERROR"
+    }, {
+      "id" : "_XnHjt0HxEe6p7ciBhnv0iQ",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_XnHjsUHxEe6p7ciBhnv0iQ",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_XnHjtEHxEe6p7ciBhnv0iQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_XnHjtkHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_XnHjtUHxEe6p7ciBhnv0iQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_XnHjvEHxEe6p7ciBhnv0iQ",
+      "name" : "ID_SOLICITUD"
+    }, {
+      "id" : "_XnHjvkHxEe6p7ciBhnv0iQ",
+      "name" : "LAST_DAYS"
+    }, {
+      "id" : "_XnHjuEHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_XnHjuUHxEe6p7ciBhnv0iQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_XnHjukHxEe6p7ciBhnv0iQ",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_XkgUlEHxEe6p7ciBhnv0iQ",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_XkgUmEHxEe6p7ciBhnv0iQ",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_XkgUkkHxEe6p7ciBhnv0iQ",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_XkgUlUHxEe6p7ciBhnv0iQ",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_XkgUlkHxEe6p7ciBhnv0iQ",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_XkgUk0HxEe6p7ciBhnv0iQ",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_XkgUkUHxEe6p7ciBhnv0iQ",
+      "name" : "mail_To"
+    }, {
+      "id" : "_XkgUl0HxEe6p7ciBhnv0iQ",
+      "name" : "mail_User"
+    } ]
+  } ]
+}
