@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_n6KOVrbVEeiP5eCgnZT-UA" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_n6KOV7bVEeiP5eCgnZT-UA" comment="" name="FANTERIOR" prompt="FANTERIOR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOWLbVEeiP5eCgnZT-UA" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOWbbVEeiP5eCgnZT-UA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOWrbVEeiP5eCgnZT-UA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOW7bVEeiP5eCgnZT-UA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOXLbVEeiP5eCgnZT-UA" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_n6KOXbbVEeiP5eCgnZT-UA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/error.csv"/>
+  <contextParameter xmi:id="_n6KOXrbVEeiP5eCgnZT-UA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Log/execution.csv"/>
+  <contextParameter xmi:id="_n6KOX7bVEeiP5eCgnZT-UA" comment="" name="ORIGEN" prompt="ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/Connections.xml"/>
+  <contextParameter xmi:id="_n6KOYLbVEeiP5eCgnZT-UA" comment="" name="BODEGA" prompt="BODEGA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ETL/config/DataWarehouse.xml"/>
+  <contextParameter xmi:id="_n6KOYbbVEeiP5eCgnZT-UA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Finalizado"/>
+</talendfile:ContextType>

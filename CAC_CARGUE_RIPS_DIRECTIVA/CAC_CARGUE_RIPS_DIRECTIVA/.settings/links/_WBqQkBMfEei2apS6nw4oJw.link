@@ -1,0 +1,430 @@
+{
+  "itemId" : "_WBqQkBMfEei2apS6nw4oJw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_UwEmYL8sEee62t-W1zPAPg",
+    "parameterList" : [ {
+      "id" : "_n24Q-bbVEeiP5eCgnZT-UA",
+      "name" : "AMBITO"
+    }, {
+      "id" : "_n24Q87bVEeiP5eCgnZT-UA",
+      "name" : "CAUSA_EXTERNA"
+    }, {
+      "id" : "_n24QybbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_COMPLICACION"
+    }, {
+      "id" : "_n24QyLbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_EGRESO"
+    }, {
+      "id" : "_n24Qx7bVEeiP5eCgnZT-UA",
+      "name" : "CIE10_INGRESO"
+    }, {
+      "id" : "_n24QzLbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_MUERTE"
+    }, {
+      "id" : "_n24Q9LbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_PRINCIPAL"
+    }, {
+      "id" : "_n24Q9bbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_RELACIONADO1"
+    }, {
+      "id" : "_n24Q9rbVEeiP5eCgnZT-UA",
+      "name" : "CIE10_RELACIONADO2"
+    }, {
+      "id" : "_n24Q97bVEeiP5eCgnZT-UA",
+      "name" : "CIE10_RELACIONADO3"
+    }, {
+      "id" : "_n24Q7LbVEeiP5eCgnZT-UA",
+      "name" : "CLASIFICACION_GRADO"
+    }, {
+      "id" : "_n24Q3LbVEeiP5eCgnZT-UA",
+      "name" : "CODIGO_UPGD"
+    }, {
+      "id" : "_n24Q0rbVEeiP5eCgnZT-UA",
+      "name" : "CONTROL_PRENATAL"
+    }, {
+      "id" : "_n24Q-rbVEeiP5eCgnZT-UA",
+      "name" : "CUMPLIMIENTO"
+    }, {
+      "id" : "_n24Q8bbVEeiP5eCgnZT-UA",
+      "name" : "CUPS"
+    }, {
+      "id" : "_n24QyrbVEeiP5eCgnZT-UA",
+      "name" : "DESTINO_SALIDA"
+    }, {
+      "id" : "_n24Q37bVEeiP5eCgnZT-UA",
+      "name" : "DOCUMENTO_PROFESIONAL"
+    }, {
+      "id" : "_n24Q4rbVEeiP5eCgnZT-UA",
+      "name" : "DOCUMENTO_USUARIO"
+    }, {
+      "id" : "_n24Q0bbVEeiP5eCgnZT-UA",
+      "name" : "EDAD_GESTACIONAL"
+    }, {
+      "id" : "_n24Q7rbVEeiP5eCgnZT-UA",
+      "name" : "ESM_ADSCRIPCION"
+    }, {
+      "id" : "_n24Q4LbVEeiP5eCgnZT-UA",
+      "name" : "ESPECIALIDAD"
+    }, {
+      "id" : "_n24Qy7bVEeiP5eCgnZT-UA",
+      "name" : "ESTADO_SALIDA"
+    }, {
+      "id" : "_n24Q8LbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_CONSULTA"
+    }, {
+      "id" : "_n24Q_LbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_n24QxLbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_INGRESO"
+    }, {
+      "id" : "_n24Q-7bVEeiP5eCgnZT-UA",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_n24Q1bbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_MUERTE"
+    }, {
+      "id" : "_n24Q6LbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_NACIMIENTO"
+    }, {
+      "id" : "_n24Qz7bVEeiP5eCgnZT-UA",
+      "name" : "FECHA_NACIMIENTORN"
+    }, {
+      "id" : "_n24Q17bVEeiP5eCgnZT-UA",
+      "name" : "FECHA_PROCEDIMIENTO"
+    }, {
+      "id" : "_n24QzbbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_SALIDA"
+    }, {
+      "id" : "_n24Q8rbVEeiP5eCgnZT-UA",
+      "name" : "FINALIDAD_CONSULTA"
+    }, {
+      "id" : "_n24Q2LbVEeiP5eCgnZT-UA",
+      "name" : "FINALIDAD_PROCEDIMIENTO"
+    }, {
+      "id" : "_n24Q2rbVEeiP5eCgnZT-UA",
+      "name" : "FORMA_ACTOQUIRURGICO"
+    }, {
+      "id" : "_n24Q7bbVEeiP5eCgnZT-UA",
+      "name" : "FUERZA_ADSCRIPCION"
+    }, {
+      "id" : "_n24Q3bbVEeiP5eCgnZT-UA",
+      "name" : "FUERZA_ESM"
+    }, {
+      "id" : "_n24Q67bVEeiP5eCgnZT-UA",
+      "name" : "GRADO"
+    }, {
+      "id" : "_n24QxbbVEeiP5eCgnZT-UA",
+      "name" : "HORA_INGRESO"
+    }, {
+      "id" : "_n24Q1rbVEeiP5eCgnZT-UA",
+      "name" : "HORA_MUERTE"
+    }, {
+      "id" : "_n24Q0LbVEeiP5eCgnZT-UA",
+      "name" : "HORA_NACIMIENTO"
+    }, {
+      "id" : "_n24QzrbVEeiP5eCgnZT-UA",
+      "name" : "HORA_SALIDA"
+    }, {
+      "id" : "_n24Q2bbVEeiP5eCgnZT-UA",
+      "name" : "PERSONAL_ATIENDE"
+    }, {
+      "id" : "_n24Q6bbVEeiP5eCgnZT-UA",
+      "name" : "PESO"
+    }, {
+      "id" : "_n24Q1LbVEeiP5eCgnZT-UA",
+      "name" : "PESO_RN"
+    }, {
+      "id" : "_n24Q5bbVEeiP5eCgnZT-UA",
+      "name" : "PRIMER_APELLIDO"
+    }, {
+      "id" : "_n24Q47bVEeiP5eCgnZT-UA",
+      "name" : "PRIMER_NOMBRE"
+    }, {
+      "id" : "_n24Q5rbVEeiP5eCgnZT-UA",
+      "name" : "SEGUNDO_APELLIDO"
+    }, {
+      "id" : "_n24Q5LbVEeiP5eCgnZT-UA",
+      "name" : "SEGUNDO_NOMBRE"
+    }, {
+      "id" : "_n24Qw7bVEeiP5eCgnZT-UA",
+      "name" : "SERVICIO_ATENCION"
+    }, {
+      "id" : "_n24Q57bVEeiP5eCgnZT-UA",
+      "name" : "SEXO"
+    }, {
+      "id" : "_n24Q07bVEeiP5eCgnZT-UA",
+      "name" : "SEXO_RN"
+    }, {
+      "id" : "_n24Q6rbVEeiP5eCgnZT-UA",
+      "name" : "TALLA"
+    }, {
+      "id" : "_n24Q27bVEeiP5eCgnZT-UA",
+      "name" : "TALLA_RN"
+    }, {
+      "id" : "_n24Q-LbVEeiP5eCgnZT-UA",
+      "name" : "TDIAGNOSTICO_PRINCIPAL"
+    }, {
+      "id" : "_n24Q3rbVEeiP5eCgnZT-UA",
+      "name" : "TDOCUMENTO_PROFESIONAL"
+    }, {
+      "id" : "_n24Q4bbVEeiP5eCgnZT-UA",
+      "name" : "TDOCUMENTO_USUARIO"
+    }, {
+      "id" : "_n24Q77bVEeiP5eCgnZT-UA",
+      "name" : "TUSUARIO"
+    }, {
+      "id" : "_n24QxrbVEeiP5eCgnZT-UA",
+      "name" : "VIA_INGRESO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_nz7DY7bVEeiP5eCgnZT-UA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_nz7DZLbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_nz7DZbbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_nz7DZ7bVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_nz7DZrbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_nz7DaLbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_nz7DabbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_WyM8IELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_n1r98bbVEeiP5eCgnZT-UA",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_n1r98rbVEeiP5eCgnZT-UA",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_n1r987bVEeiP5eCgnZT-UA",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_n1r99bbVEeiP5eCgnZT-UA",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_n1r99LbVEeiP5eCgnZT-UA",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_n1r99rbVEeiP5eCgnZT-UA",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_n1r997bVEeiP5eCgnZT-UA",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_sdh8EJmOEeeQl62qOIoihQ",
+    "parameterList" : [ {
+      "id" : "_n4h2lrbVEeiP5eCgnZT-UA",
+      "name" : "ErrorAfiliado"
+    }, {
+      "id" : "_n4h2oLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorAmbito"
+    }, {
+      "id" : "_n4h2m7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorCausaExterna"
+    }, {
+      "id" : "_n4h2pbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Complicacion"
+    }, {
+      "id" : "_n4h2pLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Egreso"
+    }, {
+      "id" : "_n4h2o7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Ingreso"
+    }, {
+      "id" : "_n4h2prbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Muerte"
+    }, {
+      "id" : "_n4h2nLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Principal"
+    }, {
+      "id" : "_n4h2nbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Relacionado1"
+    }, {
+      "id" : "_n4h2nrbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Relacionado2"
+    }, {
+      "id" : "_n4h2n7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorCie10Relacionado3"
+    }, {
+      "id" : "_n4h2mLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorClaseGRD"
+    }, {
+      "id" : "_n4h2r7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorCumplimiento"
+    }, {
+      "id" : "_n4h2mbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorCups"
+    }, {
+      "id" : "_n4h2lLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorEspecialidad"
+    }, {
+      "id" : "_n4h2obbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFecha"
+    }, {
+      "id" : "_n4h2q7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorFechaIngreso2"
+    }, {
+      "id" : "_n4h2p7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorFechaNacimiento"
+    }, {
+      "id" : "_n4h2qLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFechaSalida"
+    }, {
+      "id" : "_n4h2rLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFechaSalida2"
+    }, {
+      "id" : "_n4h2mrbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFinalidadConsulta"
+    }, {
+      "id" : "_n4h2krbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFuerza"
+    }, {
+      "id" : "_n4h2rrbVEeiP5eCgnZT-UA",
+      "name" : "ErrorFuerzaAds"
+    }, {
+      "id" : "_n4h2orbVEeiP5eCgnZT-UA",
+      "name" : "ErrorGrado"
+    }, {
+      "id" : "_n4h2qrbVEeiP5eCgnZT-UA",
+      "name" : "ErrorPesoRN"
+    }, {
+      "id" : "_n4h2sLbVEeiP5eCgnZT-UA",
+      "name" : "ErrorServicioAtencion"
+    }, {
+      "id" : "_n4h2l7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorSexo"
+    }, {
+      "id" : "_n4h2qbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorTallaRN"
+    }, {
+      "id" : "_n4h2lbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorTDocumentoP"
+    }, {
+      "id" : "_n4h2k7bVEeiP5eCgnZT-UA",
+      "name" : "ErrorTDocumentoU"
+    }, {
+      "id" : "_n4h2rbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorUorgAds"
+    }, {
+      "id" : "_n4h2kbbVEeiP5eCgnZT-UA",
+      "name" : "ErrorUPGD"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_n6KOYLbVEeiP5eCgnZT-UA",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_n6KOWLbVEeiP5eCgnZT-UA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_n6KOXLbVEeiP5eCgnZT-UA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_n6KOYbbVEeiP5eCgnZT-UA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_n6KOV7bVEeiP5eCgnZT-UA",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_n6KOWbbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_n6KOW7bVEeiP5eCgnZT-UA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_n6KOWrbVEeiP5eCgnZT-UA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_n6KOXbbVEeiP5eCgnZT-UA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_n6KOXrbVEeiP5eCgnZT-UA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_n6KOX7bVEeiP5eCgnZT-UA",
+      "name" : "ORIGEN"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_N8EawBMlEei2apS6nw4oJw",
+    "parameterList" : [ {
+      "id" : "_n6KOTbbVEeiP5eCgnZT-UA",
+      "name" : "ARCHIVOS_ID"
+    }, {
+      "id" : "_n6KOQ7bVEeiP5eCgnZT-UA",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_n6KOUrbVEeiP5eCgnZT-UA",
+      "name" : "CantDuplicados"
+    }, {
+      "id" : "_n6KOU7bVEeiP5eCgnZT-UA",
+      "name" : "CantGuardar"
+    }, {
+      "id" : "_n6KOSrbVEeiP5eCgnZT-UA",
+      "name" : "CantidadErrores"
+    }, {
+      "id" : "_n6KOUbbVEeiP5eCgnZT-UA",
+      "name" : "CantRegistros"
+    }, {
+      "id" : "_n6KOVLbVEeiP5eCgnZT-UA",
+      "name" : "Cargue_Id"
+    }, {
+      "id" : "_n6KORLbVEeiP5eCgnZT-UA",
+      "name" : "CargueArchivoId"
+    }, {
+      "id" : "_n6KOSLbVEeiP5eCgnZT-UA",
+      "name" : "CargueContenido"
+    }, {
+      "id" : "_n6KOT7bVEeiP5eCgnZT-UA",
+      "name" : "FFINAL"
+    }, {
+      "id" : "_n6KOTrbVEeiP5eCgnZT-UA",
+      "name" : "FINICIAL"
+    }, {
+      "id" : "_n6KOQrbVEeiP5eCgnZT-UA",
+      "name" : "LogsId"
+    }, {
+      "id" : "_n6KOQbbVEeiP5eCgnZT-UA",
+      "name" : "NumLinea"
+    }, {
+      "id" : "_n6KOTLbVEeiP5eCgnZT-UA",
+      "name" : "PADRE_ID"
+    }, {
+      "id" : "_n6KOS7bVEeiP5eCgnZT-UA",
+      "name" : "SiglaArchivo"
+    }, {
+      "id" : "_n6KOSbbVEeiP5eCgnZT-UA",
+      "name" : "TipoArchivo"
+    }, {
+      "id" : "_n6KOR7bVEeiP5eCgnZT-UA",
+      "name" : "TipoContenido"
+    }, {
+      "id" : "_n6KORbbVEeiP5eCgnZT-UA",
+      "name" : "Uorg"
+    }, {
+      "id" : "_n6KORrbVEeiP5eCgnZT-UA",
+      "name" : "UsuarioCargue"
+    } ]
+  } ]
+}

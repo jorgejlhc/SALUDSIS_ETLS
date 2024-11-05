@@ -1,0 +1,94 @@
+{
+  "itemId" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_THoH0ELSEeaMX_aculPOTQ",
+    "parameterList" : [ {
+      "id" : "_nz7DY7bVEeiP5eCgnZT-UA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_nz7DZLbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_nz7DZbbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_nz7DZ7bVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_nz7DZrbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_nz7DaLbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_nz7DabbVEeiP5eCgnZT-UA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_n6KOX7bVEeiP5eCgnZT-UA",
+      "name" : "ORIGEN"
+    }, {
+      "id" : "_n6KOXLbVEeiP5eCgnZT-UA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_n6KOYLbVEeiP5eCgnZT-UA",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_n6KOWbbVEeiP5eCgnZT-UA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_n6KOW7bVEeiP5eCgnZT-UA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_n6KOWLbVEeiP5eCgnZT-UA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_n6KOXbbVEeiP5eCgnZT-UA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_n6KOXrbVEeiP5eCgnZT-UA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_n6KOV7bVEeiP5eCgnZT-UA",
+      "name" : "FANTERIOR"
+    }, {
+      "id" : "_n6KOYbbVEeiP5eCgnZT-UA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_n6KOWrbVEeiP5eCgnZT-UA",
+      "name" : "HORA_INICIO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_n2ufxbbVEeiP5eCgnZT-UA",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_n2ufybbVEeiP5eCgnZT-UA",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_n2ufw7bVEeiP5eCgnZT-UA",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_n2ufxrbVEeiP5eCgnZT-UA",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_n2ufx7bVEeiP5eCgnZT-UA",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_n2ufxLbVEeiP5eCgnZT-UA",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_n2ufwrbVEeiP5eCgnZT-UA",
+      "name" : "mail_To"
+    }, {
+      "id" : "_n2ufyLbVEeiP5eCgnZT-UA",
+      "name" : "mail_User"
+    } ]
+  } ]
+}

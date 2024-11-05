@@ -1,0 +1,153 @@
+[ {
+  "baseItem" : {
+    "id" : "_C6lUoEOGEe-ao5IRmPQ3zQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AFI_CARGUE_MASIVO:_8QYWQDjuEei2aKvKWxAb8A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WBqQkBMfEei2apS6nw4oJw",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_N8EawBMlEei2apS6nw4oJw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_THoH0ELSEeaMX_aculPOTQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_UwEmYL8sEee62t-W1zPAPg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WyM8IELSEeaMX_aculPOTQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_sdh8EJmOEeeQl62qOIoihQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_T3F7oA15Eeaataw4b4HYMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_j8_-EA4PEeaCYIlvHHZ7TQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "ArrayFromFile",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Validaciones",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ValidationRules",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "getEdad",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_oug2EELlEeaMX_aculPOTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xLOfYBOgEeawAfp8SPJAtw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yBaJMv3vEeaT4OrRv_vF5A - AFI_CARCHIVOS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_f-m8QFMjEe-Ly8HawRBabQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "CAC_CARGUE_RIPS_DIRECTIVA:_WBqQkBMfEei2apS6nw4oJw",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_mAKKMF8EEeaD-8jq-bw5lQ",
+    "version" : "1.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_THoH0ELSEeaMX_aculPOTQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ArrayFromFile",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Utils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "getEdad",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_xLOfYBOgEeawAfp8SPJAtw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

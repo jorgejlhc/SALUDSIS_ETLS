@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_n6KOQLbVEeiP5eCgnZT-UA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_n6KOQbbVEeiP5eCgnZT-UA" comment="" name="NumLinea" prompt="NumLinea?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_n6KOQrbVEeiP5eCgnZT-UA" comment="" name="LogsId" prompt="LogsId?" promptNeeded="false" type="id_Integer" value="-1"/>
+  <contextParameter xmi:id="_n6KOQ7bVEeiP5eCgnZT-UA" comment="" name="archivoSalida" prompt="archivoSalida?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KORLbVEeiP5eCgnZT-UA" comment="" name="CargueArchivoId" prompt="CargueArchivoId?" promptNeeded="true" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_n6KORbbVEeiP5eCgnZT-UA" comment="" name="Uorg" prompt="Uorg?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_n6KORrbVEeiP5eCgnZT-UA" comment="" name="UsuarioCargue" prompt="UsuarioCargue?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_n6KOR7bVEeiP5eCgnZT-UA" comment="" name="TipoContenido" prompt="TipoContenido?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOSLbVEeiP5eCgnZT-UA" comment="" name="CargueContenido" prompt="CargueContenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_n6KOSbbVEeiP5eCgnZT-UA" comment="" name="TipoArchivo" prompt="TipoArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOSrbVEeiP5eCgnZT-UA" comment="" name="CantidadErrores" prompt="CantidadErrores?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_n6KOS7bVEeiP5eCgnZT-UA" comment="" name="SiglaArchivo" prompt="SiglaArchivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_n6KOTLbVEeiP5eCgnZT-UA" comment="" name="PADRE_ID" prompt="PADRE_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_n6KOTbbVEeiP5eCgnZT-UA" comment="" name="ARCHIVOS_ID" prompt="ARCHIVOS_ID?" promptNeeded="false" type="id_BigDecimal" value=""/>
+  <contextParameter xmi:id="_n6KOTrbVEeiP5eCgnZT-UA" comment="" name="FINICIAL" prompt="FINICIAL?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_n6KOT7bVEeiP5eCgnZT-UA" comment="" name="FFINAL" prompt="FFINAL?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_n6KOULbVEeiP5eCgnZT-UA" comment="" name="FilaError" prompt="FilaError?" promptNeeded="false" type="id_Integer" value="-1"/>
+  <contextParameter xmi:id="_n6KOUbbVEeiP5eCgnZT-UA" comment="" name="CantRegistros" prompt="CantRegistros?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_n6KOUrbVEeiP5eCgnZT-UA" comment="" name="CantDuplicados" prompt="CantDuplicados?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_n6KOU7bVEeiP5eCgnZT-UA" comment="" name="CantGuardar" prompt="CantGuardar?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_n6KOVLbVEeiP5eCgnZT-UA" comment="" name="Cargue_Id" prompt="Cargue_Id?" promptNeeded="false" type="id_BigDecimal" value=""/>
+</talendfile:ContextType>
