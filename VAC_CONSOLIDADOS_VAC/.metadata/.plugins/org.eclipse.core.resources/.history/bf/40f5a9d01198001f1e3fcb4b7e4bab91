@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_TRRSwSlUEempiOhgZCOWLg" id="_TRRSwClUEempiOhgZCOWLg" label="SISPOI" version="0.1" statusCode="" item="_TRRSwylUEempiOhgZCOWLg" maxInformationLevel="WARN" displayName="SISPOI">
+    <author href="../../../talend.project#_tzhwUJgREe-eCpGY3EOpXA"/>
+    <informations xmi:id="_hLuoAM9DEemlOsL3kLIJFQ" level="WARN" text="The value of the local variable i is not used"/>
+    <additionalProperties xmi:id="_0KUTQZgREe-eCpGY3EOpXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_0KUTQpgREe-eCpGY3EOpXA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_0KUTQ5gREe-eCpGY3EOpXA" key="created_date" value="2024-11-01T00:26:15.412-0500"/>
+    <additionalProperties xmi:id="_0KUTRJgREe-eCpGY3EOpXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_0KUTRZgREe-eCpGY3EOpXA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_0KUTRpgREe-eCpGY3EOpXA" key="modified_date" value="2024-11-01T00:26:15.412-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0KUTQJgREe-eCpGY3EOpXA" path="VAC"/>
+  <TalendProperties:RoutineItem xmi:id="_TRRSwylUEempiOhgZCOWLg" property="_TRRSwSlUEempiOhgZCOWLg" state="_0KUTQJgREe-eCpGY3EOpXA">
+    <content href="SISPOI_0.1.item#/"/>
+    <imports xmi:id="_zXBOHJgREe-eCpGY3EOpXA" mESSAGE="" mODULE="commons-codec-1.10.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\commons-codec-1.10.jar"/>
+    <imports xmi:id="_zXBOHZgREe-eCpGY3EOpXA" mESSAGE="" mODULE="commons-collections4-4.1.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\commons-collections4-4.1.jar"/>
+    <imports xmi:id="_zXBOHpgREe-eCpGY3EOpXA" mESSAGE="" mODULE="commons-logging-1.2.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\commons-logging-1.2.jar"/>
+    <imports xmi:id="_zXBOH5gREe-eCpGY3EOpXA" mESSAGE="" mODULE="curvesapi-1.04.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\curvesapi-1.04.jar"/>
+    <imports xmi:id="_zXBOIJgREe-eCpGY3EOpXA" mESSAGE="" mODULE="junit-4.12.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\junit-4.12.jar"/>
+    <imports xmi:id="_zXBOIZgREe-eCpGY3EOpXA" mESSAGE="" mODULE="log4j-1.2.17.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\log4j-1.2.17.jar"/>
+    <imports xmi:id="_zXBOIpgREe-eCpGY3EOpXA" mESSAGE="" mODULE="poi-3.16.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\poi-3.16.jar"/>
+    <imports xmi:id="_zXBOI5gREe-eCpGY3EOpXA" mESSAGE="" mODULE="poi-excelant-3.16.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\poi-excelant-3.16.jar"/>
+    <imports xmi:id="_zXBOJJgREe-eCpGY3EOpXA" mESSAGE="" mODULE="poi-ooxml-3.16.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\poi-ooxml-3.16.jar"/>
+    <imports xmi:id="_zXBOJZgREe-eCpGY3EOpXA" mESSAGE="" mODULE="poi-ooxml-schemas-3.16.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\poi-ooxml-schemas-3.16.jar"/>
+    <imports xmi:id="_zXBOJpgREe-eCpGY3EOpXA" mESSAGE="" mODULE="poi-scratchpad-3.16.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\poi-scratchpad-3.16.jar"/>
+    <imports xmi:id="_zXBOJ5gREe-eCpGY3EOpXA" mESSAGE="" mODULE="xmlbeans-2.6.0.jar" nAME="SISPOI" rEQUIRED="true" urlPath="D:\SALUD-SIS\ETL\CVAC\CONSOLIDADOSVAC_PROJECT\libs\Apache POI\xmlbeans-2.6.0.jar"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

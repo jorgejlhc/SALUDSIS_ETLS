@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_M-u14K-_EeiBYNtwWhZd2Q" label="ConsolidadosVac" purpose="Consolidados para el módulo de Vacunacion F5" description="Consolidados para el módulo de Vacunacion F5" version="0.1" statusCode="" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="ConsolidadosVac">
+    <author href="../talend.project#_tzhwUJgREe-eCpGY3EOpXA"/>
+    <additionalProperties xmi:id="_0MjH4JgREe-eCpGY3EOpXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_0MjH4ZgREe-eCpGY3EOpXA" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_0MjH4pgREe-eCpGY3EOpXA" key="created_date" value="2024-11-01T00:26:15.646-0500"/>
+    <additionalProperties xmi:id="_0MjH45gREe-eCpGY3EOpXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_0MjH5JgREe-eCpGY3EOpXA" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_0MjH5ZgREe-eCpGY3EOpXA" key="modified_date" value="2024-11-01T00:33:39.748-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0LqXEJgREe-eCpGY3EOpXA" path="" locked="true" lockDate="2024-11-01T00:26:52.014-0500">
+    <locker href="../talend.project#_tzhwUJgREe-eCpGY3EOpXA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_0LqXEJgREe-eCpGY3EOpXA">
+    <process href="ConsolidadosVac_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

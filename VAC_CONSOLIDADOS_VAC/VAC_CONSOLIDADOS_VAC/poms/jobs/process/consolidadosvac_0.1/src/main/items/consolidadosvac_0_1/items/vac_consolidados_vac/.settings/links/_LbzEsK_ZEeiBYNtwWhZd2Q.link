@@ -1,0 +1,85 @@
+{
+  "itemId" : "_LbzEsK_ZEeiBYNtwWhZd2Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_xMSf5BV1EeykeudPtIFfVQ",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_xMSf5hV1EeykeudPtIFfVQ",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_xMSf4RV1EeykeudPtIFfVQ",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_xMSf4hV1EeykeudPtIFfVQ",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_xMSf5xV1EeykeudPtIFfVQ",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_xMSf5RV1EeykeudPtIFfVQ",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_xMSf4xV1EeykeudPtIFfVQ",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_xMc39BV1EeykeudPtIFfVQ",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_xMc39hV1EeykeudPtIFfVQ",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_xMc38RV1EeykeudPtIFfVQ",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_xMc38hV1EeykeudPtIFfVQ",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_xMc39xV1EeykeudPtIFfVQ",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_xMc39RV1EeykeudPtIFfVQ",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_xMc38xV1EeykeudPtIFfVQ",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_jCXqMK_VEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_xMsIhhV1EeykeudPtIFfVQ",
+      "name" : "BODEGA"
+    }, {
+      "id" : "_xMsIhBV1EeykeudPtIFfVQ",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_xMsIghV1EeykeudPtIFfVQ",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_xMsIgxV1EeykeudPtIFfVQ",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_xMsIgRV1EeykeudPtIFfVQ",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_xMsIiRV1EeykeudPtIFfVQ",
+      "name" : "JOB"
+    }, {
+      "id" : "_xMsIhxV1EeykeudPtIFfVQ",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_xMsIiBV1EeykeudPtIFfVQ",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_xMsIhRV1EeykeudPtIFfVQ",
+      "name" : "ORIGEN"
+    } ]
+  } ]
+}

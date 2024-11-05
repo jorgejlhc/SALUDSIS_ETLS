@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M-zHUK-_EeiBYNtwWhZd2Q" id="_jVWCgoMpEemat9g3OM4VCg" label="RegistroVacunacion" purpose="Registro de vacunación" description="Utilizado para obtener el registro de vacunación diario y por periodos" version="0.1" statusCode="" item="_M-zHUq-_EeiBYNtwWhZd2Q" displayName="RegistroVacunacion">
+    <author href="../../talend.project#_tzhwUJgREe-eCpGY3EOpXA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0RZysZgREe-eCpGY3EOpXA" path="Reportes"/>
+  <TalendProperties:ProcessItem xmi:id="_M-zHUq-_EeiBYNtwWhZd2Q" property="_M-zHUK-_EeiBYNtwWhZd2Q" state="_0RZysZgREe-eCpGY3EOpXA">
+    <process href="RegistroVacunacion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
