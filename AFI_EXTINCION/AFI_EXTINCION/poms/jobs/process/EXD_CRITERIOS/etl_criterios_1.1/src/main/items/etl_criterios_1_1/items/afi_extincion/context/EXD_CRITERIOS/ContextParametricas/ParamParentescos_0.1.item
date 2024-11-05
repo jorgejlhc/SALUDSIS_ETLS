@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b6G8wNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b6G8wdCjEeyNZZkJXifiVQ" comment="" name="ParentescoAfiliado" prompt="ParentescoAfiliado?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_b6G8wtCjEeyNZZkJXifiVQ" comment="" name="ParentescoConyuge" prompt="ParentescoConyuge?" promptNeeded="false" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_b6G8w9CjEeyNZZkJXifiVQ" comment="" name="ParentescoExesposa" prompt="ParentescoExesposa?" promptNeeded="false" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_b6G8xNCjEeyNZZkJXifiVQ" comment="" name="ParentescoCompanera" prompt="ParentescoCompanera?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_b6G8xdCjEeyNZZkJXifiVQ" comment="" name="ParentescoHijo" prompt="ParentescoHijo?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_b6G8xtCjEeyNZZkJXifiVQ" comment="" name="ParentescoHijastro" prompt="ParentescoHijastro?" promptNeeded="false" type="id_Integer" value="7"/>
+  <contextParameter xmi:id="_b6G8x9CjEeyNZZkJXifiVQ" comment="" name="ParentescoPadre" prompt="ParentescoPadre?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_b6G8yNCjEeyNZZkJXifiVQ" comment="" name="ParentescoMadre" prompt="ParentescoMadre?" promptNeeded="false" type="id_Integer" value="9"/>
+  <contextParameter xmi:id="_b6G8ydCjEeyNZZkJXifiVQ" comment="" name="ParentescoMenorCustodia" prompt="ParentescoMenorCustodia?" promptNeeded="false" type="id_Integer" value="10"/>
+  <contextParameter xmi:id="_b6G8ytCjEeyNZZkJXifiVQ" comment="" name="ParentescoHermano" prompt="ParentescoHermano?" promptNeeded="false" type="id_Integer" value="11"/>
+  <contextParameter xmi:id="_b6G8y9CjEeyNZZkJXifiVQ" comment="" name="ParentescoAbueloPaterno" prompt="ParentescoAbueloPaterno?" promptNeeded="false" type="id_Integer" value="12"/>
+  <contextParameter xmi:id="_b6G8zNCjEeyNZZkJXifiVQ" comment="" name="ParentescoAbuelaPaterno" prompt="ParentescoAbuelaPaterno?" promptNeeded="false" type="id_Integer" value="13"/>
+  <contextParameter xmi:id="_b6G8zdCjEeyNZZkJXifiVQ" comment="" name="ParentescoAbueloMaterno" prompt="ParentescoAbueloMaterno?" promptNeeded="false" type="id_Integer" value="14"/>
+  <contextParameter xmi:id="_b6G8ztCjEeyNZZkJXifiVQ" comment="" name="ParentescoAbuelaMaterno" prompt="ParentescoAbuelaMaterno?" promptNeeded="false" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_b6G8z9CjEeyNZZkJXifiVQ" comment="" name="ParentescoTio" prompt="ParentescoTio?" promptNeeded="false" type="id_Integer" value="16"/>
+  <contextParameter xmi:id="_b6G80NCjEeyNZZkJXifiVQ" comment="" name="ParentescoSobrino" prompt="ParentescoSobrino?" promptNeeded="false" type="id_Integer" value="17"/>
+  <contextParameter xmi:id="_b6G80dCjEeyNZZkJXifiVQ" comment="" name="ParentescoPrimo" prompt="ParentescoPrimo?" promptNeeded="false" type="id_Integer" value="18"/>
+  <contextParameter xmi:id="_b6G80tCjEeyNZZkJXifiVQ" comment="" name="ParentescoNieto" prompt="ParentescoNieto?" promptNeeded="false" type="id_Integer" value="19"/>
+  <contextParameter xmi:id="_b6G809CjEeyNZZkJXifiVQ" comment="" name="ParentescoOtro" prompt="ParentescoOtro?" promptNeeded="false" type="id_Integer" value="20"/>
+  <contextParameter xmi:id="_b6G81NCjEeyNZZkJXifiVQ" comment="" name="ParentescoExcompanera" prompt="ParentescoExcompanera?" promptNeeded="false" type="id_Integer" value="5"/>
+</talendfile:ContextType>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b4lSwNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b4lSwdCjEeyNZZkJXifiVQ" comment="" name="AS_DOCUMENTO" prompt="AS_DOCUMENTO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSwtCjEeyNZZkJXifiVQ" comment="" name="AS_PRIMER_NOMBRE" prompt="AS_PRIMER_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSw9CjEeyNZZkJXifiVQ" comment="" name="AS_SEGUNDO_NOMBRE" prompt="AS_SEGUNDO_NOMBRE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSxNCjEeyNZZkJXifiVQ" comment="" name="AS_PRIMER_APELLIDO" prompt="AS_PRIMER_APELLIDO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSxdCjEeyNZZkJXifiVQ" comment="" name="AS_SEGUNDO_APELLIDO" prompt="AS_SEGUNDO_APELLIDO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSxtCjEeyNZZkJXifiVQ" comment="" name="AS_DESCRIPCION" prompt="AS_DESCRIPCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSx9CjEeyNZZkJXifiVQ" comment="" name="AS_CRITERIO" prompt="AS_CRITERIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4lSyNCjEeyNZZkJXifiVQ" comment="" name="AS_OPERACION_PROVISIONAL" prompt="AS_OPERACION_PROVISIONAL?" promptNeeded="false" type="id_String" value="PASO DE ACTIVO A PROVISIONAL"/>
+  <contextParameter xmi:id="_b4lSydCjEeyNZZkJXifiVQ" comment="" name="AS_OPERACION_INACTIVO" prompt="AS_OPERACION_INACTIVO?" promptNeeded="false" type="id_String" value="PASO DE PROVISIONAL A INACTIVO"/>
+  <contextParameter xmi:id="_b4lSytCjEeyNZZkJXifiVQ" comment="" name="AS_OPERACION_ACTIVO" prompt="AS_OPERACION_ACTIVO?" promptNeeded="false" type="id_String" value="PASO DE PROVISIONAL A ACTIVO"/>
+  <contextParameter xmi:id="_b4lSy9CjEeyNZZkJXifiVQ" comment="" name="AS_TIPO_DOCUMENTO" prompt="AS_TIPO_DOCUMENTO?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b5-Z4NCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b5-Z4dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso00_PROV" prompt="MotivoEstadoCaso00_PROV?" promptNeeded="false" type="id_String" value="EXD00"/>
+  <contextParameter xmi:id="_b5-Z4tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso01_PROV" prompt="MotivoEstadoCaso01_PROV?" promptNeeded="false" type="id_String" value="EXD01"/>
+  <contextParameter xmi:id="_b5-Z49CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso02_PROV" prompt="MotivoEstadoCaso02_PROV?" promptNeeded="false" type="id_String" value="EXD02"/>
+  <contextParameter xmi:id="_b5-Z5NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso03_PROV" prompt="MotivoEstadoCaso03_PROV?" promptNeeded="false" type="id_String" value="EXD03"/>
+  <contextParameter xmi:id="_b5-Z5dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso04_PROV" prompt="MotivoEstadoCaso04_PROV?" promptNeeded="false" type="id_String" value="EXD04"/>
+  <contextParameter xmi:id="_b5-Z5tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso05_PROV" prompt="MotivoEstadoCaso05_PROV?" promptNeeded="false" type="id_String" value="EXD05"/>
+  <contextParameter xmi:id="_b5-Z59CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso06_PROV" prompt="MotivoEstadoCaso06_PROV?" promptNeeded="false" type="id_String" value="EXD06"/>
+  <contextParameter xmi:id="_b5-Z6NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso07_PROV" prompt="MotivoEstadoCaso07_PROV?" promptNeeded="false" type="id_String" value="EXD07"/>
+  <contextParameter xmi:id="_b5-Z6dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso08_PROV" prompt="MotivoEstadoCaso08_PROV?" promptNeeded="false" type="id_String" value="EXD08"/>
+  <contextParameter xmi:id="_b5-Z6tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso09_PROV" prompt="MotivoEstadoCaso09_PROV?" promptNeeded="false" type="id_String" value="EXD09"/>
+  <contextParameter xmi:id="_b5-Z69CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso10_PROV" prompt="MotivoEstadoCaso10_PROV?" promptNeeded="false" type="id_String" value="EXD10"/>
+  <contextParameter xmi:id="_b5-Z7NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso11_PROV" prompt="MotivoEstadoCaso11_PROV?" promptNeeded="false" type="id_String" value="EXD11"/>
+  <contextParameter xmi:id="_b5-Z7dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso12_PROV" prompt="MotivoEstadoCaso12_PROV?" promptNeeded="false" type="id_String" value="EXD12"/>
+  <contextParameter xmi:id="_b5-Z7tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso13_PROV" prompt="MotivoEstadoCaso13_PROV?" promptNeeded="false" type="id_String" value="EXD13"/>
+  <contextParameter xmi:id="_b5-Z79CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso01_INAC" prompt="MotivoEstadoCaso01_INAC?" promptNeeded="false" type="id_String" value="EXD14"/>
+  <contextParameter xmi:id="_b5-Z8NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso02_INAC" prompt="MotivoEstadoCaso02_INAC?" promptNeeded="false" type="id_String" value="EXD15"/>
+  <contextParameter xmi:id="_b5-Z8dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso03_INAC" prompt="MotivoEstadoCaso03_INAC?" promptNeeded="false" type="id_String" value="EXD16"/>
+  <contextParameter xmi:id="_b5-Z8tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso04_INAC" prompt="MotivoEstadoCaso04_INAC?" promptNeeded="false" type="id_String" value="EXD17"/>
+  <contextParameter xmi:id="_b5-Z89CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso05_INAC" prompt="MotivoEstadoCaso05_INAC?" promptNeeded="false" type="id_String" value="EXD18"/>
+  <contextParameter xmi:id="_b5-Z9NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso06_INAC" prompt="MotivoEstadoCaso06_INAC?" promptNeeded="false" type="id_String" value="EXD19"/>
+  <contextParameter xmi:id="_b5-Z9dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso07_INAC" prompt="MotivoEstadoCaso07_INAC?" promptNeeded="false" type="id_String" value="EXD20"/>
+  <contextParameter xmi:id="_b5-Z9tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso08_INAC" prompt="MotivoEstadoCaso08_INAC?" promptNeeded="false" type="id_String" value="EXD21"/>
+  <contextParameter xmi:id="_b5-Z99CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso09_INAC" prompt="MotivoEstadoCaso09_INAC?" promptNeeded="false" type="id_String" value="EXD22"/>
+  <contextParameter xmi:id="_b5-Z-NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso10_INAC" prompt="MotivoEstadoCaso10_INAC?" promptNeeded="false" type="id_String" value="EXD23"/>
+  <contextParameter xmi:id="_b5-Z-dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso11_INAC" prompt="MotivoEstadoCaso11_INAC?" promptNeeded="false" type="id_String" value="EXD24"/>
+  <contextParameter xmi:id="_b5-Z-tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso12_INAC" prompt="MotivoEstadoCaso12_INAC?" promptNeeded="false" type="id_String" value="EXD25"/>
+  <contextParameter xmi:id="_b5-Z-9CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso13_INAC" prompt="MotivoEstadoCaso13_INAC?" promptNeeded="false" type="id_String" value="EXD26"/>
+  <contextParameter xmi:id="_b5-Z_NCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso01_ACTI" prompt="MotivoEstadoCaso01_ACTI?" promptNeeded="false" type="id_String" value="EXD31"/>
+  <contextParameter xmi:id="_b5-Z_dCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso02_ACTI" prompt="MotivoEstadoCaso02_ACTI?" promptNeeded="false" type="id_String" value="EXD32"/>
+  <contextParameter xmi:id="_b5-Z_tCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso03_ACTI" prompt="MotivoEstadoCaso03_ACTI?" promptNeeded="false" type="id_String" value="EXD33"/>
+  <contextParameter xmi:id="_b5-Z_9CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso04_ACTI" prompt="MotivoEstadoCaso04_ACTI?" promptNeeded="false" type="id_String" value="EXD34"/>
+  <contextParameter xmi:id="_b5-aANCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso05_ACTI" prompt="MotivoEstadoCaso05_ACTI?" promptNeeded="false" type="id_String" value="EXD35"/>
+  <contextParameter xmi:id="_b5-aAdCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso06_ACTI" prompt="MotivoEstadoCaso06_ACTI?" promptNeeded="false" type="id_String" value="EXD36"/>
+  <contextParameter xmi:id="_b5-aAtCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso07_ACTI" prompt="MotivoEstadoCaso07_ACTI?" promptNeeded="false" type="id_String" value="EXD37"/>
+  <contextParameter xmi:id="_b5-aA9CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso08_ACTI" prompt="MotivoEstadoCaso08_ACTI?" promptNeeded="false" type="id_String" value="EXD38"/>
+  <contextParameter xmi:id="_b5-aBNCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso09_ACTI" prompt="MotivoEstadoCaso09_ACTI?" promptNeeded="false" type="id_String" value="EXD39"/>
+  <contextParameter xmi:id="_b5-aBdCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso10_ACTI" prompt="MotivoEstadoCaso10_ACTI?" promptNeeded="false" type="id_String" value="EXD40"/>
+  <contextParameter xmi:id="_b5-aBtCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso11_ACTI" prompt="MotivoEstadoCaso11_ACTI?" promptNeeded="false" type="id_String" value="EXD41"/>
+  <contextParameter xmi:id="_b5-aB9CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso12_ACTI" prompt="MotivoEstadoCaso12_ACTI?" promptNeeded="false" type="id_String" value="EXD42"/>
+  <contextParameter xmi:id="_b5-aCNCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoCaso13_ACTI" prompt="MotivoEstadoCaso13_ACTI?" promptNeeded="false" type="id_String" value="EXD43"/>
+  <contextParameter xmi:id="_b5-aCdCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoMutiAfiliacion_PROV" prompt="MotivoEstadoMutiAfiliacion_PROV?" promptNeeded="false" type="id_String" value="EXD27"/>
+  <contextParameter xmi:id="_b5-aCtCjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoMutiAfiliacion_INAC" prompt="MotivoEstadoMutiAfiliacion_INAC?" promptNeeded="false" type="id_String" value="EXD44"/>
+  <contextParameter xmi:id="_b5-aC9CjEeyNZZkJXifiVQ" comment="" name="MotivoEstadoMutiAfiliacion_ACTI" prompt="MotivoEstadoMutiAfiliacion_ACTI?" promptNeeded="false" type="id_String" value="EXD28"/>
+</talendfile:ContextType>

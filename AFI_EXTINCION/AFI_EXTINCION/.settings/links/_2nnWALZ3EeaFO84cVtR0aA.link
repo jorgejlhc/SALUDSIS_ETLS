@@ -1,0 +1,250 @@
+{
+  "itemId" : "_2nnWALZ3EeaFO84cVtR0aA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_vcUecNHKEeaDgJtEVhK5zg",
+    "parameterList" : [ {
+      "id" : "_b4lSx9CjEeyNZZkJXifiVQ",
+      "name" : "AS_CRITERIO"
+    }, {
+      "id" : "_b4lSxtCjEeyNZZkJXifiVQ",
+      "name" : "AS_DESCRIPCION"
+    }, {
+      "id" : "_b4lSwdCjEeyNZZkJXifiVQ",
+      "name" : "AS_DOCUMENTO"
+    }, {
+      "id" : "_b4lSytCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_ACTIVO"
+    }, {
+      "id" : "_b4lSydCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_INACTIVO"
+    }, {
+      "id" : "_b4lSyNCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_PROVISIONAL"
+    }, {
+      "id" : "_b4lSxNCjEeyNZZkJXifiVQ",
+      "name" : "AS_PRIMER_APELLIDO"
+    }, {
+      "id" : "_b4lSwtCjEeyNZZkJXifiVQ",
+      "name" : "AS_PRIMER_NOMBRE"
+    }, {
+      "id" : "_b4lSxdCjEeyNZZkJXifiVQ",
+      "name" : "AS_SEGUNDO_APELLIDO"
+    }, {
+      "id" : "_b4lSw9CjEeyNZZkJXifiVQ",
+      "name" : "AS_SEGUNDO_NOMBRE"
+    }, {
+      "id" : "_b4lSy9CjEeyNZZkJXifiVQ",
+      "name" : "AS_TIPO_DOCUMENTO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_b30dwtCjEeyNZZkJXifiVQ",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_b30dwdCjEeyNZZkJXifiVQ",
+      "name" : "fileSystem_Path"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_g_j4gMiLEeaVm8QZ1Vb9vw",
+    "parameterList" : [ {
+      "id" : "_b5TrgtCjEeyNZZkJXifiVQ",
+      "name" : "infoCodigoTipoJob"
+    }, {
+      "id" : "_b5TrhtCjEeyNZZkJXifiVQ",
+      "name" : "infoDescripcionJobProcesar"
+    }, {
+      "id" : "_b5Tri9CjEeyNZZkJXifiVQ",
+      "name" : "infoEntidades"
+    }, {
+      "id" : "_b5Trg9CjEeyNZZkJXifiVQ",
+      "name" : "infoIdEstadoActivo"
+    }, {
+      "id" : "_b5TridCjEeyNZZkJXifiVQ",
+      "name" : "infoIdEstadoProcesado"
+    }, {
+      "id" : "_b5TrhdCjEeyNZZkJXifiVQ",
+      "name" : "infoIdJobProcesar"
+    }, {
+      "id" : "_b5TriNCjEeyNZZkJXifiVQ",
+      "name" : "infoIdProceso"
+    }, {
+      "id" : "_b5TritCjEeyNZZkJXifiVQ",
+      "name" : "infoIdTarchivoResultante"
+    }, {
+      "id" : "_b5Trh9CjEeyNZZkJXifiVQ",
+      "name" : "infoTipoProceso"
+    }, {
+      "id" : "_b5TrhNCjEeyNZZkJXifiVQ",
+      "name" : "infoUsuarioJobProcesar"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_b4HYsdCjEeyNZZkJXifiVQ",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_b4HYs9CjEeyNZZkJXifiVQ",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_b4HYtdCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_b4HYt9CjEeyNZZkJXifiVQ",
+      "name" : "oracle_Port"
+    }, {
+      "id" : "_b4HYtNCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_b4HYstCjEeyNZZkJXifiVQ",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_b4HYuNCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Sid"
+    }, {
+      "id" : "_b4HYttCjEeyNZZkJXifiVQ",
+      "name" : "oracle_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuIcLZ1EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_b5c1cdCjEeyNZZkJXifiVQ",
+      "name" : "archivoConfiguracion"
+    }, {
+      "id" : "_b5c1ctCjEeyNZZkJXifiVQ",
+      "name" : "auxAumentoRegistros"
+    }, {
+      "id" : "_b5c1c9CjEeyNZZkJXifiVQ",
+      "name" : "auxPosicionRegistros"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AD3GcNExEea8-8RxZmSZmA",
+    "parameterList" : [ {
+      "id" : "_b5-Z4dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso00_PROV"
+    }, {
+      "id" : "_b5-Z_NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_ACTI"
+    }, {
+      "id" : "_b5-Z79CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_INAC"
+    }, {
+      "id" : "_b5-Z4tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_PROV"
+    }, {
+      "id" : "_b5-Z_dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_ACTI"
+    }, {
+      "id" : "_b5-Z8NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_INAC"
+    }, {
+      "id" : "_b5-Z49CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_PROV"
+    }, {
+      "id" : "_b5-Z_tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_ACTI"
+    }, {
+      "id" : "_b5-Z8dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_INAC"
+    }, {
+      "id" : "_b5-Z5NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_PROV"
+    }, {
+      "id" : "_b5-Z_9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_ACTI"
+    }, {
+      "id" : "_b5-Z8tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_INAC"
+    }, {
+      "id" : "_b5-Z5dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_PROV"
+    }, {
+      "id" : "_b5-aANCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_ACTI"
+    }, {
+      "id" : "_b5-Z89CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_INAC"
+    }, {
+      "id" : "_b5-Z5tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_PROV"
+    }, {
+      "id" : "_b5-aAdCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_ACTI"
+    }, {
+      "id" : "_b5-Z9NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_INAC"
+    }, {
+      "id" : "_b5-Z59CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_PROV"
+    }, {
+      "id" : "_b5-aAtCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_ACTI"
+    }, {
+      "id" : "_b5-Z9dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_INAC"
+    }, {
+      "id" : "_b5-Z6NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_PROV"
+    }, {
+      "id" : "_b5-aA9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_ACTI"
+    }, {
+      "id" : "_b5-Z9tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_INAC"
+    }, {
+      "id" : "_b5-Z6dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_PROV"
+    }, {
+      "id" : "_b5-aBNCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_ACTI"
+    }, {
+      "id" : "_b5-Z99CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_INAC"
+    }, {
+      "id" : "_b5-Z6tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_PROV"
+    }, {
+      "id" : "_b5-aBdCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_ACTI"
+    }, {
+      "id" : "_b5-Z-NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_INAC"
+    }, {
+      "id" : "_b5-Z69CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_PROV"
+    }, {
+      "id" : "_b5-aBtCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_ACTI"
+    }, {
+      "id" : "_b5-Z-dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_INAC"
+    }, {
+      "id" : "_b5-Z7NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_PROV"
+    }, {
+      "id" : "_b5-aB9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_ACTI"
+    }, {
+      "id" : "_b5-Z-tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_INAC"
+    }, {
+      "id" : "_b5-Z7dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_PROV"
+    }, {
+      "id" : "_b5-aCNCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_ACTI"
+    }, {
+      "id" : "_b5-Z-9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_INAC"
+    }, {
+      "id" : "_b5-Z7tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_PROV"
+    } ]
+  } ]
+}

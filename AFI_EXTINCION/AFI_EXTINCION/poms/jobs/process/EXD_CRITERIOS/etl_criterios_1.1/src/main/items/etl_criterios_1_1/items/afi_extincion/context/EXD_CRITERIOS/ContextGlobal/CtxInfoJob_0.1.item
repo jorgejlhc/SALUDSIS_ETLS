@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b5TrgdCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b5TrgtCjEeyNZZkJXifiVQ" comment="" name="infoCodigoTipoJob" prompt="Tipo del Job que desea Evaluar?" promptNeeded="true" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_b5Trg9CjEeyNZZkJXifiVQ" comment="" name="infoIdEstadoActivo" prompt="infoIdEstadoActivo?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5TrhNCjEeyNZZkJXifiVQ" comment="" name="infoUsuarioJobProcesar" prompt="infoUsuarioJobProcesar?" promptNeeded="false" type="id_Integer" value="7050"/>
+  <contextParameter xmi:id="_b5TrhdCjEeyNZZkJXifiVQ" comment="" name="infoIdJobProcesar" prompt="infoIdJobProcesar?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5TrhtCjEeyNZZkJXifiVQ" comment="" name="infoDescripcionJobProcesar" prompt="infoDescripcionJobProcesar?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b5Trh9CjEeyNZZkJXifiVQ" comment="" name="infoTipoProceso" prompt="infoTipoProceso?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5TriNCjEeyNZZkJXifiVQ" comment="" name="infoIdProceso" prompt="infoIdProceso?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5TridCjEeyNZZkJXifiVQ" comment="" name="infoIdEstadoProcesado" prompt="infoIdEstadoProcesado?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5TritCjEeyNZZkJXifiVQ" comment="" name="infoIdTarchivoResultante" prompt="infoIdTarchivoResultante?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b5Tri9CjEeyNZZkJXifiVQ" comment="" name="infoEntidades" prompt="infoEntidades?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b6YpkNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b6YpkdCjEeyNZZkJXifiVQ" comment="" name="RnovedadesActivoId" prompt="RnovedadesActivoId?" promptNeeded="false" type="id_String" value="X00"/>
+  <contextParameter xmi:id="_b6YpktCjEeyNZZkJXifiVQ" comment="" name="RnovedadesProvisionalId" prompt="RnovedadesProvisionalId?" promptNeeded="false" type="id_String" value="X02"/>
+  <contextParameter xmi:id="_b6Ypk9CjEeyNZZkJXifiVQ" comment="" name="RnovedadesInactivoId" prompt="RnovedadesInactivoId?" promptNeeded="false" type="id_String" value="N14"/>
+</talendfile:ContextType>

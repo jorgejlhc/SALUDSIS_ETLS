@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b5G3MNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b5G3MdCjEeyNZZkJXifiVQ" comment="" name="auxSiglaMotivoEstadoProvisional" prompt="auxSiglaMotivoEstadoProvisional?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b5G3MtCjEeyNZZkJXifiVQ" comment="" name="auxSiglaMotivoEstadoActivo" prompt="auxSiglaMotivoEstadoActivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b5G3M9CjEeyNZZkJXifiVQ" comment="" name="auxSiglaMotivoEstadoInactivo" prompt="auxSiglaMotivoEstadoInactivo?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

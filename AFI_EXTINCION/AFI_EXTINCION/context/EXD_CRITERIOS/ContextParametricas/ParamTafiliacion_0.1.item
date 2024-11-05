@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b6f-UNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b6f-UdCjEeyNZZkJXifiVQ" comment="" name="TafiliacionCotizante" prompt="TafiliacionCotizante?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_b6f-UtCjEeyNZZkJXifiVQ" comment="" name="TafiliacionNoCotizante" prompt="TafiliacionNoCotizante?" promptNeeded="false" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_b6f-U9CjEeyNZZkJXifiVQ" comment="" name="TafiliacionSustitucionPensional" prompt="TafiliacionSustitucionPensional?" promptNeeded="false" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_b6f-VNCjEeyNZZkJXifiVQ" comment="" name="TafiliacionAsignacionRetiro" prompt="TafiliacionAsignacionRetiro?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_b6f-VdCjEeyNZZkJXifiVQ" comment="" name="TafiliacionBeneficiario" prompt="TafiliacionBeneficiario?" promptNeeded="false" type="id_Integer" value="5"/>
+  <contextParameter xmi:id="_b6f-VtCjEeyNZZkJXifiVQ" comment="" name="TafiliacionPpcd" prompt="TafiliacionPpcd?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_b6f-V9CjEeyNZZkJXifiVQ" comment="" name="TafiliacionMedicinaLaboral" prompt="TafiliacionMedicinaLaboral?" promptNeeded="false" type="id_Integer" value="7"/>
+  <contextParameter xmi:id="_b6f-WNCjEeyNZZkJXifiVQ" comment="" name="TafiliacionDiscapacidad" prompt="TafiliacionDiscapacidad?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_b6f-WdCjEeyNZZkJXifiVQ" comment="" name="TafiliacionTutelaConBenef" prompt="TafiliacionTutelaConBenef?" promptNeeded="false" type="id_Integer" value="9"/>
+  <contextParameter xmi:id="_b6f-WtCjEeyNZZkJXifiVQ" comment="" name="TafiliacionTutelaSinBenef" prompt="TafiliacionTutelaSinBenef?" promptNeeded="false" type="id_Integer" value="10"/>
+  <contextParameter xmi:id="_b6f-W9CjEeyNZZkJXifiVQ" comment="" name="TafiliacionReparacionDirectaConBenef" prompt="TafiliacionReparacionDirectaConBenef?" promptNeeded="false" type="id_Integer" value="11"/>
+  <contextParameter xmi:id="_b6f-XNCjEeyNZZkJXifiVQ" comment="" name="TafiliacionReparacionDirectaSinBenef" prompt="TafiliacionReparacionDirectaSinBenef?" promptNeeded="false" type="id_Integer" value="12"/>
+  <contextParameter xmi:id="_b6f-XdCjEeyNZZkJXifiVQ" comment="" name="TafiliacionTratamientoMedico" prompt="TafiliacionTratamientoMedico?" promptNeeded="false" type="id_Integer" value="13"/>
+  <contextParameter xmi:id="_b6f-XtCjEeyNZZkJXifiVQ" comment="" name="TafiliacionExesposaInocente" prompt="TafiliacionExesposaInocente?" promptNeeded="false" type="id_Integer" value="14"/>
+</talendfile:ContextType>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b4P7kNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b4P7kdCjEeyNZZkJXifiVQ" comment="" name="HAF_AFILIADOS_ID" prompt="HAF_AFILIADOS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4P7ktCjEeyNZZkJXifiVQ" comment="" name="HAF_PROCESOS_ID" prompt="HAF_PROCESOS_ID?" promptNeeded="false" type="id_Integer" value="4389182"/>
+  <contextParameter xmi:id="_b4P7k9CjEeyNZZkJXifiVQ" comment="" name="HAF_MOTIVO" prompt="HAF_MOTIVO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4P7lNCjEeyNZZkJXifiVQ" comment="" name="HAF_RNOVEDADES_ID" prompt="HAF_RNOVEDADES_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4P7ldCjEeyNZZkJXifiVQ" comment="" name="HAF_VANTERIOR" prompt="HAF_VANTERIOR?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4P7ltCjEeyNZZkJXifiVQ" comment="" name="HAF_VACTUAL" prompt="HAF_VACTUAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4P7l9CjEeyNZZkJXifiVQ" comment="" name="HAF_CAMPO" prompt="HAF_CAMPO?" promptNeeded="false" type="id_String" value="ESTADOS_ID"/>
+</talendfile:ContextType>

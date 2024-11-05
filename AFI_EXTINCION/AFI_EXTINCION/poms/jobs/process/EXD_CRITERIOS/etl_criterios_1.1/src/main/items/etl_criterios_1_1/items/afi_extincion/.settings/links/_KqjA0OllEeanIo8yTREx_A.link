@@ -1,0 +1,621 @@
+{
+  "itemId" : "_KqjA0OllEeanIo8yTREx_A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_U0pVQM01EeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b5zawdCjEeyNZZkJXifiVQ",
+      "name" : "nombreEstadoActivo"
+    }, {
+      "id" : "_b5zawtCjEeyNZZkJXifiVQ",
+      "name" : "nombreEstadoInactivo"
+    }, {
+      "id" : "_b5zaw9CjEeyNZZkJXifiVQ",
+      "name" : "nombreEstadoInexistente"
+    }, {
+      "id" : "_b5zaxNCjEeyNZZkJXifiVQ",
+      "name" : "nombreEstadoProvisional"
+    }, {
+      "id" : "_b5zaxdCjEeyNZZkJXifiVQ",
+      "name" : "nombreEstadoIncompleto"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_b30dwdCjEeyNZZkJXifiVQ",
+      "name" : "fileSystem_Path"
+    }, {
+      "id" : "_b30dw9CjEeyNZZkJXifiVQ",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_b30dwtCjEeyNZZkJXifiVQ",
+      "name" : "fileSystem_Area"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_b4HYstCjEeyNZZkJXifiVQ",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_b4HYsdCjEeyNZZkJXifiVQ",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_b4HYttCjEeyNZZkJXifiVQ",
+      "name" : "oracle_User"
+    }, {
+      "id" : "_b4HYtNCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_b4HYs9CjEeyNZZkJXifiVQ",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_b4HYuNCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Sid"
+    }, {
+      "id" : "_b4HYtdCjEeyNZZkJXifiVQ",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_b4HYt9CjEeyNZZkJXifiVQ",
+      "name" : "oracle_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_1Qu_QNEpEea8-8RxZmSZmA",
+    "parameterList" : [ {
+      "id" : "_b4X3ZdCjEeyNZZkJXifiVQ",
+      "name" : "HES_FECHA"
+    }, {
+      "id" : "_b4X3ZNCjEeyNZZkJXifiVQ",
+      "name" : "HES_MOTIVOSESTADO_ID"
+    }, {
+      "id" : "_b4X3YtCjEeyNZZkJXifiVQ",
+      "name" : "HES_AFILIADOS_ID"
+    }, {
+      "id" : "_b4X3Y9CjEeyNZZkJXifiVQ",
+      "name" : "HES_ESTADOS_ID"
+    }, {
+      "id" : "_b4X3YdCjEeyNZZkJXifiVQ",
+      "name" : "HES_USUARIOS_ID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_BqauMNEpEea8-8RxZmSZmA",
+    "parameterList" : [ {
+      "id" : "_b4P7k9CjEeyNZZkJXifiVQ",
+      "name" : "HAF_MOTIVO"
+    }, {
+      "id" : "_b4P7ktCjEeyNZZkJXifiVQ",
+      "name" : "HAF_PROCESOS_ID"
+    }, {
+      "id" : "_b4P7lNCjEeyNZZkJXifiVQ",
+      "name" : "HAF_RNOVEDADES_ID"
+    }, {
+      "id" : "_b4P7ldCjEeyNZZkJXifiVQ",
+      "name" : "HAF_VANTERIOR"
+    }, {
+      "id" : "_b4P7l9CjEeyNZZkJXifiVQ",
+      "name" : "HAF_CAMPO"
+    }, {
+      "id" : "_b4P7kdCjEeyNZZkJXifiVQ",
+      "name" : "HAF_AFILIADOS_ID"
+    }, {
+      "id" : "_b4P7ltCjEeyNZZkJXifiVQ",
+      "name" : "HAF_VACTUAL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_vcUecNHKEeaDgJtEVhK5zg",
+    "parameterList" : [ {
+      "id" : "_b4lSxNCjEeyNZZkJXifiVQ",
+      "name" : "AS_PRIMER_APELLIDO"
+    }, {
+      "id" : "_b4lSxdCjEeyNZZkJXifiVQ",
+      "name" : "AS_SEGUNDO_APELLIDO"
+    }, {
+      "id" : "_b4lSxtCjEeyNZZkJXifiVQ",
+      "name" : "AS_DESCRIPCION"
+    }, {
+      "id" : "_b4lSwdCjEeyNZZkJXifiVQ",
+      "name" : "AS_DOCUMENTO"
+    }, {
+      "id" : "_b4lSw9CjEeyNZZkJXifiVQ",
+      "name" : "AS_SEGUNDO_NOMBRE"
+    }, {
+      "id" : "_b4lSwtCjEeyNZZkJXifiVQ",
+      "name" : "AS_PRIMER_NOMBRE"
+    }, {
+      "id" : "_b4lSx9CjEeyNZZkJXifiVQ",
+      "name" : "AS_CRITERIO"
+    }, {
+      "id" : "_b4lSytCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_ACTIVO"
+    }, {
+      "id" : "_b4lSydCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_INACTIVO"
+    }, {
+      "id" : "_b4lSyNCjEeyNZZkJXifiVQ",
+      "name" : "AS_OPERACION_PROVISIONAL"
+    }, {
+      "id" : "_b4lSy9CjEeyNZZkJXifiVQ",
+      "name" : "AS_TIPO_DOCUMENTO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_nNJ6ANdvEeakTMvesaTqaQ",
+    "parameterList" : [ {
+      "id" : "_b4yuJdCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoNombreInactivo"
+    }, {
+      "id" : "_b4yuJtCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoNombreProvisional"
+    }, {
+      "id" : "_b4yuItCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoIdInactivo"
+    }, {
+      "id" : "_b4yuIdCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoIdActivo"
+    }, {
+      "id" : "_b4yuJNCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoNombreActivo"
+    }, {
+      "id" : "_b4yuI9CjEeyNZZkJXifiVQ",
+      "name" : "auxInfoMotivoIdProvisional"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QOMHENdzEeakTMvesaTqaQ",
+    "parameterList" : [ {
+      "id" : "_b49GMdCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoRnovedadesActivo"
+    }, {
+      "id" : "_b49GMtCjEeyNZZkJXifiVQ",
+      "name" : "auxInfoRnovedadesInactivo"
+    }, {
+      "id" : "_b49GM9CjEeyNZZkJXifiVQ",
+      "name" : "auxInfoRnovedadesProvisional"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_s3bHcNdqEeakTMvesaTqaQ",
+    "parameterList" : [ {
+      "id" : "_b5G3MtCjEeyNZZkJXifiVQ",
+      "name" : "auxSiglaMotivoEstadoActivo"
+    }, {
+      "id" : "_b5G3M9CjEeyNZZkJXifiVQ",
+      "name" : "auxSiglaMotivoEstadoInactivo"
+    }, {
+      "id" : "_b5G3MdCjEeyNZZkJXifiVQ",
+      "name" : "auxSiglaMotivoEstadoProvisional"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_sgxiQNRaEeaUF-zjIzYIKg",
+    "parameterList" : [ {
+      "id" : "_b5re89CjEeyNZZkJXifiVQ",
+      "name" : "idEstadoProvisional"
+    }, {
+      "id" : "_b5re8dCjEeyNZZkJXifiVQ",
+      "name" : "idEstadoActivo"
+    }, {
+      "id" : "_b5re8tCjEeyNZZkJXifiVQ",
+      "name" : "idEstadoInactivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_IP608M0rEeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6Ypk9CjEeyNZZkJXifiVQ",
+      "name" : "RnovedadesInactivoId"
+    }, {
+      "id" : "_b6YpkdCjEeyNZZkJXifiVQ",
+      "name" : "RnovedadesActivoId"
+    }, {
+      "id" : "_b6YpktCjEeyNZZkJXifiVQ",
+      "name" : "RnovedadesProvisionalId"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_ZDHFUM0rEeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6n6IdCjEeyNZZkJXifiVQ",
+      "name" : "TafiliadoBeneficiario"
+    }, {
+      "id" : "_b6n6ItCjEeyNZZkJXifiVQ",
+      "name" : "TafiliadoTitular"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuIcLZ1EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_b5c1ddCjEeyNZZkJXifiVQ",
+      "name" : "auxCriterioActual"
+    }, {
+      "id" : "_b5c1dNCjEeyNZZkJXifiVQ",
+      "name" : "auxRango"
+    }, {
+      "id" : "_b5c1ctCjEeyNZZkJXifiVQ",
+      "name" : "auxAumentoRegistros"
+    }, {
+      "id" : "_b5c1cdCjEeyNZZkJXifiVQ",
+      "name" : "archivoConfiguracion"
+    }, {
+      "id" : "_b5c1c9CjEeyNZZkJXifiVQ",
+      "name" : "auxPosicionRegistros"
+    }, {
+      "id" : "_b5c1dtCjEeyNZZkJXifiVQ",
+      "name" : "auxAfiliadosCriterio"
+    }, {
+      "id" : "_b5c1d9CjEeyNZZkJXifiVQ",
+      "name" : "auxPrimerLoop"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AD3GcNExEea8-8RxZmSZmA",
+    "parameterList" : [ {
+      "id" : "_b5-Z-NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_INAC"
+    }, {
+      "id" : "_b5-Z59CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_PROV"
+    }, {
+      "id" : "_b5-aBNCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_ACTI"
+    }, {
+      "id" : "_b5-aCNCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_ACTI"
+    }, {
+      "id" : "_b5-Z5tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_PROV"
+    }, {
+      "id" : "_b5-Z-tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_INAC"
+    }, {
+      "id" : "_b5-Z4tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_PROV"
+    }, {
+      "id" : "_b5-Z49CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_PROV"
+    }, {
+      "id" : "_b5-Z9dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_INAC"
+    }, {
+      "id" : "_b5-aAtCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_ACTI"
+    }, {
+      "id" : "_b5-Z-dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_INAC"
+    }, {
+      "id" : "_b5-Z79CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_INAC"
+    }, {
+      "id" : "_b5-Z99CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_INAC"
+    }, {
+      "id" : "_b5-aBdCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_ACTI"
+    }, {
+      "id" : "_b5-aBtCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_ACTI"
+    }, {
+      "id" : "_b5-Z89CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_INAC"
+    }, {
+      "id" : "_b5-aB9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_ACTI"
+    }, {
+      "id" : "_b5-Z5dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_PROV"
+    }, {
+      "id" : "_b5-Z8tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_INAC"
+    }, {
+      "id" : "_b5-Z8NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_INAC"
+    }, {
+      "id" : "_b5-Z_tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_ACTI"
+    }, {
+      "id" : "_b5-Z_dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso02_ACTI"
+    }, {
+      "id" : "_b5-Z5NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_PROV"
+    }, {
+      "id" : "_b5-Z9tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_INAC"
+    }, {
+      "id" : "_b5-Z69CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso10_PROV"
+    }, {
+      "id" : "_b5-aA9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_ACTI"
+    }, {
+      "id" : "_b5-Z9NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_INAC"
+    }, {
+      "id" : "_b5-aAdCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso06_ACTI"
+    }, {
+      "id" : "_b5-Z_9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso04_ACTI"
+    }, {
+      "id" : "_b5-Z6tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso09_PROV"
+    }, {
+      "id" : "_b5-Z7tCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_PROV"
+    }, {
+      "id" : "_b5-Z7NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso11_PROV"
+    }, {
+      "id" : "_b5-Z4dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso00_PROV"
+    }, {
+      "id" : "_b5-Z_NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso01_ACTI"
+    }, {
+      "id" : "_b5-Z6dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso08_PROV"
+    }, {
+      "id" : "_b5-Z6NCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso07_PROV"
+    }, {
+      "id" : "_b5-Z8dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso03_INAC"
+    }, {
+      "id" : "_b5-aANCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso05_ACTI"
+    }, {
+      "id" : "_b5-Z-9CjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso13_INAC"
+    }, {
+      "id" : "_b5-Z7dCjEeyNZZkJXifiVQ",
+      "name" : "MotivoEstadoCaso12_PROV"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_g_j4gMiLEeaVm8QZ1Vb9vw",
+    "parameterList" : [ {
+      "id" : "_b5TrhdCjEeyNZZkJXifiVQ",
+      "name" : "infoIdJobProcesar"
+    }, {
+      "id" : "_b5TrhNCjEeyNZZkJXifiVQ",
+      "name" : "infoUsuarioJobProcesar"
+    }, {
+      "id" : "_b5TrhtCjEeyNZZkJXifiVQ",
+      "name" : "infoDescripcionJobProcesar"
+    }, {
+      "id" : "_b5TriNCjEeyNZZkJXifiVQ",
+      "name" : "infoIdProceso"
+    }, {
+      "id" : "_b5TrgtCjEeyNZZkJXifiVQ",
+      "name" : "infoCodigoTipoJob"
+    }, {
+      "id" : "_b5Trh9CjEeyNZZkJXifiVQ",
+      "name" : "infoTipoProceso"
+    }, {
+      "id" : "_b5Trg9CjEeyNZZkJXifiVQ",
+      "name" : "infoIdEstadoActivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_2g5U0M0yEeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6G8ytCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoHermano"
+    }, {
+      "id" : "_b6G8xNCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoCompanera"
+    }, {
+      "id" : "_b6G81NCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoExcompanera"
+    }, {
+      "id" : "_b6G8w9CjEeyNZZkJXifiVQ",
+      "name" : "ParentescoExesposa"
+    }, {
+      "id" : "_b6G80tCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoNieto"
+    }, {
+      "id" : "_b6G8yNCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoMadre"
+    }, {
+      "id" : "_b6G8zdCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoAbueloMaterno"
+    }, {
+      "id" : "_b6G8ztCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoAbuelaMaterno"
+    }, {
+      "id" : "_b6G8xtCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoHijastro"
+    }, {
+      "id" : "_b6G8ydCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoMenorCustodia"
+    }, {
+      "id" : "_b6G8zNCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoAbuelaPaterno"
+    }, {
+      "id" : "_b6G8z9CjEeyNZZkJXifiVQ",
+      "name" : "ParentescoTio"
+    }, {
+      "id" : "_b6G8y9CjEeyNZZkJXifiVQ",
+      "name" : "ParentescoAbueloPaterno"
+    }, {
+      "id" : "_b6G8wtCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoConyuge"
+    }, {
+      "id" : "_b6G809CjEeyNZZkJXifiVQ",
+      "name" : "ParentescoOtro"
+    }, {
+      "id" : "_b6G8xdCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoHijo"
+    }, {
+      "id" : "_b6G8wdCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoAfiliado"
+    }, {
+      "id" : "_b6G80dCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoPrimo"
+    }, {
+      "id" : "_b6G80NCjEeyNZZkJXifiVQ",
+      "name" : "ParentescoSobrino"
+    }, {
+      "id" : "_b6G8x9CjEeyNZZkJXifiVQ",
+      "name" : "ParentescoPadre"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_m3HRoM00EeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6_tkdCjEeyNZZkJXifiVQ",
+      "name" : "VincSoldadosPensionados"
+    }, {
+      "id" : "_b6_tm9CjEeyNZZkJXifiVQ",
+      "name" : "VincCivilesActivos"
+    }, {
+      "id" : "_b6_tmNCjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresRetiradosSup90"
+    }, {
+      "id" : "_b6_tmdCjEeyNZZkJXifiVQ",
+      "name" : "VincCivPubActivos"
+    }, {
+      "id" : "_b6_tk9CjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresActivosInf90"
+    }, {
+      "id" : "_b6_tnNCjEeyNZZkJXifiVQ",
+      "name" : "VincSoldadosRetirados"
+    }, {
+      "id" : "_b6_tl9CjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresRetiradosInf90"
+    }, {
+      "id" : "_b6_tlNCjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresActivosSup90"
+    }, {
+      "id" : "_b6_tktCjEeyNZZkJXifiVQ",
+      "name" : "VincSoldadosActivos"
+    }, {
+      "id" : "_b6_tltCjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresPensionadosSup90"
+    }, {
+      "id" : "_b6_tldCjEeyNZZkJXifiVQ",
+      "name" : "VincMilitaresPensionadosInf90"
+    }, {
+      "id" : "_b6_tmtCjEeyNZZkJXifiVQ",
+      "name" : "VincCivilesPensionados"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_eBUEsM0rEeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6PfqNCjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularTutelaSinBenef"
+    }, {
+      "id" : "_b6PfptCjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularDiscapacidad"
+    }, {
+      "id" : "_b6Pfr9CjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioTutela"
+    }, {
+      "id" : "_b6PfodCjEeyNZZkJXifiVQ",
+      "name" : "PlanCotizante"
+    }, {
+      "id" : "_b6PfpdCjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularMedicinaLaboral"
+    }, {
+      "id" : "_b6PfrNCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioPpcd"
+    }, {
+      "id" : "_b6Pfo9CjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioSustitucionPensional"
+    }, {
+      "id" : "_b6PfstCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioExesposaInocente"
+    }, {
+      "id" : "_b6PfsNCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioReparacion"
+    }, {
+      "id" : "_b6PfrtCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioDiscapacidad"
+    }, {
+      "id" : "_b6PfsdCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioTratamientoMedico"
+    }, {
+      "id" : "_b6PfqtCjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularReparacionSinBenef"
+    }, {
+      "id" : "_b6PfqdCjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularReparacionConBenef"
+    }, {
+      "id" : "_b6PfpNCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioSustitucionRetiro"
+    }, {
+      "id" : "_b6PfrdCjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiarioMedicinaLaboral"
+    }, {
+      "id" : "_b6PfotCjEeyNZZkJXifiVQ",
+      "name" : "PlanNoCotizante"
+    }, {
+      "id" : "_b6Pfp9CjEeyNZZkJXifiVQ",
+      "name" : "PlanTitularTutelaConBenef"
+    }, {
+      "id" : "_b6Pfq9CjEeyNZZkJXifiVQ",
+      "name" : "PlanBeneficiario"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_E75r8Oi1EeanIo8yTREx_A",
+    "parameterList" : [ {
+      "id" : "_b6un0tCjEeyNZZkJXifiVQ",
+      "name" : "consignacionCarne"
+    }, {
+      "id" : "_b6un0dCjEeyNZZkJXifiVQ",
+      "name" : "consignacionPpcd"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_at1aYM0uEeaCtau40kSr0w",
+    "parameterList" : [ {
+      "id" : "_b6f-UdCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionCotizante"
+    }, {
+      "id" : "_b6f-VNCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionAsignacionRetiro"
+    }, {
+      "id" : "_b6f-WtCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionTutelaSinBenef"
+    }, {
+      "id" : "_b6f-UtCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionNoCotizante"
+    }, {
+      "id" : "_b6f-V9CjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionMedicinaLaboral"
+    }, {
+      "id" : "_b6f-U9CjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionSustitucionPensional"
+    }, {
+      "id" : "_b6f-XNCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionReparacionDirectaSinBenef"
+    }, {
+      "id" : "_b6f-WdCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionTutelaConBenef"
+    }, {
+      "id" : "_b6f-WNCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionDiscapacidad"
+    }, {
+      "id" : "_b6f-W9CjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionReparacionDirectaConBenef"
+    }, {
+      "id" : "_b6f-VdCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionBeneficiario"
+    }, {
+      "id" : "_b6f-XtCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionExesposaInocente"
+    }, {
+      "id" : "_b6f-VtCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionPpcd"
+    }, {
+      "id" : "_b6f-XdCjEeyNZZkJXifiVQ",
+      "name" : "TafiliacionTratamientoMedico"
+    } ]
+  } ]
+}

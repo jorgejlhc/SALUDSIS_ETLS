@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_YTx5YIfiEeWCDMHCpq-qWQ" id="_YTrLsIfiEeWCDMHCpq-qWQ" label="CtxOracleConnection" purpose="Variables de contexto para la conexion de base de datos" description="Almacena las variables para la conexion a la base de datos" version="1.0" statusCode="DEV" item="_YTx5YofiEeWCDMHCpq-qWQ" displayName="CtxOracleConnection">
+    <author href="../../talend.project#_0USWsIJcEe-fs9a9Z6OsIg"/>
+    <additionalProperties xmi:id="_M-g0wIJdEe-fs9a9Z6OsIg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_M-g0wYJdEe-fs9a9Z6OsIg" key="created_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_M-g0woJdEe-fs9a9Z6OsIg" key="created_date" value="2024-10-04T09:30:28.620-0500"/>
+    <additionalProperties xmi:id="_M-g0w4JdEe-fs9a9Z6OsIg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_M-g0xIJdEe-fs9a9Z6OsIg" key="modified_product_version" value="8.8.8.20240722_1936-SNAPSHOT"/>
+    <additionalProperties xmi:id="_M-g0xYJdEe-fs9a9Z6OsIg" key="modified_date" value="2024-10-23T10:07:55.420-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_M-dxeYJdEe-fs9a9Z6OsIg" path="ContextConfiguracion" locked="true" lockDate="2024-10-23T10:07:55.420-0500">
+    <locker href="../../talend.project#_0USWsIJcEe-fs9a9Z6OsIg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ContextItem xmi:id="_YTx5YofiEeWCDMHCpq-qWQ" property="_YTx5YIfiEeWCDMHCpq-qWQ" state="_M-dxeYJdEe-fs9a9Z6OsIg" defaultContext="Default">
+    <context href="CtxOracleConnection_1.0.item#_b4HYsNCjEeyNZZkJXifiVQ"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

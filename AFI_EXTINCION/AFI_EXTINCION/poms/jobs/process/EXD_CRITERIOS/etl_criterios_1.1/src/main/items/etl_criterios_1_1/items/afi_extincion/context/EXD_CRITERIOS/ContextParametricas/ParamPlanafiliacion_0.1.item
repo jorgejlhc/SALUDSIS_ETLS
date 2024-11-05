@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b6PfoNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b6PfodCjEeyNZZkJXifiVQ" comment="" name="PlanCotizante" prompt="PlanCotizante?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_b6PfotCjEeyNZZkJXifiVQ" comment="" name="PlanNoCotizante" prompt="PlanNoCotizante?" promptNeeded="false" type="id_Integer" value="2"/>
+  <contextParameter xmi:id="_b6Pfo9CjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioSustitucionPensional" prompt="PlanBeneficiarioSustitucionPensional?" promptNeeded="false" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_b6PfpNCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioSustitucionRetiro" prompt="PlanBeneficiarioSustitucionRetiro?" promptNeeded="false" type="id_Integer" value="4"/>
+  <contextParameter xmi:id="_b6PfpdCjEeyNZZkJXifiVQ" comment="" name="PlanTitularMedicinaLaboral" prompt="PlanTitularMedicinaLaboral?" promptNeeded="false" type="id_Integer" value="5"/>
+  <contextParameter xmi:id="_b6PfptCjEeyNZZkJXifiVQ" comment="" name="PlanTitularDiscapacidad" prompt="PlanTitularDiscapacidad?" promptNeeded="false" type="id_Integer" value="6"/>
+  <contextParameter xmi:id="_b6Pfp9CjEeyNZZkJXifiVQ" comment="" name="PlanTitularTutelaConBenef" prompt="PlanTitularTutelaConBenef?" promptNeeded="false" type="id_Integer" value="7"/>
+  <contextParameter xmi:id="_b6PfqNCjEeyNZZkJXifiVQ" comment="" name="PlanTitularTutelaSinBenef" prompt="PlanTitularTutelaSinBenef?" promptNeeded="false" type="id_Integer" value="8"/>
+  <contextParameter xmi:id="_b6PfqdCjEeyNZZkJXifiVQ" comment="" name="PlanTitularReparacionConBenef" prompt="PlanTitularReparacionConBenef?" promptNeeded="false" type="id_Integer" value="9"/>
+  <contextParameter xmi:id="_b6PfqtCjEeyNZZkJXifiVQ" comment="" name="PlanTitularReparacionSinBenef" prompt="PlanTitularReparacionSinBenef?" promptNeeded="false" type="id_Integer" value="10"/>
+  <contextParameter xmi:id="_b6Pfq9CjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiario" prompt="PlanBeneficiario?" promptNeeded="false" type="id_Integer" value="11"/>
+  <contextParameter xmi:id="_b6PfrNCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioPpcd" prompt="PlanBeneficiarioPpcd?" promptNeeded="false" type="id_Integer" value="12"/>
+  <contextParameter xmi:id="_b6PfrdCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioMedicinaLaboral" prompt="PlanBeneficiarioMedicinaLaboral?" promptNeeded="false" type="id_Integer" value="13"/>
+  <contextParameter xmi:id="_b6PfrtCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioDiscapacidad" prompt="PlanBeneficiarioDiscapacidad?" promptNeeded="false" type="id_Integer" value="14"/>
+  <contextParameter xmi:id="_b6Pfr9CjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioTutela" prompt="PlanBeneficiarioTutela?" promptNeeded="false" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_b6PfsNCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioReparacion" prompt="PlanBeneficiarioReparacion?" promptNeeded="false" type="id_Integer" value="16"/>
+  <contextParameter xmi:id="_b6PfsdCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioTratamientoMedico" prompt="PlanBeneficiarioTratamientoMedico?" promptNeeded="false" type="id_Integer" value="17"/>
+  <contextParameter xmi:id="_b6PfstCjEeyNZZkJXifiVQ" comment="" name="PlanBeneficiarioExesposaInocente" prompt="PlanBeneficiarioExesposaInocente?" promptNeeded="false" type="id_Integer" value="18"/>
+</talendfile:ContextType>

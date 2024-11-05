@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b4X3YNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b4X3YdCjEeyNZZkJXifiVQ" comment="" name="HES_USUARIOS_ID" prompt="HES_USUARIOS_ID?" promptNeeded="false" type="id_Integer" value="7050"/>
+  <contextParameter xmi:id="_b4X3YtCjEeyNZZkJXifiVQ" comment="" name="HES_AFILIADOS_ID" prompt="HES_AFILIADOS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4X3Y9CjEeyNZZkJXifiVQ" comment="" name="HES_ESTADOS_ID" prompt="HES_ESTADOS_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4X3ZNCjEeyNZZkJXifiVQ" comment="" name="HES_MOTIVOSESTADO_ID" prompt="HES_MOTIVOSESTADO_ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4X3ZdCjEeyNZZkJXifiVQ" comment="" name="HES_FECHA" prompt="HES_FECHA?" promptNeeded="false" type="id_Date" value=""/>
+</talendfile:ContextType>

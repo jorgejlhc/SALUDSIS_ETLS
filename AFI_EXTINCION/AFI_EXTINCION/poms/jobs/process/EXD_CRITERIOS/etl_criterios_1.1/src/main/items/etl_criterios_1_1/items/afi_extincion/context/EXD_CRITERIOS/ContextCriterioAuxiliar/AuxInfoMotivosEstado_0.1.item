@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b4yuINCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b4yuIdCjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoIdActivo" prompt="auxInfoMotivoIdActivo?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4yuItCjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoIdInactivo" prompt="auxInfoMotivoIdInactivo?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4yuI9CjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoIdProvisional" prompt="auxInfoMotivoIdProvisional?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_b4yuJNCjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoNombreActivo" prompt="auxInfoMotivoNombreActivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4yuJdCjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoNombreInactivo" prompt="auxInfoMotivoNombreInactivo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_b4yuJtCjEeyNZZkJXifiVQ" comment="" name="auxInfoMotivoNombreProvisional" prompt="auxInfoMotivoNombreProvisional?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

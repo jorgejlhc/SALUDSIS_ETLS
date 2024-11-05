@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_b6_tkNCjEeyNZZkJXifiVQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_b6_tkdCjEeyNZZkJXifiVQ" comment="" name="VincSoldadosPensionados" prompt="VincSoldadosPensionados?" promptNeeded="false" type="id_String" value="V21"/>
+  <contextParameter xmi:id="_b6_tktCjEeyNZZkJXifiVQ" comment="" name="VincSoldadosActivos" prompt="VincSoldadosActivos?" promptNeeded="false" type="id_String" value="V22"/>
+  <contextParameter xmi:id="_b6_tk9CjEeyNZZkJXifiVQ" comment="" name="VincMilitaresActivosInf90" prompt="VincMilitaresActivosInf90?" promptNeeded="false" type="id_String" value="V29"/>
+  <contextParameter xmi:id="_b6_tlNCjEeyNZZkJXifiVQ" comment="" name="VincMilitaresActivosSup90" prompt="VincMilitaresActivosSup90?" promptNeeded="false" type="id_String" value="V30"/>
+  <contextParameter xmi:id="_b6_tldCjEeyNZZkJXifiVQ" comment="" name="VincMilitaresPensionadosInf90" prompt="VincMilitaresPensionadosInf90?" promptNeeded="false" type="id_String" value="V31"/>
+  <contextParameter xmi:id="_b6_tltCjEeyNZZkJXifiVQ" comment="" name="VincMilitaresPensionadosSup90" prompt="VincMilitaresPensionadosSup90?" promptNeeded="false" type="id_String" value="V32"/>
+  <contextParameter xmi:id="_b6_tl9CjEeyNZZkJXifiVQ" comment="" name="VincMilitaresRetiradosInf90" prompt="VincMilitaresRetiradosInf90?" promptNeeded="false" type="id_String" value="V33"/>
+  <contextParameter xmi:id="_b6_tmNCjEeyNZZkJXifiVQ" comment="" name="VincMilitaresRetiradosSup90" prompt="VincMilitaresRetiradosSup90?" promptNeeded="false" type="id_String" value="V34"/>
+  <contextParameter xmi:id="_b6_tmdCjEeyNZZkJXifiVQ" comment="" name="VincCivPubActivos" prompt="VincCivPubActivos?" promptNeeded="false" type="id_String" value="V35"/>
+  <contextParameter xmi:id="_b6_tmtCjEeyNZZkJXifiVQ" comment="" name="VincCivilesPensionados" prompt="VincCivilesPensionados?" promptNeeded="false" type="id_String" value="V36"/>
+  <contextParameter xmi:id="_b6_tm9CjEeyNZZkJXifiVQ" comment="" name="VincCivilesActivos" prompt="VincCivilesActivos?" promptNeeded="false" type="id_String" value="V38"/>
+  <contextParameter xmi:id="_b6_tnNCjEeyNZZkJXifiVQ" comment="" name="VincSoldadosRetirados" prompt="VincSoldadosRetirados?" promptNeeded="false" type="id_String" value="V39"/>
+</talendfile:ContextType>
