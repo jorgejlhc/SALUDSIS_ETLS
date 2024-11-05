@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PvnQQXguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PvnQQnguEeuTGfzlY49qIw" comment="" name="EapbTipo1ID" prompt="EapbTipo1ID?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PvnQQ3guEeuTGfzlY49qIw" comment="" name="UnidadId" prompt="UnidadId?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PvnQRHguEeuTGfzlY49qIw" comment="" name="NOMBRE_MUNICIPIO_EAPBTIPO4" prompt="NOMBRE_MUNICIPIO_EAPBTIPO4?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PvnQRXguEeuTGfzlY49qIw" comment="" name="CODIGO_MUNICIPIO_EAPBTIPO4" prompt="CODIGO_MUNICIPIO_EAPBTIPO4?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

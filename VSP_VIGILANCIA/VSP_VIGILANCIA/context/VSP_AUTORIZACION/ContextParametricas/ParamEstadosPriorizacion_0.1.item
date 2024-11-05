@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Pt1HkHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Pt1HkXguEeuTGfzlY49qIw" comment="" name="EstAnexoActivo" prompt="EstAnexoActivo?" promptNeeded="false" type="id_String" value="Activo"/>
+  <contextParameter xmi:id="_Pt1HknguEeuTGfzlY49qIw" comment="" name="EstAnexoInactivo" prompt="EstAnexoInactivo?" promptNeeded="false" type="id_String" value="Inactivo"/>
+  <contextParameter xmi:id="_Pt1Hk3guEeuTGfzlY49qIw" comment="" name="EstAnexoError" prompt="EstAnexoError?" promptNeeded="false" type="id_String" value="Error"/>
+  <contextParameter xmi:id="_Pt1HlHguEeuTGfzlY49qIw" comment="" name="EstAnexoProcesado" prompt="EstAnexoProcesado?" promptNeeded="false" type="id_String" value="Procesado"/>
+  <contextParameter xmi:id="_Pt1HlXguEeuTGfzlY49qIw" comment="" name="EstAnexoEnProcesado" prompt="EstAnexoEnProcesado?" promptNeeded="false" type="id_String" value="En proceso"/>
+</talendfile:ContextType>

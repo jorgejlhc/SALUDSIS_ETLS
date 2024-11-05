@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PqmNYHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PqmNYXguEeuTGfzlY49qIw" comment="" name="oracle_AdditionalParams" prompt="oracle_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PqmNYnguEeuTGfzlY49qIw" comment="" name="oracle_ServiceName" prompt="oracle_ServiceName?" promptNeeded="false" type="id_String" value="PDBDEVPRO"/>
+  <contextParameter xmi:id="_PqmNY3guEeuTGfzlY49qIw" comment="" name="oracle_Host" prompt="oracle_Host?" promptNeeded="false" type="id_String" value="172.20.19.177"/>
+  <contextParameter xmi:id="_PqmNZHguEeuTGfzlY49qIw" comment="" name="oracle_Schema" prompt="oracle_Schema?" promptNeeded="false" type="id_String" value="SALUDSIS"/>
+  <contextParameter xmi:id="_PqmNZXguEeuTGfzlY49qIw" comment="" name="oracle_Password" prompt="oracle_Password?" promptNeeded="false" type="id_String" value="VYR_SALUDSIS"/>
+  <contextParameter xmi:id="_PqmNZnguEeuTGfzlY49qIw" comment="" name="oracle_User" prompt="oracle_User?" promptNeeded="false" type="id_String" value="VYR_SALUDSIS"/>
+  <contextParameter xmi:id="_PqmNZ3guEeuTGfzlY49qIw" comment="" name="oracle_Port" prompt="oracle_Port?" promptNeeded="false" type="id_String" value="1521"/>
+</talendfile:ContextType>

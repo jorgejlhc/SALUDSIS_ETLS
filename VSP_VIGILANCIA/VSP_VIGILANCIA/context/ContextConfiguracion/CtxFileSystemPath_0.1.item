@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Po0rwHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Po0rwXguEeuTGfzlY49qIw" comment="" name="fileSystem_Path" prompt="fileSystem_Path?" promptNeeded="false" type="id_String" value="&quot;\\172.20.19.161\Storage&quot;"/>
+  <contextParameter xmi:id="_Po0rwnguEeuTGfzlY49qIw" comment="" name="fileSystem_Area" prompt="fileSystem_Area?" promptNeeded="false" type="id_String" value="&quot;AFI&quot;"/>
+  <contextParameter xmi:id="_Po0rw3guEeuTGfzlY49qIw" comment="" name="archivoSalida" prompt="archivoSalida?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

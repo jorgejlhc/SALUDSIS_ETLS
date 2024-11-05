@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Pu6ssHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Pu6ssXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna3" prompt="Eapb4Columna3?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6ssnguEeuTGfzlY49qIw" comment="" name="Eapb4Columna4" prompt="Eapb4Columna4?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6ss3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna5" prompt="Eapb4Columna5?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6stHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna6" prompt="Eapb4Columna6?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6stXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna7" prompt="Eapb4Columna7?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6stnguEeuTGfzlY49qIw" comment="" name="Eapb4Columna8" prompt="Eapb4Columna8?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6st3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna9" prompt="Eapb4Columna9?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6suHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna10" prompt="Eapb4Columna10?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6suXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna11" prompt="Eapb4Columna11?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sunguEeuTGfzlY49qIw" comment="" name="Eapb4Columna12" prompt="Eapb4Columna12?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6su3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna13" prompt="Eapb4Columna13?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6svHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna14" prompt="Eapb4Columna14?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6svXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna15" prompt="Eapb4Columna15?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6svnguEeuTGfzlY49qIw" comment="" name="Eapb4Columna16" prompt="Eapb4Columna16?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sv3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna17" prompt="Eapb4Columna17?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6swHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna18" prompt="Eapb4Columna18?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6swXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna19" prompt="Eapb4Columna19?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6swnguEeuTGfzlY49qIw" comment="" name="Eapb4Columna20" prompt="Eapb4Columna20?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sw3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna21" prompt="Eapb4Columna21?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sxHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna22" prompt="Eapb4Columna22?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sxXguEeuTGfzlY49qIw" comment="" name="Eapb4Columna23" prompt="Eapb4Columna23?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sxnguEeuTGfzlY49qIw" comment="" name="Eapb4Columna24" prompt="Eapb4Columna24?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6sx3guEeuTGfzlY49qIw" comment="" name="Eapb4Columna25" prompt="Eapb4Columna25?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_Pu6syHguEeuTGfzlY49qIw" comment="" name="Eapb4Columna26" prompt="Eapb4Columna26?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

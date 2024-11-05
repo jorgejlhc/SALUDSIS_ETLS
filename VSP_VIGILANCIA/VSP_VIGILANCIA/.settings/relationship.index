@@ -1,0 +1,181 @@
+[ {
+  "baseItem" : {
+    "id" : "_C6lUoEOGEe-ao5IRmPQ3zQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "VSP_VIGILANCIA:_PxwisPhBEeaQW7sT0-Sgcg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LpNcoEfvEe-HKsvX3lLGkg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tFRw8BovEeuVb7YR-M9b0g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "VSP_VIGILANCIA:_PxwisPhBEeaQW7sT0-Sgcg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_OJDOUAUMEeeiv6JuRz940w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2smFkAxLEeeMvNMJrA-jpQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8NvfEAWqEee9yKF201tDlg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DQ8agP30EeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_QAuf0P30EeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_YhDuQAWsEee9yKF201tDlg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_sFFX4P3zEeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "Consulta_x0020_Datos",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Consulta_x0020_DatosResponse",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Consulta_x0020_DatosResponseConsulta_x0020_DatosResult",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ValidationRules",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Verifica_Paciente",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Verifica_PacienteResponse",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Verifica_PacienteResponseVerifica_PacienteResult",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "WsVerifica",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "WsVerificaLocator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "WsVerificaSoap_BindingStub",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "WsVerificaSoap_PortType",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_PxwisPhBEeaQW7sT0-Sgcg",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DQ8agP30EeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_QAuf0P30EeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__3CGIP34EeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_a5puEP-dEeaoneLHkOxrYw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_gCoPgP-cEeaoneLHkOxrYw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_sFFX4P3zEeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xxbVAP4GEeaT4OrRv_vF5A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_OJDOUAUMEeeiv6JuRz940w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ExtraerBlob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GenerarUuid",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "ValidationRules",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]

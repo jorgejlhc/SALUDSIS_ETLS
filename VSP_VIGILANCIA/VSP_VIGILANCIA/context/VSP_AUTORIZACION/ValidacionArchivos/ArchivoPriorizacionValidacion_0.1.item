@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PwzjEHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PwzjEXguEeuTGfzlY49qIw" comment="" name="COD_DIVIPOLA_VAL" prompt="COD_DIVIPOLA_VAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PwzjEnguEeuTGfzlY49qIw" comment="" name="INDICADOR_VAL" prompt="INDICADOR_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjE3guEeuTGfzlY49qIw" comment="" name="SEXO_VAL" prompt="SEXO_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjFHguEeuTGfzlY49qIw" comment="" name="EDAD_VAL" prompt="EDAD_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjFXguEeuTGfzlY49qIw" comment="" name="ETNIA_VAL" prompt="ETNIA_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjFnguEeuTGfzlY49qIw" comment="" name="CIE10_VAL" prompt="CIE10_VAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PwzjF3guEeuTGfzlY49qIw" comment="" name="PRIORIDAD_VAL" prompt="PRIORIDAD_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjGHguEeuTGfzlY49qIw" comment="" name="GRUPO_RIESGO_VAL" prompt="GRUPO_RIESGO_VAL?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PwzjGXguEeuTGfzlY49qIw" comment="" name="ERROR_VAL" prompt="ERROR_VAL?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

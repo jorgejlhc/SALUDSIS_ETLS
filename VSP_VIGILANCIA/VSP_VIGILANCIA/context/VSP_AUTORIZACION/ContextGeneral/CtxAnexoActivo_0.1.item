@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PsYWEnguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PsYWE3guEeuTGfzlY49qIw" comment="" name="PriorizacionId" prompt="PriorizacionId?" promptNeeded="true" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_PsYWFHguEeuTGfzlY49qIw" comment="" name="PriorizacionAnio" prompt="PriorizacionAnio?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_PsYWFXguEeuTGfzlY49qIw" comment="" name="PriorizacionUsuario" prompt="PriorizacionUsuario?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PsYWFnguEeuTGfzlY49qIw" comment="" name="PriorizacionContenido" prompt="PriorizacionContenido?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_PsYWF3guEeuTGfzlY49qIw" comment="" name="PriorizacionTipoContenido" prompt="PriorizacionTipoContenido?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_PsYWGHguEeuTGfzlY49qIw" comment="" name="PriorizacionResultadoId" prompt="PriorizacionResultadoId?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

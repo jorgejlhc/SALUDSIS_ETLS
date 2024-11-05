@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_OJGRoAUMEeeiv6JuRz940w" id="_OJDOUAUMEeeiv6JuRz940w" label="GeneraReportes" version="0.1" statusCode="DEV" item="_OJG4sQUMEeeiv6JuRz940w" displayName="GeneraReportes">
+    <author href="../../talend.project#_4oJjkJVrEe-XB64NT8hesA"/>
+    <additionalProperties xmi:id="_jBjPUEffEe-HKsvX3lLGkg" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_jBjPUUffEe-HKsvX3lLGkg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_jBjPUkffEe-HKsvX3lLGkg" key="created_date" value="2024-07-21T23:04:52.549-0500"/>
+    <additionalProperties xmi:id="_jBjPU0ffEe-HKsvX3lLGkg" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_jBjPVEffEe-HKsvX3lLGkg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_jBjPVUffEe-HKsvX3lLGkg" key="modified_date" value="2024-07-22T00:55:53.239-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_L9eZgJVsEe-XB64NT8hesA" path="Indicadores"/>
+  <TalendProperties:ProcessItem xmi:id="_OJG4sQUMEeeiv6JuRz940w" property="_OJGRoAUMEeeiv6JuRz940w" state="_L9eZgJVsEe-XB64NT8hesA">
+    <process href="GeneraReportes_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

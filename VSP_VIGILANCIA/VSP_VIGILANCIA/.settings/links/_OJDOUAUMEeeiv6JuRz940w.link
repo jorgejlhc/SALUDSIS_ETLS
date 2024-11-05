@@ -1,0 +1,213 @@
+{
+  "itemId" : "_OJDOUAUMEeeiv6JuRz940w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_DQ8agP30EeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PsYWFHguEeuTGfzlY49qIw",
+      "name" : "PriorizacionAnio"
+    }, {
+      "id" : "_PsYWFnguEeuTGfzlY49qIw",
+      "name" : "PriorizacionContenido"
+    }, {
+      "id" : "_PsYWE3guEeuTGfzlY49qIw",
+      "name" : "PriorizacionId"
+    }, {
+      "id" : "_PsYWGHguEeuTGfzlY49qIw",
+      "name" : "PriorizacionResultadoId"
+    }, {
+      "id" : "_PsYWF3guEeuTGfzlY49qIw",
+      "name" : "PriorizacionTipoContenido"
+    }, {
+      "id" : "_PsYWFXguEeuTGfzlY49qIw",
+      "name" : "PriorizacionUsuario"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QAuf0P30EeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PoCooXguEeuTGfzlY49qIw",
+      "name" : "ConfigFile"
+    }, {
+      "id" : "_PoCoonguEeuTGfzlY49qIw",
+      "name" : "DatawarehouseFile"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_Po0rw3guEeuTGfzlY49qIw",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_Po0rwnguEeuTGfzlY49qIw",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_Po0rwXguEeuTGfzlY49qIw",
+      "name" : "fileSystem_Path"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_PqmNYXguEeuTGfzlY49qIw",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_PqmNY3guEeuTGfzlY49qIw",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_PqmNZXguEeuTGfzlY49qIw",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_PqmNZ3guEeuTGfzlY49qIw",
+      "name" : "oracle_Port"
+    }, {
+      "id" : "_PqmNZHguEeuTGfzlY49qIw",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_PqmNYnguEeuTGfzlY49qIw",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_PqmNZnguEeuTGfzlY49qIw",
+      "name" : "oracle_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YhDuQAWsEee9yKF201tDlg",
+    "parameterList" : [ {
+      "id" : "_PrzHQXguEeuTGfzlY49qIw",
+      "name" : "oracle_AdditionalParams_WS"
+    }, {
+      "id" : "_PrzHQ3guEeuTGfzlY49qIw",
+      "name" : "oracle_Host_WS"
+    }, {
+      "id" : "_PrzHRXguEeuTGfzlY49qIw",
+      "name" : "oracle_Password_WS"
+    }, {
+      "id" : "_PrzHR3guEeuTGfzlY49qIw",
+      "name" : "oracle_Port_WS"
+    }, {
+      "id" : "_PrzHRHguEeuTGfzlY49qIw",
+      "name" : "oracle_Schema_WS"
+    }, {
+      "id" : "_PrzHQnguEeuTGfzlY49qIw",
+      "name" : "oracle_ServiceName_WS"
+    }, {
+      "id" : "_PrzHSHguEeuTGfzlY49qIw",
+      "name" : "oracle_Sid_WS"
+    }, {
+      "id" : "_PrzHRnguEeuTGfzlY49qIw",
+      "name" : "oracle_User_WS"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_8NvfEAWqEee9yKF201tDlg",
+    "parameterList" : [ {
+      "id" : "_PvnQRXguEeuTGfzlY49qIw",
+      "name" : "CODIGO_MUNICIPIO_EAPBTIPO4"
+    }, {
+      "id" : "_PvnQQnguEeuTGfzlY49qIw",
+      "name" : "EapbTipo1ID"
+    }, {
+      "id" : "_PvnQRHguEeuTGfzlY49qIw",
+      "name" : "NOMBRE_MUNICIPIO_EAPBTIPO4"
+    }, {
+      "id" : "_PvnQQ3guEeuTGfzlY49qIw",
+      "name" : "UnidadId"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_2smFkAxLEeeMvNMJrA-jpQ",
+    "parameterList" : [ {
+      "id" : "_Pu6suHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna10"
+    }, {
+      "id" : "_Pu6suXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna11"
+    }, {
+      "id" : "_Pu6sunguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna12"
+    }, {
+      "id" : "_Pu6su3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna13"
+    }, {
+      "id" : "_Pu6svHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna14"
+    }, {
+      "id" : "_Pu6svXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna15"
+    }, {
+      "id" : "_Pu6svnguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna16"
+    }, {
+      "id" : "_Pu6sv3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna17"
+    }, {
+      "id" : "_Pu6swHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna18"
+    }, {
+      "id" : "_Pu6swXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna19"
+    }, {
+      "id" : "_Pu6swnguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna20"
+    }, {
+      "id" : "_Pu6sw3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna21"
+    }, {
+      "id" : "_Pu6sxHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna22"
+    }, {
+      "id" : "_Pu6sxXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna23"
+    }, {
+      "id" : "_Pu6sxnguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna24"
+    }, {
+      "id" : "_Pu6sx3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna25"
+    }, {
+      "id" : "_Pu6syHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna26"
+    }, {
+      "id" : "_Pu6ssXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna3"
+    }, {
+      "id" : "_Pu6ssnguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna4"
+    }, {
+      "id" : "_Pu6ss3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna5"
+    }, {
+      "id" : "_Pu6stHguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna6"
+    }, {
+      "id" : "_Pu6stXguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna7"
+    }, {
+      "id" : "_Pu6stnguEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna8"
+    }, {
+      "id" : "_Pu6st3guEeuTGfzlY49qIw",
+      "name" : "Eapb4Columna9"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_sFFX4P3zEeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_Pt1HkXguEeuTGfzlY49qIw",
+      "name" : "EstAnexoActivo"
+    }, {
+      "id" : "_Pt1HlXguEeuTGfzlY49qIw",
+      "name" : "EstAnexoEnProcesado"
+    }, {
+      "id" : "_Pt1Hk3guEeuTGfzlY49qIw",
+      "name" : "EstAnexoError"
+    }, {
+      "id" : "_Pt1HknguEeuTGfzlY49qIw",
+      "name" : "EstAnexoInactivo"
+    }, {
+      "id" : "_Pt1HlHguEeuTGfzlY49qIw",
+      "name" : "EstAnexoProcesado"
+    } ]
+  } ]
+}

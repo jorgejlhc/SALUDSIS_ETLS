@@ -1,0 +1,229 @@
+{
+  "itemId" : "_PxwisPhBEeaQW7sT0-Sgcg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_gCoPgP-cEeaoneLHkOxrYw",
+    "parameterList" : [ {
+      "id" : "_PwOURnguEeuTGfzlY49qIw",
+      "name" : "CIE10"
+    }, {
+      "id" : "_PwOUQXguEeuTGfzlY49qIw",
+      "name" : "COD_DIVIPOLA"
+    }, {
+      "id" : "_PwOURHguEeuTGfzlY49qIw",
+      "name" : "EDAD"
+    }, {
+      "id" : "_PwOURXguEeuTGfzlY49qIw",
+      "name" : "ETNIA"
+    }, {
+      "id" : "_PwOUSHguEeuTGfzlY49qIw",
+      "name" : "GRUPO_RIESGO"
+    }, {
+      "id" : "_PwOUQnguEeuTGfzlY49qIw",
+      "name" : "INDICADOR"
+    }, {
+      "id" : "_PwOUR3guEeuTGfzlY49qIw",
+      "name" : "PRIORIDAD"
+    }, {
+      "id" : "_PwOUQ3guEeuTGfzlY49qIw",
+      "name" : "SEXO"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_a5puEP-dEeaoneLHkOxrYw",
+    "parameterList" : [ {
+      "id" : "_PwzjFnguEeuTGfzlY49qIw",
+      "name" : "CIE10_VAL"
+    }, {
+      "id" : "_PwzjEXguEeuTGfzlY49qIw",
+      "name" : "COD_DIVIPOLA_VAL"
+    }, {
+      "id" : "_PwzjFHguEeuTGfzlY49qIw",
+      "name" : "EDAD_VAL"
+    }, {
+      "id" : "_PwzjGXguEeuTGfzlY49qIw",
+      "name" : "ERROR_VAL"
+    }, {
+      "id" : "_PwzjFXguEeuTGfzlY49qIw",
+      "name" : "ETNIA_VAL"
+    }, {
+      "id" : "_PwzjGHguEeuTGfzlY49qIw",
+      "name" : "GRUPO_RIESGO_VAL"
+    }, {
+      "id" : "_PwzjEnguEeuTGfzlY49qIw",
+      "name" : "INDICADOR_VAL"
+    }, {
+      "id" : "_PwzjF3guEeuTGfzlY49qIw",
+      "name" : "PRIORIDAD_VAL"
+    }, {
+      "id" : "_PwzjE3guEeuTGfzlY49qIw",
+      "name" : "SEXO_VAL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_DQ8agP30EeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PsYWFHguEeuTGfzlY49qIw",
+      "name" : "PriorizacionAnio"
+    }, {
+      "id" : "_PsYWFnguEeuTGfzlY49qIw",
+      "name" : "PriorizacionContenido"
+    }, {
+      "id" : "_PsYWE3guEeuTGfzlY49qIw",
+      "name" : "PriorizacionId"
+    }, {
+      "id" : "_PsYWGHguEeuTGfzlY49qIw",
+      "name" : "PriorizacionResultadoId"
+    }, {
+      "id" : "_PsYWF3guEeuTGfzlY49qIw",
+      "name" : "PriorizacionTipoContenido"
+    }, {
+      "id" : "_PsYWFXguEeuTGfzlY49qIw",
+      "name" : "PriorizacionUsuario"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QAuf0P30EeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PoCooXguEeuTGfzlY49qIw",
+      "name" : "ConfigFile"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_4FDZ0LZ2EeaFO84cVtR0aA",
+    "parameterList" : [ {
+      "id" : "_Po0rw3guEeuTGfzlY49qIw",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_Po0rwnguEeuTGfzlY49qIw",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_Po0rwXguEeuTGfzlY49qIw",
+      "name" : "fileSystem_Path"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YTrLsIfiEeWCDMHCpq-qWQ",
+    "parameterList" : [ {
+      "id" : "_PqmNYXguEeuTGfzlY49qIw",
+      "name" : "oracle_AdditionalParams"
+    }, {
+      "id" : "_PqmNY3guEeuTGfzlY49qIw",
+      "name" : "oracle_Host"
+    }, {
+      "id" : "_PqmNZXguEeuTGfzlY49qIw",
+      "name" : "oracle_Password"
+    }, {
+      "id" : "_PqmNZ3guEeuTGfzlY49qIw",
+      "name" : "oracle_Port"
+    }, {
+      "id" : "_PqmNZHguEeuTGfzlY49qIw",
+      "name" : "oracle_Schema"
+    }, {
+      "id" : "_PqmNYnguEeuTGfzlY49qIw",
+      "name" : "oracle_ServiceName"
+    }, {
+      "id" : "_PqmNZnguEeuTGfzlY49qIw",
+      "name" : "oracle_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_xxbVAP4GEeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PtGu13guEeuTGfzlY49qIw",
+      "name" : "ErrorCie10Exist"
+    }, {
+      "id" : "_PtGu33guEeuTGfzlY49qIw",
+      "name" : "ErrorCie10Formato"
+    }, {
+      "id" : "_PtGu4HguEeuTGfzlY49qIw",
+      "name" : "ErrorCie10Nulo"
+    }, {
+      "id" : "_PtGu0nguEeuTGfzlY49qIw",
+      "name" : "ErrorCodDivipola"
+    }, {
+      "id" : "_PtGu4XguEeuTGfzlY49qIw",
+      "name" : "ErrorConfiguracionExistente"
+    }, {
+      "id" : "_PtGu4nguEeuTGfzlY49qIw",
+      "name" : "ErrorConteoDivipola"
+    }, {
+      "id" : "_PtGu5XguEeuTGfzlY49qIw",
+      "name" : "ErrorConteoIndicador"
+    }, {
+      "id" : "_PtGu43guEeuTGfzlY49qIw",
+      "name" : "ErrorConteoPrioridadDivipola"
+    }, {
+      "id" : "_PtGu1XguEeuTGfzlY49qIw",
+      "name" : "ErrorEdadExist"
+    }, {
+      "id" : "_PtGu3HguEeuTGfzlY49qIw",
+      "name" : "ErrorEdadFormato"
+    }, {
+      "id" : "_PtGu1nguEeuTGfzlY49qIw",
+      "name" : "ErrorEtniaExist"
+    }, {
+      "id" : "_PtGu3XguEeuTGfzlY49qIw",
+      "name" : "ErrorEtniaFormato"
+    }, {
+      "id" : "_PtGu2XguEeuTGfzlY49qIw",
+      "name" : "ErrorGrupoRiesgoExist"
+    }, {
+      "id" : "_PtGu3nguEeuTGfzlY49qIw",
+      "name" : "ErrorGrupoRiesgoFormato"
+    }, {
+      "id" : "_PtGu03guEeuTGfzlY49qIw",
+      "name" : "ErrorIndicadorExist"
+    }, {
+      "id" : "_PtGu2nguEeuTGfzlY49qIw",
+      "name" : "ErrorIndicadorFormato"
+    }, {
+      "id" : "_PtGu5HguEeuTGfzlY49qIw",
+      "name" : "ErrorMaxMinPrioridad"
+    }, {
+      "id" : "_PtGu2HguEeuTGfzlY49qIw",
+      "name" : "ErrorPrioridad"
+    }, {
+      "id" : "_PtGu1HguEeuTGfzlY49qIw",
+      "name" : "ErrorSexoExist"
+    }, {
+      "id" : "_PtGu23guEeuTGfzlY49qIw",
+      "name" : "ErrorSexoFormato"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_sFFX4P3zEeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_Pt1HkXguEeuTGfzlY49qIw",
+      "name" : "EstAnexoActivo"
+    }, {
+      "id" : "_Pt1HlXguEeuTGfzlY49qIw",
+      "name" : "EstAnexoEnProcesado"
+    }, {
+      "id" : "_Pt1Hk3guEeuTGfzlY49qIw",
+      "name" : "EstAnexoError"
+    }, {
+      "id" : "_Pt1HknguEeuTGfzlY49qIw",
+      "name" : "EstAnexoInactivo"
+    }, {
+      "id" : "_Pt1HlHguEeuTGfzlY49qIw",
+      "name" : "EstAnexoProcesado"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "__3CGIP34EeaT4OrRv_vF5A",
+    "parameterList" : [ {
+      "id" : "_PuaWYXguEeuTGfzlY49qIw",
+      "name" : "FormatoExcel"
+    }, {
+      "id" : "_PuaWYnguEeuTGfzlY49qIw",
+      "name" : "FormatoExcelXml"
+    }, {
+      "id" : "_PuaWZHguEeuTGfzlY49qIw",
+      "name" : "FormatoSeparador"
+    }, {
+      "id" : "_PuaWY3guEeuTGfzlY49qIw",
+      "name" : "FormatoTextoPlano"
+    } ]
+  } ]
+}

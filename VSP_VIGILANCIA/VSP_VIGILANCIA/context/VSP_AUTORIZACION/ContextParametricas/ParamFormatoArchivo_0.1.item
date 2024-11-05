@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PuaWYHguEeuTGfzlY49qIw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PuaWYXguEeuTGfzlY49qIw" comment="" name="FormatoExcel" prompt="FormatoExcel?" promptNeeded="false" type="id_String" value="XLS"/>
+  <contextParameter xmi:id="_PuaWYnguEeuTGfzlY49qIw" comment="" name="FormatoExcelXml" prompt="FormatoExcelXml?" promptNeeded="false" type="id_String" value="XLSX"/>
+  <contextParameter xmi:id="_PuaWY3guEeuTGfzlY49qIw" comment="" name="FormatoTextoPlano" prompt="FormatoTextoPlano?" promptNeeded="false" type="id_String" value="text/plain"/>
+  <contextParameter xmi:id="_PuaWZHguEeuTGfzlY49qIw" comment="" name="FormatoSeparador" prompt="FormatoSeparador?" promptNeeded="false" type="id_String" value=";"/>
+</talendfile:ContextType>
