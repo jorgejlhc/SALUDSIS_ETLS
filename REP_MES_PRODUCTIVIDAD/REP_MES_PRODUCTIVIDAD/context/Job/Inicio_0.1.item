@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_2IU2UB81Ee2eg5xiuGZRqA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_2IU2UR81Ee2eg5xiuGZRqA" comment="" name="ERROR" prompt="ERROR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2Uh81Ee2eg5xiuGZRqA" comment="" name="FECHA_EJECUCION" prompt="FECHA_EJECUCION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2Ux81Ee2eg5xiuGZRqA" comment="" name="HORA_INICIO" prompt="HORA_INICIO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2VB81Ee2eg5xiuGZRqA" comment="" name="HORA_FINAL" prompt="HORA_FINAL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2VR81Ee2eg5xiuGZRqA" comment="" name="ESTADO" prompt="ESTADO?" promptNeeded="false" type="id_String" value="Fail"/>
+  <contextParameter xmi:id="_2IU2Vh81Ee2eg5xiuGZRqA" comment="" name="LOGS_ERROR" prompt="LOGS_ERROR?" promptNeeded="false" type="id_String" value="../../Log/error.csv"/>
+  <contextParameter xmi:id="_2IU2Vx81Ee2eg5xiuGZRqA" comment="" name="LOGS_EXECUTION" prompt="LOGS_EXECUTION?" promptNeeded="false" type="id_String" value="../../Log/execution.csv"/>
+  <contextParameter xmi:id="_2IU2WB81Ee2eg5xiuGZRqA" comment="" name="ESTADO_EXEC" prompt="ESTADO_EXEC?" promptNeeded="false" type="id_String" value="Finalizado"/>
+  <contextParameter xmi:id="_2IU2WR81Ee2eg5xiuGZRqA" comment="" name="FECHA_TERMINACION" prompt="FECHA_TERMINACION?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2Wh81Ee2eg5xiuGZRqA" comment="" name="LOGS_STAT" prompt="LOGS_STAT?" promptNeeded="false" type="id_String" value="../../Log/_LOGSTAT.csv"/>
+  <contextParameter xmi:id="_2IU2Wx81Ee2eg5xiuGZRqA" comment="" name="ID" prompt="ID?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2XB81Ee2eg5xiuGZRqA" comment="" name="FECHA_INICIAL" prompt="FECHA_INICIAL?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2XR81Ee2eg5xiuGZRqA" comment="" name="FECHA_FINAL" prompt="FECHA_FINAL?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2Xh81Ee2eg5xiuGZRqA" comment="" name="UORG_ID" prompt="UORG_ID?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2Xx81Ee2eg5xiuGZRqA" comment="" name="USUARIO_ID" prompt="USUARIO_ID?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2YB81Ee2eg5xiuGZRqA" comment="" name="SALIDA_ARCHIVO" prompt="SALIDA_ARCHIVO?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2IU2YR81Ee2eg5xiuGZRqA" comment="" name="JOB" prompt="JOB?" promptNeeded="false" type="id_String" value="ReporteTurnoMesProductividad"/>
+  <contextParameter xmi:id="_2IU2Yh81Ee2eg5xiuGZRqA" comment="" name="PERSONA_ID" prompt="PERSONA_ID?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

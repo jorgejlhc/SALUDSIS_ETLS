@@ -1,0 +1,221 @@
+{
+  "itemId" : "__EN4UEdiEeyvV-ythaxfYg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8LrxoK_NEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_2HqH9B81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_AdditionalParams"
+    }, {
+      "id" : "_2HqH9h81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_Login"
+    }, {
+      "id" : "_2HqH8R81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_Password"
+    }, {
+      "id" : "_2HqH8h81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_Port"
+    }, {
+      "id" : "_2HqH9x81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_Schema"
+    }, {
+      "id" : "_2HqH9R81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_Server"
+    }, {
+      "id" : "_2HqH8x81Ee2eg5xiuGZRqA",
+      "name" : "db_destino_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_w_1PIK_LEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_2H9p9B81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_AdditionalParams"
+    }, {
+      "id" : "_2H9p9h81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_Login"
+    }, {
+      "id" : "_2H9p8R81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_Password"
+    }, {
+      "id" : "_2H9p8h81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_Port"
+    }, {
+      "id" : "_2H9p9x81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_Schema"
+    }, {
+      "id" : "_2H9p9R81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_Server"
+    }, {
+      "id" : "_2H9p8x81Ee2eg5xiuGZRqA",
+      "name" : "db_origen_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hjaKsLBKEeiBYNtwWhZd2Q",
+    "parameterList" : [ {
+      "id" : "_2HhlFB81Ee2eg5xiuGZRqA",
+      "name" : "context"
+    }, {
+      "id" : "_2HhlEx81Ee2eg5xiuGZRqA",
+      "name" : "job"
+    }, {
+      "id" : "_2HhlFh81Ee2eg5xiuGZRqA",
+      "name" : "message"
+    }, {
+      "id" : "_2HhlER81Ee2eg5xiuGZRqA",
+      "name" : "moment"
+    }, {
+      "id" : "_2HhlFR81Ee2eg5xiuGZRqA",
+      "name" : "origen"
+    }, {
+      "id" : "_2HhlEh81Ee2eg5xiuGZRqA",
+      "name" : "Project"
+    }, {
+      "id" : "_2HhlGh81Ee2eg5xiuGZRqA",
+      "name" : "server_destino"
+    }, {
+      "id" : "_2HhlFx81Ee2eg5xiuGZRqA",
+      "name" : "server_origen"
+    }, {
+      "id" : "_2HhlGx81Ee2eg5xiuGZRqA",
+      "name" : "service_name_destino"
+    }, {
+      "id" : "_2HhlGB81Ee2eg5xiuGZRqA",
+      "name" : "service_name_origen"
+    }, {
+      "id" : "_2HhlHB81Ee2eg5xiuGZRqA",
+      "name" : "user_destino"
+    }, {
+      "id" : "_2HhlGR81Ee2eg5xiuGZRqA",
+      "name" : "user_origen"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_DVfJ8KfkEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_2ILFVB81Ee2eg5xiuGZRqA",
+      "name" : "archivoSalida"
+    }, {
+      "id" : "_2ILFUx81Ee2eg5xiuGZRqA",
+      "name" : "fileSystem_Area"
+    }, {
+      "id" : "_2ILFUh81Ee2eg5xiuGZRqA",
+      "name" : "fileSystem_Path"
+    }, {
+      "id" : "_2ILFVR81Ee2eg5xiuGZRqA",
+      "name" : "fileSystem_Report"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_AwRBkE3sEeauXo6wTxlmOg",
+    "parameterList" : [ {
+      "id" : "_2IU2UR81Ee2eg5xiuGZRqA",
+      "name" : "ERROR"
+    }, {
+      "id" : "_2IU2VR81Ee2eg5xiuGZRqA",
+      "name" : "ESTADO"
+    }, {
+      "id" : "_2IU2WB81Ee2eg5xiuGZRqA",
+      "name" : "ESTADO_EXEC"
+    }, {
+      "id" : "_2IU2Uh81Ee2eg5xiuGZRqA",
+      "name" : "FECHA_EJECUCION"
+    }, {
+      "id" : "_2IU2XR81Ee2eg5xiuGZRqA",
+      "name" : "FECHA_FINAL"
+    }, {
+      "id" : "_2IU2XB81Ee2eg5xiuGZRqA",
+      "name" : "FECHA_INICIAL"
+    }, {
+      "id" : "_2IU2WR81Ee2eg5xiuGZRqA",
+      "name" : "FECHA_TERMINACION"
+    }, {
+      "id" : "_2IU2VB81Ee2eg5xiuGZRqA",
+      "name" : "HORA_FINAL"
+    }, {
+      "id" : "_2IU2Ux81Ee2eg5xiuGZRqA",
+      "name" : "HORA_INICIO"
+    }, {
+      "id" : "_2IU2Wx81Ee2eg5xiuGZRqA",
+      "name" : "ID"
+    }, {
+      "id" : "_2IU2YR81Ee2eg5xiuGZRqA",
+      "name" : "JOB"
+    }, {
+      "id" : "_2IU2Vh81Ee2eg5xiuGZRqA",
+      "name" : "LOGS_ERROR"
+    }, {
+      "id" : "_2IU2Vx81Ee2eg5xiuGZRqA",
+      "name" : "LOGS_EXECUTION"
+    }, {
+      "id" : "_2IU2Wh81Ee2eg5xiuGZRqA",
+      "name" : "LOGS_STAT"
+    }, {
+      "id" : "_2IU2YB81Ee2eg5xiuGZRqA",
+      "name" : "SALIDA_ARCHIVO"
+    }, {
+      "id" : "_2IU2Xh81Ee2eg5xiuGZRqA",
+      "name" : "UORG_ID"
+    }, {
+      "id" : "_2IU2Xx81Ee2eg5xiuGZRqA",
+      "name" : "USUARIO_ID"
+    }, {
+      "id" : "_2IU2Yh81Ee2eg5xiuGZRqA",
+      "name" : "PERSONA_ID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Iqg2QKfWEemsXrG-rjgvMw",
+    "parameterList" : [ {
+      "id" : "_2IiRtR81Ee2eg5xiuGZRqA",
+      "name" : "JasperAmbiente"
+    }, {
+      "id" : "_2IiRtB81Ee2eg5xiuGZRqA",
+      "name" : "JasperModulo"
+    }, {
+      "id" : "_2IiRsx81Ee2eg5xiuGZRqA",
+      "name" : "JasperPassword"
+    }, {
+      "id" : "_2IiRth81Ee2eg5xiuGZRqA",
+      "name" : "JasperReporte"
+    }, {
+      "id" : "_2IiRsR81Ee2eg5xiuGZRqA",
+      "name" : "JasperServer"
+    }, {
+      "id" : "_2IiRtx81Ee2eg5xiuGZRqA",
+      "name" : "JasperURI"
+    }, {
+      "id" : "_2IiRsh81Ee2eg5xiuGZRqA",
+      "name" : "JasperUser"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_moSngF_QEeaY3ZNfIi2nQQ",
+    "parameterList" : [ {
+      "id" : "_2HNcBB81Ee2eg5xiuGZRqA",
+      "name" : "mail_Message"
+    }, {
+      "id" : "_2HNcCB81Ee2eg5xiuGZRqA",
+      "name" : "mail_Password"
+    }, {
+      "id" : "_2HNcAh81Ee2eg5xiuGZRqA",
+      "name" : "mail_Sendername"
+    }, {
+      "id" : "_2HNcBR81Ee2eg5xiuGZRqA",
+      "name" : "mail_SMTP_Host"
+    }, {
+      "id" : "_2HNcBh81Ee2eg5xiuGZRqA",
+      "name" : "mail_SMTP_Port"
+    }, {
+      "id" : "_2HNcAx81Ee2eg5xiuGZRqA",
+      "name" : "mail_Subject"
+    }, {
+      "id" : "_2HNcAR81Ee2eg5xiuGZRqA",
+      "name" : "mail_To"
+    }, {
+      "id" : "_2HNcBx81Ee2eg5xiuGZRqA",
+      "name" : "mail_User"
+    } ]
+  } ]
+}

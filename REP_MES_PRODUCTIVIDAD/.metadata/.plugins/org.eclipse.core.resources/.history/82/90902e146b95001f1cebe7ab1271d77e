@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_W-9zACOkEeutYMi5Po4IXA" id="_eVAD4EcfEe-4GvefH8sZ6w" label="ServicenHistoriaClinica" version="0.2" statusCode="" item="_W-9zAiOkEeutYMi5Po4IXA" displayName="ServicenHistoriaClinica">
+    <author href="../../talend.project#_7DWQIJVqEe-CmJOjYoKjGg"/>
+    <additionalProperties xmi:id="_W_G88COkEeutYMi5Po4IXA" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G88SOkEeutYMi5Po4IXA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G88iOkEeutYMi5Po4IXA" key="created_date" value="2024-07-21T00:09:57.672-0500"/>
+    <additionalProperties xmi:id="_W_G88yOkEeutYMi5Po4IXA" key="modified_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_W_G89COkEeutYMi5Po4IXA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_W_G89SOkEeutYMi5Po4IXA" key="modified_date" value="2024-07-21T21:42:43.120-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_FCsOIJVrEe-CmJOjYoKjGg" path="Servicio" deleted="true"/>
+  <TalendProperties:ProcessItem xmi:id="_W-9zAiOkEeutYMi5Po4IXA" property="_W-9zACOkEeutYMi5Po4IXA" state="_FCsOIJVrEe-CmJOjYoKjGg">
+    <process href="ServicenHistoriaClinica_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

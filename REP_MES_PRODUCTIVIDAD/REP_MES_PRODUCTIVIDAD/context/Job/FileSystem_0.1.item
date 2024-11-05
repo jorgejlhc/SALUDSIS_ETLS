@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_2ILFUR81Ee2eg5xiuGZRqA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_2ILFUh81Ee2eg5xiuGZRqA" comment="" name="fileSystem_Path" prompt="fileSystem_Path?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2ILFUx81Ee2eg5xiuGZRqA" comment="" name="fileSystem_Area" prompt="fileSystem_Area?" promptNeeded="false" type="id_String" value="Tmp"/>
+  <contextParameter xmi:id="_2ILFVB81Ee2eg5xiuGZRqA" comment="" name="archivoSalida" prompt="archivoSalida?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_2ILFVR81Ee2eg5xiuGZRqA" comment="" name="fileSystem_Report" prompt="fileSystem_Report?" promptNeeded="false" type="id_String" value="ReportesAps"/>
+</talendfile:ContextType>
